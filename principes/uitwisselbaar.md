@@ -1,16 +1,15 @@
-Toegankelijk
-============
+Uitwisselbaar
+=============
 
-Zodra de gebruiker de benodigde gegevens heeft gevonden, moet hij/zij weten hoe
-deze kunnen worden geraadpleegd, mogelijk inclusief authenticatie en
-autorisatie.
+De gegevens moeten meestal worden geïntegreerd met andere gegevens. Bovendien
+moeten de gegevens samenwerken met applicaties of workflows voor analyse, opslag
+en verwerking.
 
-(Meta)gegevens kunnen worden opgehaald door hun identifier met behulp van een gestandaardiseerd communicatieprotocol
---------------------------------------------------------------------------------------------------------------------
+(Meta)data gebruiken een formele, toegankelijke, gedeelde en breed toepasbare taal voor kennisrepresentatie.
+------------------------------------------------------------------------------------------------------------
 
-### Het protocol is open, gratis en universeel toepasbaar
+(Meta)data gebruiken vocabulaires die FAIR-principes volgen
+-----------------------------------------------------------
 
-### Het protocol maakt een authenticatie- en autorisatieprocedure mogelijk, waar nodig
-
-Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn
-----------------------------------------------------------------------
+(Meta)data bevatten gekwalificeerde verwijzingen naar andere (meta)data
+-----------------------------------------------------------------------
