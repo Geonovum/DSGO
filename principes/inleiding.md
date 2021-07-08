@@ -109,8 +109,13 @@ vaststelling/besluitvorming in begeleidings-/stuurgroep aan de opdrachtgever op.
 
 ### FAIR principes
 
-We nemen de FAIR principes als basis voor het formuleren van de principes voor
-het DSGO.
+Op eenduidige manieren samenwerken om informatie zo beter te kunnen beveiligen,
+makkelijker uit te wisselen en toegankelijker te maken voor iedereen. Dat is hoe
+open standaarden de samenwerking bevorderen tussen de overheid, burger en het
+bedrijfsleven. De FAIR Principes zijn een hulpmiddel daarin: de FAIR Principes
+dwingen geen standaarden af, maar moedigen communities aan om in
+FAIR-implementatieprofielen (FIP) relevante standaarden vast te leggen. We nemen
+de FAIR principes als basis voor het formuleren van de principes voor het DSGO.
 
 <https://www.go-fair.org/fair-principles/>
 
