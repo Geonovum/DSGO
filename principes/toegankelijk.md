@@ -14,3 +14,4 @@ autorisatie.
 
 Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn
 ----------------------------------------------------------------------
+De UOI is de sleutel naar het Dossier van een Object dat middels de UOI wordt geidentificeerd.
