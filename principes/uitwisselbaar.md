@@ -38,8 +38,11 @@ uitgangspunten, randvoorwaarden en eisen.
 
 -   Gebruik van [verplichte open standaarden van de 'Pas toe of leg uit' van het
     Forum Standaardisatie](https://forumstandaardisatie.nl/open-standaarden).
-
--   ..
+    
+    - DSGO en geobasisregistraties moeten met elkaar overeenstemmen. Doen ze dan niet, dan worden processen opgestart om die bij te werken volgende de geldende regelgeving. Daarbij geldt dat:
+-   architecten en aannemers gebruiken de informatie uit de basisregistraties als uitgangspunt voor hun ontwerp en doen waar nodig meldingen waar de info niet juist is.
+-   Bevoegd gezag controleert na oplevering de maatvoering met de werkelijkheid en zorgt voor aanpassing van de geobasisregistraties, op basis van de informatie uit het gebouwdossier. Daarbij gebruiken alle partijen de voorzieningen van de Geobasisregistraties.
+-   
 
 (Meta)data gebruiken een formele, toegankelijke, gedeelde en breed toepasbare taal voor kennisrepresentatie.
 ------------------------------------------------------------------------------------------------------------
@@ -70,6 +73,7 @@ standaarden](https://forumstandaardisatie.nl/open-standaarden): de verplichte
 
 **Domein overstijgende uitwisseling van data.**
 als verschillende domeinen data willen uitwisselen, dan is er vaak sprake van verschil in definities en begrippen. Dit verschil in semantiek kan overbrugt worden door gebruik te maken van een bovenliggende identifier die in beide domeinen wordt toegepast. De UOI biedt in dat geval uitkomst om data van het ene domein te combineren met data van het andere domein.
+Voorbeelden van overstijgende domeinen zijn: het geodomein waaronder de geo-basisregistraties, het energiedomein, ....
 
 
 
