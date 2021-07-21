@@ -33,6 +33,13 @@ uitgangspunten, randvoorwaarden en eisen.
 (Meta)data zijn rijkelijk beschreven met groot aantal nauwkeurige en relevante attributen
 -----------------------------------------------------------------------------------------
 
+Sluit aan op de Wet Kwaliteitsborging voor het Bouwen. Onderdeel van deze wet is
+het *dossier bevoegd gezag*. Tijdens de levenscyclus wordt alle relevante
+informatie van een bouwwerk opgeslagen in dit digitale dossier. Dit digitale
+bouwdossier bevat informatie over het gerealiseerde bouwwerk en de verklaring
+van de kwaliteitsborger dat het gerealiseerde bouwwerk voldoet aan de
+bouwtechnische vereisten van het Bouwbesluit.
+
 ### (Meta)data worden vrijgegeven met een duidelijke en toegankelijke datagebruikslicentie
 
 ### (Meta)data worden geassocieerd met hun herkomst

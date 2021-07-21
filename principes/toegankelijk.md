@@ -1,9 +1,9 @@
 Toegankelijk
 ============
 
-Zodra de gebruiker de benodigde gegevens heeft gevonden, moet hij/zij weten hoe
-deze kunnen worden geraadpleegd, mogelijk inclusief authenticatie en
-autorisatie.
+Zodra de gebruiker de benodigde gegevens heeft gevonden bih een of meerdere
+databronnen, moet hij/zij weten hoe deze kunnen worden geraadpleegd en kan
+worden toegepast, mogelijk inclusief authenticatie en autorisatie.
 
 Samenvatting
 ------------
@@ -31,6 +31,14 @@ uitgangspunten, randvoorwaarden en eisen.
 
 (Meta)gegevens kunnen worden opgehaald door hun identifier met behulp van een gestandaardiseerd communicatieprotocol
 --------------------------------------------------------------------------------------------------------------------
+
+*Samenbrengen van gegevens vanuit basisregistraties als BGT en BAG. Ook Digitaal
+Stelsel Omgevingswet voor de ruimtelijke besluiten als een omgevingsplan (nu
+conform de Wro: bestemmingsplan).*
+
+*UOI*
+
+*Verschil tussen diensten en projectdossier beschrijven*
 
 ### Het protocol is open, gratis en universeel toepasbaar
 

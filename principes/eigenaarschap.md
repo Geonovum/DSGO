@@ -1,7 +1,9 @@
 Eigenaarschap
 =============
 
-Eigenaarschap is het ontfermen over en verantwoordelijkheid nemen voor
+Eigenaarschap is het ontfermen over en verantwoordelijkheid nemen voor. In dit
+adviesrapport richten we ons op eigenaarschap van Standaarden, data en
+voorziening met als doel het belang van eigenaarschap te belichten.
 
 Samenvatting
 ------------
