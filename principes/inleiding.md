@@ -59,7 +59,8 @@ Maar ook robuustheid, toekomstvastheid en stapsgewijze groei van het DSGO.
 
 Om dit doel te bereiken maken we in het adviesrapport onderscheid naar
 uitgangspunten, randvoorwaarden en eisen. Bij elk van de richtinggevende
-principes zorgt het publiek belang de basis voor de verbinding en de samenhang.
+principes zorgt het publiek belang alsmede de publieke waarden de basis voor de
+verbinding en de samenhang.
 
 Aanpak
 ------
@@ -112,12 +113,12 @@ vaststelling/besluitvorming in begeleidings-/stuurgroep aan de opdrachtgever op.
 Op eenduidige manieren samenwerken om informatie zo beter te kunnen beveiligen,
 makkelijker uit te wisselen en toegankelijker te maken voor iedereen. Dat is hoe
 open standaarden de samenwerking bevorderen tussen de overheid, burger en het
-bedrijfsleven. De FAIR Principes zijn een hulpmiddel daarin: de FAIR Principes
-dwingen geen standaarden af, maar moedigen communities aan om in
-FAIR-implementatieprofielen (FIP) relevante standaarden vast te leggen. We nemen
-de FAIR principes als basis voor het formuleren van de principes voor het DSGO.
-
-<https://www.go-fair.org/fair-principles/>
+bedrijfsleven. De FAIR Principes zijn een hulpmiddel daarin: het doel van de
+principes is het hergebruik van waardevolle data mogelijk maken. De FAIR
+Principes dwingen geen standaarden af, maar moedigen communities aan om om data
+en diensten vindbaar, toegankelijk, interoperabel en herbruikbaar te maken. In
+lijn met het doel van dit adviesrapport nemen we de FAIR principes als basis
+voor het formuleren van de principes voor het DSGO.
 
 **Findable (vindbaar)** De eerste stap bij het (her)gebruiken van data is om de
 data te vinden. Metadata en data moeten gemakkelijk te vinden zijn voor zowel
