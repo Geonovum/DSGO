@@ -5,6 +5,30 @@ Zodra de gebruiker de benodigde gegevens heeft gevonden, moet hij/zij weten hoe
 deze kunnen worden geraadpleegd, mogelijk inclusief authenticatie en
 autorisatie.
 
+Samenvatting
+------------
+
+In het kader van toegankelijkheid van de data adviseren we de volgende
+uitgangspunten, randvoorwaarden en eisen.
+
+**Uitgangspunten**
+
+-   ..
+
+-   ..
+
+**Randvoorwaarden**
+
+-   ..
+
+-   ..
+
+**Eisen**
+
+-   ..
+
+-   ..
+
 (Meta)gegevens kunnen worden opgehaald door hun identifier met behulp van een gestandaardiseerd communicatieprotocol
 --------------------------------------------------------------------------------------------------------------------
 
@@ -14,4 +38,6 @@ autorisatie.
 
 Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn
 ----------------------------------------------------------------------
-De UOI is de sleutel naar het Dossier van een Object dat middels de UOI wordt geidentificeerd.
+
+De UOI is de sleutel naar het Dossier van een Object dat middels de UOI wordt
+geidentificeerd.

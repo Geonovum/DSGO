@@ -16,6 +16,30 @@ misbruikt worden of wordt verkeerde data overgenomen.
 Gebruik van verplichte standaarden van de 'Pas toe of leg uit' van het Forum
 Standaardisatie.
 
+Samenvatting
+------------
+
+In het kader van uitwisselbaarheid van de data adviseren we de volgende
+uitgangspunten, randvoorwaarden en eisen.
+
+**Uitgangspunten**
+
+-   ..
+
+-   ..
+
+**Randvoorwaarden**
+
+-   ..
+
+-   ..
+
+**Eisen**
+
+-   ..
+
+-   ..
+
 (Meta)data gebruiken een formele, toegankelijke, gedeelde en breed toepasbare taal voor kennisrepresentatie.
 ------------------------------------------------------------------------------------------------------------
 

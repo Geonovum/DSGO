@@ -3,6 +3,30 @@ Eigenaarschap
 
 Eigenaarschap is het ontfermen over en verantwoordelijkheid nemen voor
 
+Samenvatting
+------------
+
+In het kader van eigenaarschap adviseren we de volgende uitgangspunten,
+randvoorwaarden en eisen.
+
+**Uitgangspunten**
+
+-   ..
+
+-   ..
+
+**Randvoorwaarden**
+
+-   ..
+
+-   ..
+
+**Eisen**
+
+-   ..
+
+-   ..
+
 Eigenaarschap van standaarden
 -----------------------------
 
