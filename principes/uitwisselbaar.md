@@ -67,3 +67,9 @@ standaarden](https://forumstandaardisatie.nl/open-standaarden): de verplichte
 
 (Meta)data bevatten gekwalificeerde verwijzingen naar andere (meta)data
 -----------------------------------------------------------------------
+
+**Domein overstijgende uitwisseling van data.**
+als verschillende domeinen data willen uitwisselen, dan is er vaak sprake van verschil in definities en begrippen. Dit verschil in semantiek kan overbrugt worden door gebruik te maken van een bovenliggende identifier die in beide domeinen wordt toegepast. De UOI biedt in dat geval uitkomst om data van het ene domein te combineren met data van het andere domein.
+
+
+
