@@ -30,6 +30,10 @@ uitgangspunten, randvoorwaarden en eisen.
 
 -   ..
 
+Bekendheid.
+
+Vindbaar begint met bekendheid om te weten dat data gevonden kan worden. Hiervoor is  communicatie over het DSGO uitgangspunt en een centraal loket voor vragen. 
+
 (Meta)data krijgen een wereldwijd unieke en persistente identifier
 ------------------------------------------------------------------
 
