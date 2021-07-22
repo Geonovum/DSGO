@@ -5,11 +5,11 @@ Digitaal Stelsel Gebouwde Omgeving
 ----------------------------------
 
 In 2019 hebben 37 organisaties, waaronder Geonovum, zich met de ondertekening
-achter de digitaliseringsdeal (digiGO) geschaard. Hiermee hebben overheid, de
+achter de digitaliseringsdeal (digiGO) geschaard. Hiermee hebben overheid, opdrachtgevers, de
 brancheverenigingen van de bouwsector, de installatiesector en de toeleverende
-industrie afgesproken dat zij samen inzetten op: deelbare, herbruikbare en
+industrie en kennisinstellingen afgesproken dat zij samen inzetten op: deelbare, herbruikbare en
 toegankelijke informatie, nieuwe functies en geavanceerde werkwijzen en
-innovatie.
+innovatie voor de gebouwde omgeving.
 
 Om waardevolle toepassingen van data mogelijk te maken, moet data beter
 beschikbaar en toegankelijk worden gemaakt. Dit vergt sector brede afspraken
@@ -28,7 +28,7 @@ stikstofreductie daarmee mogelijk.
 De overheid, in de rol van het ministerie van Binnenlandse Zaken en
 Koninkrijksrelaties (BZK), moet hier een rol als aanjager in nemen wil het DSGO
 een kans van slagen hebben. Daarnaast zal de overheid, in haar rol van
-vastgoedeigenaar (o.a. Rijksvastgoedbedrijf), opdrachtgever (o.a. provincies),
+opdrachtgever (o.a. Rijksvastgoedbedrijf, provincies),
 in haar rol van Bevoegd Gezag en vanuit haar verantwoordelijkheid voor het
 klimaatakkoord hier zelf ook van profiteren.
 
@@ -140,7 +140,7 @@ Deze principes zijn:
 van het DSGO als de uikomst ervan. Ontwerpproces: namelijk dat dit in een open
 en transparant proces ontwikkeld wordt, waarbij alle belanghebbenden inzicht
 krijgen en invloed hebben op de ontwikkeling. Uitkomsten: Data, algoritmen en
-technologie zijn navolgbaar, herleidbaar en begrijpelijk zijn. Voor de
+technologie zijn navolgbaar, herleidbaar en begrijpelijk. Voor de
 onderliggende ingrediënten geldt dat ze openbaar, vindbaar, toegankelijk,
 uitwisselbaar, herbruikbaar en controleerbaar moeten zijn (FAIR ).
 
