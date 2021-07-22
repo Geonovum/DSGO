@@ -36,6 +36,8 @@ uitgangspunten, randvoorwaarden en eisen.
 
 **Eisen**
 
+-   Gebruik van open standaarden en richtlijnen in de sector die er al zijn, benutting van wat er al is inclusief bijbehorende kennis en expertise. Het betreft open standaarden en richtlijnen in het palet van het BIM Loket en de broedplaats van het BIM Loket en van aanpalende kennisinstellingen zoals Ketenstandaard Bouw en Techniek. Tevens als uitgangspunt het kader vanuit de Roadmap standaarden die momenteel als versnellingsproject DigiGO geupdated wordt.
+
 -   Gebruik van [verplichte open standaarden van de 'Pas toe of leg uit' van het
     Forum Standaardisatie](https://forumstandaardisatie.nl/open-standaarden).
     
