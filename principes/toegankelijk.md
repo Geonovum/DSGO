@@ -49,3 +49,11 @@ Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn
 
 De UOI is de sleutel naar het Dossier van een Object dat middels de UOI wordt
 geidentificeerd.
+
+In het stelsel van geobasisregistraties worden gegevens niet
+
+Data kan niet meer beschikbaar zijn om verschillende redenen:
+
+-   Gegevens zijn verwijderd.
+
+-   Gebruiker is niet meer geautoriseerd.

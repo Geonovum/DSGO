@@ -32,10 +32,16 @@ uitgangspunten, randvoorwaarden en eisen.
 
 Bekendheid.
 
-Vindbaar begint met bekendheid om te weten dat data gevonden kan worden. Hiervoor is  communicatie over het DSGO uitgangspunt en een centraal loket voor vragen. 
+Vindbaar begint met bekendheid om te weten dat data gevonden kan worden.
+Hiervoor is communicatie over het DSGO uitgangspunt en een centraal loket voor
+vragen.
 
 (Meta)data krijgen een wereldwijd unieke en persistente identifier
 ------------------------------------------------------------------
+
+N.B. UOI zou moeten zijn UGI: Unieke Gegeven Identificatie, gegeven eis over
+‘Metadata bevatten duidelijk en expliciet de identifier van de gegeven(s) die ze
+beschrijven’.
 
 Het [Unieke Object Identificator
 (UOI)](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie)
@@ -65,8 +71,23 @@ rapport is er een concept onderzoeksrapport over UOI.*
 Gegevens worden beschreven met uitgebreide metadata
 ---------------------------------------------------
 
+Van elk gegeven in het DSGO is meta-informatie over onder meer de herkomst,
+kwaliteit en gebruik (licentie + toepassing) beschikbaar.
+
+Aansluiten bij (inter)nationale standaarden voor metadata
+
 Metadata bevatten duidelijk en expliciet de identifier van de gegevens die ze beschrijven
 -----------------------------------------------------------------------------------------
 
+Gegevens als zijnde dataset, of
+
+Metadata is beschikbaar op het niveau van data en dataset.
+
+Metadata wordt op
+
 (Meta)data worden geregistreerd of geïndexeerd in een doorzoekbare bron
 -----------------------------------------------------------------------
+
+Metadata-register ala NGR?
+
+NORA basisprincipes toepassen?
