@@ -147,7 +147,7 @@ uitwisselbaar, herbruikbaar en controleerbaar moeten zijn (FAIR ).
 2. Inclusief betrekken van alle belanghebbenden in de processen die ondersteund
 worden door het DSGO, met bijzondere aandacht voor de positie van burgers.
 
-3. Rechtvaardig ontwerpen en toepassen van de spelregels voor alle betrokkenen.
+3. Rechtvaardig ontwerpen en toepassen van de spelregels voor alle belanghebbenden, zodat recht gedaan wordt aan hun belang.
 
 4. Doelgerichtheid: doorleven, beoordelen en waarderen van de toepasbaarheid en
 doeltreffendheid van het DSGO, de onderliggende (nieuwe) data, algoritmen en
@@ -165,7 +165,7 @@ gebruikte data en algoritmen (soevereiniteit).
 
 8. Informatieveiligheid: Voor het DSGO is het belangrijk dat traceerbaar is van
 wie gegevens afkomstig zijn, of de bron ze gewijzigd of verrijkt heeft
-(transparantie provenance) en dat ze tussen creatie en uitlevering niet
+(transparantie en provenance) en dat ze tussen creatie en uitlevering niet
 gemanipuleerd zijn (integriteit). Voor alle belanghebbenden is het essentieel
 dat data juist, volledig en actueel zijn.
 
