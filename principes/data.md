@@ -3,6 +3,11 @@ Focus: uitwisseling van data(sets) met DSGO centraal.
 Data en datasets
 ----------------
 
+Definitie:
+Data is een representatie van observaties, objecten of andere entiteiten en refereren naar iets dat is verzameld, geobserveerd, gegenereerd of afgeleid en gebruikt als een basis om te redeneren, discussieren of calculeren. Data kan gestructureerd of ongestructureerd zijn en kan worden gerepresenteerd in kwantitatieve, kwalitatieve  of fysieke vormen.
+
+Een dataset is een te identificeren verzameling van data die als een geheel kan worden verwerkt, bewerkt en gepubliceerd door een enkel subject.
+
 Om data (gegevens) of datasets (gegevensets) met / binnen het DSGO uit te
 wisselen zijn afspraken nodig over de vindbaarheid, toegankelijkheid,
 herbruikbaarheid en uitwisselbaarheid.
