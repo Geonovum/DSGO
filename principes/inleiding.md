@@ -133,7 +133,7 @@ autonomie en veiligheid. We vertalen deze waarden in een aantal ontwerpprincipes
 die leidend zullen zijn voor het DSGO, zowel voor het ontwikkelen van het DSGO,
 als ook voor het gebruik, onderhoud en de governance van het DSGO.
 
-Deze principes zijn:
+Deze ontwerpprincipes zijn:
 
 1.  *Radicaal open en transparent*: dit principe slaat zowel op de ontwikkeling
     van het DSGO als de uikomst ervan. Ontwerpproces: namelijk dat dit in een
