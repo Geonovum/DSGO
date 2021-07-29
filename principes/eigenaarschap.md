@@ -107,7 +107,8 @@ ontsluit vanuit zijn eigen bron. Alternatief is platform per stakeholder, dus
 knooppunt architecten, knooppunt vergunningen, knooppunt geobasisgegevens,
 knooppunt energielabels, i.p.v. per actor een service.
 
-Uitgangspunt: DSGO is een verbindende service, integrator, koppeling van
-API’s/LD-services.
+Uitgangspunt: DSGO is een enterprise service bus die de communicatie tussen
+aanbieders en aanvragers van bouw-gerelateerde data versimpelt en
+standaardiseert.
 
 Data moet stromen. Als stroom uit het stopcontact
