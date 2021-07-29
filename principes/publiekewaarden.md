@@ -8,13 +8,13 @@ Samenvatting
 
 **Uitgangspunten**
 
--   (meta)data(set) bij de bron laten..
+-   ..
 
 -   ..
 
 **Randvoorwaarden**
 
--   (meta)data(sets) als een service opvraagbaar
+-   ..
 
 -   ..
 
@@ -22,7 +22,7 @@ Samenvatting
 
 **Eisen**
 
--   API op (meta)data(set) services
+-   ..
 
 -   ..
 
