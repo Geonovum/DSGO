@@ -88,6 +88,8 @@ Metadata wordt op
 (Meta)data worden geregistreerd of geïndexeerd in een doorzoekbare bron
 -----------------------------------------------------------------------
 
-Metadata-register ala NGR?
+Register voor datasets van het DSGO in een metadata-register ala NGR?
+
+Register voor data
 
 NORA basisprincipes toepassen?
