@@ -5,11 +5,11 @@ Digitaal Stelsel Gebouwde Omgeving
 ----------------------------------
 
 In 2019 hebben 37 organisaties, waaronder Geonovum, zich met de ondertekening
-achter de digitaliseringsdeal (digiGO) geschaard. Hiermee hebben overheid, opdrachtgevers, de
-brancheverenigingen van de bouwsector, de installatiesector en de toeleverende
-industrie en kennisinstellingen afgesproken dat zij samen inzetten op: deelbare, herbruikbare en
-toegankelijke informatie, nieuwe functies en geavanceerde werkwijzen en
-innovatie voor de gebouwde omgeving.
+achter de digitaliseringsdeal (digiGO) geschaard. Hiermee hebben overheid,
+opdrachtgevers, de brancheverenigingen van de bouwsector, de installatiesector
+en de toeleverende industrie en kennisinstellingen afgesproken dat zij samen
+inzetten op: deelbare, herbruikbare en toegankelijke informatie, nieuwe functies
+en geavanceerde werkwijzen en innovatie voor de gebouwde omgeving.
 
 Om waardevolle toepassingen van data mogelijk te maken, moet data beter
 beschikbaar en toegankelijk worden gemaakt. Dit vergt sector brede afspraken
@@ -28,19 +28,18 @@ stikstofreductie daarmee mogelijk.
 De overheid, in de rol van het ministerie van Binnenlandse Zaken en
 Koninkrijksrelaties (BZK), moet hier een rol als aanjager in nemen wil het DSGO
 een kans van slagen hebben. Daarnaast zal de overheid, in haar rol van
-opdrachtgever (o.a. Rijksvastgoedbedrijf, provincies),
-in haar rol van Bevoegd Gezag en vanuit haar verantwoordelijkheid voor het
-klimaatakkoord hier zelf ook van profiteren.
-
-### Verbinding en in samenhang
+opdrachtgever (o.a. Rijksvastgoedbedrijf, provincies), in haar rol van Bevoegd
+Gezag en vanuit haar verantwoordelijkheid voor het klimaatakkoord hier zelf ook
+van profiteren.
 
 Met het opstellen van richtinggevende principes, in aanvulling op 34 ‘use
-cases’, gegroepeerd in zes thema’s, wordt er input geleverd voor het ontwerp van
-een Digitaal Stelsel voor de Gebouwde Omgeving. Deze principes gecreëerd in
-samenwerking met de onderdelen van BZK (Bouwwijzer) dragen bij aan het
-co-creatieproces om tot DSGO te komen en de sector brede afspraken over
-uitwisseling, eigenaarschap en organisatie van data met als resultaat veilige,
-betrouwbare en gecontroleerde toegang tot data in de bouwsector.
+cases’, gegroepeerd in zes thema’s, wordt er met dit adviesrapport input
+geleverd voor het ontwerp van een Digitaal Stelsel voor de Gebouwde Omgeving.
+Deze principes gecreëerd in samenwerking met de onderdelen van BZK (Bouwwijzer)
+dragen bij aan het co-creatieproces om tot DSGO te komen en de sector brede
+afspraken over uitwisseling, eigenaarschap en organisatie van data met als
+resultaat veilige, betrouwbare en gecontroleerde toegang tot data in de
+bouwsector: in verbinding en in samenhang.
 
 Doel en resultaat
 -----------------
@@ -136,38 +135,39 @@ als ook voor het gebruik, onderhoud en de governance van het DSGO.
 
 Deze principes zijn:
 
-1. *Radicaal open en transparant* Dit principe slaat zowel op de ontwikkeling
-van het DSGO als de uikomst ervan. Ontwerpproces: namelijk dat dit in een open
-en transparant proces ontwikkeld wordt, waarbij alle belanghebbenden inzicht
-krijgen en invloed hebben op de ontwikkeling. Uitkomsten: Data, algoritmen en
-technologie zijn navolgbaar, herleidbaar en begrijpelijk. Voor de
-onderliggende ingrediënten geldt dat ze openbaar, vindbaar, toegankelijk,
-uitwisselbaar, herbruikbaar en controleerbaar moeten zijn (FAIR ).
+1.  *Radicaal open en transparant* Dit principe slaat zowel op de ontwikkeling
+    van het DSGO als de uikomst ervan. Ontwerpproces: namelijk dat dit in een
+    open en transparant proces ontwikkeld wordt, waarbij alle belanghebbenden
+    inzicht krijgen en invloed hebben op de ontwikkeling. Uitkomsten: Data,
+    algoritmen en technologie zijn navolgbaar, herleidbaar en begrijpelijk. Voor
+    de onderliggende ingrediënten geldt dat ze openbaar, vindbaar, toegankelijk,
+    uitwisselbaar, herbruikbaar en controleerbaar moeten zijn (FAIR ).
 
-2. Inclusief betrekken van alle belanghebbenden in de processen die ondersteund
-worden door het DSGO, met bijzondere aandacht voor de positie van burgers.
+2.  Inclusief betrekken van alle belanghebbenden in de processen die ondersteund
+    worden door het DSGO, met bijzondere aandacht voor de positie van burgers.
 
-3. Rechtvaardig ontwerpen en toepassen van de spelregels voor alle belanghebbenden, zodat recht gedaan wordt aan hun belang.
+3.  Rechtvaardig ontwerpen en toepassen van de spelregels voor alle
+    belanghebbenden, zodat recht gedaan wordt aan hun belang.
 
-4. Doelgerichtheid: doorleven, beoordelen en waarderen van de toepasbaarheid en
-doeltreffendheid van het DSGO, de onderliggende (nieuwe) data, algoritmen en
-gebruikte technologie, voor alle processen die het DSGO ondersteunt.
+4.  Doelgerichtheid: doorleven, beoordelen en waarderen van de toepasbaarheid en
+    doeltreffendheid van het DSGO, de onderliggende (nieuwe) data, algoritmen en
+    gebruikte technologie, voor alle processen die het DSGO ondersteunt.
 
-5. Betrokkenheid: Inrichten en operationaliseren van een werkwijze waarbij alle
-belanghebbenden, inclusief het ‘publiek belang’, betrokken worden inclusief de
-naleving daarvan.
+5.  Betrokkenheid: Inrichten en operationaliseren van een werkwijze waarbij alle
+    belanghebbenden, inclusief het ‘publiek belang’, betrokken worden inclusief
+    de naleving daarvan.
 
-6. Controleerbaarheid: Organiseren van menselijke controle en interventiemacht
-in geautomatiseerde beeld-, oordeels- en besluitvormingsprocessen.
+6.  Controleerbaarheid: Organiseren van menselijke controle en interventiemacht
+    in geautomatiseerde beeld-, oordeels- en besluitvormingsprocessen.
 
-7. Soevereiniteit: Alloceren van eigenaarschap, zeggenschap en controle over
-gebruikte data en algoritmen (soevereiniteit).
+7.  Soevereiniteit: Alloceren van eigenaarschap, zeggenschap en controle over
+    gebruikte data en algoritmen (soevereiniteit).
 
-8. Informatieveiligheid: Voor het DSGO is het belangrijk dat traceerbaar is van
-wie gegevens afkomstig zijn, of de bron ze gewijzigd of verrijkt heeft
-(transparantie en provenance) en dat ze tussen creatie en uitlevering niet
-gemanipuleerd zijn (integriteit). Voor alle belanghebbenden is het essentieel
-dat data juist, volledig en actueel zijn.
+8.  Informatieveiligheid: Voor het DSGO is het belangrijk dat traceerbaar is van
+    wie gegevens afkomstig zijn, of de bron ze gewijzigd of verrijkt heeft
+    (transparantie en provenance) en dat ze tussen creatie en uitlevering niet
+    gemanipuleerd zijn (integriteit). Voor alle belanghebbenden is het
+    essentieel dat data juist, volledig en actueel zijn.
 
 ### FAIR principes
 
