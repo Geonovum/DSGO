@@ -92,7 +92,9 @@ proces staan het ‘burgerperspectief’ en participatie van betrokkenen. Deze
 participatie goed vormgeven en begeleiden is fundamenteel randvoorwaardelijk en
 tegelijkertijd de grootste uitdaging bij de ontwikkeling van het DSGO.
 
-![ De DSGO use cases](media/ DSGO-use_cases.png)
+![](media/DSGO-use_cases.png)
+
+\*\*Figuur: De DSGO use cases\*\*
 
 De ontwerpprincipes zijn daarom bedoeld als werkwoorden, die de participanten
 tijdens het ontwerpproces doordenken en doorleven, zodat de juiste keuzes
