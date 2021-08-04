@@ -1,7 +1,11 @@
 Publieke waarden
 ----------------
 
-Korte inleiding
+Korte inleading
+
+Verbinding,
+
+Uitwerken van ontwerpprincipes
 
 Samenvatting
 ------------
@@ -70,20 +74,27 @@ door het DSGO ondersteund worden.
 Ontwerpprincipes
 ----------------
 
-xx
+Spelregels gebaseerd op publieke waarden die de samenleving reflecteren; Hiermee
+stellen we dat publieke waarden randvoorwaardelijk zijn voor het verantwoord
+organiseren en inzetten van het DSGO. We vertalen de publieke waarden in een
+achttal ontwerpprincipes die leidend zullen zijn voor het DSGO, zowel voor het
+ontwikkelen van het DSGO, als ook voor het gebruik, onderhoud en de governance
+van het DSGO.
 
-### Ontwerpprincipe: Radicaal open en transparant ontwerp proces
+### Radicaal open en transparant ontwerp proces
 
 Het DSGO ontwerpen we op basis van [publieke
 waarden](https://waag.org/sites/waag/files/2020-05/routekaart-digitale-toekomst-v0.3.pdf)
-in samenwerking met alle betrokkenen bij de 34 benoemde use cases (zie DSGO use
-cases). Het DSGO ondersteunt daarmee diverse publieke belangen van verschillende
-actoren. Het ontwerpproces is daarin bepalend. Centraal in dat proces staan het
-‘burgerperspectief’ en participatie van betrokkenen. Deze participatie goed
-vormgeven en begeleiden is fundamenteel randvoorwaardelijk en tegelijkertijd de
-grootste uitdaging bij de ontwikkeling van het DSGO.
+in samenwerking met alle betrokkenen bij de 34 benoemde use cases (zie figuur
+DSGO use cases). Het DSGO ondersteunt daarmee diverse publieke belangen van
+verschillende actoren. Het ontwerpproces is daarin bepalend. Centraal in dat
+proces staan het ‘burgerperspectief’ en participatie van betrokkenen. Deze
+participatie goed vormgeven en begeleiden is fundamenteel randvoorwaardelijk en
+tegelijkertijd de grootste uitdaging bij de ontwikkeling van het DSGO.
 
-![De DSGO use cases](media/DSGO-use_cases.png)
+De DSGO use cases
+
+De DSGO use cases
 
 De ontwerpprincipes zijn daarom bedoeld als werkwoorden, die de participanten
 tijdens het ontwerpproces doordenken en doorleven, zodat de juiste keuzes
@@ -95,30 +106,135 @@ ontwerpprincipes, om concreet te maken wat deze voor een use case betekenen. De
 keuzes die hieruit volgen worden vastgesteld en ingericht, bijgesteld en zo
 lerend ontwikkeld, zodat anderen daarop kunnen voortbouwen.
 
-### xx
+### Radicaal open en transparante uitkomsten
 
-xx
+Data, algoritmen en technologie zijn navolgbaar, herleidbaar en begrijpelijk.
+Binnen de usecases worden data en datasets gevormd, gebruikt, bewerkt,
+doorgegeven. Data(sets) die uitgewisseld worden, daarvan is duidelijk hoe deze
+in de opeenvolgende processtappen zijn ontstaan zodat de oorsprong herleidbaar
+is.
 
-### xx
+Dit principe is van belang om alle partijen in de keten te informeren over de
+herkomst en dus de kwaliteit van de data. Voor het achterhalen van de
+bouwkwaliteit is het bijvoorbeeld voor de gemeente van belang dat alle
+kwaliteitscontroles goed zijn uitgevoerd. Mocht er ergens een probleem mee zijn,
+dan kan altijd teruggezocht worden naar de oorsprong van de kwaliteitscontrole
+en de onderliggende data.
 
-xx
+*Eis*: Usecases leggen voor elke dataset die tussen partijen uitgewisseld wordt,
+wat de oorsprong van deze dataset is en welke bewerkingen deze heeft ondergaan.
 
-### xx
+### Inclusiviteit
 
-xx
+xx Inclusiviteit houdt in dat zorgvuldig omgegaan wordt met de belangen van alle
+belanghebbenden. Het zorgt ervoor dat alle belanghebbenden input kunnen geven.
+Een onafhankelijke voorzitter is daarin een pré. Die zorgt ervoor dat in het
+proces van belangenafweging eventuele tegengestelde belangen en
+minderheidsbelangen meegenomen worden. Voor elke usecase wordt bijvoorbeeld
+nagegaan of alle betrokkenen aan boord zijn of vertegenwoordigd zijn, voor het
+uitwerken van de usecase, met bijzondere aandacht voor de positie van burgers.
 
-### xx
+In het kader van circulariteit en bouwkwaliteit is het bijvoorbeeld van belang
+burgers te betrekken. Zolang hun woning goed functioneert is er niets aan de
+hand. Op het moment dat er duidelijk problemen blijken te zijn met bepaalde
+materialen of producten, dan willen burgers graag weten of deze materialen of
+producten in hun woning verwerkt zijn.
 
-xx
+*Randvoorwaarde*: Maak de ontwikkeling van het DSGO inclusief, zodat de belangen
+van alle stakeholders zorgvuldig aan bod komen bij elke usecase. De inzet van
+een onafhankelijk voorzitter is daarbij een aanrader.
 
-### xx
+### Rechtvaardigheid
 
-xx
+Rechtvaardigheid ziet toe op het eerlijk behandelen van elke belanghebbende. Dat
+houdt in dat de gemaakte afspraken en spelregels eerlijk worden toegepast in
+elke situatie zonder ‘aanziens des persoons’. In de context van het DSGO is
+daarbij een eerlijke en volledige weergave van feiten gebaseerd op data
+essentieel. Op basis van data worden immers besluiten genomen zoals het
+toekennen van een vergunning.
 
-### xx
+In het kader van bouwkwaliteit is het van belang dat alle kwaliteitsinformatie
+over het bouwwerk bekend is en eerlijk wordt weergegeven ook als eventuele
+afkeuringen eerder in de keten zijn ontstaan, zodat de oplevering van het
+bouwwerk goedgekeurd kan worden door de gemeente. Dit is van belang zowel voor
+de gemeente als voor de toekomstig eigenaar en beheerder.
 
-xx
+*Eis*: Ontwerp elke usecase binnen het DSGO rechtvaardig, zodat alle
+belanghebbenden een eerlijke en volledige weergave van de feiten kunnen inzien.
 
-### xx
+### Doelgerichtheid
 
-xx
+Doelgerichtheid ziet toe op het doeltreffend en toepasbaar ontwerpen van het
+DSGO. Voor elke usecase worden data, algoritmen, voorzieningen en technologie
+doelgericht ingezet. De data die wordt vastgelegd en doorgegeven is nodig voor
+het doel en wordt daarom gericht vastgelegd en bewust gebruikt door een andere
+belanghebbende. Dit geldt extra voor privacy-gevoelige informatie.
+
+In het kader van de energietransitie stimuleren is gebruik van gebruiksdata over
+energie mogelijk terug te voeren op het gedrag van de bewoner/ huurder en
+daarmee privacy gevoelig. Deze informatie mag daarom alleen gebruikt worden door
+de bewoner zelf, na zijn toestemming of voor een analyse waarin de gegevens voor
+een wijk verzameld worden, maar niet meer terug te voeren zijn op een adres.
+
+*Eis*: Ontwerp elke usecase binnen het DSGO doelgericht, zodat de uit te
+wisselen data geschikt en voldoende is voor het doel, waarvoor de informatie
+nodig, zonder de informatie voor andere doelen te gebruiken.
+
+### Betrokkenheid
+
+In aanvulling op inclusiviteit (iedereen die er toe doet is betrokken) ziet
+betrokkenheid erop toe dat alle belanghebbenden input geven op de inrichting van
+een usecase, en zijn er ‘checks en balances’ om toe te zien op de naleving van
+de afspraken. Voor het DSGO geldt specifiek dat voor elke afspraak waarin
+informatie wordt vastgelegd en beschikbaar gemaakt, of dit verplicht of
+optioneel is en dat partijen individueel of via hun brancheorganisatie zich
+verplichten daaraan te houden. In deze afspraken kunnen ook overgangstermijnen
+worden vastgelegd.
+
+In het kader van het optimaleren van circulariteit is het bijvoorbeeld van
+belang dat alle toeleveranciers hun productinformatie ter beschikking stellen,
+zodat een compleet beeld wordt verkregen van een gebouw. Het gebouwdossier wordt
+daarmee compleet, waarop in de toekomst zinvolle besluiten mogelijk zijn over
+hergebruik van materialen tijdens de sloop.
+
+*Randvoorwaarde*: Voor elke usecase worden de afspraken met alle betrokkenen
+gemaakt en vastgelegd. Onderdeel van de afspraak is duidelijkheid over het
+verplichtende karakter en de manier waarop toezicht wordt gehouden over de
+naleving ervan.
+
+### Controleerbaarheid 
+
+Dit principe ziet toe op het organiseren van menselijke controle en
+interventiemacht in geautomatiseerde beeld-, oordeels- en
+besluitvormingsprocessen. Naarmate meer en meer informatie geautomatiseerd
+beschikbaar is, kan de menselijke maat over het hoofd gezien worden, of
+belangrijke details vergeten worden.
+
+In het kader van het optimaliseren van logistieke processen in de bouw is het
+bijvoorbeeld van belang om onverwachte gebeurtenissen, zoals vertragingen in
+productleveringen, op te vangen en daarom de inzet van specifieke kraan uit te
+stellen. Voor het checken van de bouwkwaliteit zijn menselijke controles
+noodzakelijk, zowel op de verstrekte gegevens, als op de manier waarop
+kwaliteitscontroles zijn uitgevoerd. Audits zijn een manier om de werking van
+het kwaliteitssysteem van betrokken partijen periodiek te controleren.
+
+*Eis*: ontwerp elke usecase zo dat er kan worden ingegrepen in de
+geautomatiseerde processen.
+
+### Soevereiniteit
+
+Soevereiniteit betekent het recht hebben om te beschikken over iets zonder
+verantwoording aan een ander te hoeven afleggen. Dit principe ziet toe op het
+alloceren van eigenaarschap, zeggenschap controle over en gebruik van data,
+standaarden, algoritmen en voorzieningen. In de context van het DSGO is dan
+duidelijk met welke natuurlijke of rechtspersoon je afspraken moet maken voor
+het delen, manipuleren en hergebruiken van data, standaarden, algoritmen en
+voorzieningen en de daaruit voortvloeiende nieuwe of aangepaste data die
+ontstaat.
+
+*Uitgangspunt*: binnen het DSGO wordt bepaald welke belanghebbende (in
+juridische termen natuurlijke persoon of rechtspersoon) eigenaar is en/of
+zeggenschap en controle uitoefent over en/of gebruik maakt van de data(set),
+standaard, algoritme of voorziening die van belang zijn binnen de usecases. Met
+deze belanghebbenden kunnen vervolgens afspraken worden gemaakt om de data(set),
+standaard, algoritme of voorziening FAIR te kunnen (her)gebruiken.
