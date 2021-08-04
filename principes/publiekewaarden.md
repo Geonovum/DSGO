@@ -92,9 +92,7 @@ proces staan het ‘burgerperspectief’ en participatie van betrokkenen. Deze
 participatie goed vormgeven en begeleiden is fundamenteel randvoorwaardelijk en
 tegelijkertijd de grootste uitdaging bij de ontwikkeling van het DSGO.
 
-De DSGO use cases
-
-De DSGO use cases
+![ De DSGO use cases](media/ DSGO-use_cases.png)
 
 De ontwerpprincipes zijn daarom bedoeld als werkwoorden, die de participanten
 tijdens het ontwerpproces doordenken en doorleven, zodat de juiste keuzes
@@ -202,7 +200,7 @@ gemaakt en vastgelegd. Onderdeel van de afspraak is duidelijkheid over het
 verplichtende karakter en de manier waarop toezicht wordt gehouden over de
 naleving ervan.
 
-### Controleerbaarheid 
+### Controleerbaarheid
 
 Dit principe ziet toe op het organiseren van menselijke controle en
 interventiemacht in geautomatiseerde beeld-, oordeels- en
