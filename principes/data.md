@@ -39,12 +39,28 @@ aanleveren van data of datasets aan het DSGO
 Data is het object dat door het process van plan en vergunningverlening, tot
 realisatie en beheer heengaat.
 
-Een dataset is een te identificeren verzameling van data die als een geheel kan
-worden verwerkt, bewerkt en gepubliceerd door een enkel subject.
-
 Om data (gegevens) of datasets (gegevensets) met / binnen het DSGO uit te
 wisselen zijn afspraken nodig over de vindbaarheid, toegankelijkheid,
 herbruikbaarheid en uitwisselbaarheid.
+
+Een dataset is een te identificeren verzameling van data die als een geheel kan
+worden verwerkt, bewerkt en gepubliceerd door een enkel subject. Dit leidt ertoe
+dat de levenscyclus van de dataset is samen te vatten in vier fasen,
+geillustreerd door figuur ‘Levenscyclus van de dataset’:
+
+1.  Definitie: hoe goed het model of algoritme dat de dataset voortbrengt, is
+    gedefinieerd, ontwikkeld en gevalideerd voor bedoeld gebruik.
+
+2.  Productie: hoe goed het product dat daaruit ontstaat word geproduceerd,
+    geëvalueerd en vrijgegeven.
+
+3.  Beheer: hoe goed de dataset wordt bewaard, voorzien van metadata en
+    toegankelijk gemaakt.
+
+4.  Gebruik: hoe goed de data als service ter beschikking wordt gesteld,
+    ondersteund en hergebruikt.
+
+![Levenscyclus van de dataset](media/Levenscyclus-dataset.png)
 
 Metadata
 --------
