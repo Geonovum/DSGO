@@ -1,34 +1,15 @@
 Data en datasets
 ----------------
 
+Wat bedoelen we met data en met metadata.
+Met voorbeelden.
+
+
 Data is een representatie van observaties, objecten of andere entiteiten en
 refereren naar iets dat is verzameld, geobserveerd, gegenereerd of afgeleid en
 gebruikt als een basis om te redeneren, discussieren of calculeren. Data kan
 gestructureerd of ongestructureerd zijn en kan worden gerepresenteerd in
 kwantitatieve, kwalitatieve of fysieke vormen.
-
-Samenvatting
-------------
-
-**Uitgangspunten**
-
--   (meta)data(set) bij de bron laten..
-
--   ..
-
-**Randvoorwaarden**
-
--   (meta)data(sets) als een service opvraagbaar
-
--   ..
-
--   ..
-
-**Eisen**
-
--   API op (meta)data(set) services
-
--   ..
 
 Data
 ----
@@ -42,6 +23,7 @@ realisatie en beheer heengaat.
 Om data (gegevens) of datasets (gegevensets) met / binnen het DSGO uit te
 wisselen zijn afspraken nodig over de vindbaarheid, toegankelijkheid,
 herbruikbaarheid en uitwisselbaarheid.
+Dat komt overeen met de FAIR-uitgangspunten.
 
 Een dataset is een te identificeren verzameling van data die als een geheel kan
 worden verwerkt, bewerkt en gepubliceerd door een enkel subject. Dit leidt ertoe

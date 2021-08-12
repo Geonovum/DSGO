@@ -8,19 +8,25 @@ In het kader van vindbaarheid, toegankelijkheid, uitwisselbaarheid en
 herbruikbaarheid van de data adviseren we de volgende uitgangspunten,
 randvoorwaarden en eisen.
 
-### Uitgangspunten
+**Uitgangspunten**
 
--   ..
+-   (meta)data(set) bij de bron laten.. (borgt bron)
 
--   ..
+-   metadata is vrij opvraagbaar
 
-### Randvoorwaarden
+-   het schema van de data en de metadata is los beschikbaar en interpreteerbaar
+
+**Randvoorwaarden**
+
+-   (meta)data(sets) als een service opvraagbaar
 
 -   ..
 
 -   ..
 
 ### Eisen
+
+-   API op (meta)data(set) services
 
 -   Gebruik van open standaarden en richtlijnen in de sector die er al zijn,
     benutting van wat er al is inclusief bijbehorende kennis en expertise. Het
