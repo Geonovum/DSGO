@@ -1,7 +1,9 @@
 Data, datasets en metadata
 --------------------------
 
-Voor een digitaal stelsel gebouwde omgeving zijn er drie termen essentieel wanneer we het hebben over *data*.
+De uitwisseling van gegevens staat bij het DSGO centraal.
+Dat uitwisselen kan eenmalig, herhaaldelijk of continu zijn, maar wat bedoelen we hier met gegevens?
+Voor een digitaal stelsel gebouwde omgeving zijn er drie termen essentieel wanneer we het hebben over gegevens of *data*.
 
 <dfn>Data</dfn> zijn die gegevens die over het gebouwde object beschrijven. 
 Dat kan bijvoorbeeld een bouwtekening zijn, een inspectierapport of een rapportage van het energiegebruik.
@@ -11,11 +13,15 @@ Het heeft daarom de voorkeur om zo’n inspectierapport ook als bijv. spreadshee
 Dan kan een computersysteem wel de tabel met gebreken ‘zien’ en interpreteren.
 
 <aside class='def'>
-Data is een representatie van observaties, objecten of andere entiteiten en
-refereren naar iets dat is verzameld, geobserveerd, gegenereerd of afgeleid en
-gebruikt als een basis om te redeneren, discussieren of calculeren. Data kan
-gestructureerd of ongestructureerd zijn en kan worden gerepresenteerd in
-kwantitatieve, kwalitatieve of fysieke vormen.
+Data is een representatie van observaties, objecten of andere entiteiten.
+Data refereert naar iets dat is verzameld, geobserveerd, gegenereerd of afgeleid.
+Data wordt gebruikt als een basis om te redeneren, discussieren of calculeren. 
+
+Data kan gestructureerd of ongestructureerd zijn.
+Data kan worden gerepresenteerd in kwantitatieve, kwalitatieve of fysieke vormen.
+
+Data is het object dat door het process van plan en vergunningverlening, tot
+realisatie en beheer heengaat.
 </aside>
 
 De <dfn>metadata</dfn> helpt mens en computer bij het vinden van de juiste gegevens en bij het juist interpreteren van het document.
@@ -38,10 +44,8 @@ Deze formaten kunnen een interpretatieschema toevoegen aan de data, zodat een co
 
 <aside class="def">
 
-We maken onderscheid tussen data en metadata. Data is de feitelijke realisatie
-van een gegeven. Een dataset is een verzameling van feitelijke realisaties van
-gegevens. Metadata is ook data, maar is data over andere data. Metadata is data
-over onder meer de herkomst, kwaliteit en gebruik van data.
+Metadata zijn gegevens over andere gegevens.
+Metadata zijn gegevens over onder meer de herkomst, kwaliteit en gebruik van data.
 
 </aside>
 
@@ -58,7 +62,12 @@ Uit praktische overwegingen zijn er misschien wel beperkingen.
 
 <aside class="def">
 
-Een dataset is een te identificeren verzameling van data die als een geheel kan
+Om data (gegevens) of datasets (gegevensets) met / binnen het DSGO uit te
+wisselen zijn afspraken nodig over de vindbaarheid, toegankelijkheid,
+herbruikbaarheid en uitwisselbaarheid.
+Dat komt overeen met de FAIR-uitgangspunten.
+
+Een dataset is een identificeerbare verzameling van data die als een geheel kan
 worden verwerkt, bewerkt en gepubliceerd door een enkel subject. Dit leidt ertoe
 dat de levenscyclus van de dataset is samen te vatten in vier fasen,
 geillustreerd door figuur ‘Levenscyclus van de dataset’:
@@ -75,21 +84,6 @@ geillustreerd door figuur ‘Levenscyclus van de dataset’:
 4.  Gebruik: hoe goed de data als service ter beschikking wordt gesteld,
     ondersteund en hergebruikt.
 
-</aside>
-
 ![Levenscyclus van de dataset](media/Levenscyclus-dataset.png)
 
-Data
-----
-
-Focus: uitwisseling van data(sets) met DSGO centraal. Uitwisselen kan zijn het
-aanleveren van data of datasets aan het DSGO
-
-Data is het object dat door het process van plan en vergunningverlening, tot
-realisatie en beheer heengaat.
-
-Om data (gegevens) of datasets (gegevensets) met / binnen het DSGO uit te
-wisselen zijn afspraken nodig over de vindbaarheid, toegankelijkheid,
-herbruikbaarheid en uitwisselbaarheid.
-Dat komt overeen met de FAIR-uitgangspunten.
-
+</aside>
