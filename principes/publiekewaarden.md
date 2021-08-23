@@ -1,14 +1,15 @@
 Publieke waarden
 ----------------
 
-Korte inleading
-
-Verbinding,
-
-Uitwerken van ontwerpprincipes
+Korte inleading, Verbinding, Uitwerken van ontwerpprincipes
 
 Samenvatting
 ------------
+
+Het publiek belang en de publieke waarden zijn de basisprincipes voor
+sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data.
+De volgende uitgangspunten, randvoorwaarden en eisen komen voort uit de
+ontwerpprincipes.
 
 **Uitgangspunten**
 
@@ -61,9 +62,10 @@ en maakt onder andere stikstofreductie daarmee mogelijk.
 
 Veel partijen zijn daarin een schakel om tot het gewenste resultaat te komen en
 al die partijen wisselen data uit om dat te bereiken. Het is daarom van belang
-dat he DSGO de publieke waarden van de samenleving reflecteert, en dat alle
-betrokkenen zich kunnen vinden in de afspraken omdat het hun belangen voldoende
-waarborgt.
+dat he DSGO de [publieke
+waarden](https://waag.org/sites/waag/files/2020-05/routekaart-digitale-toekomst-v0.3.pdf)
+van de samenleving reflecteert, en dat alle betrokkenen zich kunnen vinden in de
+afspraken omdat het hun belangen voldoende waarborgt.
 
 Uitgangspunt: Het DSGO baseren we op publieke waarden die de samenleving
 reflecteren. Deze publieke waarden worden concreet in acht ontwerpprincipes. In
@@ -83,16 +85,13 @@ van het DSGO.
 
 ### Radicaal open en transparant ontwerp proces
 
-Het DSGO ontwerpen we op basis van [publieke
-waarden](https://waag.org/sites/waag/files/2020-05/routekaart-digitale-toekomst-v0.3.pdf)
-in samenwerking met alle betrokkenen bij de 34 benoemde use cases (zie figuur
-DSGO use cases). Het DSGO ondersteunt daarmee diverse publieke belangen van
-verschillende actoren. Het ontwerpproces is daarin bepalend. Centraal in dat
-proces staan het ‘burgerperspectief’ en participatie van betrokkenen. Deze
-participatie goed vormgeven en begeleiden is fundamenteel randvoorwaardelijk en
-tegelijkertijd de grootste uitdaging bij de ontwikkeling van het DSGO.
-
-![](media/DSGO-use_cases.png)
+Het DSGO ontwerpen we op basis van publieke waarden in samenwerking met alle
+betrokkenen bij de 34 benoemde use cases (zie figuur DSGO use cases). Het DSGO
+ondersteunt daarmee diverse publieke belangen van verschillende actoren. Het
+ontwerpproces is daarin bepalend. Centraal in dat proces staan het
+‘burgerperspectief’ en participatie van betrokkenen. Deze participatie goed
+vormgeven en begeleiden is fundamenteel randvoorwaardelijk en tegelijkertijd de
+grootste uitdaging bij de ontwikkeling van het DSGO.
 
 \*\*Figuur: De DSGO use cases\*\*
 

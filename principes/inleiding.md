@@ -12,18 +12,25 @@ inzetten op: deelbare, herbruikbare en toegankelijke informatie, nieuwe functies
 en geavanceerde werkwijzen en innovatie voor de gebouwde omgeving.
 
 Om waardevolle toepassingen van data mogelijk te maken, moet data beter
-beschikbaar en toegankelijk worden gemaakt. Dit vergt sector brede afspraken
-over uitwisseling, eigenaarschap en organisatie van data. Dat is de reden dat
-digiGO het initiatief Digitaal Stelsel Gebouwde Omgeving (DSGO) is gestart, om
-te werken aan de toegankelijkheid van data in de gehele keten. Het DSGO is een
-programmalijn binnen digiGO. De sector heeft sterke behoefte aan regie om
-samenhang te creëren binnen het DSGO. De behoeftes van publieke en private
-organisaties naar data-uitwisseling zijn samengevat in 34 use cases, gegroepeerd
-in zes thema’s. Stikstofreductie is daar onderdeel van, naast andere thema’s als
-duurzaamheid en circulariteit. Het DSGO regisseert samenhang door te komen tot
-een set van afspraken over het uitwisselen van data tussen organisaties. Het
-DSGO helpt digitalisering in de bouw- en installatie sector, en maakt
-stikstofreductie daarmee mogelijk.
+beschikbaar en toegankelijk worden gemaakt. Er is behoefte aan een
+afsprakenstelsel dat zorgt voor veilige, betrouwbare en gecontroleerde toegang
+tot data in de bouwsector, zodat alle ketenpartners die actief zijn in de
+verschillende fases van de levenscyclus van een bouwwerk met deze afspraken
+makkelijk en veilig gebruik van reeds beschikbare data kunnen maken. Dit vergt
+sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data.
+Dat is de reden dat digiGO het initiatief Digitaal Stelsel Gebouwde Omgeving
+(DSGO) is gestart, om te werken aan de toegankelijkheid van data in de gehele
+keten.
+
+Het DSGO is een programmalijn binnen digiGO. De sector heeft sterke behoefte aan
+regie om samenhang te creëren binnen het DSGO. De behoeftes van publieke en
+private organisaties naar data-uitwisseling zijn samengevat in 34 use cases,
+gegroepeerd in zes thema’s. Stikstofreductie is daar onderdeel van, naast andere
+thema’s als duurzaamheid en circulariteit. Het DSGO regisseert samenhang door te
+komen tot een set van afspraken over het uitwisselen van data tussen
+organisaties, om data voor de keten toegankelijk te maken én te zorgen voor de
+adoptie van deze afspraken. Het DSGO helpt digitalisering in de bouw- en
+installatie sector, en maakt stikstofreductie daarmee mogelijk.
 
 De overheid, in de rol van het ministerie van Binnenlandse Zaken en
 Koninkrijksrelaties (BZK), moet hier een rol als aanjager in nemen wil het DSGO
@@ -58,8 +65,9 @@ Maar ook robuustheid, toekomstvastheid en stapsgewijze groei van het DSGO.
 
 Om dit doel te bereiken maken we in het adviesrapport onderscheid naar
 uitgangspunten, randvoorwaarden en eisen. Bij elk van de richtinggevende
-principes zorgt het publiek belang alsmede de publieke waarden de basis voor de
-verbinding en de samenhang.
+principes zijn het publiek belang en de publieke waarden de basisprincipes voor
+sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data:
+ze leiden tot verbinding en samenhang.
 
 Aanpak
 ------

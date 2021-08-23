@@ -1,6 +1,13 @@
 Data principes
 ==============
 
+Het data aanbod en de data vraag op elkaar aansluiten is voor het DGSO niet
+eenvoudig omdat er zeer veel organisaties in de sector actief zijn met veel
+verschillende soorten data en behoeftes. Het gebrek aan beschikbaar hebben van
+de juiste data op de juiste plek is niet alleen een uitdaging om
+stikstofreductie doelen te halen maar is noodzakelijk voor alle maatschappelijke
+en/of sector-overstijgende doelen.
+
 Samenvatting
 ------------
 
