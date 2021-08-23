@@ -93,7 +93,8 @@ ontwerpproces is daarin bepalend. Centraal in dat proces staan het
 vormgeven en begeleiden is fundamenteel randvoorwaardelijk en tegelijkertijd de
 grootste uitdaging bij de ontwikkeling van het DSGO.
 
-\*\*Figuur: De DSGO use cases\*\*
+**Figuur: De DSGO use cases**
+![](media/DSGO-use_cases.png)
 
 De ontwerpprincipes zijn daarom bedoeld als werkwoorden, die de participanten
 tijdens het ontwerpproces doordenken en doorleven, zodat de juiste keuzes
