@@ -92,6 +92,6 @@ geillustreerd door figuur ‘Levenscyclus van de dataset’:
 4.  Gebruik: hoe goed de data als service ter beschikking wordt gesteld,
     ondersteund en hergebruikt.
 
-Levenscyclus van de dataset
+**Figuur: Levenscyclus van de dataset**
 
-Levenscyclus van de dataset
+![](media/Levenscyclus-dataset.png)
