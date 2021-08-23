@@ -68,9 +68,7 @@ De dataset komt daarmee vaak overeen met een dossier. Die worden ook opgesteld
 voor een bepaald doel, maar kunnen documenten ad-hoc worden overgedragen.
 
 Er is in de zin van DSGO niet een minimale (laat staan maximale) grootte van een
-dataset. Uit praktische overwegingen zijn er misschien wel beperkingen.
-
-Om data (gegevens) of datasets (gegevensets) met / binnen het DSGO uit te
+dataset. Uit praktische overwegingen zijn er misschien wel beperkingen. Om data (gegevens) of datasets (gegevensets) met / binnen het DSGO uit te
 wisselen zijn afspraken nodig over de vindbaarheid, toegankelijkheid,
 herbruikbaarheid en uitwisselbaarheid. Dat komt overeen met de
 FAIR-uitgangspunten.
