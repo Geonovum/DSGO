@@ -15,3 +15,8 @@ Begrippen en afkortingen
 |        |                                                                                                                                                                                                         |
 |        |                                                                                                                                                                                                         |
 |        |                                                                                                                                                                                                         |
+
+Gebruikte bronnen:
+------------------
+
+-   Actieplan DSGO, document versie 1.0

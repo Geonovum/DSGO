@@ -304,8 +304,29 @@ daarbij aan de basisregistraties en landelijke voorzieningen.
 
 #### Wet Kwaliteitsborging voor het Bouwen
 
-Onderdeel van deze wet is het *dossier bevoegd gezag*. Tijdens de levenscyclus
-wordt alle relevante informatie van een bouwwerk opgeslagen in dit digitale
-dossier. Dit digitale bouwdossier bevat informatie over het gerealiseerde
-bouwwerk en de verklaring van de kwaliteitsborger dat het gerealiseerde bouwwerk
-voldoet aan de bouwtechnische vereisten van het Bouwbesluit.
+Op dit moment is de opdrachtgever verantwoordelijk voor de bouwkwaliteit van een
+object bij overhandiging van de sleutel. De Wet Kwaliteitsborging (WKB) is erop
+gericht om bouwkwaliteit te verbeteren, door de bewijslast van geleverde
+kwaliteit bij de aannemer te beleggen. Deze dient dat vast te leggen in
+het *dossier bevoegd gezag*, waarbij de data die voor dit dossier benodigd is
+door alle ketenpartners aangeleverd moet worden. Dit digitale bouwdossier bevat
+informatie over het gerealiseerde bouwwerk en de verklaring van de
+kwaliteitsborger dat het gerealiseerde bouwwerk voldoet aan de bouwtechnische
+vereisten van het Bouwbesluit. Het op orde hebben van dit dossier, gaat op
+termijn een voorwaarde worden voor gunning van een opdracht.
+
+Het verkrijgen van deze data is op dit moment een tijdrovend en kostbaar karwei.
+De data liggen bij een groot aantal partijen en is niet gestandaardiseerd en/of
+automatisch verkrijgbaar. Door uniforme afspraken faciliteert het DSGO het
+toegankelijk maken van alle gebouw gerelateerde data op een eenvoudige, veilige
+en gecontroleerde manier. Dit heeft een aantal voordelen:
+
+• Risico’s worden teruggedrongen
+
+• Besparing van tijd en kosten voor delen van data
+
+• Makkelijker om te voldoen aan WKB
+
+• Verhogen van kwaliteit
+
+• Verhogen van veiligheid

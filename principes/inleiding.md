@@ -35,11 +35,11 @@ van profiteren.
 Met het opstellen van richtinggevende principes, in aanvulling op 34 ‘use
 cases’, gegroepeerd in zes thema’s, wordt er met dit adviesrapport input
 geleverd voor het ontwerp van een Digitaal Stelsel voor de Gebouwde Omgeving.
-Deze principes gecreëerd in samenwerking met de onderdelen van BZK (Bouwwijzer)
-dragen bij aan het co-creatieproces om tot DSGO te komen en de sector brede
-afspraken over uitwisseling, eigenaarschap en organisatie van data met als
-resultaat veilige, betrouwbare en gecontroleerde toegang tot data in de
-bouwsector: in verbinding en in samenhang.
+Deze principes gecreëerd in samenwerking met het programma Bouwwijzer van het
+ministerie van BZK, dragen bij aan het co-creatieproces om tot DSGO te komen en
+de sector brede afspraken over uitwisseling, eigenaarschap en organisatie van
+data met als resultaat veilige, betrouwbare en gecontroleerde toegang tot data
+in de bouwsector: in verbinding en in samenhang.
 
 Doel en resultaat
 -----------------
