@@ -49,17 +49,7 @@ zijn nog meer zelfbeschrijvend. Deze formaten kunnen een interpretatieschema
 toevoegen aan de data, zodat een computersysteem zelf kan achterhalen waar de
 relevante informatie staat.
 
-Een **dataset** is de derde en laatste data-gerelateerde term en tegelijk ook de minst
-duidelijke. Een dataset is een ad-hoc of specifieke groepering van gegevens
-en/of metadata. Sommige datasets zijn contractueel afgesproken, (tegenwoordig meer en meer via Informatieleveringsspecificaties, afgekort ILS’en) zoals een
-bouwtekeningen en inspectierapporten bij het voltooien van een bepaalde
-bouwfase. Of het halfjaarlijks opleveren (bijwerken) van een kaart van het
-beheerde areaal.
-
-De dataset komt daarmee vaak overeen met een dossier. Die worden ook opgesteld
-voor een bepaald doel, maar kunnen documenten ad-hoc worden overgedragen. Door een afgesproken structuur is een dataset voor de computer een samenhangende set van bestanden. 
-
-Een dataset is een identificeerbare verzameling van data die als een geheel kan
+Een **dataset** is de derde en laatste data-gerelateerde term. Een dataset is een identificeerbare verzameling van data die als een geheel kan
 worden verwerkt, bewerkt en gepubliceerd door een enkel subject. Dit leidt ertoe
 dat de levenscyclus van de dataset is samen te vatten in vier fasen,
 geillustreerd door figuur ‘Levenscyclus van de dataset’:
@@ -80,8 +70,13 @@ geillustreerd door figuur ‘Levenscyclus van de dataset’:
 
 ![](media/Levenscyclus-dataset.png)
 
+Sommige datasets zijn contractueel afgesproken, (tegenwoordig meer en meer via Informatieleveringsspecificaties, afgekort ILS’en) zoals een
+bouwtekeningen en inspectierapporten bij het voltooien van een bepaalde
+bouwfase. Of het halfjaarlijks update van een kaart met verschillende kaartlagen met gekoppelde informatie van een
+beheerd areaal. De dataset komt daarmee vaak overeen met een dossier. Door een afgesproken structuur is een dataset voor de computer een samenhangende set van bestanden. 
+
 Er is in de zin van DSGO niet een minimale (laat staan maximale) grootte van een
-dataset. Uit praktische overwegingen zijn er misschien wel beperkingen, maar door technologische ontwikkelingen speelt dat steeds minder een rol. Om data (gegevens) of datasets (gegevensets) met / binnen het DSGO uit te
+dataset. Uit praktische overwegingen zijn er misschien wel beperkingen, maar door technologische ontwikkelingen speelt dat steeds minder een rol. Om data (gegevens) of datasets (gegevensets) met/ binnen het DSGO uit te
 wisselen gaat het niet zozeer over de grootte van een dataset maar juist overover de vindbaarheid, toegankelijkheid,
 herbruikbaarheid en uitwisselbaarheid. Dat komt overeen met het maken van afspraken op basis van de
 FAIR-uitgangspunten.
