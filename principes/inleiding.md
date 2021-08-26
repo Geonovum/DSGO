@@ -30,7 +30,7 @@ thema’s als duurzaamheid en circulariteit. Het DSGO regisseert samenhang door 
 komen tot een set van afspraken over het uitwisselen van data tussen
 organisaties, om data voor de keten toegankelijk te maken én te zorgen voor de
 adoptie van deze afspraken. Het DSGO helpt digitalisering in de bouw- en
-installatie sector, en maakt stikstofreductie daarmee mogelijk.
+installatie sector, en draagt daarmee bij aan stikstofreductie.
 
 De overheid, in de rol van het ministerie van Binnenlandse Zaken en
 Koninkrijksrelaties (BZK), moet hier een rol als aanjager in nemen wil het DSGO
@@ -42,9 +42,7 @@ van profiteren.
 Met het opstellen van richtinggevende principes, in aanvulling op 34 ‘use
 cases’, gegroepeerd in zes thema’s, wordt er met dit adviesrapport input
 geleverd voor het ontwerp van een Digitaal Stelsel voor de Gebouwde Omgeving.
-Deze principes gecreëerd in samenwerking met het programma Bouwwijzer van het
-ministerie van BZK, dragen bij aan het co-creatieproces om tot DSGO te komen en
-de sector brede afspraken over uitwisseling, eigenaarschap en organisatie van
+Deze principes dragen bij aan de sector brede afspraken over uitwisseling, eigenaarschap en organisatie van
 data met als resultaat veilige, betrouwbare en gecontroleerde toegang tot data
 in de bouwsector: in verbinding en in samenhang.
 
@@ -65,39 +63,33 @@ Maar ook robuustheid, toekomstvastheid en stapsgewijze groei van het DSGO.
 
 Om dit doel te bereiken maken we in het adviesrapport onderscheid naar
 uitgangspunten, randvoorwaarden en eisen. Bij elk van de richtinggevende
-principes zijn het publiek belang en de publieke waarden de basisprincipes voor
+principes zorgen  het publiek belang en de publieke waarden de basisprincipes voor
 sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data:
 ze leiden tot verbinding en samenhang.
 
 Aanpak
 ------
 
-Voor de uitvoering van deze opdracht stelt Geonovum samen met BIM Loket en CROW
-de volgende aanpak voor.
+Voor de uitvoering van deze opdracht hebben Geonovum, BIM Loket en CROW
+de volgende aanpak gehanteerd.
 
 ### Processtappen
 
-**Stap 1. Voorbereiding** Geonovum maakt met 2-3 eigen experts een eerste aanzet
+**Stap 1. Voorbereiding** Geonovum heeft met 2-3 eigen experts een eerste aanzet gemaakt
 van principes op het gebied van onder meer openheid, toegankelijkheid,
 interoperabiliteit, authenticiteit en verantwoordelijkheid (governance) voor het
-Digitaal Stelsel Gebouwde Omgeving (DSGO). Geonovum maakt hiervoor hergebruik
+Digitaal Stelsel Gebouwde Omgeving (DSGO). Geonovum heeft  hiervoor hergebruik gemaakt
 van ervaringen uit eerdere adviestrajecten voor (doorontwikkeling van) digitale
 stelsels voor onder meer Digitaal Stelsel Omgevingswet (DSO),
-Objectidentificering (UOI) en samenhang geo(basis)registraties. We werken aan
-het rapport in een open/ publieke omgeving waardoor meerder mensen van
-verschillende organisaties tegelijkertijd aan het rapport kunnen werken.
+Objectidentificering (UOI) en samenhang geo(basis)registraties. Aan dit rapport hebben we in een open/ publieke omgeving gewerkt waardoor meerder mensen van
+de verschillende organisaties tegelijkertijd aan het rapport konden werken.
 
-**Stap 2. Uitbreiding** In een workshopachtige setting breidt Geonovum samen met
-experts van BIM Loket en CROW de eerste aanzet van principes uit. In 3-4
-dagdelen zullen de principes worden verbreed, verfijnd en waar mogelijk
-geconcretiseerd zonder de implementatievrijheid in latere uitwerking te
-beperken. Het tussenresultaat van het adviesrapport met richtinggevende
-principes (versie 0.3) zal met enkele intimi-organisaties (zoals Innopay) worden
-getoetst.
+**Stap 2. Uitbreiding** In een workshopachtige setting heeft Geonovum samen met
+experts van BIM Loket en CROW de eerste aanzet van principes uitgebreid. De  principes zijn verbreed, verfijnd en geconcretiseerd zonder de implementatievrijheid in latere uitwerking te
+beperken. 
 
-**Stap 3. Toetsing** Na stap 2 zal Geonovum samen met BIM Loket en CROW een
-bredere klankbordsessie (workshop, 1 dagdeel) organiseren. De concept-principes
-zullen door middel van een informele consultatie gericht aan 5 tot maximaal 10
+**Stap 3. Toetsing** Het tussenresultaat van het adviesrapport met richtinggevende
+principes (versie 0.3) is in september met BZK, Geonovum, BIM Loket en CROW getoetst. Vervolgens wordt in september het conceptrapport doro BZK met enkele intimi-organisaties. De concept-principes zullen door middel van een informele consultatie gericht aan 5 tot maximaal 10
 samen met BZK te bepalen organisaties worden tijdens een klankbordsessie
 gepresenteerd (waaronder Innopay, de programma’s Bouwwijzer en MedMij,
 verschillende directoraten/ programma’s van BZK, andere departementen, publieke
