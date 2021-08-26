@@ -50,13 +50,13 @@ randvoorwaarden en eisen.
     niet, dan worden processen opgestart om die bij te werken volgende de
     geldende regelgeving. Daarbij geldt dat:
 
--   architecten en aannemers gebruiken de informatie uit de basisregistraties
+-   architecten, ingenieursbureaus en bouwbedrijven en aannemers gebruiken de informatie uit de basisregistraties
     als uitgangspunt voor hun ontwerp en doen waar nodig meldingen waar de info
     niet juist is.
 
 -   Bevoegd gezag controleert na oplevering de maatvoering met de werkelijkheid
     en zorgt voor aanpassing van de geobasisregistraties, op basis van de
-    informatie uit het gebouwdossier. Daarbij gebruiken alle partijen de
+    informatie uit het digitaal bouwwerkdossier. Daarbij gebruiken alle partijen de
     voorzieningen van de Geobasisregistraties.
 
 FAIR-principes
