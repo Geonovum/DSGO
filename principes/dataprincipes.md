@@ -31,7 +31,7 @@ randvoorwaarden en eisen.
 
 -   ..
 
-### Eisen
+**Eisen**
 
 -   API op (meta)data(set) services
 
