@@ -70,7 +70,7 @@ geillustreerd door figuur ‘Levenscyclus van de dataset’:
 ![](media/Levenscyclus-dataset.png)
 
 Sommige datasets zijn contractueel afgesproken, (tegenwoordig meer en meer via Informatieleveringsspecificaties, afgekort ILS’en) zoals een
-bouwtekeningen en inspectierapporten bij het voltooien van een bepaalde
+bouwtekeningen, modellen, berekeningen en inspectierapporten bij het voltooien van een bepaalde
 bouwfase. Of het halfjaarlijks update van een kaart met verschillende kaartlagen met gekoppelde informatie van een
 beheerd areaal. De dataset komt daarmee vaak overeen met een dossier. Door een afgesproken structuur is een dataset voor de computer een samenhangende set van bestanden. 
 
