@@ -13,31 +13,35 @@ ontwerpprincipes.
 
 **Uitgangspunten**
 
--   Het DSGO baseren we op publieke waarden die de samenleving reflecteren. Deze
-    publieke waarden worden concreet in acht ontwerpprincipes.
+-   Het DSGO baseren we op publieke waarden die de samenleving reflecteren. Deze publieke waarden worden concreet in acht ontwerpprincipes die richting geven aan het ontwerpen onderhouden en toepassen van de processen en afspraken die
+door het DSGO ondersteund worden.
 
 -   In het DSGO worden Standaarden uit verschillende domeinen toegepast. Het is
     onmogelijk om al deze Standaarden te harmoniseren op semantiek etc..
 
 **Randvoorwaarden**
 
--   ..
-
--   ..
-
 -   Mapping-table à la CB-NL om semantisch te linken voor gebruikers.
 
-**Eisen**
+-   ..
 
 -   ..
+
+
+
+**Eisen**
 
 -   Afspraken over/voor Standaarden zijn slechts nodig op het grensvlak ten
     behoeve van uitwisselbaarheid en koppelbaarheid  en hergebruik van data uit verschillende
     domeinen/standaarden. Afspraken zijn dan nodig over identificering van
     gegevens, historie en levensduur, uitwisselprotocol (techniek),
     metadata-standaarden.
+    
+ -   ..
 
-Ontwerp DSGO op basis van publieke waarden die de samenleving reflecteren
+
+
+Het DSGO ontwerpen op basis van publieke waarden die de samenleving reflecteren
 -----------------------------------------------
 
 Het doel van het DSGO is om te komen tot een set van uniforme afspraken die
@@ -62,16 +66,12 @@ en maakt onder andere stikstofreductie daarmee mogelijk.
 
 Veel partijen uit de samenleving dragen bij om tot het gewenste resultaat te komen en
 wisselen daartoe data uit met elkaar. Het is daarom van belang
-dat he DSGO de [publieke
+dat het DSGO de [publieke
 waarden](https://waag.org/sites/waag/files/2020-05/routekaart-digitale-toekomst-v0.3.pdf)
 van de samenleving reflecteert, en dat alle betrokkenen zich kunnen vinden in de
 afspraken.
 
-De gemaakte afspraken borgen als het goed is de belangen van elke betrokken partij en worden vervolgens omgezet in technologie die de uitwisseling van data werkend maakt. Vaak is deze technologie een ijsberg, waar we alleen het topje van zien, het zogenaamde burgerperspectief. WAAG laat dit zien in hun visie op technologie uitgewerkt in hun digitale routekaart. Wat onder water is zien we niet. Maar uiteindelijk is alle technologie gemaakt door mensen. Zij zijn het die deze ontwerpen, ontwikkelen, uitrollen en stap voor stap onze maatschappij veranderen. Technologie is niet neutraal, maar het product van talloze beslissingen, die gebaseerd zijn op de waarden die de ontwerper hanteert. Daar ligt ook de sleutel tot het verkrijgen van meer grip op deze ontwikkelingen: we moeten niet alleen kijken naar het topje, maar met elkaar de hele ijsberg zien en ontwerpen. Voor het DSGO doen we dat dus op basis van publieke waarden, de we concreet hebben gemaakt in 8 ontwerpprincipes. 
-
-Uitgangspunt: Het DSGO baseren we op publieke waarden die de samenleving
-reflecteren. Deze publieke waarden worden concreet in acht ontwerpprincipes die richting geven aan het ontwerpen onderhouden en toepassen van de processen en afspraken die
-door het DSGO ondersteund worden.
+De gemaakte afspraken borgen als het goed is de belangen van elke betrokken partij en worden vervolgens omgezet in technologie die de uitwisseling van data werkend maakt. Vaak is deze technologie een ijsberg, waar we alleen het topje van zien, het zogenaamde burgerperspectief. WAAG laat dit zien in hun visie op technologie uitgewerkt in hun digitale routekaart. Wat onder water is zien we niet. Maar uiteindelijk is alle technologie gemaakt door mensen. Zij zijn het die deze ontwerpen, ontwikkelen, uitrollen en stap voor stap onze maatschappij veranderen. Technologie is niet neutraal, maar het product van talloze beslissingen, die gebaseerd zijn op de waarden die de ontwerper hanteert. Daar ligt ook de sleutel tot het verkrijgen van meer grip op deze ontwikkelingen: we moeten niet alleen kijken naar het topje, maar met elkaar de hele ijsberg zien en ontwerpen. Voor het DSGO doen we dat dus op basis van publieke waarden, de we concreet hebben gemaakt in de hierna uitgewerke 8 ontwerpprincipes. 
 
 Ontwerpprincipes
 ----------------
