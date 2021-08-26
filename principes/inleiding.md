@@ -75,7 +75,7 @@ de volgende aanpak gehanteerd.
 
 ### Processtappen
 
-**Stap 1. Voorbereiding** Geonovum heeft met 2-3 eigen experts een eerste aanzet gemaakt
+*Stap 1. Voorbereiding* Geonovum heeft met 2-3 eigen experts een eerste aanzet gemaakt
 van principes op het gebied van onder meer openheid, toegankelijkheid,
 interoperabiliteit, authenticiteit en verantwoordelijkheid (governance) voor het
 Digitaal Stelsel Gebouwde Omgeving (DSGO). Geonovum heeft  hiervoor hergebruik gemaakt
@@ -84,11 +84,11 @@ stelsels voor onder meer Digitaal Stelsel Omgevingswet (DSO),
 Objectidentificering (UOI) en samenhang geo(basis)registraties. Aan dit rapport hebben we in een open/ publieke omgeving gewerkt waardoor meerder mensen van
 de verschillende organisaties tegelijkertijd aan het rapport konden werken.
 
-**Stap 2. Uitbreiding** In een workshopachtige setting heeft Geonovum samen met
+*Stap 2. Uitbreiding* In een workshopachtige setting heeft Geonovum samen met
 experts van BIM Loket en CROW de eerste aanzet van principes uitgebreid. De  principes zijn verbreed, verfijnd en geconcretiseerd zonder de implementatievrijheid in latere uitwerking te
 beperken. 
 
-**Stap 3. Toetsing** Het tussenresultaat van het adviesrapport met richtinggevende
+*Stap 3. Toetsing* Het tussenresultaat van het adviesrapport met richtinggevende
 principes (versie 0.3) is begin september met BZK, Geonovum, BIM Loket en CROW getoetst. In het vervolg van september zullen de de concept-principes door middel van een informele consultatie gericht aan 5 tot maximaal 10, samen met BZK te bepalen organisaties, tijdens een klankbordsessie worden
 gepresenteerd en getoetst (waaronder Innopay, de programma’s Bouwwijzer en MedMij,
 verschillende directoraten/ programma’s van BZK, andere departementen, publieke
@@ -97,7 +97,7 @@ ingaan op vragen en discussie. Na afloop van klankbordsessie krijgen de
 organisaties 2 weken gelegenheid om principes te reviewen, en verbetersuggesties
 aan te dragen.
 
-**Stap 4. Afronding** Geonovum verwerkt samen met BIM Loket en CROW de
+*Stap 4. Afronding* Geonovum verwerkt samen met BIM Loket en CROW de
 verbetersuggesties uit de informele consultatie/toetsing. Waar dat wel kan
 worden de verbetersuggesties doorgevoerd in de principes, waar dat niet kan als
 gevolg van te veel discussie/divergentie worden deze verbetersuggesties als
