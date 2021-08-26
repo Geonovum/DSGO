@@ -50,7 +50,11 @@ toevoegen aan de data, zodat een computersysteem zelf kan achterhalen waar de
 relevante informatie staat.
 
 Een **dataset** is de derde en laatste data-gerelateerde term. Een dataset is een identificeerbare verzameling van data die als een geheel kan
-worden verwerkt, bewerkt en gepubliceerd door een enkel subject. Dit leidt ertoe
+worden verwerkt, bewerkt en gepubliceerd door een enkel subject. 
+Een verzameling van datasets kan ook op zich weer een dataset zijn.
+Bijvoorbeeld de verzamelde gegevens vanuit de verschillende disciplines van een _dossier bevoegd gezag_ zijn een dataset, maar het dossier zelf ook.
+
+Dit leidt ertoe
 dat de levenscyclus van de dataset is samen te vatten in vier fasen,
 geillustreerd door figuur ‘Levenscyclus van de dataset’:
 
