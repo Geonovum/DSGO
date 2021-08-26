@@ -1,7 +1,7 @@
 Publieke waarden
 ----------------
 
-Korte inleading, Verbinding, Uitwerken van ontwerpprincipes
+Het DSGO dient een publiek belang door data uit de gebouwde omgeving beschikbaar te stellen voor alle belanghebbenden bij de data. Om het publieke belang te waarborgen worden 8 ontwerpprincipes gehanteerd voor het ontwerpproces van het DSGO. Deze 8 ontwerpprincipes zijn in dit hoofdstuk vertaalt in uitgangspunten, randvoorwaarden en eisen. Ze geven richting aan het proces om te komen tot sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data.
 
 Samenvatting
 ------------
@@ -32,12 +32,12 @@ ontwerpprincipes.
 -   ..
 
 -   Afspraken over/voor Standaarden zijn slechts nodig op het grensvlak ten
-    behoeve van uitwisselbaarheid en koppelbaarheid van data uit verschillende
+    behoeve van uitwisselbaarheid en koppelbaarheid  en hergebruik van data uit verschillende
     domeinen/standaarden. Afspraken zijn dan nodig over identificering van
     gegevens, historie en levensduur, uitwisselprotocol (techniek),
     metadata-standaarden.
 
-Publieke waarden die de samenleving reflecteren
+Ontwerp DSGO op basis van publieke waarden die de samenleving reflecteren
 -----------------------------------------------
 
 Het doel van het DSGO is om te komen tot een set van uniforme afspraken die
@@ -60,28 +60,21 @@ komen tot een set van afspraken over het uitwisselen van data tussen
 organisaties. Het DSGO helpt digitalisering in de bouw- en installatie sector,
 en maakt onder andere stikstofreductie daarmee mogelijk.
 
-Veel partijen zijn daarin een schakel om tot het gewenste resultaat te komen en
-al die partijen wisselen data uit om dat te bereiken. Het is daarom van belang
+Veel partijen uit de samenleving dragen bij om tot het gewenste resultaat te komen en
+wisselen daartoe data uit met elkaar. Het is daarom van belang
 dat he DSGO de [publieke
 waarden](https://waag.org/sites/waag/files/2020-05/routekaart-digitale-toekomst-v0.3.pdf)
 van de samenleving reflecteert, en dat alle betrokkenen zich kunnen vinden in de
-afspraken omdat het hun belangen voldoende waarborgt.
+afspraken.
+
+De gemaakte afspraken borgen als het goed is de belangen van elke betrokken partij en worden vervolgens omgezet in technologie die de uitwisseling van data werkend maakt. Vaak is deze technologie een ijsberg, waar we alleen het topje van zien, het zogenaamde burgerperspectief. WAAG laat dit zien in hun visie op technologie uitgewerkt in hun digitale routekaart. Wat onder water is zien we niet. Maar uiteindelijk is alle technologie gemaakt door mensen. Zij zijn het die deze ontwerpen, ontwikkelen, uitrollen en stap voor stap onze maatschappij veranderen. Technologie is niet neutraal, maar het product van talloze beslissingen, die gebaseerd zijn op de waarden die de ontwerper hanteert. Daar ligt ook de sleutel tot het verkrijgen van meer grip op deze ontwikkelingen: we moeten niet alleen kijken naar het topje, maar met elkaar de hele ijsberg zien en ontwerpen. Voor het DSGO doen we dat dus op basis van publieke waarden, de we concreet hebben gemaakt in 8 ontwerpprincipes. 
 
 Uitgangspunt: Het DSGO baseren we op publieke waarden die de samenleving
-reflecteren. Deze publieke waarden worden concreet in acht ontwerpprincipes. In
-paragraaf xx hebben we acht ontwerpprincipes benoemd, gebaseerd op publieke
-waarden, die richting geven aan het ontwerpen van de processen en afspraken die
+reflecteren. Deze publieke waarden worden concreet in acht ontwerpprincipes die richting geven aan het ontwerpen onderhouden en toepassen van de processen en afspraken die
 door het DSGO ondersteund worden.
 
 Ontwerpprincipes
 ----------------
-
-Spelregels gebaseerd op publieke waarden die de samenleving reflecteren; Hiermee
-stellen we dat publieke waarden randvoorwaardelijk zijn voor het verantwoord
-organiseren en inzetten van het DSGO. We vertalen de publieke waarden in een
-achttal ontwerpprincipes die leidend zullen zijn voor het DSGO, zowel voor het
-ontwikkelen van het DSGO, als ook voor het gebruik, onderhoud en de governance
-van het DSGO.
 
 ### Radicaal open en transparant ontwerp proces
 
