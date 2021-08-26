@@ -115,11 +115,11 @@ dan kan altijd teruggezocht worden naar de oorsprong van de kwaliteitscontrole
 en de onderliggende data.
 
 *Eis*: Usecases leggen voor elke dataset die tussen partijen uitgewisseld wordt,
-wat de oorsprong van deze dataset is en welke bewerkingen deze heeft ondergaan.
+vast wat de oorsprong van deze dataset is en welke bewerkingen deze heeft ondergaan.
 
 ### Inclusiviteit
 
-xx Inclusiviteit houdt in dat zorgvuldig omgegaan wordt met de belangen van alle
+Inclusiviteit houdt in dat zorgvuldig omgegaan wordt met de belangen van alle
 belanghebbenden. Het zorgt ervoor dat alle belanghebbenden input kunnen geven.
 Een onafhankelijke voorzitter is daarin een pré. Die zorgt ervoor dat in het
 proces van belangenafweging eventuele tegengestelde belangen en
@@ -171,7 +171,7 @@ een wijk verzameld worden, maar niet meer terug te voeren zijn op een adres.
 
 *Eis*: Ontwerp elke usecase binnen het DSGO doelgericht, zodat de uit te
 wisselen data geschikt en voldoende is voor het doel, waarvoor de informatie
-nodig, zonder de informatie voor andere doelen te gebruiken.
+nodig.
 
 ### Betrokkenheid
 
