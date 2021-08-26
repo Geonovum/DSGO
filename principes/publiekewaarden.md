@@ -188,7 +188,7 @@ In het kader van het optimaleren van circulariteit is het bijvoorbeeld van
 belang dat alle toeleveranciers hun productinformatie ter beschikking stellen,
 zodat een compleet beeld wordt verkregen van een gebouw. Het gebouwdossier wordt
 daarmee compleet, waarop in de toekomst zinvolle besluiten mogelijk zijn over
-hergebruik van materialen tijdens de sloop.
+hergebruik van materialen na ontmanteling van het bouwwerk.
 
 *Randvoorwaarde*: Voor elke usecase worden de afspraken met alle betrokkenen
 gemaakt en vastgelegd. Onderdeel van de afspraak is duidelijkheid over het
