@@ -11,13 +11,12 @@ bijvoorbeeld een bouwtekening zijn, een inspectierapport of een rapportage van
 het energiegebruik. Deze gegevens zijn in verschillende formaten beschreven,
 waarbij sommige formaten leesbaar zijn voor zowel mens en computer (zoals een
 PDF-inspectierapport), maar niet altijd interpreteerbaar voor een
-computersysteem. Hoe gestructureerder een bestandsformaat, hoe meer
-mogelijkheden het biedt in een digitaal stelsel. Het heeft daarom de voorkeur om
+computersysteem. Data kan gestructureerd of ongestructureerd zijn. Hoe gestructureerder een bestand, hoe meer
+mogelijkheden het biedt in een digitale omgeving. Het heeft daarom de voorkeur om
 zo’n inspectierapport als spreadsheet ook voor de computer leesbaar aan te bieden. Dan kan een
 computersysteem wel de tabel met gebreken ‘zien’ en interpreteren.
 
-Data is een representatie van observaties, objecten of andere entiteiten uit de werkelijkheid. Denk aan het bouwobject dat door het process van plan en vergunningverlening, tot realisatie en beheer, heengaat. Data refereert naar iets dat is verzameld, geobserveerd, gegenereerd of afgeleid. Data kan gestructureerd of ongestructureerd zijn. Data kan worden gerepresenteerd in kwantitatieve, kwalitatieve of fysieke vormen.
-Data wordt door de mens gebruikt als een basis om te redeneren, discussieren of calculeren.
+Data is een representatie van observaties, objecten of andere entiteiten uit de werkelijkheid. Denk aan het bouwobject dat door het process van plan en vergunningverlening, tot realisatie en beheer, heengaat. Data refereert naar iets dat is verzameld, geobserveerd, gegenereerd of afgeleid. Data wordt door de mens gebruikt als een basis om te redeneren, discussieren of calculeren.
 
 **Metadata** zijn gegevens die de karakteristieken van bepaalde gegevens beschrijven. Het zijn dus eigenlijk data over data. De metadata bij een bepaald document (de gegevens) kunnen bijvoorbeeld zijn: de auteur, de datum van schrijven, de uitgever, het aantal pagina's en de taal waarin de gegevens zijn opgesteld.
 De metadata helpt mens en computer bij het vinden van de juiste gegevens en
