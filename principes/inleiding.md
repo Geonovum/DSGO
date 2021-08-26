@@ -89,9 +89,8 @@ experts van BIM Loket en CROW de eerste aanzet van principes uitgebreid. De  pri
 beperken. 
 
 **Stap 3. Toetsing** Het tussenresultaat van het adviesrapport met richtinggevende
-principes (versie 0.3) is in september met BZK, Geonovum, BIM Loket en CROW getoetst. Vervolgens wordt in september het conceptrapport doro BZK met enkele intimi-organisaties. De concept-principes zullen door middel van een informele consultatie gericht aan 5 tot maximaal 10
-samen met BZK te bepalen organisaties worden tijdens een klankbordsessie
-gepresenteerd (waaronder Innopay, de programma’s Bouwwijzer en MedMij,
+principes (versie 0.3) is begin september met BZK, Geonovum, BIM Loket en CROW getoetst. In het vervolg van september zullen de de concept-principes door middel van een informele consultatie gericht aan 5 tot maximaal 10, samen met BZK te bepalen organisaties, tijdens een klankbordsessie worden
+gepresenteerd en getoetst (waaronder Innopay, de programma’s Bouwwijzer en MedMij,
 verschillende directoraten/ programma’s van BZK, andere departementen, publieke
 partijen). De presentatie heeft tot doel het creëren van draagvlak en het kunnen
 ingaan op vragen en discussie. Na afloop van klankbordsessie krijgen de
