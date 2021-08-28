@@ -1,4 +1,4 @@
-Publieke waarden
+﻿Publieke waarden
 ----------------
 
 Het DSGO dient een publiek belang door data uit de gebouwde omgeving beschikbaar te stellen voor alle belanghebbenden bij de data. Om het publieke belang te waarborgen worden 8 ontwerpprincipes gehanteerd voor het ontwerpproces van het DSGO. Deze 8 ontwerpprincipes zijn in dit hoofdstuk vertaalt in uitgangspunten, randvoorwaarden en eisen. Ze geven richting aan het proces om te komen tot sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data.
@@ -231,3 +231,12 @@ zeggenschap en controle uitoefent over en/of gebruik maakt van de data(set),
 standaard, algoritme of voorziening die van belang zijn binnen de usecases. Met
 deze belanghebbenden kunnen vervolgens afspraken worden gemaakt om de data(set),
 standaard, algoritme of voorziening FAIR te kunnen (her)gebruiken.
+
+### Informatieveiligheid
+Informatieveiligheid houdt in dat er maatregelen getroffen zijn om er voor te zorgen dat 
+- gegevens niet gemanipuleerd zijn tussen bron en eindgebruiker (integriteit); 
+- alleen de rechthebbende inzage krijgt in de gegevens (autorisatie en autenticatie).
+- de eindgebruiker kan vaststellen dat de gegevens betrouwbaar zijn en inzicht heeft of de bron de gegevens gewijzigd heeft (transparantie en provenance).
+Eis: Binnen het DSGO worden maatregelen getroffen om de integriteit te waarborgen.
+Eis: Het DSGO voorziet in autorisatie en athenticatiemogelijkheden, zodat alleen de rechthebbenden inzage krijgen in de data(sets) die uitgewisseld worden.
+Eis: Het DSGO geeft transparant weer wat de bron is van elke dataset en welke bewerkingen deze heeft ondergaan en/of aan welke kwaliteitseisen deze voldoet in termen van actualiteit, volledigheid en juistheid), zodat de eindgebruiker de betrouwbaarheid kan vaststellen.
