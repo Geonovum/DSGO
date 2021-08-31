@@ -180,7 +180,7 @@ Autorisatie: Authorization Capabilities for Linked Data v0.3
 *CHECK: Navragen bij Linda naar de mogelijkheden voor DSGO?*
 
 
-**Historie in het DSGO?**
+**Historie in het DSGO**
 
 Data kan niet meer beschikbaar zijn om verschillende redenen:
 
@@ -190,13 +190,10 @@ Data kan niet meer beschikbaar zijn om verschillende redenen:
 
 -   Database bronhouder is offline…
 
-Uitgangspunt?: DSGO houdt historie vast, dus (meta)data blijft altijd
-beschikbaar.
-
-Hoe past dit bij databij de bron: architect failliet?
-
+Uitgangspunt: DSGO kan geen historie vasthouden omdat wordt uitgegaan van data bij de bron. 
 In geval van gegevens zijn verwijderd (komt bij geobasisregistraties niet
-voor!), zijn de metaata over data ook niet meer beschikbaar.
+voor!), zijn de metadata over data na een bepaalde tijd ook niet meer beschikbaar.
+
 
 ### Uitwisselbaar
 
