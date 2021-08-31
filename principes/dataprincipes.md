@@ -64,7 +64,7 @@ rapport is er een concept onderzoeksrapport over UOI.*
 **DSGO en de catalogusfunctie**
 
 Het DSGO fungeert als doorzoekbare catalogus c.q. register met datasets over de
-Gebouwde Omgeving, bijvoorbeeld Gebouwdossier, Energielabels,
+Gebouwde Omgeving, bijvoorbeeld Digitaal Gebouwdossier Bevoegd Gezag, Energielabels,
 geobasisregistraties.
 
 Door de catalogus c.q. registerfunctie van het DSGO zijn de datasets vindbaar. 
@@ -79,7 +79,7 @@ Register](https://nationaalgeoregister.nl/) (NGR).
 Bijvoorbeeld:
 De Basisregistratie Adressen en Gebouwen (BAG) is de authentieke bron voor
 officiële adressen en bouwjaren van panden. De ‘eigenaar’ van de BAG draagt
-gegevens aan over de dataset BAG aan het DSGO ondermeer over de herkomst,
+gegevens aan over de dataset BAG aan het DSGO onder meer over de herkomst,
 kwaliteit (bijvoorbeeld actualiteit 4 dagen, geometrische nauwkeurigheid van
 30-60 cm, volledigheid 100%) en gebruik (wettelijk verplicht voor overheden) van
 de data in de BAG. In het DSGO wordt vastgelegd de herkomst (eigenaar BAG) en
@@ -94,12 +94,12 @@ worden toegepast, mogelijk inclusief authenticatie en autorisatie voor veilige, 
 
 | FAIR-Principe                                                                                                            | Toepassing op DSGO                                                                                                                                                                                                                                          |
 |--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| A1. (Meta)gegevens kunnen worden opgehaald door hun identifier met behulp van een gestandaardiseerd communicatieprotocol | *Samenbrengen van gegevens vanuit basisregistraties als BGT en BAG. Ook Digitaal Stelsel Omgevingswet voor de ruimtelijke besluiten als een omgevingsplan (nu conform de Wro: bestemmingsplan). UOI Verschil tussen diensten en projectdossier beschrijven* |
-| A1.1 Het protocol is open, gratis en universeel toepasbaar                                                               | De gegevens in de data(sets) die in de catalogus DSGO zijn met een open protocol gratis protocol bij de bron toegankelijk. Bijvoorbeeld met [Linked Data](#koppelen-van-heterogene-datasets-met-linked-data).                                               |
+| A1. (Meta)gegevens kunnen worden opgehaald door hun identifier met behulp van een gestandaardiseerd communicatieprotocol | Het samenbrengen van gegevens vanuit basisregistraties als BGT en BAG. Ook Digitaal Stelsel Omgevingswet voor de ruimtelijke besluiten als een omgevingsplan (nu conform de Wro: bestemmingsplan). *UOI Verschil tussen diensten en projectdossier beschrijven* |
+| A1.1 Het protocol is open, gratis en universeel toepasbaar                                                               | De gegevens in de data(sets) die in de catalogus DSGO zijn met een open, gratis protocol bij de bron toegankelijk. Bijvoorbeeld met Linked Data.                                               |
 | A1.2 Het protocol maakt een authenticatie- en autorisatieprocedure mogelijk, waar nodig                                  |                                                                                                                                                                                                                                                             |
-| A2. Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn                                               | De UOI is de sleutel naar het Dossier van een Object (data of datasets?) dat middels de UOI wordt geidentificeerd.                                                                                                                                          |
+| A2. Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn                                               | De UOI is de sleutel naar het Dossier van een Object (data of datasets?) dat door middel van de UOI wordt geidentificeerd.                                                                                                                                          |
 
-#### Koppelen van heterogene datasets met Linked Data
+**Koppelen van heterogene datasets met Linked Data**
 
 Is Linked Open Data hèt protocol voor het DSGO? Zeker bij het koppelen van
 heterogene datasets, waarbij data bij de bron opvraagbaar is?
@@ -167,7 +167,7 @@ naar de dataobjecten kunnen verwijzen.*
 verwezen voor meer context van de data
 (*[metadata](https://nl.wikipedia.org/wiki/Metadata)*).*
 
-#### Authenticatie en autorisatie met Linked Data
+**Authenticatie en autorisatie met Linked Data**
 
 Authenticatie: foaf+ssl uses a WebID and LinkedData to create a web of trust
 authentication architecture
@@ -176,7 +176,7 @@ Autorisatie: Authorization Capabilities for Linked Data v0.3
 
 *CHECK: Navragen bij Linda naar de mogelijkheden voor DSGO?*
 
-#### Historie in DSGO?
+**Historie in het DSGO?**
 
 Data kan niet meer beschikbaar zijn om verschillende redenen:
 
@@ -192,7 +192,7 @@ beschikbaar.
 Hoe past dit bij databij de bron: architect failliet?
 
 In geval van gegevens zijn verwijderd (komt bij geobasisregistraties niet
-voor!), dan metadata over data wel beschikbaar? Wat voegt dat toe?
+voor!), zijn de metaata over data ook niet meer beschikbaar.
 
 ### Uitwisselbaar
 
