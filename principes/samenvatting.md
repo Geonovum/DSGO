@@ -9,6 +9,8 @@ ontwerpprincipes en dataprincipes zoals in voorgaande hoofdstukken beschreven.
 Uitgangspunten
 --------------
 
+-   Afsprakenstelsel DSGO: Samen met de sector co-creëren van een samenhangende set afspraken op business, functioneel, operationeel, juridisch en technisch gebied, om gemakkelijker gebruik te kunnen maken van elkaars data.
+
 -   Het DSGO baseren we op publieke waarden die de samenleving reflecteren. Deze
     publieke waarden worden concreet in acht ontwerpprincipes die richting geven
     aan het ontwerpen onderhouden en toepassen van de processen en afspraken die
