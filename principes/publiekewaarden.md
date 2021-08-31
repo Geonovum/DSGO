@@ -33,16 +33,14 @@ en maakt onder andere stikstofreductie daarmee mogelijk.
 
 Veel partijen uit de samenleving dragen bij om tot het gewenste resultaat te
 komen en wisselen daartoe data uit met elkaar. Het is daarom van belang dat het
-DSGO de [publieke
-waarden](https://waag.org/sites/waag/files/2020-05/routekaart-digitale-toekomst-v0.3.pdf)
-van de samenleving reflecteert, en dat alle betrokkenen zich kunnen vinden in de
+DSGO de publieke waarden van de samenleving reflecteert, en dat alle betrokkenen zich kunnen vinden in de
 afspraken.
 
 De gemaakte afspraken borgen als het goed is de belangen van elke betrokken
 partij en worden vervolgens omgezet in technologie die de uitwisseling van data
 werkend maakt. Vaak is deze technologie een ijsberg, waar we alleen het topje
 van zien, het zogenaamde burgerperspectief. WAAG laat dit zien in hun visie op
-technologie uitgewerkt in hun digitale routekaart. Wat onder water is zien we
+technologie uitgewerkt in hun [digitale routekaart](https://waag.org/sites/waag/files/2020-05/routekaart-digitale-toekomst-v0.3.pdf). Wat onder water is, zien we
 niet. Maar uiteindelijk is alle technologie gemaakt door mensen. Zij zijn het
 die deze ontwerpen, ontwikkelen, uitrollen en stap voor stap onze maatschappij
 veranderen. Technologie is niet neutraal, maar het product van talloze
@@ -151,7 +149,7 @@ een wijk verzameld worden, maar niet meer terug te voeren zijn op een adres.
 
 *Eis*: Ontwerp elke usecase binnen het DSGO doelgericht, zodat de uit te
 wisselen data geschikt en voldoende is voor het doel, waarvoor de informatie
-nodig.
+nodig is.
 
 ### Betrokkenheid
 
