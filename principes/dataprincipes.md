@@ -2,8 +2,8 @@ Data principes
 ==============
 
 Het data aanbod en de data vraag op elkaar aansluiten is voor het DGSO niet
-eenvoudig omdat er zeer veel organisaties in de sector actief zijn met veel
-verschillende soorten data en behoeftes. Het gebrek aan beschikbaar hebben van
+eenvoudig, omdat er zeer veel organisaties in de sector actief zijn met veel
+verschillende soorten data en -behoeftes. Het gebrek aan beschikbaar hebben van
 de juiste data op de juiste plek is niet alleen een uitdaging om
 stikstofreductie doelen te halen maar is noodzakelijk voor alle maatschappelijke
 en/of sector-overstijgende doelen.
@@ -13,14 +13,15 @@ FAIR-principes
 
 ### Vindbaar
 
-De eerste stap bij het (her)gebruiken van data is om de data te vinden. Metadata
-en data moeten gemakkelijk te vinden zijn voor zowel mensen als computers.
+Actuele data over beheer, onderhoud en gebruik van vastgoedportefeuilles ligt momenteel versnipperd bij een groot aantal partijen en kost tijd en geld om te verkrijgen. DSGO voorziet in het ophalen van data die verspreid ligt over een groot aantal partijen. Hierdoor kunnen vastgoedbeheerders op een eenvoudige, veilige en gecontroleerde manier toegang krijgen tot de gebouwdata van hun vastgoedportefeuille, waaronder de werkelijke uitstoot van stikstof, gedurende de levensfase van gebouwen.
+
+De eerste stap bij het ophalen van data en het (her)gebruiken van data is om de data te vinden. Metadata
+en data moeten gemakkelijk vindbaar zijn voor zowel mensen als computers.
 Machine-readable metadata zijn essentieel voor het ontdekken van datasets en
 services.
 
 Bekendheid: Vindbaar begint met bekendheid om te weten dat data gevonden kan
-worden. Hiervoor is communicatie over het DSGO uitgangspunt en een centraal
-loket voor vragen.
+worden. DSGO moet op de hoogte zijn van de van de vindplaats en door de data en in contact staan met de eigenaar van de data. 
 
 | FAIR-Principe                                                                                 | Toepassing op DSGO                                                                                                                                                                                                                                                                   |
 |-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -29,7 +30,7 @@ loket voor vragen.
 | F3. Metadata bevatten duidelijk en expliciet de identifier van de gegevens die ze beschrijven | Metadata is beschikbaar op het niveau van data en dataset. Een data(set) in het DSGO heeft een UOI, en bij metadata wordt het UOI van de data(set) vastgelegd. *N.B. de relatie is dus ‘Metadata beschrijft 0..\* data(set)’ en niet ‘Data(set) wordt beschreven in 0..\* Metadata’* |
 | F4. (Meta)data worden geregistreerd of geïndexeerd in een doorzoekbare bron                   | Het DSGO is een [catalogus](#dsgo-als-catalogus) met gedistribueerde data(sets) over de gebouwde omgeving                                                                                                                                                                            |
 
-#### Unieke object identificatie
+**Unieke object identificatie**
 
 UOI zou moeten zijn UGI: Unieke Gegeven Identificatie, gegeven eis over
 ‘Metadata bevatten duidelijk en expliciet de identifier van de gegeven(s) die ze
@@ -60,24 +61,22 @@ standaarden in de bouw- en geo-sector en de ontwikkelingen rond
 objectidentificatie in de fysieke leefomgeving. Ten tijde van het schrijven dit
 rapport is er een concept onderzoeksrapport over UOI.*
 
-#### DSGO als catalogus
+**DSGO en de catalogusfunctie**
 
 Het DSGO fungeert als doorzoekbare catalogus c.q. register met datasets over de
 Gebouwde Omgeving, bijvoorbeeld Gebouwdossier, Energielabels,
 geobasisregistraties.
 
-Register voor datasets in het DSGO in een metadata-register à la [Nationaal Geo
-Register](https://nationaalgeoregister.nl/) (NGR).
-
+Door de catalogus c.q. registerfunctie van het DSGO zijn de datasets vindbaar. 
 Het DSGO als catalogus c.q. register van datasets over de gebouwde omgeving
-sluit aan bij principe van ‘data bij de bron’. Dataset zelf wordt niet
+sluit aan bij principe van ‘data bij de bron’. De dataset zelf wordt niet
 aangeleverd aan ofwel gekopiëerd in DSGO; er worden wel gegevens over de
 data(set) (ofwel: metadata) aan het DSGO aangeleverd. Over deze metadata van
 data(sets) wordt metadata vastgelegd, bijvoorbeeld data over de herkomst en
-actualiteit van de metadata over de data(set).
+actualiteit van de metadata over de data(set). Register voor datasets in het DSGO in een metadata-register à la [Nationaal Geo
+Register](https://nationaalgeoregister.nl/) (NGR).
 
 Bijvoorbeeld:
-
 De Basisregistratie Adressen en Gebouwen (BAG) is de authentieke bron voor
 officiële adressen en bouwjaren van panden. De ‘eigenaar’ van de BAG draagt
 gegevens aan over de dataset BAG aan het DSGO ondermeer over de herkomst,
@@ -89,9 +88,9 @@ vastgelegd.
 
 ### Toegankelijk
 
-Zodra de gebruiker de benodigde gegevens heeft gevonden bih een of meerdere
+Zodra de gebruiker de benodigde gegevens heeft gevonden bij een of meerdere
 databronnen, moet hij/zij weten hoe deze kunnen worden geraadpleegd en kan
-worden toegepast, mogelijk inclusief authenticatie en autorisatie.
+worden toegepast, mogelijk inclusief authenticatie en autorisatie voor veilige, betrouwbare en gecontroleerde toegang tot data.
 
 | FAIR-Principe                                                                                                            | Toepassing op DSGO                                                                                                                                                                                                                                          |
 |--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
