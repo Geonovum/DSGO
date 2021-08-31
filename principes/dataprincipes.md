@@ -99,6 +99,7 @@ worden toegepast, mogelijk inclusief authenticatie en autorisatie voor veilige, 
 | A1.2 Het protocol maakt een authenticatie- en autorisatieprocedure mogelijk, waar nodig                                  |                                                                                                                                                                                                                                                             |
 | A2. Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn                                               | De UOI is de sleutel naar het Dossier van een Object (data of datasets?) dat door middel van de UOI wordt geidentificeerd.                                                                                                                                          |
 
+
 **Koppelen van heterogene datasets met Linked Data**
 
 Is Linked Open Data hèt protocol voor het DSGO? Zeker bij het koppelen van
@@ -167,6 +168,8 @@ naar de dataobjecten kunnen verwijzen.*
 verwezen voor meer context van de data
 (*[metadata](https://nl.wikipedia.org/wiki/Metadata)*).*
 
+
+
 **Authenticatie en autorisatie met Linked Data**
 
 Authenticatie: foaf+ssl uses a WebID and LinkedData to create a web of trust
@@ -175,6 +178,7 @@ authentication architecture
 Autorisatie: Authorization Capabilities for Linked Data v0.3
 
 *CHECK: Navragen bij Linda naar de mogelijkheden voor DSGO?*
+
 
 **Historie in het DSGO?**
 
@@ -223,7 +227,7 @@ In Nederland zet het [Forum
 Standaardisatie](https://forumstandaardisatie.nl/over-ons) zich in voor open
 ICT-standaarden. Standaarden ondersteunen gegevensuitwisseling tussen
 ICT-systemen. De openheid zorgt ervoor dat iedereen de standaard kan
-gebruiken. [Open
+gebruiken, onafhankelijk van de gebruikte softwaresystemen. [Open
 standaarden](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/standaardisatie/open-standaarden/) dragen
 bij aan interoperabiliteit en leveranciersonafhankelijkheid. Het gebruik van
 open standaarden in ICT-systemen bespaart kosten en verlicht administratieve
@@ -233,7 +237,7 @@ Het Forum Standaardisatie hanteert twee type [lijsten open
 standaarden](https://forumstandaardisatie.nl/open-standaarden): de verplichte
 (‘pas toe of leg uit’) en aanbevolen open standaarden voor de publieke sector.
 
-#### Domein overstijgende uitwisseling van data. 
+**Domein overstijgende uitwisseling van data**
 
 als verschillende domeinen data willen uitwisselen, dan is er vaak sprake van
 verschil in definities en begrippen. Dit verschil in semantiek kan overbrugt
@@ -241,14 +245,17 @@ worden door gebruik te maken van een bovenliggende identifier die in beide
 domeinen wordt toegepast. De UOI biedt in dat geval uitkomst om data van het ene
 domein te combineren met data van het andere domein. Voorbeelden van
 overstijgende domeinen zijn: het geodomein waaronder de geo-basisregistraties,
-het energiedomein, ....
+het energiedomein, en het bouwwerkdomein waaronder digitale (3D en/of semantische) bouwwerkmodellen.
+
+**Concepten Bibliotheek NL**
+*toevoegen*
 
 ### Herbruikbaar
 
 Het uiteindelijke doel van FAIR is het hergebruik van data te optimaliseren. Om
 dit te bereiken moeten metadata en data goed worden beschreven, zodat ze in
 verschillende situaties kunnen worden gerepliceerd en/of gecombineerd. Denk
-daarbij aan de basisregistraties en landelijke voorzieningen.
+daarbij aan de basisregistraties en landelijke voorzieningen, materialenpaspoorten en circulair bouwen.
 
 | FAIR-Principe                                                                                 | Toepassing op DSGO                                                                                                                                      |
 |-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -256,8 +263,7 @@ daarbij aan de basisregistraties en landelijke voorzieningen.
 | R2. (Meta)data worden vrijgegeven met een duidelijke en toegankelijke datagebruikslicentie    |                                                                                                                                                         |
 | R3. (Meta)data worden geassocieerd met hun herkomst                                           |                                                                                                                                                         |
 | R4. (Meta)data voldoen aan domein-relevante Standaarden                                       |                                                                                                                                                         |
-
-#### Wet Kwaliteitsborging voor het Bouwen
+**Wet Kwaliteitsborging voor het Bouwen**
 
 Op dit moment is de opdrachtgever verantwoordelijk voor de bouwkwaliteit van een
 object bij overhandiging van de sleutel. De Wet Kwaliteitsborging (WKB) is erop
@@ -267,8 +273,8 @@ het *dossier bevoegd gezag*, waarbij de data die voor dit dossier benodigd is
 door alle ketenpartners aangeleverd moet worden. Dit digitale bouwdossier bevat
 informatie over het gerealiseerde bouwwerk en de verklaring van de
 kwaliteitsborger dat het gerealiseerde bouwwerk voldoet aan de bouwtechnische
-vereisten van het Bouwbesluit. Het op orde hebben van dit dossier, gaat op
-termijn een voorwaarde worden voor gunning van een opdracht.
+vereisten van het Bouwbesluit. Het dossier moet op orde zijn bij beëindiging van de opdracht. Het op orde hebben van dit dossier, gaat op
+termijn een voorwaarde zijn voor het verlenen van een gebruiksvergunning door het bevoegd gezag.
 
 Het verkrijgen van deze data is op dit moment een tijdrovend en kostbaar karwei.
 De data liggen bij een groot aantal partijen en is niet gestandaardiseerd en/of
