@@ -218,7 +218,7 @@ wordt verkeerde data overgenomen.
 | I2. (Meta)data gebruiken vocabulaires die FAIR-principes volgen                                                  | *Aansluiten op concepten CB-NL*                                                                                            |
 | I3. (Meta)data bevatten gekwalificeerde verwijzingen naar andere (meta)data                                      |                                                                                                                            |
 
-#### Open standaarden
+**Open standaarden**
 
 In Nederland zet het [Forum
 Standaardisatie](https://forumstandaardisatie.nl/over-ons) zich in voor open
