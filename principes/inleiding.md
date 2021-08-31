@@ -53,7 +53,7 @@ Doel van het adviesrapport is richtinggevende principes te formuleren voor het
 ontwerp van een Digitaal Stelsel Gebouwde Omgeving (DSGO). Deze richtinggevende
 principes dragen bij aan sector brede afspraken over uitwisseling, eigenaarschap
 en organisatie van data met als resultaat veilige, betrouwbare en gecontroleerde
-toegang tot data in de bouwsector. Het adviesrapport stelt Geonovum op in
+toegang tot data in de bouwsector, zodat alle ketenpartners die actief zijn in de verschillende fases van de levenscyclus van een bouwwerk met deze afspraken makkelijk en veilig gebruik van reeds beschikbare data kunnen maken. Het adviesrapport stelt Geonovum op in
 samenwerking met BIM Loket en CROW.
 
 De richtinggevende principes die bij het ontwerp en realisatie van het DSGO in
