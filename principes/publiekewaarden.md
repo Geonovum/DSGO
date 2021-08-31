@@ -1,48 +1,15 @@
-﻿Publieke waarden
-----------------
+Publieke waarden
+================
 
-Het DSGO dient een publiek belang door data uit de gebouwde omgeving beschikbaar te stellen voor alle belanghebbenden bij de data. Om het publieke belang te waarborgen worden 8 ontwerpprincipes gehanteerd voor het ontwerpproces van het DSGO. Deze 8 ontwerpprincipes zijn in dit hoofdstuk vertaalt in uitgangspunten, randvoorwaarden en eisen. Ze geven richting aan het proces om te komen tot sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data.
-
-Samenvatting
-------------
-
-Het publiek belang en de publieke waarden zijn de basisprincipes voor
+Het DSGO dient een publiek belang door data uit de gebouwde omgeving beschikbaar
+te stellen voor alle belanghebbenden bij de data. Om het publieke belang te
+waarborgen worden 8 ontwerpprincipes gehanteerd voor het ontwerpproces van het
+DSGO. Deze 8 ontwerpprincipes zijn in dit hoofdstuk vertaalt in uitgangspunten,
+randvoorwaarden en eisen. Ze geven richting aan het proces om te komen tot
 sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data.
-De volgende uitgangspunten, randvoorwaarden en eisen komen voort uit de
-ontwerpprincipes.
-
-**Uitgangspunten**
-
--   Het DSGO baseren we op publieke waarden die de samenleving reflecteren. Deze publieke waarden worden concreet in acht ontwerpprincipes die richting geven aan het ontwerpen onderhouden en toepassen van de processen en afspraken die
-door het DSGO ondersteund worden.
-
--   In het DSGO worden Standaarden uit verschillende domeinen toegepast. Het is
-    onmogelijk om al deze Standaarden te harmoniseren op semantiek etc..
-
-**Randvoorwaarden**
-
--   Mapping-table à la CB-NL om semantisch te linken voor gebruikers.
-
--   ..
-
--   ..
-
-
-
-**Eisen**
-
--   Afspraken over/voor Standaarden zijn slechts nodig op het grensvlak ten
-    behoeve van uitwisselbaarheid en koppelbaarheid  en hergebruik van data uit verschillende
-    domeinen/standaarden. Afspraken zijn dan nodig over identificering van
-    gegevens, historie en levensduur, uitwisselprotocol (techniek),
-    metadata-standaarden.
-    
- -   ..
-
-
 
 Het DSGO ontwerpen op basis van publieke waarden die de samenleving reflecteren
------------------------------------------------
+-------------------------------------------------------------------------------
 
 Het doel van het DSGO is om te komen tot een set van uniforme afspraken die
 zorgt voor veilige, betrouwbare en gecontroleerde toegang tot data in de
@@ -64,14 +31,26 @@ komen tot een set van afspraken over het uitwisselen van data tussen
 organisaties. Het DSGO helpt digitalisering in de bouw- en installatie sector,
 en maakt onder andere stikstofreductie daarmee mogelijk.
 
-Veel partijen uit de samenleving dragen bij om tot het gewenste resultaat te komen en
-wisselen daartoe data uit met elkaar. Het is daarom van belang
-dat het DSGO de [publieke
+Veel partijen uit de samenleving dragen bij om tot het gewenste resultaat te
+komen en wisselen daartoe data uit met elkaar. Het is daarom van belang dat het
+DSGO de [publieke
 waarden](https://waag.org/sites/waag/files/2020-05/routekaart-digitale-toekomst-v0.3.pdf)
 van de samenleving reflecteert, en dat alle betrokkenen zich kunnen vinden in de
 afspraken.
 
-De gemaakte afspraken borgen als het goed is de belangen van elke betrokken partij en worden vervolgens omgezet in technologie die de uitwisseling van data werkend maakt. Vaak is deze technologie een ijsberg, waar we alleen het topje van zien, het zogenaamde burgerperspectief. WAAG laat dit zien in hun visie op technologie uitgewerkt in hun digitale routekaart. Wat onder water is zien we niet. Maar uiteindelijk is alle technologie gemaakt door mensen. Zij zijn het die deze ontwerpen, ontwikkelen, uitrollen en stap voor stap onze maatschappij veranderen. Technologie is niet neutraal, maar het product van talloze beslissingen, die gebaseerd zijn op de waarden die de ontwerper hanteert. Daar ligt ook de sleutel tot het verkrijgen van meer grip op deze ontwikkelingen: we moeten niet alleen kijken naar het topje, maar met elkaar de hele ijsberg zien en ontwerpen. Voor het DSGO doen we dat dus op basis van publieke waarden, de we concreet hebben gemaakt in de hierna uitgewerke 8 ontwerpprincipes. 
+De gemaakte afspraken borgen als het goed is de belangen van elke betrokken
+partij en worden vervolgens omgezet in technologie die de uitwisseling van data
+werkend maakt. Vaak is deze technologie een ijsberg, waar we alleen het topje
+van zien, het zogenaamde burgerperspectief. WAAG laat dit zien in hun visie op
+technologie uitgewerkt in hun digitale routekaart. Wat onder water is zien we
+niet. Maar uiteindelijk is alle technologie gemaakt door mensen. Zij zijn het
+die deze ontwerpen, ontwikkelen, uitrollen en stap voor stap onze maatschappij
+veranderen. Technologie is niet neutraal, maar het product van talloze
+beslissingen, die gebaseerd zijn op de waarden die de ontwerper hanteert. Daar
+ligt ook de sleutel tot het verkrijgen van meer grip op deze ontwikkelingen: we
+moeten niet alleen kijken naar het topje, maar met elkaar de hele ijsberg zien
+en ontwerpen. Voor het DSGO doen we dat dus op basis van publieke waarden, de we
+concreet hebben gemaakt in de hierna uitgewerke 8 ontwerpprincipes.
 
 Ontwerpprincipes
 ----------------
@@ -87,7 +66,6 @@ vormgeven en begeleiden is fundamenteel randvoorwaardelijk en tegelijkertijd de
 grootste uitdaging bij de ontwikkeling van het DSGO.
 
 **Figuur: De DSGO use cases**
-![](media/DSGO-use_cases.png)
 
 De ontwerpprincipes zijn daarom bedoeld als werkwoorden, die de participanten
 tijdens het ontwerpproces doordenken en doorleven, zodat de juiste keuzes
@@ -115,7 +93,8 @@ dan kan altijd teruggezocht worden naar de oorsprong van de kwaliteitscontrole
 en de onderliggende data.
 
 *Eis*: Usecases leggen voor elke dataset die tussen partijen uitgewisseld wordt,
-vast wat de oorsprong van deze dataset is en welke bewerkingen deze heeft ondergaan.
+vast wat de oorsprong van deze dataset is en welke bewerkingen deze heeft
+ondergaan.
 
 ### Inclusiviteit
 
@@ -233,13 +212,21 @@ deze belanghebbenden kunnen vervolgens afspraken worden gemaakt om de data(set),
 standaard, algoritme of voorziening FAIR te kunnen (her)gebruiken.
 
 ### Informatieveiligheid
-Informatieveiligheid houdt in dat er maatregelen getroffen zijn om er voor te zorgen dat 
-- gegevens niet gemanipuleerd zijn tussen bron en eindgebruiker (integriteit); 
-- alleen de rechthebbende inzage krijgt in de gegevens (autorisatie en autenticatie).
-- de eindgebruiker kan vaststellen dat de gegevens betrouwbaar zijn en inzicht heeft of de bron de gegevens gewijzigd heeft (transparantie en provenance).
 
-Eis: Binnen het DSGO worden maatregelen getroffen om de integriteit te waarborgen.
+Informatieveiligheid houdt in dat er maatregelen getroffen zijn om er voor te
+zorgen dat - gegevens niet gemanipuleerd zijn tussen bron en eindgebruiker
+(integriteit); - alleen de rechthebbende inzage krijgt in de gegevens
+(autorisatie en autenticatie). - de eindgebruiker kan vaststellen dat de
+gegevens betrouwbaar zijn en inzicht heeft of de bron de gegevens gewijzigd
+heeft (transparantie en provenance).
 
-Eis: Het DSGO voorziet in autorisatie en athenticatiemogelijkheden, zodat alleen de rechthebbenden inzage krijgen in de data(sets) die uitgewisseld worden.
+Eis: Binnen het DSGO worden maatregelen getroffen om de integriteit te
+waarborgen.
 
-Eis: Het DSGO geeft transparant weer wat de bron is van elke dataset en welke bewerkingen deze heeft ondergaan en/of aan welke kwaliteitseisen deze voldoet in termen van actualiteit, volledigheid en juistheid), zodat de eindgebruiker de betrouwbaarheid kan vaststellen.
+Eis: Het DSGO voorziet in autorisatie en athenticatiemogelijkheden, zodat alleen
+de rechthebbenden inzage krijgen in de data(sets) die uitgewisseld worden.
+
+Eis: Het DSGO geeft transparant weer wat de bron is van elke dataset en welke
+bewerkingen deze heeft ondergaan en/of aan welke kwaliteitseisen deze voldoet in
+termen van actualiteit, volledigheid en juistheid), zodat de eindgebruiker de
+betrouwbaarheid kan vaststellen.
