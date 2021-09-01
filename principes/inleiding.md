@@ -53,7 +53,7 @@ Doel van het adviesrapport is richtinggevende principes te formuleren voor het
 ontwerp van een Digitaal Stelsel Gebouwde Omgeving (DSGO). Deze richtinggevende
 principes dragen bij aan sector brede afspraken over uitwisseling, eigenaarschap
 en organisatie van data met als resultaat veilige, betrouwbare en gecontroleerde
-toegang tot data in de bouwsector. Het adviesrapport stelt Geonovum op in
+toegang tot data in de bouwsector, zodat alle ketenpartners die actief zijn in de verschillende fases van de levenscyclus van een bouwwerk met deze afspraken makkelijk en veilig gebruik van reeds beschikbare data kunnen maken. Het adviesrapport stelt Geonovum op in
 samenwerking met BIM Loket en CROW.
 
 De richtinggevende principes die bij het ontwerp en realisatie van het DSGO in
@@ -123,8 +123,8 @@ staat.
 Het DSGO staat in de bredere context van de digitalisering & dataficering van de
 samenleving en vertegenwoordigt alle data over de gebouwde omgeving. De digitale
 en fysieke wereld raken elkaar steeds meer ook ten aanzien van de gebouwde
-omgeving. In Europa en Nederland leggen we daarbij de nadruk op publieke waarden
-, die concreet gemaakt zijn of worden in EU-wetgeving rondom het gebruik van
+omgeving. In Europa en Nederland leggen we daarbij de nadruk op publieke waarden,
+die concreet gemaakt zijn of worden in EU-wetgeving rondom het gebruik van
 data en technologie. Publieke Waarden zijn dus randvoorwaardelijk voor het
 verantwoord organiseren en inzetten van het DSGO. Deze waarden komen voort uit
 universele mensenrechten. Denk aan gelijkheid, vrijheid, menselijke waardigheid,
@@ -135,7 +135,7 @@ als ook voor het gebruik, onderhoud en de governance van het DSGO.
 Deze ontwerpprincipes zijn:
 
 1.  *Radicaal open en transparent*: dit principe slaat zowel op de ontwikkeling
-    van het DSGO als de uikomst ervan. Ontwerpproces: namelijk dat dit in een
+    van het DSGO als de uitkomst ervan. Ontwerpproces: namelijk dat dit in een
     open en transparant proces ontwikkeld wordt, waarbij alle belanghebbenden
     inzicht krijgen en invloed hebben op de ontwikkeling. Uitkomsten: Data,
     algoritmen en technologie zijn navolgbaar, herleidbaar en begrijpelijk. Voor
