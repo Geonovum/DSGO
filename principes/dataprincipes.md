@@ -50,14 +50,14 @@ randvoorwaarden en eisen.
     niet, dan worden processen opgestart om die bij te werken volgende de
     geldende regelgeving. Daarbij geldt dat:
 
--   architecten, ingenieursbureaus en bouwbedrijven en aannemers gebruiken de informatie uit de basisregistraties
-    als uitgangspunt voor hun ontwerp en doen waar nodig meldingen waar de info
-    niet juist is.
+-   architecten, ingenieursbureaus en bouwbedrijven en aannemers gebruiken de
+    informatie uit de basisregistraties als uitgangspunt voor hun ontwerp en
+    doen waar nodig meldingen waar de info niet juist is.
 
 -   Bevoegd gezag controleert na oplevering de maatvoering met de werkelijkheid
     en zorgt voor aanpassing van de geobasisregistraties, op basis van de
-    informatie uit het digitaal bouwwerkdossier. Daarbij gebruiken alle partijen de
-    voorzieningen van de Geobasisregistraties.
+    informatie uit het digitaal bouwwerkdossier. Daarbij gebruiken alle partijen
+    de voorzieningen van de Geobasisregistraties.
 
 FAIR-principes
 --------------
@@ -148,7 +148,7 @@ worden toegepast, mogelijk inclusief authenticatie en autorisatie.
 |--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | A1. (Meta)gegevens kunnen worden opgehaald door hun identifier met behulp van een gestandaardiseerd communicatieprotocol | *Samenbrengen van gegevens vanuit basisregistraties als BGT en BAG. Ook Digitaal Stelsel Omgevingswet voor de ruimtelijke besluiten als een omgevingsplan (nu conform de Wro: bestemmingsplan). UOI Verschil tussen diensten en projectdossier beschrijven* |
 | A1.1 Het protocol is open, gratis en universeel toepasbaar                                                               | De gegevens in de data(sets) die in de catalogus DSGO zijn met een open protocol gratis protocol bij de bron toegankelijk. Bijvoorbeeld met [Linked Data](#koppelen-van-heterogene-datasets-met-linked-data).                                               |
-| A1.2 Het protocol maakt een authenticatie- en autorisatieprocedure mogelijk, waar nodig                                  |                                                                                                                                                                                                                                                             |
+| A1.2 Het protocol maakt een authenticatie- en autorisatieprocedure mogelijk, waar nodig                                  | Het DSGO geeft gecontroleerde toegang tot data over de gebouwde omgeving.                                                                                                                                                                                   |
 | A2. Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn                                               | De UOI is de sleutel naar het Dossier van een Object (data of datasets?) dat middels de UOI wordt geidentificeerd.                                                                                                                                          |
 
 #### Koppelen van heterogene datasets met Linked Data
