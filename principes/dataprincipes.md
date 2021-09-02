@@ -29,23 +29,19 @@ loket voor vragen.
 (Meta)data(set) in het DSGO krijgen een unieke object identificatie
 ([UOI](#toegankelijk)) welke tijdens de hele levensloop van de (meta)data(set).
 
-Het [Unieke Object Identificator
-(UOI)](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie) ‘systeem’
-is een digitale sleutel waarmee je op basis van je rol en toegangsrechten
-informatie over gebouwen en objecten in de gebouwde omgeving kunt raadplegen.
-Het ‘systeem’ als gedachte is ontwikkeld binnen de bouw- en vastgoedsector. De
-gedachte achter een UOI-code is dat er domein-overstijgend verbindingen mee
-gelegd kunnen worden die het beantwoorden van vragen over objecten in de
-gebouwde omgeving vereenvoudigen. De UOI-code wordt ook genoemd in de lopende
-consultatie van de [Samenhangende Objecten Registratie
-(SOR)](https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang/objectenregistratie).
-Experts uit de bouw- en geo-wereld hebben het UOI als systeem getoetst aan de
-nieuwe Geo- & Bouw-informatiestandaarden (NEN 3610, NEN 2660 en BIM gerelateerde
-standaarden) en de [principes die DiSGeo
-hanteert](https://docs.geostandaarden.nl/disgeo/emso/#identificatie-van-objecten) voor
-de Samenhangende Objecten Registratie (SOR). Ook is gekeken naar de instrumenten
-van de Wet kwaliteitsborging Bouw (Wkb) en het ontwerp Digitaal Stelsel Gebouwde
-Omgeving DSGO (binnen DigiGo).
+Het Unieke Object Identificator (UOI) ‘systeem’ is een digitale sleutel waarmee
+je op basis van je rol en toegangsrechten informatie over gebouwen en objecten
+in de gebouwde omgeving kunt raadplegen. Het ‘systeem’ als gedachte is
+ontwikkeld binnen de bouw- en vastgoedsector. De gedachte achter een UOI-code is
+dat er domein-overstijgend verbindingen mee gelegd kunnen worden die het
+beantwoorden van vragen over objecten in de gebouwde omgeving vereenvoudigen. De
+UOI-code wordt ook genoemd in de lopende consultatie van de Samenhangende
+Objecten Registratie (SOR). Experts uit de bouw- en geo-wereld hebben het UOI
+als systeem getoetst aan de nieuwe Geo- & Bouw-informatiestandaarden (NEN 3610,
+NEN 2660 en BIM gerelateerde standaarden) en de principes die DiSGeo
+hanteert voor de Samenhangende Objecten Registratie (SOR). Ook is gekeken naar
+de instrumenten van de Wet kwaliteitsborging Bouw (Wkb) en het ontwerp Digitaal
+Stelsel Gebouwde Omgeving DSGO (binnen DigiGo).
 
 *Noot van de schrijvers: Tussen november 2020 en april 2021 heeft het ministerie
 van BZK onderzoek laten doen naar het ontwerp van een Unieke Object
@@ -87,16 +83,14 @@ data(set) (ofwel: metadata) aan het DSGO aangeleverd. Over deze metadata van
 data(sets) wordt metadata vastgelegd, bijvoorbeeld data over de herkomst en
 actualiteit van de metadata over de data(set).
 
->   Bijvoorbeeld:
-
->   De Basisregistratie Adressen en Gebouwen (BAG) is de authentieke bron voor
->   officiële adressen en bouwjaren van panden. De ‘eigenaar’ van de BAG draagt
->   gegevens aan over de dataset BAG aan het DSGO ondermeer over de herkomst,
->   kwaliteit (bijvoorbeeld actualiteit 4 dagen, geometrische nauwkeurigheid van
->   30-60 cm, volledigheid 100%) en gebruik (wettelijk verplicht voor overheden)
->   van de data in de BAG. In het DSGO wordt vastgelegd de herkomst (eigenaar
->   BAG) en kwaliteit (wanneer metadata voor het laatst is bijgewerkt) over de
->   BAG vastgelegd.
+>   Bijvoorbeeld BAG: De Basisregistratie Adressen en Gebouwen (BAG) is de
+>   authentieke bron voor officiële adressen en bouwjaren van panden. De
+>   ‘eigenaar’ van de BAG draagt gegevens aan over de dataset BAG aan het DSGO
+>   ondermeer over de herkomst, kwaliteit (bijvoorbeeld actualiteit 4 dagen,
+>   geometrische nauwkeurigheid van 30-60 cm, volledigheid 100%) en gebruik
+>   (wettelijk verplicht voor overheden) van de data in de BAG. In het DSGO
+>   wordt vastgelegd de herkomst (eigenaar BAG) en kwaliteit (wanneer metadata
+>   voor het laatst is bijgewerkt) over de BAG vastgelegd.
 
 ### Toegankelijk
 
@@ -183,9 +177,9 @@ bij aan interoperabiliteit en leveranciersonafhankelijkheid. Het gebruik van
 open standaarden in ICT-systemen bespaart kosten en verlicht administratieve
 lasten.
 
-Het Forum Standaardisatie hanteert twee type [lijsten open
-standaarden](https://forumstandaardisatie.nl/open-standaarden): de verplichte
-(‘pas toe of leg uit’) en aanbevolen open standaarden voor de publieke sector.
+Het Forum Standaardisatie hanteert twee type lijsten open standaarden: de
+verplichte (‘pas toe of leg uit’) en aanbevolen open standaarden voor de
+publieke sector.
 
 **I2. (Meta)data gebruiken vocabulaires die FAIR-principes volgen**
 
@@ -198,18 +192,16 @@ domein te combineren met data van het andere domein. Voorbeelden van
 overstijgende domeinen zijn: het geodomein waaronder de geo-basisregistraties,
 het energiedomein, ....
 
->   Bijvoorbeeld [CB-NL](https://public.cbnl.org/over-cb-nl):
-
->   Verschillende definiëring, beschrijvingen en interpretaties door betrokken
->   partijen leiden ertoe dat bouwpartijen in de sector een verschillende taal
->   ‘spreken’. Hierdoor zijn objectgegevens niet efficiënt (geautomatiseerd)
->   herbruikbaar. De conceptenbibliotheek Nederland (CB-NL) is een soort
->   digitaal woordenboek voor de bouw, eenvoudig bruikbaar voor
->   elke gebruiker. De CB-NL is een digitale beschrijving van generieke,
->   herbruikbare concepten (typen of soorten), die betrekking hebben op onder
->   meer fysieke gebouwde objecten, de gebruiksruimten en –gebieden en
->   ruimtelijke omgeving. De beschrijving geldt bovendien gedurende de hele
->   levenscyclus.
+>   Bijvoorbeeld [CB-NL](https://public.cbnl.org/over-cb-nl): Verschillende
+>   definiëring, beschrijvingen en interpretaties door betrokken partijen leiden
+>   ertoe dat bouwpartijen in de sector een verschillende taal ‘spreken’.
+>   Hierdoor zijn objectgegevens niet efficiënt (geautomatiseerd) herbruikbaar.
+>   De conceptenbibliotheek Nederland (CB-NL) is een soort digitaal woordenboek
+>   voor de bouw, eenvoudig bruikbaar voor elke gebruiker. De CB-NL is een
+>   digitale beschrijving van generieke, herbruikbare concepten (typen of
+>   soorten), die betrekking hebben op onder meer fysieke gebouwde objecten, de
+>   gebruiksruimten en –gebieden en ruimtelijke omgeving. De beschrijving geldt
+>   bovendien gedurende de hele levenscyclus.
 
 **I3. (Meta)data bevatten gekwalificeerde verwijzingen naar andere (meta)data**
 
@@ -273,3 +265,7 @@ gebruiksrecht op willen behouden.
 **R3. (Meta)data worden geassocieerd met hun herkomst**
 
 **R4. (Meta)data voldoen aan domein-relevante Standaarden**
+
+Standaarden zijn de afsprakenstelsels van domeinen die specificaties en eisen
+aan de (meta)data beschrijven. De standaarden voor (meta)data(sets) in het DSGO
+worden in de domeinen beheerd en doorontwikkeld.
