@@ -146,6 +146,8 @@ gegevens vastgesteld. In de *autorisatie*procedure wordt bepaald of de
 leverancier of afnemer recht heeft tot het wijzigen of gebruiken van de
 gegevens.
 
+> DigiD en e-Herkenning
+
 **A2. Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn**
 
 Data kan niet meer beschikbaar zijn voor afnemer om verschillende redenen:
