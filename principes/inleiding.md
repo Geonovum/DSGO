@@ -204,6 +204,6 @@ gerepliceerd en/of gecombineerd.
 
 Afbakening
 ------
-- Wat is het niet
+- Wat is het niet, zoals een globale architectuur schets (GAS) of product beschrijving
 - verwijzing naar programma spoor governance& beheer
 - BOMOS voor beheer
