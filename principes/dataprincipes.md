@@ -12,17 +12,18 @@ Ontwerpprincipes
 ----------------
 
 In dit hoofdstuk worden de ontwerpprincipes voor (meta)data(sets) in het DSGO
-beschreven aan de hand van de FAIR-principes: Findable (vindbaar), Accessible
-(toegankelijk), Interoperable (uitwisselbaar) en Reusable (herbruikbaar).
+beschreven aan de hand van de FAIR-principes: 
+*Findable* (vindbaar), *Accessible* (toegankelijk), *Interoperable* (uitwisselbaar) en *Reusable* (herbruikbaar).
+Deze zijn geletterd en genummerd, aan de hand waarvan ze worden doorgenomen. 
 
 ### Vindbaar
 
 De eerste stap bij het (her)gebruiken van data is om de data te vinden. Metadata
 en data moeten gemakkelijk te vinden zijn voor zowel mensen als computers.
-Machine-readable metadata zijn essentieel voor het ontdekken van datasets en
+Machineleesbare metadata zijn essentieel voor het ontdekken van datasets en
 services. Vindbaar begint met bekendheid om te weten dat data gevonden kan
-worden. Hiervoor is communicatie over het DSGO uitgangspunt en een centraal
-loket voor vragen.
+worden. Hiervoor is communicatie over het DSGO-uitgangspunt en een centraal
+loket voor vragen essentieel.
 
 **F1. (Meta)data krijgen een wereldwijd unieke en persistente identifier**
 
@@ -46,6 +47,9 @@ hanteert](https://docs.geostandaarden.nl/disgeo/emso/#identificatie-van-objecten
 de Samenhangende Objecten Registratie (SOR). Ook is gekeken naar de instrumenten
 van de Wet kwaliteitsborging Bouw (Wkb) en het ontwerp Digitaal Stelsel Gebouwde
 Omgeving DSGO (binnen DigiGo).
+
+Merk op dat zowel het beschreven object middels een UOI wordt geïdentificeerd, 
+als de data, documenten, etc. die het object beschrijven.
 
 *Noot van de schrijvers: Tussen november 2020 en april 2021 heeft het ministerie
 van BZK onderzoek laten doen naar het ontwerp van een Unieke Object
@@ -98,7 +102,7 @@ actualiteit van de metadata over de data(set).
 
 ### Toegankelijk
 
-Zodra de gebruiker de benodigde gegevens heeft gevonden bih een of meerdere
+Zodra de gebruiker de benodigde gegevens heeft gevonden bij een of meerdere
 databronnen, moet hij/zij weten hoe deze kunnen worden geraadpleegd en kan
 worden toegepast, mogelijk inclusief authenticatie en autorisatie.
 
@@ -115,8 +119,10 @@ beschrijven*
 
 **A1.1 Het protocol is open, gratis en universeel toepasbaar**
 
-De gegevens in de data(sets) die in de catalogus DSGO zijn met een open protocol
+De gegevens in de data(sets) die in de catalogus DSGO zijn met een open en
 gratis protocol bij de bron toegankelijk.
+
+Dat betekent slechts dat de wijze van de toegang gratis is, niet per se bijv. de toegangscodes.
 
 >   Bijvoorbeeld met [Linked
 >   Data](#koppelen-van-heterogene-datasets-met-linked-data). De overheid
@@ -189,12 +195,17 @@ standaarden](https://forumstandaardisatie.nl/open-standaarden): de verplichte
 
 In het DSGO vindt domein overstijgende uitwisseling van data plaats. Als
 verschillende domeinen data willen uitwisselen, dan is er vaak sprake van
-verschil in definities en begrippen. Dit verschil in semantiek kan overbrugt
-worden door gebruik te maken van een bovenliggende identifier die in beide
+verschil in definities en begrippen.
+
+Betekenisverwarring kan op twee wijzes overbrugd worden.
+Enerzijds door gebruik te maken van een bovenliggende identifier die in beide
 domeinen wordt toegepast. De UOI biedt in dat geval uitkomst om data van het ene
 domein te combineren met data van het andere domein. Voorbeelden van
 overstijgende domeinen zijn: het geodomein waaronder de geo-basisregistraties,
 het energiedomein, ....
+
+Anderzijds door de wijze waarop de gegevens zijn opgeslagen, te beschrijven.
+Zulke beschrijven worden ook wel OTL’s, ontologieën of informatiemodellen genoemd.
 
 >   Bijvoorbeeld [CB-NL](https://public.cbnl.org/over-cb-nl): Verschillende
 >   definiëring, beschrijvingen en interpretaties door betrokken partijen leiden
