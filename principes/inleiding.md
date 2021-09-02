@@ -199,3 +199,10 @@ workflows voor analyse, opslag en verwerking.
 van data te optimaliseren. Om dit te bereiken moeten metadata en data goed
 worden beschreven, zodat ze in verschillende situaties kunnen worden
 gerepliceerd en/of gecombineerd.
+
+
+Afbakening
+------
+- Wat is het niet
+- verwijzing naar programma spoor governance& beheer
+- BOMOS voor beheer
