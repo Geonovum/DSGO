@@ -29,19 +29,23 @@ loket voor vragen.
 (Meta)data(set) in het DSGO krijgen een unieke object identificatie
 ([UOI](#toegankelijk)) welke tijdens de hele levensloop van de (meta)data(set).
 
-Het Unieke Object Identificator (UOI) ‘systeem’ is een digitale sleutel waarmee
-je op basis van je rol en toegangsrechten informatie over gebouwen en objecten
-in de gebouwde omgeving kunt raadplegen. Het ‘systeem’ als gedachte is
-ontwikkeld binnen de bouw- en vastgoedsector. De gedachte achter een UOI-code is
-dat er domein-overstijgend verbindingen mee gelegd kunnen worden die het
-beantwoorden van vragen over objecten in de gebouwde omgeving vereenvoudigen. De
-UOI-code wordt ook genoemd in de lopende consultatie van de Samenhangende
-Objecten Registratie (SOR). Experts uit de bouw- en geo-wereld hebben het UOI
-als systeem getoetst aan de nieuwe Geo- & Bouw-informatiestandaarden (NEN 3610,
-NEN 2660 en BIM gerelateerde standaarden) en de principes die DiSGeo
-hanteert voor de Samenhangende Objecten Registratie (SOR). Ook is gekeken naar
-de instrumenten van de Wet kwaliteitsborging Bouw (Wkb) en het ontwerp Digitaal
-Stelsel Gebouwde Omgeving DSGO (binnen DigiGo).
+Het [Unieke Object Identificator
+(UOI)](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie) ‘systeem’
+is een digitale sleutel waarmee je op basis van je rol en toegangsrechten
+informatie over gebouwen en objecten in de gebouwde omgeving kunt raadplegen.
+Het ‘systeem’ als gedachte is ontwikkeld binnen de bouw- en vastgoedsector. De
+gedachte achter een UOI-code is dat er domein-overstijgend verbindingen mee
+gelegd kunnen worden die het beantwoorden van vragen over objecten in de
+gebouwde omgeving vereenvoudigen. De UOI-code wordt ook genoemd in de lopende
+consultatie van de [Samenhangende Objecten Registratie
+(SOR)](https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang/objectenregistratie).
+Experts uit de bouw- en geo-wereld hebben het UOI als systeem getoetst aan de
+nieuwe Geo- & Bouw-informatiestandaarden (NEN 3610, NEN 2660 en BIM gerelateerde
+standaarden) en de [principes die DiSGeo
+hanteert](https://docs.geostandaarden.nl/disgeo/emso/#identificatie-van-objecten) voor
+de Samenhangende Objecten Registratie (SOR). Ook is gekeken naar de instrumenten
+van de Wet kwaliteitsborging Bouw (Wkb) en het ontwerp Digitaal Stelsel Gebouwde
+Omgeving DSGO (binnen DigiGo).
 
 *Noot van de schrijvers: Tussen november 2020 en april 2021 heeft het ministerie
 van BZK onderzoek laten doen naar het ontwerp van een Unieke Object
@@ -66,8 +70,8 @@ wordt beschreven in 0..\* Metadata’*
 
 **F4. (Meta)data worden geregistreerd of geïndexeerd in een doorzoekbare bron**
 
-Het DSGO is een [catalogus](#dsgo-als-catalogus) met gedistribueerde data(sets)
-over de gebouwde omgeving.
+Het DSGO fungeert als een [catalogus](#dsgo-als-catalogus) met gedistribueerde
+data(sets) over de gebouwde omgeving.
 
 Het DSGO fungeert als doorzoekbare catalogus c.q. register met datasets over de
 Gebouwde Omgeving, bijvoorbeeld Gebouwdossier, Energielabels,
@@ -177,9 +181,9 @@ bij aan interoperabiliteit en leveranciersonafhankelijkheid. Het gebruik van
 open standaarden in ICT-systemen bespaart kosten en verlicht administratieve
 lasten.
 
-Het Forum Standaardisatie hanteert twee type lijsten open standaarden: de
-verplichte (‘pas toe of leg uit’) en aanbevolen open standaarden voor de
-publieke sector.
+Het Forum Standaardisatie hanteert twee type [lijsten open
+standaarden](https://forumstandaardisatie.nl/open-standaarden): de verplichte
+(‘pas toe of leg uit’) en aanbevolen open standaarden voor de publieke sector.
 
 **I2. (Meta)data gebruiken vocabulaires die FAIR-principes volgen**
 
