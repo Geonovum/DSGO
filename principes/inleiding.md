@@ -134,7 +134,7 @@ als ook voor het gebruik, onderhoud en de governance van het DSGO.
 
 Deze ontwerpprincipes zijn:
 
-1.  *Radicaal open en transparent*: dit principe slaat zowel op de ontwikkeling
+1.  *Radicaal open en transparant*: dit principe slaat zowel op de ontwikkeling
     van het DSGO als de uitkomst ervan. Ontwerpproces: namelijk dat dit in een
     open en transparant proces ontwikkeld wordt, waarbij alle belanghebbenden
     inzicht krijgen en invloed hebben op de ontwikkeling. Uitkomsten: Data,
