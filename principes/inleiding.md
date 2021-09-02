@@ -190,6 +190,7 @@ ontdekken van datasets en services.
 **Accessible (toegankelijkheid)** Zodra de gebruiker de benodigde gegevens heeft
 gevonden, moet hij/zij weten hoe deze kunnen worden geraadpleegd, inclusief
 authenticatie en autorisatie.
+Laagdrempelig in gebruik.
 
 **Interoperable (uitwisselbaar)** De gegevens moeten meestal worden geïntegreerd
 met andere gegevens. Bovendien moeten de gegevens samenwerken met applicaties of
