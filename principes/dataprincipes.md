@@ -12,17 +12,18 @@ Ontwerpprincipes
 ----------------
 
 In dit hoofdstuk worden de ontwerpprincipes voor (meta)data(sets) in het DSGO
-beschreven aan de hand van de FAIR-principes: Findable (vindbaar), Accessible
-(toegankelijk), Interoperable (uitwisselbaar) en Reusable (herbruikbaar).
+beschreven aan de hand van de FAIR-principes: 
+*Findable* (vindbaar), *Accessible* (toegankelijk), *Interoperable* (uitwisselbaar) en *Reusable* (herbruikbaar).
+Deze zijn geletterd en genummerd, aan de hand waarvan ze worden doorgenomen. 
 
 ### Vindbaar
 
 De eerste stap bij het (her)gebruiken van data is om de data te vinden. Metadata
 en data moeten gemakkelijk te vinden zijn voor zowel mensen als computers.
-Machine-readable metadata zijn essentieel voor het ontdekken van datasets en
+Machineleesbare metadata zijn essentieel voor het ontdekken van datasets en
 services. Vindbaar begint met bekendheid om te weten dat data gevonden kan
-worden. Hiervoor is communicatie over het DSGO uitgangspunt en een centraal
-loket voor vragen.
+worden. Hiervoor is communicatie over het DSGO-uitgangspunt en een centraal
+loket voor vragen essentieel.
 
 **F1. (Meta)data krijgen een wereldwijd unieke en persistente identifier**
 
