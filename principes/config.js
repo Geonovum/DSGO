@@ -2,7 +2,39 @@ var respecConfig = {
   format: "markdown",
   specStatus: "GN-WV",
   specType: "HR", 
-  //publishDate: "2017-09-12",
+  //publishDate: "2020-09-06",
+  authors: [
+    { name: "Arnoud de Boer",
+     company: "Geonovum",
+     companyURL: "https://www.geonovum.nl", 
+    // mailto: "a.deboer@geonovum.nl" 
+    },
+{ name: "Dik Spekkink", 
+     company: "BIM Loket",
+ companyURL: "https://www.bimloket.nl", 
+ // mailto: "dik.spekkink@bimloket.nl" 
+},
+{ name: "Jacueline Meerkerk", 
+     company: "BIM Loket",
+ companyURL: "https://www.bimloket.nl", 
+ //mailto: "jacqueline.meerkerk@bimloket.nl"
+},
+{ name: "Jan-Pieter Eelants",
+     company: "CROW",
+ companyURL: "https://www.crow.nl", 
+// mailto: "jan-pieter.eelants@crow.nl" 
+},
+{ name: "Monique van Scherpenzeel",
+ company: "Geonovum",
+ companyURL: "https://www.geonovum.nl", 
+ //mailto: "m.vanscherpenzeel@geonovum.nl" 
+},
+{ name: "Redmer Kronemeijer", 
+     company: "CROW",
+ companyURL: "https://www.crow.nl", 
+// mailto: "redmer.kronemeijer@crow.nl"
+}
+           ],  
   editors: [
     {
       name: "Geonovum",
