@@ -34,17 +34,21 @@ installatie sector, en draagt daarmee bij aan stikstofreductie.
 
 De overheid, in de rol van het ministerie van Binnenlandse Zaken en
 Koninkrijksrelaties (BZK), moet hier een rol als aanjager in nemen wil het DSGO
-een kans van slagen hebben. Daarnaast zal de overheid, in haar rol van
-opdrachtgever (o.a. Rijksvastgoedbedrijf, provincies), in haar rol van Bevoegd
-Gezag en vanuit haar verantwoordelijkheid voor het klimaatakkoord hier zelf ook
-van profiteren.
+een kans van slagen hebben. Daarbij ligt de focus op het stimuleren van
+samenwerking binnen de sector, tussen verschillende onderdelen van de
+rijksoverheid en medeoverheden. Bovendien zal het ministerie aandacht hebben
+voor het borgen van publieke waarden in het stelsel.  Daarnaast zal de overheid,
+in haar rol van opdrachtgever (o.a. Rijksvastgoedbedrijf, provincies), in haar
+rol van Bevoegd Gezag en vanuit haar verantwoordelijkheid voor verschillende
+beleidsthema’s zoals het klimaatakkoord en de basisregistraties hier zelf ook
+profijt van hebben.
 
 Met het opstellen van richtinggevende principes, in aanvulling op 34 ‘use
 cases’, gegroepeerd in zes thema’s, wordt er met dit adviesrapport input
 geleverd voor het ontwerp van een Digitaal Stelsel voor de Gebouwde Omgeving.
-Deze principes dragen bij aan de sector brede afspraken over uitwisseling, eigenaarschap en organisatie van
-data met als resultaat veilige, betrouwbare en gecontroleerde toegang tot data
-in de bouwsector: in verbinding en in samenhang.
+Deze principes dragen bij aan de sector brede afspraken over uitwisseling,
+eigenaarschap en organisatie van data met als resultaat veilige, betrouwbare en
+gecontroleerde toegang tot data in de bouwsector: in verbinding en in samenhang.
 
 Doel en resultaat
 -----------------
@@ -53,8 +57,10 @@ Doel van het adviesrapport is richtinggevende principes te formuleren voor het
 ontwerp van een Digitaal Stelsel Gebouwde Omgeving (DSGO). Deze richtinggevende
 principes dragen bij aan sector brede afspraken over uitwisseling, eigenaarschap
 en organisatie van data met als resultaat veilige, betrouwbare en gecontroleerde
-toegang tot data in de bouwsector, zodat alle ketenpartners die actief zijn in de verschillende fases van de levenscyclus van een bouwwerk met deze afspraken makkelijk en veilig gebruik van reeds beschikbare data kunnen maken. Het adviesrapport stelt Geonovum op in
-samenwerking met BIM Loket en CROW.
+toegang tot data in de bouwsector, zodat alle ketenpartners die actief zijn in
+de verschillende fases van de levenscyclus van een bouwwerk met deze afspraken
+makkelijk en veilig gebruik van reeds beschikbare data kunnen maken. Het
+adviesrapport stelt Geonovum op in samenwerking met BIM Loket en CROW.
 
 De richtinggevende principes die bij het ontwerp en realisatie van het DSGO in
 acht genomen dienen te worden, borgen het publiek belang voor bijvoorbeeld
@@ -63,39 +69,43 @@ Maar ook robuustheid, toekomstvastheid en stapsgewijze groei van het DSGO.
 
 Om dit doel te bereiken maken we in het adviesrapport onderscheid naar
 uitgangspunten, randvoorwaarden en eisen. Bij elk van de richtinggevende
-principes zorgen  het publiek belang en de publieke waarden de basisprincipes voor
-sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data:
-ze leiden tot verbinding en samenhang.
+principes zorgen het publiek belang en de publieke waarden de basisprincipes
+voor sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van
+data: ze leiden tot verbinding en samenhang.
 
 Aanpak
 ------
 
-Voor de uitvoering van deze opdracht hebben Geonovum, BIM Loket en CROW
-de volgende aanpak gehanteerd.
+Voor de uitvoering van deze opdracht hebben Geonovum, BIM Loket en CROW de
+volgende aanpak gehanteerd.
 
 ### Processtappen
 
-*Stap 1. Voorbereiding* Geonovum heeft met 2-3 eigen experts een eerste aanzet gemaakt
-van principes op het gebied van onder meer openheid, toegankelijkheid,
+*Stap 1. Voorbereiding* Geonovum heeft met 2-3 eigen experts een eerste aanzet
+gemaakt van principes op het gebied van onder meer openheid, toegankelijkheid,
 interoperabiliteit, authenticiteit en verantwoordelijkheid (governance) voor het
-Digitaal Stelsel Gebouwde Omgeving (DSGO). Geonovum heeft  hiervoor hergebruik gemaakt
-van ervaringen uit eerdere adviestrajecten voor (doorontwikkeling van) digitale
-stelsels voor onder meer Digitaal Stelsel Omgevingswet (DSO),
-Objectidentificering (UOI) en samenhang geo(basis)registraties. Aan dit rapport hebben we in een open/ publieke omgeving gewerkt waardoor meerder mensen van
-de verschillende organisaties tegelijkertijd aan het rapport konden werken.
+Digitaal Stelsel Gebouwde Omgeving (DSGO). Geonovum heeft hiervoor hergebruik
+gemaakt van ervaringen uit eerdere adviestrajecten voor (doorontwikkeling van)
+digitale stelsels voor onder meer Digitaal Stelsel Omgevingswet (DSO),
+Objectidentificering (UOI) en samenhang geo(basis)registraties. Aan dit rapport
+hebben we in een open/ publieke omgeving gewerkt waardoor meerder mensen van de
+verschillende organisaties tegelijkertijd aan het rapport konden werken.
 
 *Stap 2. Uitbreiding* In een workshopachtige setting heeft Geonovum samen met
-experts van BIM Loket en CROW de eerste aanzet van principes uitgebreid. De  principes zijn verbreed, verfijnd en geconcretiseerd zonder de implementatievrijheid in latere uitwerking te
-beperken. 
+experts van BIM Loket en CROW de eerste aanzet van principes uitgebreid. De
+principes zijn verbreed, verfijnd en geconcretiseerd zonder de
+implementatievrijheid in latere uitwerking te beperken.
 
 *Stap 3. Toetsing* Het tussenresultaat van het adviesrapport met richtinggevende
-principes (versie 0.3) is begin september met BZK, Geonovum, BIM Loket en CROW getoetst. In het vervolg van september zullen de de concept-principes door middel van een informele consultatie gericht aan 5 tot maximaal 10, samen met BZK te bepalen organisaties, tijdens een klankbordsessie worden
-gepresenteerd en getoetst (waaronder Innopay, de programma’s Bouwwijzer en MedMij,
-verschillende directoraten/ programma’s van BZK, andere departementen, publieke
-partijen). De presentatie heeft tot doel het creëren van draagvlak en het kunnen
-ingaan op vragen en discussie. Na afloop van klankbordsessie krijgen de
-organisaties 2 weken gelegenheid om principes te reviewen, en verbetersuggesties
-aan te dragen.
+principes (versie 0.3) is begin september met BZK, Geonovum, BIM Loket en CROW
+getoetst. In het vervolg van september zullen de de concept-principes door
+middel van een informele consultatie gericht aan 5 tot maximaal 10, samen met
+BZK te bepalen organisaties, tijdens een klankbordsessie worden gepresenteerd en
+getoetst (waaronder Innopay, de programma’s Bouwwijzer en MedMij, verschillende
+directoraten/ programma’s van BZK, andere departementen, publieke partijen). De
+presentatie heeft tot doel het creëren van draagvlak en het kunnen ingaan op
+vragen en discussie. Na afloop van klankbordsessie krijgen de organisaties 2
+weken gelegenheid om principes te reviewen, en verbetersuggesties aan te dragen.
 
 *Stap 4. Afronding* Geonovum verwerkt samen met BIM Loket en CROW de
 verbetersuggesties uit de informele consultatie/toetsing. Waar dat wel kan
@@ -123,9 +133,9 @@ staat.
 Het DSGO staat in de bredere context van de digitalisering & dataficering van de
 samenleving en vertegenwoordigt alle data over de gebouwde omgeving. De digitale
 en fysieke wereld raken elkaar steeds meer ook ten aanzien van de gebouwde
-omgeving. In Europa en Nederland leggen we daarbij de nadruk op publieke waarden,
-die concreet gemaakt zijn of worden in EU-wetgeving rondom het gebruik van
-data en technologie. Publieke Waarden zijn dus randvoorwaardelijk voor het
+omgeving. In Europa en Nederland leggen we daarbij de nadruk op publieke
+waarden, die concreet gemaakt zijn of worden in EU-wetgeving rondom het gebruik
+van data en technologie. Publieke Waarden zijn dus randvoorwaardelijk voor het
 verantwoord organiseren en inzetten van het DSGO. Deze waarden komen voort uit
 universele mensenrechten. Denk aan gelijkheid, vrijheid, menselijke waardigheid,
 autonomie en veiligheid. We vertalen deze waarden in een aantal ontwerpprincipes
@@ -189,8 +199,7 @@ ontdekken van datasets en services.
 
 **Accessible (toegankelijkheid)** Zodra de gebruiker de benodigde gegevens heeft
 gevonden, moet hij/zij weten hoe deze kunnen worden geraadpleegd, inclusief
-authenticatie en autorisatie.
-Laagdrempelig in gebruik.
+authenticatie en autorisatie. Laagdrempelig in gebruik.
 
 **Interoperable (uitwisselbaar)** De gegevens moeten meestal worden geïntegreerd
 met andere gegevens. Bovendien moeten de gegevens samenwerken met applicaties of
@@ -201,9 +210,12 @@ van data te optimaliseren. Om dit te bereiken moeten metadata en data goed
 worden beschreven, zodat ze in verschillende situaties kunnen worden
 gerepliceerd en/of gecombineerd.
 
-
 Afbakening
-------
-- Wat is het niet, zoals een globale architectuur schets (GAS) of product beschrijving
-- verwijzing naar programma spoor governance& beheer
-- BOMOS voor beheer
+----------
+
+-   Wat is het niet, zoals een globale architectuur schets (GAS) of product
+    beschrijving
+
+-   verwijzing naar programma spoor governance& beheer
+
+-   BOMOS voor beheer
