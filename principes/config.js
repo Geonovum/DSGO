@@ -2,7 +2,7 @@ var respecConfig = {
   format: "markdown",
   specStatus: "GN-WV",
   specType: "HR", 
-  publishDate: "2020-09-06",
+  //publishDate: "2020-09-06",
   authors: [
     { name: "Arnoud de Boer",
      company: "Geonovum",
