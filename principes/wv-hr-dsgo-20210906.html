@@ -1,0 +1,1190 @@
+<!DOCTYPE html><html lang="nl"><head><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta content="text/html; charset=utf-8" http-equiv="content-type"><meta name="generator" content="ReSpec 24.5.2">
+  
+  
+  <link rel="shortcut icon" type="image/x-icon" href="https://tools.geostandaarden.nl/respec/style/logos/Geonovum.ico">
+  <link rel="stylesheet" type="text/css" href="media/Geonovumstyle.css">
+  <title>DSGO principes</title>
+  
+  
+<style id="respec-mainstyle">/*****************************************************************
+ * ReSpec 3 CSS
+ * Robin Berjon - http://berjon.com/
+ *****************************************************************/
+
+/* Override code highlighter background */
+.hljs {
+  background: transparent !important;
+}
+
+/* --- INLINES --- */
+h1 abbr,
+h2 abbr,
+h3 abbr,
+h4 abbr,
+h5 abbr,
+h6 abbr,
+a abbr {
+  border: none;
+}
+
+dfn {
+  font-weight: bold;
+}
+
+a.internalDFN {
+  color: inherit;
+  border-bottom: 1px solid #99c;
+  text-decoration: none;
+}
+
+a.externalDFN {
+  color: inherit;
+  border-bottom: 1px dotted #ccc;
+  text-decoration: none;
+}
+
+a.bibref {
+  text-decoration: none;
+}
+
+#references :target {
+  background: #eaf3ff;
+}
+
+cite .bibref {
+  font-style: normal;
+}
+
+code {
+  color: #c83500;
+}
+
+th code {
+  color: inherit;
+}
+
+/* --- TOC --- */
+
+.toc a,
+.tof a {
+  text-decoration: none;
+}
+
+a .secno,
+a .figno {
+  color: #000;
+}
+
+ul.tof,
+ol.tof {
+  list-style: none outside none;
+}
+
+.caption {
+  margin-top: 0.5em;
+  font-style: italic;
+}
+
+/* --- TABLE --- */
+
+table.simple {
+  border-spacing: 0;
+  border-collapse: collapse;
+  border-bottom: 3px solid #005a9c;
+}
+
+.simple th {
+  background: #005a9c;
+  color: #fff;
+  padding: 3px 5px;
+  text-align: left;
+}
+
+.simple th[scope="row"] {
+  background: inherit;
+  color: inherit;
+  border-top: 1px solid #ddd;
+}
+
+.simple td {
+  padding: 3px 10px;
+  border-top: 1px solid #ddd;
+}
+
+.simple tr:nth-child(even) {
+  background: #f0f6ff;
+}
+
+/* --- DL --- */
+
+.section dd>p:first-child {
+  margin-top: 0;
+}
+
+.section dd>p:last-child {
+  margin-bottom: 0;
+}
+
+.section dd {
+  margin-bottom: 1em;
+}
+
+.section dl.attrs dd,
+.section dl.eldef dd {
+  margin-bottom: 0;
+}
+
+#issue-summary>ul,
+.respec-dfn-list {
+  column-count: 2;
+}
+
+#issue-summary li,
+.respec-dfn-list li {
+  list-style: none;
+}
+
+details.respec-tests-details {
+  margin-left: 1em;
+  display: inline-block;
+  vertical-align: top;
+}
+
+details.respec-tests-details>* {
+  padding-right: 2em;
+}
+
+details.respec-tests-details[open] {
+  z-index: 999999;
+  position: absolute;
+  border: thin solid #cad3e2;
+  border-radius: 0.3em;
+  background-color: white;
+  padding-bottom: 0.5em;
+}
+
+details.respec-tests-details[open]>summary {
+  border-bottom: thin solid #cad3e2;
+  padding-left: 1em;
+  margin-bottom: 1em;
+  line-height: 2em;
+}
+
+details.respec-tests-details>ul {
+  width: 100%;
+  margin-top: -0.3em;
+}
+
+details.respec-tests-details>li {
+  padding-left: 1em;
+}
+
+a[href].self-link:hover {
+  opacity: 1;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  position: relative;
+}
+
+aside.example .marker > a.self-link {
+  color: inherit;
+}
+
+h2>a.self-link,
+h3>a.self-link,
+h4>a.self-link,
+h5>a.self-link,
+h6>a.self-link {
+  border: none;
+  color: inherit;
+  font-size: 83%;
+  height: 2em;
+  left: -1.6em;
+  opacity: .5;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+  top: 0;
+  transition: opacity .2s;
+  width: 2em;
+}
+
+h2>a.self-link::before,
+h3>a.self-link::before,
+h4>a.self-link::before,
+h5>a.self-link::before,
+h6>a.self-link::before {
+  content: "§";
+  display: block;
+}
+
+@media (max-width: 767px) {
+  dd {
+    margin-left: 0;
+  }
+
+  /* Don't position self-link in headings off-screen */
+  h2>a.self-link,
+  h3>a.self-link,
+  h4>a.self-link,
+  h5>a.self-link,
+  h6>a.self-link {
+    left: auto;
+    top: auto;
+  }
+}
+
+@media print {
+  .removeOnSave {
+    display: none;
+  }
+}
+</style><link rel="stylesheet" href="https://tools.geostandaarden.nl/respec/style/GN-WV.css"><link rel="shortcut icon" type="image/x-icon" href="https://tools.geostandaarden.nl/respec/style/logos/Geonovum.ico"><style>/*
+
+github.com style (c) Vasily Polovnyov <vast@whiteants.net>
+
+*/
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: #333;
+  background: #f8f8f8;
+}
+
+.hljs-comment,
+.hljs-quote {
+  color: #998;
+  font-style: italic;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-subst {
+  color: #333;
+  font-weight: bold;
+}
+
+.hljs-number,
+.hljs-literal,
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag .hljs-attr {
+  color: #008080;
+}
+
+.hljs-string,
+.hljs-doctag {
+  color: #d14;
+}
+
+.hljs-title,
+.hljs-section,
+.hljs-selector-id {
+  color: #900;
+  font-weight: bold;
+}
+
+.hljs-subst {
+  font-weight: normal;
+}
+
+.hljs-type,
+.hljs-class .hljs-title {
+  color: #458;
+  font-weight: bold;
+}
+
+.hljs-tag,
+.hljs-name,
+.hljs-attribute {
+  color: #000080;
+  font-weight: normal;
+}
+
+.hljs-regexp,
+.hljs-link {
+  color: #009926;
+}
+
+.hljs-symbol,
+.hljs-bullet {
+  color: #990073;
+}
+
+.hljs-built_in,
+.hljs-builtin-name {
+  color: #0086b3;
+}
+
+.hljs-meta {
+  color: #999;
+  font-weight: bold;
+}
+
+.hljs-deletion {
+  background: #fdd;
+}
+
+.hljs-addition {
+  background: #dfd;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+</style><script id="initialUserConfig" type="application/json">{
+  "format": "markdown",
+  "specStatus": "GN-WV",
+  "specType": "HR",
+  "authors": [
+    {
+      "name": "Arnoud de Boer",
+      "company": "Geonovum",
+      "companyURL": "https://www.geonovum.nl"
+    },
+    {
+      "name": "Dik Spekkink",
+      "company": "BIM Loket",
+      "companyURL": "https://www.bimloket.nl"
+    },
+    {
+      "name": "Jacueline Meerkerk",
+      "company": "BIM Loket",
+      "companyURL": "https://www.bimloket.nl"
+    },
+    {
+      "name": "Jan-Pieter Eelants",
+      "company": "CROW",
+      "companyURL": "https://www.crow.nl"
+    },
+    {
+      "name": "Monique van Scherpenzeel",
+      "company": "Geonovum",
+      "companyURL": "https://www.geonovum.nl"
+    },
+    {
+      "name": "Redmer Kronemeijer",
+      "company": "CROW",
+      "companyURL": "https://www.crow.nl"
+    }
+  ],
+  "editors": [
+    {
+      "name": "Geonovum",
+      "companyURL": "http://www.geonovum.nl/",
+      "mailto": "info@geonovum.nl",
+      "note": ""
+    },
+    {
+      "name": "CROW",
+      "companyURL": "http://www.crow.nl/",
+      "mailto": "info@crow.nl",
+      "note": ""
+    },
+    {
+      "name": "BIM Loket",
+      "companyURL": "http://www.bimloket.nl/",
+      "mailto": "info@bimloket.nl",
+      "note": ""
+    }
+  ],
+  "pubDomain": "DSGO",
+  "github": "https://github.com/Geonovum/DSGO",
+  "publishISODate": "2021-09-06T00:00:00.000Z",
+  "generatedSubtitle": "Werkversie 06 september 2021"
+}</script><script type="application/ld+json">{
+  "@context": [
+    "http://schema.org",
+    {
+      "@vocab": "http://schema.org/",
+      "@language": "nl",
+      "foaf": "http://xmlns.com/foaf/0.1/",
+      "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date"
+      },
+      "inLanguage": {
+        "@language": null
+      },
+      "isBasedOn": {
+        "@type": "@id"
+      },
+      "license": {
+        "@type": "@id"
+      }
+    }
+  ],
+  "id": "https://geonovum.github.io/DSGO/",
+  "type": [
+    "TechArticle"
+  ],
+  "name": "DSGO principes",
+  "inLanguage": "nl",
+  "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "datePublished": "2021-09-06",
+  "copyrightHolder": {
+    "name": "Geonovum",
+    "url": "https://www.geonovum.nl/"
+  },
+  "discussionUrl": "https://github.com/Geonovum/DSGO/issues/",
+  "alternativeHeadline": "",
+  "editor": [
+    {
+      "type": "Person",
+      "name": "Geonovum",
+      "foaf:mbox": "info@geonovum.nl",
+      "worksFor": {
+        "url": "http://www.geonovum.nl/"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "CROW",
+      "foaf:mbox": "info@crow.nl",
+      "worksFor": {
+        "url": "http://www.crow.nl/"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "BIM Loket",
+      "foaf:mbox": "info@bimloket.nl",
+      "worksFor": {
+        "url": "http://www.bimloket.nl/"
+      }
+    }
+  ],
+  "contributor": [
+    {
+      "type": "Person",
+      "name": "Arnoud de Boer",
+      "worksFor": {
+        "name": "Geonovum",
+        "url": "https://www.geonovum.nl"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "Dik Spekkink",
+      "worksFor": {
+        "name": "BIM Loket",
+        "url": "https://www.bimloket.nl"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "Jacueline Meerkerk",
+      "worksFor": {
+        "name": "BIM Loket",
+        "url": "https://www.bimloket.nl"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "Jan-Pieter Eelants",
+      "worksFor": {
+        "name": "CROW",
+        "url": "https://www.crow.nl"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "Monique van Scherpenzeel",
+      "worksFor": {
+        "name": "Geonovum",
+        "url": "https://www.geonovum.nl"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "Redmer Kronemeijer",
+      "worksFor": {
+        "name": "CROW",
+        "url": "https://www.crow.nl"
+      }
+    }
+  ],
+  "citation": []
+}</script></head>
+
+<body class="h-entry" cz-shortcut-listen="true"><div class="head">
+  <a href="https://www.geonovum.nl/" class="logo"><img id="Geonovum" alt="Geonovum" width="132" height="67" src="https://tools.geostandaarden.nl/respec/style/logos/Geonovum.svg"></a>
+  <h1 class="title p-name" id="title">DSGO principes</h1>
+  
+  <h2>Geonovum Handreiking<br>
+  Werkversie <time class="dt-published" datetime="2021-09-06">06 september 2021</time></h2>
+  <dl>
+    <dt>Deze versie:</dt><dd><a class="u-url" href="https://geonovum.github.io/DSGO/">https://geonovum.github.io/DSGO/</a></dd><dt>Laatst gepubliceerde versie:</dt><dd>geen</dd>
+    
+    
+    <dt>Laatste werkversie:</dt><dd><a href="https://geonovum.github.io/DSGO/">https://geonovum.github.io/DSGO/</a></dd>
+    <dt>Redacteurs:</dt>
+    <dd class="p-author h-card vcard"><span class="p-name fn">Geonovum</span>, <a class="ed_mailto u-email email" href="mailto:info@geonovum.nl">info@geonovum.nl</a></dd><dd class="p-author h-card vcard"><span class="p-name fn">CROW</span>, <a class="ed_mailto u-email email" href="mailto:info@crow.nl">info@crow.nl</a></dd><dd class="p-author h-card vcard"><span class="p-name fn">BIM Loket</span>, <a class="ed_mailto u-email email" href="mailto:info@bimloket.nl">info@bimloket.nl</a></dd>
+    <dt>Auteurs:</dt><dd class="p-author h-card vcard"><span class="p-name fn">Arnoud de Boer</span>, <a class="p-org org h-org h-card" href="https://www.geonovum.nl">Geonovum</a></dd><dd class="p-author h-card vcard"><span class="p-name fn">Dik Spekkink</span>, <a class="p-org org h-org h-card" href="https://www.bimloket.nl">BIM Loket</a></dd><dd class="p-author h-card vcard"><span class="p-name fn">Jacueline Meerkerk</span>, <a class="p-org org h-org h-card" href="https://www.bimloket.nl">BIM Loket</a></dd><dd class="p-author h-card vcard"><span class="p-name fn">Jan-Pieter Eelants</span>, <a class="p-org org h-org h-card" href="https://www.crow.nl">CROW</a></dd><dd class="p-author h-card vcard"><span class="p-name fn">Monique van Scherpenzeel</span>, <a class="p-org org h-org h-card" href="https://www.geonovum.nl">Geonovum</a></dd><dd class="p-author h-card vcard"><span class="p-name fn">Redmer Kronemeijer</span>, <a class="p-org org h-org h-card" href="https://www.crow.nl">CROW</a></dd>
+    <dt>Doe mee:</dt><dd>
+      <a href="https://github.com/Geonovum/DSGO/">GitHub Geonovum/DSGO</a>
+    </dd><dd>
+      <a href="https://github.com/Geonovum/DSGO/issues/">Dien een melding in</a>
+    </dd><dd>
+      <a href="https://github.com/Geonovum/DSGO/commits/gh-pages">Revisiehistorie</a>
+    </dd><dd>
+      <a href="https://github.com/Geonovum/DSGO/pulls/">Pull requests</a>
+    </dd>
+  </dl>
+  
+  
+    <dl>
+          <dt>Rechtenbeleid:</dt>
+          <dd>
+            <div class="copyright" style="margin: 0.25em 0;">
+              <abbr title="Creative Commons Attribution 4.0 International Public License">
+              <a href="https://creativecommons.org/licenses/by/4.0/legalcode"><img width="115" height="40" src="https://tools.geostandaarden.nl/respec/style/logos/cc-by.svg" alt="Creative Commons Attribution 4.0 International Public License"></a>
+            </abbr>
+              <div style="display:inline-block; vertical-align:top">
+                <p style="font-size: small;">Creative Commons Attribution 4.0 International Public License<br>(CC-BY)</p>
+              </div>
+            </div>
+          </dd>
+        </dl>
+  <hr title="Separator for header">
+</div><section id="abstract" class="introductory"><h2>Samenvatting</h2><pre><code aria-busy="false" class="hljs">Dit is de werkversie voor principes voor het Digitaal Stelsel Gebouwde Omgeving (DSGO).</code></pre></section><section id="sotd" class="introductory"><h2>Status van dit document</h2><p>
+    <em>Deze paragraaf beschrijft de status van dit document ten tijde van publicatie. Het is mogelijk dat er actuelere versies van dit document bestaan. Een lijst van Geonovum publicaties en de laatste gepubliceerde versie van dit document zijn te vinden op <a href="https://www.geonovum.nl/geo-standaarden/alle-standaarden">https://www.geonovum.nl/geo-standaarden/alle-standaarden</a>.</em>
+  </p><p>
+
+
+  Dit is een werkversie die op elk moment kan worden gewijzigd, verwijderd of vervangen door andere documenten. Het is geen door de werkgroep goedgekeurde consultatieversie.
+
+
+
+
+
+
+
+</p><p>status van het document</p></section><nav id="toc"><h2 class="introductory" id="inhoudsopgave">Inhoudsopgave</h2><ol class="toc"><li class="tocline"><a class="tocxref" href="#managementsamenvatting"><span class="secno">1. </span>Managementsamenvatting</a></li><li class="tocline"><a class="tocxref" href="#inleiding"><span class="secno">2. </span>Inleiding</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#digitaal-stelsel-gebouwde-omgeving"><span class="secno">2.1 </span>Digitaal Stelsel Gebouwde Omgeving</a></li><li class="tocline"><a class="tocxref" href="#doel-en-resultaat"><span class="secno">2.2 </span>Doel en resultaat</a></li><li class="tocline"><a class="tocxref" href="#aanpak"><span class="secno">2.3 </span>Aanpak</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#processtappen"><span class="secno">2.3.1 </span>Processtappen</a></li><li class="tocline"><a class="tocxref" href="#participatie-en-publieke-waarden"><span class="secno">2.3.2 </span>Participatie en publieke waarden</a></li><li class="tocline"><a class="tocxref" href="#ontwerpprincipes"><span class="secno">2.3.3 </span>Ontwerpprincipes</a></li><li class="tocline"><a class="tocxref" href="#fair-principes"><span class="secno">2.3.4 </span>FAIR principes</a></li></ol></li><li class="tocline"><a class="tocxref" href="#afbakening"><span class="secno">2.4 </span>Afbakening</a></li></ol></li><li class="tocline"><a class="tocxref" href="#data"><span class="secno">3. </span>Data, datasets en metadata</a></li><li class="tocline"><a class="tocxref" href="#publiekewaarden"><span class="secno">4. </span>Publieke waarden</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#het-dsgo-ontwerpen-op-basis-van-publieke-waarden-die-de-samenleving-reflecteren"><span class="secno">4.1 </span>Het DSGO ontwerpen op basis van publieke waarden die de samenleving reflecteren</a></li><li class="tocline"><a class="tocxref" href="#ontwerpprincipes-0"><span class="secno">4.2 </span>Ontwerpprincipes</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#radicaal-open-en-transparant-ontwerp-proces"><span class="secno">4.2.1 </span>Radicaal open en transparant ontwerp proces</a></li><li class="tocline"><a class="tocxref" href="#radicaal-open-en-transparante-uitkomsten"><span class="secno">4.2.2 </span>Radicaal open en transparante uitkomsten</a></li><li class="tocline"><a class="tocxref" href="#inclusiviteit"><span class="secno">4.2.3 </span>Inclusiviteit</a></li><li class="tocline"><a class="tocxref" href="#rechtvaardigheid"><span class="secno">4.2.4 </span>Rechtvaardigheid</a></li><li class="tocline"><a class="tocxref" href="#doelgerichtheid"><span class="secno">4.2.5 </span>Doelgerichtheid</a></li><li class="tocline"><a class="tocxref" href="#betrokkenheid"><span class="secno">4.2.6 </span>Betrokkenheid</a></li><li class="tocline"><a class="tocxref" href="#controleerbaarheid"><span class="secno">4.2.7 </span>Controleerbaarheid</a></li><li class="tocline"><a class="tocxref" href="#soevereiniteit"><span class="secno">4.2.8 </span>Soevereiniteit</a></li><li class="tocline"><a class="tocxref" href="#informatieveiligheid"><span class="secno">4.2.9 </span>Informatieveiligheid</a></li></ol></li></ol></li><li class="tocline"><a class="tocxref" href="#dataprincipes"><span class="secno">5. </span>Dataprincipes</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#ontwerpprincipes-1"><span class="secno">5.1 </span>Ontwerpprincipes</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#vindbaar"><span class="secno">5.1.1 </span>Vindbaar</a></li><li class="tocline"><a class="tocxref" href="#toegankelijk"><span class="secno">5.1.2 </span>Toegankelijk</a></li><li class="tocline"><a class="tocxref" href="#uitwisselbaar"><span class="secno">5.1.3 </span>Uitwisselbaar</a></li><li class="tocline"><a class="tocxref" href="#herbruikbaar"><span class="secno">5.1.4 </span>Herbruikbaar</a></li></ol></li></ol></li><li class="tocline"><a class="tocxref" href="#samenvatting"><span class="secno">6. </span>Samenvatting</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#uitgangspunten"><span class="secno">6.1 </span>Uitgangspunten</a></li><li class="tocline"><a class="tocxref" href="#randvoorwaarden"><span class="secno">6.2 </span>Randvoorwaarden</a></li><li class="tocline"><a class="tocxref" href="#eisen"><span class="secno">6.3 </span>Eisen</a></li></ol></li><li class="tocline"><a class="tocxref" href="#bijlagen"><span class="secno">7. </span>Bijlagen</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#begrippen-en-afkortingen"><span class="secno">7.1 </span>Begrippen en afkortingen</a></li><li class="tocline"><a class="tocxref" href="#gebruikte-bronnen"><span class="secno">7.2 </span>Gebruikte bronnen:</a></li></ol></li></ol></nav><section id="managementsamenvatting" data-format="markdown"><!--OddPage--><h2 id="x1-managementsamenvatting"><span class="secno">1. </span>Managementsamenvatting</h2><p>PLACEHOLDER: managementsamenvatting</p></section><section id="inleiding" data-format="markdown"><!--OddPage--><h2 id="x2-inleiding"><span class="secno">2. </span>Inleiding</h2><section id="digitaal-stelsel-gebouwde-omgeving"><h3 id="x2-1-digitaal-stelsel-gebouwde-omgeving"><span class="secno">2.1 </span>Digitaal Stelsel Gebouwde Omgeving</h3><p>In 2019 hebben 37 organisaties, waaronder Geonovum, zich met de ondertekening
+achter de digitaliseringsdeal (digiGO) geschaard. Hiermee hebben overheid,
+opdrachtgevers, de brancheverenigingen van de bouwsector, de installatiesector
+en de toeleverende industrie en kennisinstellingen afgesproken dat zij samen
+inzetten op: deelbare, herbruikbare en toegankelijke informatie, nieuwe functies
+en geavanceerde werkwijzen en innovatie voor de gebouwde omgeving.</p><p>Om waardevolle toepassingen van data mogelijk te maken, moet data beter
+beschikbaar en toegankelijk worden gemaakt. Er is behoefte aan een
+afsprakenstelsel dat zorgt voor veilige, betrouwbare en gecontroleerde toegang
+tot data in de bouwsector, zodat alle ketenpartners die actief zijn in de
+verschillende fases van de levenscyclus van een bouwwerk met deze afspraken
+makkelijk en veilig gebruik van reeds beschikbare data kunnen maken. Dit vergt
+sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data.
+Dat is de reden dat digiGO het initiatief Digitaal Stelsel Gebouwde Omgeving
+(DSGO) is gestart, om te werken aan de toegankelijkheid van data in de gehele
+keten.</p><p>Het DSGO is een programmalijn binnen digiGO. De sector heeft sterke behoefte aan
+regie om samenhang te creëren binnen het DSGO. De behoeftes van publieke en
+private organisaties naar data-uitwisseling zijn samengevat in 34 use cases,
+gegroepeerd in zes thema’s. Stikstofreductie is daar onderdeel van, naast andere
+thema’s als duurzaamheid en circulariteit. Het DSGO regisseert samenhang door te
+komen tot een set van afspraken over het uitwisselen van data tussen
+organisaties, om data voor de keten toegankelijk te maken én te zorgen voor de
+adoptie van deze afspraken. Het DSGO helpt digitalisering in de bouw- en
+installatie sector, en draagt daarmee bij aan stikstofreductie.</p><p>De overheid, in de rol van het ministerie van Binnenlandse Zaken en
+Koninkrijksrelaties (BZK), moet hier een rol als aanjager in nemen wil het DSGO
+een kans van slagen hebben. Daarnaast zal de overheid, in haar rol van
+opdrachtgever (o.a. Rijksvastgoedbedrijf, provincies), in haar rol van Bevoegd
+Gezag en vanuit haar verantwoordelijkheid voor het klimaatakkoord hier zelf ook
+van profiteren.</p><p>Met het opstellen van richtinggevende principes, in aanvulling op 34 ‘use
+cases’, gegroepeerd in zes thema’s, wordt er met dit adviesrapport input
+geleverd voor het ontwerp van een Digitaal Stelsel voor de Gebouwde Omgeving.
+Deze principes dragen bij aan de sector brede afspraken over uitwisseling, eigenaarschap en organisatie van
+data met als resultaat veilige, betrouwbare en gecontroleerde toegang tot data
+in de bouwsector: in verbinding en in samenhang.</p></section><section id="doel-en-resultaat"><h3 id="x2-2-doel-en-resultaat"><span class="secno">2.2 </span>Doel en resultaat</h3><p>Doel van het adviesrapport is richtinggevende principes te formuleren voor het
+ontwerp van een Digitaal Stelsel Gebouwde Omgeving (DSGO). Deze richtinggevende
+principes dragen bij aan sector brede afspraken over uitwisseling, eigenaarschap
+en organisatie van data met als resultaat veilige, betrouwbare en gecontroleerde
+toegang tot data in de bouwsector, zodat alle ketenpartners die actief zijn in de verschillende fases van de levenscyclus van een bouwwerk met deze afspraken makkelijk en veilig gebruik van reeds beschikbare data kunnen maken. Het adviesrapport stelt Geonovum op in
+samenwerking met BIM Loket en CROW.</p><p>De richtinggevende principes die bij het ontwerp en realisatie van het DSGO in
+acht genomen dienen te worden, borgen het publiek belang voor bijvoorbeeld
+publieke waarden rondom digitalisering, de fysieke leefomgeving en de economie.
+Maar ook robuustheid, toekomstvastheid en stapsgewijze groei van het DSGO.</p><p>Om dit doel te bereiken maken we in het adviesrapport onderscheid naar
+uitgangspunten, randvoorwaarden en eisen. Bij elk van de richtinggevende
+principes zorgen  het publiek belang en de publieke waarden de basisprincipes voor
+sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data:
+ze leiden tot verbinding en samenhang.</p></section><section id="aanpak"><h3 id="x2-3-aanpak"><span class="secno">2.3 </span>Aanpak</h3><p>Voor de uitvoering van deze opdracht hebben Geonovum, BIM Loket en CROW
+de volgende aanpak gehanteerd.</p><section id="processtappen"><h4 id="x2-3-1-processtappen"><span class="secno">2.3.1 </span>Processtappen</h4><p><em>Stap 1. Voorbereiding</em> Geonovum heeft met 2-3 eigen experts een eerste aanzet gemaakt
+van principes op het gebied van onder meer openheid, toegankelijkheid,
+interoperabiliteit, authenticiteit en verantwoordelijkheid (governance) voor het
+Digitaal Stelsel Gebouwde Omgeving (DSGO). Geonovum heeft  hiervoor hergebruik gemaakt
+van ervaringen uit eerdere adviestrajecten voor (doorontwikkeling van) digitale
+stelsels voor onder meer Digitaal Stelsel Omgevingswet (DSO),
+Objectidentificering (UOI) en samenhang geo(basis)registraties. Aan dit rapport hebben we in een open/ publieke omgeving gewerkt waardoor meerder mensen van
+de verschillende organisaties tegelijkertijd aan het rapport konden werken.</p><p><em>Stap 2. Uitbreiding</em> In een workshopachtige setting heeft Geonovum samen met
+experts van BIM Loket en CROW de eerste aanzet van principes uitgebreid. De  principes zijn verbreed, verfijnd en geconcretiseerd zonder de implementatievrijheid in latere uitwerking te
+beperken.
+</p><p><em>Stap 3. Toetsing</em> Het tussenresultaat van het adviesrapport met richtinggevende
+principes (versie 0.3) is begin september met BZK, Geonovum, BIM Loket en CROW getoetst. In het vervolg van september zullen de de concept-principes door middel van een informele consultatie gericht aan 5 tot maximaal 10, samen met BZK te bepalen organisaties, tijdens een klankbordsessie worden
+gepresenteerd en getoetst (waaronder Innopay, de programma’s Bouwwijzer en MedMij,
+verschillende directoraten/ programma’s van BZK, andere departementen, publieke
+partijen). De presentatie heeft tot doel het creëren van draagvlak en het kunnen
+ingaan op vragen en discussie. Na afloop van klankbordsessie krijgen de
+organisaties 2 weken gelegenheid om principes te reviewen, en verbetersuggesties
+aan te dragen.</p><p><em>Stap 4. Afronding</em> Geonovum verwerkt samen met BIM Loket en CROW de
+verbetersuggesties uit de informele consultatie/toetsing. Waar dat wel kan
+worden de verbetersuggesties doorgevoerd in de principes, waar dat niet kan als
+gevolg van te veel discussie/divergentie worden deze verbetersuggesties als
+aandachtspunt voor nadere afstemming/uitwerking opgenomen (issuelijst). Het
+resultaat van de vierde en laatste stap is versie 0.99 van het adviesrapport met
+richtinggevende principes. Geonovum levert dit rapport ter
+vaststelling/besluitvorming in begeleidings-/stuurgroep aan de opdrachtgever op.</p></section><section id="participatie-en-publieke-waarden"><h4 id="x2-3-2-participatie-en-publieke-waarden"><span class="secno">2.3.2 </span>Participatie en publieke waarden</h4><p>Het DSGO maakt participatie en co-creatie mogelijk tussen alle publieke en
+private partijen die een belang hebben bij informatie over de gebouwde omgeving.
+Het DSGO is in die zin een belangrijke dataspace voor de samenleving om zich te
+verhouden tot alle data over de gebouwde omgeving. Dat vraagt om spelregels
+gebaseerd op publieke waarden die de samenleving reflecteren. De belangrijkste
+overweging hierbij is dat bij de keuzen die gemaakt worden ten aanzien van het
+ontwerp en de implementatie van het DSGO, alsmede in het gebruik van de het
+DSGO, de gelijkwaardigheid van de informatiepositie van alle betrokkenen, voorop
+staat.</p></section><section id="ontwerpprincipes"><h4 id="x2-3-3-ontwerpprincipes"><span class="secno">2.3.3 </span>Ontwerpprincipes</h4><p>Het DSGO staat in de bredere context van de digitalisering &amp; dataficering van de
+samenleving en vertegenwoordigt alle data over de gebouwde omgeving. De digitale
+en fysieke wereld raken elkaar steeds meer ook ten aanzien van de gebouwde
+omgeving. In Europa en Nederland leggen we daarbij de nadruk op publieke waarden,
+die concreet gemaakt zijn of worden in EU-wetgeving rondom het gebruik van
+data en technologie. Publieke Waarden zijn dus randvoorwaardelijk voor het
+verantwoord organiseren en inzetten van het DSGO. Deze waarden komen voort uit
+universele mensenrechten. Denk aan gelijkheid, vrijheid, menselijke waardigheid,
+autonomie en veiligheid. We vertalen deze waarden in een aantal ontwerpprincipes
+die leidend zullen zijn voor het DSGO, zowel voor het ontwikkelen van het DSGO,
+als ook voor het gebruik, onderhoud en de governance van het DSGO.</p><p>Deze ontwerpprincipes zijn:</p><ol>
+<li><p><em>Radicaal open en transparant</em>: dit principe slaat zowel op de ontwikkeling
+van het DSGO als de uitkomst ervan. Ontwerpproces: namelijk dat dit in een
+open en transparant proces ontwikkeld wordt, waarbij alle belanghebbenden
+inzicht krijgen en invloed hebben op de ontwikkeling. Uitkomsten: Data,
+algoritmen en technologie zijn navolgbaar, herleidbaar en begrijpelijk. Voor
+de onderliggende ingrediënten geldt dat ze openbaar, vindbaar, toegankelijk,
+uitwisselbaar, herbruikbaar en controleerbaar moeten zijn (FAIR ).</p>
+</li>
+<li><p>Inclusief <em>betrekken</em> van alle <em>belanghebbenden</em> in de processen die
+ondersteund worden door het DSGO, met bijzondere aandacht voor de positie
+van burgers.</p>
+</li>
+<li><p><em>Rechtvaardig ontwerpen</em> en toepassen van de spelregels voor alle
+belanghebbenden, zodat recht gedaan wordt aan hun belang.</p>
+</li>
+<li><p><em>Doelgerichtheid</em>: doorleven, beoordelen en waarderen van de toepasbaarheid
+en doeltreffendheid van het DSGO, de onderliggende (nieuwe) data, algoritmen
+en gebruikte technologie, voor alle processen die het DSGO ondersteunt.</p>
+</li>
+<li><p><em>Betrokkenheid</em>: Inrichten en operationaliseren van een werkwijze waarbij
+alle belanghebbenden, inclusief het ‘publiek belang’, betrokken worden
+inclusief de naleving daarvan.</p>
+</li>
+<li><p><em>Controleerbaarheid</em>: Organiseren van menselijke controle en
+interventiemacht in geautomatiseerde beeld-, oordeels- en
+besluitvormingsprocessen.</p>
+</li>
+<li><p><em>Soevereiniteit</em>: Alloceren van eigenaarschap, zeggenschap en controle over
+gebruikte data en algoritmen (soevereiniteit).</p>
+</li>
+<li><p><em>Informatieveiligheid</em>: Voor het DSGO is het belangrijk dat traceerbaar is
+van wie gegevens afkomstig zijn, of de bron ze gewijzigd of verrijkt heeft
+(transparantie en provenance) en dat ze tussen creatie en uitlevering niet
+gemanipuleerd zijn (integriteit). Voor alle belanghebbenden is het
+essentieel dat data juist, volledig en actueel zijn.</p>
+</li>
+</ol></section><section id="fair-principes"><h4 id="x2-3-4-fair-principes"><span class="secno">2.3.4 </span>FAIR principes</h4><p>Op eenduidige manieren samenwerken om informatie zo beter te kunnen beveiligen,
+makkelijker uit te wisselen en toegankelijker te maken voor iedereen. Dat is hoe
+open standaarden de samenwerking bevorderen tussen de overheid, burger en het
+bedrijfsleven. De FAIR Principes zijn een hulpmiddel daarin: het doel van de
+principes is het hergebruik van waardevolle data mogelijk maken. De FAIR
+Principes dwingen geen standaarden af, maar moedigen communities aan om om data
+en diensten vindbaar, toegankelijk, interoperabel en herbruikbaar te maken. In
+lijn met het doel van dit adviesrapport nemen we de FAIR principes als basis
+voor het formuleren van de principes voor het DSGO.</p><p><strong>Findable (vindbaar)</strong> De eerste stap bij het (her)gebruiken van data is om de
+data te vinden. Metadata en data moeten gemakkelijk te vinden zijn voor zowel
+mensen als computers. Machine-readable metadata zijn essentieel voor het
+ontdekken van datasets en services.</p><p><strong>Accessible (toegankelijkheid)</strong> Zodra de gebruiker de benodigde gegevens heeft
+gevonden, moet hij/zij weten hoe deze kunnen worden geraadpleegd, inclusief
+authenticatie en autorisatie.
+Laagdrempelig in gebruik.</p><p><strong>Interoperable (uitwisselbaar)</strong> De gegevens moeten meestal worden geïntegreerd
+met andere gegevens. Bovendien moeten de gegevens samenwerken met applicaties of
+workflows voor analyse, opslag en verwerking.</p><p><strong>Reusable (herbruikbaar)</strong> Het uiteindelijke doel van FAIR is het hergebruik
+van data te optimaliseren. Om dit te bereiken moeten metadata en data goed
+worden beschreven, zodat ze in verschillende situaties kunnen worden
+gerepliceerd en/of gecombineerd.</p></section></section><section id="afbakening"><h3 id="x2-4-afbakening"><span class="secno">2.4 </span>Afbakening</h3><ul>
+<li>Wat is het niet, zoals een globale architectuur schets (GAS) of product beschrijving</li>
+<li>verwijzing naar programma spoor governance&amp; beheer</li>
+<li>BOMOS voor beheer</li>
+</ul></section></section><section id="data" data-format="markdown"><!--OddPage--><h2 id="x3-data-datasets-en-metadata"><span class="secno">3. </span>Data, datasets en metadata</h2><p>De uitwisseling van gegevens staat bij het DSGO centraal. Dat uitwisselen kan
+eenmalig, herhaaldelijk of continu zijn, maar wat bedoelen we hier met gegevens?
+Voor een digitaal stelsel gebouwde omgeving zijn er drie termen essentieel
+wanneer we het hebben over gegevens of <em>data</em>.</p><p><strong>Data</strong> zijn die gegevens die over het gebouwde object beschrijven. Dat kan
+bijvoorbeeld een bouwtekening zijn, een inspectierapport of een rapportage van
+het energiegebruik. Deze gegevens zijn in verschillende formaten beschreven,
+waarbij sommige formaten leesbaar zijn voor zowel mens en computer (zoals een
+PDF-inspectierapport), maar niet altijd interpreteerbaar voor een
+computersysteem. Data kan gestructureerd of ongestructureerd zijn. Hoe gestructureerder een bestand, hoe meer
+mogelijkheden het biedt in een digitale omgeving. Het heeft daarom de voorkeur om
+zo’n inspectierapport als spreadsheet ook voor de computer leesbaar aan te bieden. Dan kan een
+computersysteem wel de tabel met gebreken ‘zien’ en interpreteren.</p><p>Data is een representatie van observaties, objecten of andere entiteiten uit de werkelijkheid. Denk aan het bouwobject dat door het process van plan en vergunningverlening, tot realisatie en beheer, heengaat. Data refereert naar iets dat is verzameld, geobserveerd, gegenereerd of afgeleid. Data wordt door de mens gebruikt als een basis om te redeneren, discussieren of calculeren.</p><p><strong>Metadata</strong> zijn gegevens die de karakteristieken van bepaalde gegevens beschrijven. Het zijn dus eigenlijk data over data. De metadata bij een bepaald document (de gegevens) kunnen bijvoorbeeld zijn: de auteur, de datum van schrijven, de uitgever, het aantal pagina's en de taal waarin de gegevens zijn opgesteld.
+De metadata helpt mens en computer bij het vinden van de juiste gegevens en
+bij het juist interpreteren van het document. Bij een bouwtekening beschrijft
+metadata welke schaal is gebruikt, wie de tekenaar was, welke versie van de
+tekening dit is en wanneer deze versie is opgeleverd. Dat staat dan ook vaak in
+de rechter onderhoek, maar ook het digitale bestand van de tekening bevat deze
+gegevens op een vaste plek. Bij een inspectierapport zijn gebruikelijke
+metadata het geïnspecteerde object, de inspecteur, de datum van de
+inspectie. In PDF-vorm staat dat dan op de voorkant van het rapport, maar in het voor de computer leesbare bestand staat dat eveneens opvaste plekken. Bij een energierapport
+zijn metadata informatie over de EAN-aansluiting, maar ook misschien adres
+of netbeheerder of vergelijking met andere gebruikers.</p><p>Het op een gestructureerde en afsgeproken manier van toevoegen van metadata aan data heeft als resultaat data data vindbaar en doorzoekbaar is. Denk daarbij aan de systematiek van bibliotheken en archieven.
+</p><p>De scheidslijn tussen metadata en data zelf is soms lastig te trekken. Wat voor
+de ene toepassing randzaken zijn, kan centraal staan in de andere. Bijvoorbeeld
+om vergelijkingen tussen tekeningen van een verschillende schalen te maken of om
+door de energiebesparende suggesties uit het inspectierapport te vergelijken met
+het daadwerkelijke verbruik. Daarom is het belangrijk zowel juiste data als
+metadata te verzamelen.
+</p><p>De interpretatie van gegevens is afhankelijk van het bestandsformaat waarin het
+is opgeslagen. Een PDF-bestand is slecht interpreteerbaar voor een
+computersysteem: slechts de titel en auteur van het document staat op een vaste
+plek bewaard. Een spreadsheet daareentegen kan worden genavigeerd, met vaste
+cellen voor bepaalde informatie. Andere bestandsformaten, zoals XML of linked data-talen,
+zijn nog meer zelfbeschrijvend. Deze formaten kunnen een interpretatieschema
+toevoegen aan de data, zodat een computersysteem zelf kan achterhalen waar de
+relevante informatie staat.</p><p>Een <strong>dataset</strong> is de derde en laatste data-gerelateerde term. Een dataset is een identificeerbare verzameling van data die als een geheel kan
+worden verwerkt, bewerkt en gepubliceerd door een enkel subject. 
+Een verzameling van datasets kan ook op zich weer een dataset zijn.
+Bijvoorbeeld de verzamelde gegevens vanuit de verschillende disciplines van een <em>dossier bevoegd gezag</em> zijn een dataset, maar het dossier zelf ook.
+</p><p>Dit leidt ertoe
+dat de levenscyclus van de dataset is samen te vatten in vier fasen,
+geillustreerd door figuur ‘Levenscyclus van de dataset’:</p><ol>
+<li><p>Definitie: hoe goed het model of algoritme dat de dataset voortbrengt, is
+gedefinieerd, ontwikkeld en gevalideerd voor bedoeld gebruik.</p>
+</li>
+<li><p>Productie: hoe goed het product dat daaruit ontstaat word geproduceerd,
+geëvalueerd en vrijgegeven.</p>
+</li>
+<li><p>Beheer: hoe goed de dataset wordt bewaard, voorzien van metadata en
+toegankelijk gemaakt.</p>
+</li>
+<li><p>Gebruik: hoe goed de data als service ter beschikking wordt gesteld,
+ondersteund en hergebruikt.</p>
+</li>
+</ol><p><strong>Figuur: Levenscyclus van de dataset</strong></p><p><img src="media/Levenscyclus-dataset.png" alt=""></p><p>Sommige datasets zijn contractueel afgesproken, (tegenwoordig meer en meer via Informatieleveringsspecificaties, afgekort ILS’en) zoals een
+bouwtekeningen, modellen, berekeningen en inspectierapporten bij het voltooien van een bepaalde
+bouwfase. Of het halfjaarlijks update van een kaart met verschillende kaartlagen met gekoppelde informatie van een
+beheerd areaal. De dataset komt daarmee vaak overeen met een dossier. Door een afgesproken structuur is een dataset voor de computer een samenhangende set van bestanden.
+</p><p>Er is in de zin van DSGO niet een minimale (laat staan maximale) grootte van een
+dataset. Uit praktische overwegingen zijn er misschien wel beperkingen, maar door technologische ontwikkelingen speelt dat steeds minder een rol. Om data (gegevens) of datasets (gegevensets) met/ binnen het DSGO uit te
+wisselen gaat het niet zozeer over de grootte van een dataset maar juist overover de vindbaarheid, toegankelijkheid,
+herbruikbaarheid en uitwisselbaarheid. Dat komt overeen met het maken van afspraken op basis van de
+FAIR-uitgangspunten.</p></section><section id="publiekewaarden" data-format="markdown"><!--OddPage--><h2 id="x4-publieke-waarden"><span class="secno">4. </span>Publieke waarden</h2><p>Het DSGO dient een publiek belang door data uit de gebouwde omgeving beschikbaar
+te stellen voor alle belanghebbenden bij de data. Om het publieke belang te
+waarborgen worden 8 ontwerpprincipes gehanteerd voor het ontwerpproces van het
+DSGO. Deze 8 ontwerpprincipes zijn in dit hoofdstuk vertaalt in uitgangspunten,
+randvoorwaarden en eisen. Ze geven richting aan het proces om te komen tot
+sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data.</p><section id="het-dsgo-ontwerpen-op-basis-van-publieke-waarden-die-de-samenleving-reflecteren"><h3 id="x4-1-het-dsgo-ontwerpen-op-basis-van-publieke-waarden-die-de-samenleving-reflecteren"><span class="secno">4.1 </span>Het DSGO ontwerpen op basis van publieke waarden die de samenleving reflecteren</h3><p>Het doel van het DSGO is om te komen tot een set van uniforme afspraken die
+zorgt voor veilige, betrouwbare en gecontroleerde toegang tot data in de
+bouwsector. Door deze uniforme afspraken kunnen partijen makkelijk en veilig
+gebruik maken van reeds beschikbare data. In alle fases van de levenscyclus van
+een bouwwerk.</p><p>Datasets over een gebouw dienen een groot aantal partijen uit de samenleving.
+Daarmee dient deze data zowel een privé belang (bijvoorbeeld de data over het
+energiegebruik binnen een gebouw) als ook een publiek belang (bijvoorbeeld het
+voldoen aan de brandveiligheidsvoorschriften of de voorschriften uit de
+bouwvergunning).</p><p>Het DSGO gaat over de totale gebouwde omgeving en dient daarmee de samenleving
+in heel veel processen. Voorbeelden daarvan zien we terug in de behoeftes van
+publieke en private organisaties naar data-uitwisseling die zijn samengevat in
+34 use cases, gegroepeerd in zes thema’s. Het DSGO regisseert samenhang door te
+komen tot een set van afspraken over het uitwisselen van data tussen
+organisaties. Het DSGO helpt digitalisering in de bouw- en installatie sector,
+en maakt onder andere stikstofreductie daarmee mogelijk.</p><p>Veel partijen uit de samenleving dragen bij om tot het gewenste resultaat te
+komen en wisselen daartoe data uit met elkaar. Het is daarom van belang dat het
+DSGO de publieke waarden van de samenleving reflecteert, en dat alle betrokkenen zich kunnen vinden in de
+afspraken.</p><p>De gemaakte afspraken borgen als het goed is de belangen van elke betrokken
+partij en worden vervolgens omgezet in technologie die de uitwisseling van data
+werkend maakt. Vaak is deze technologie een ijsberg, waar we alleen het topje
+van zien, het zogenaamde burgerperspectief. WAAG laat dit zien in hun visie op
+technologie uitgewerkt in hun <a href="https://waag.org/sites/waag/files/2020-05/routekaart-digitale-toekomst-v0.3.pdf">digitale routekaart</a>. Wat onder water is, zien we
+niet. Maar uiteindelijk is alle technologie gemaakt door mensen. Zij zijn het
+die deze ontwerpen, ontwikkelen, uitrollen en stap voor stap onze maatschappij
+veranderen. Technologie is niet neutraal, maar het product van talloze
+beslissingen, die gebaseerd zijn op de waarden die de ontwerper hanteert. Daar
+ligt ook de sleutel tot het verkrijgen van meer grip op deze ontwikkelingen: we
+moeten niet alleen kijken naar het topje, maar met elkaar de hele ijsberg zien
+en ontwerpen. Voor het DSGO doen we dat dus op basis van publieke waarden, de we
+concreet hebben gemaakt in de hierna uitgewerke 8 ontwerpprincipes.</p></section><section id="ontwerpprincipes-0"><h3 id="x4-2-ontwerpprincipes"><span class="secno">4.2 </span>Ontwerpprincipes</h3><section id="radicaal-open-en-transparant-ontwerp-proces"><h4 id="x4-2-1-radicaal-open-en-transparant-ontwerp-proces"><span class="secno">4.2.1 </span>Radicaal open en transparant ontwerp proces</h4><p>Het DSGO ontwerpen we op basis van publieke waarden in samenwerking met alle
+betrokkenen bij de 34 benoemde use cases (zie figuur DSGO use cases). Het DSGO
+ondersteunt daarmee diverse publieke belangen van verschillende actoren. Het
+ontwerpproces is daarin bepalend. Centraal in dat proces staan het
+‘burgerperspectief’ en participatie van betrokkenen. Deze participatie goed
+vormgeven en begeleiden is fundamenteel randvoorwaardelijk en tegelijkertijd de
+grootste uitdaging bij de ontwikkeling van het DSGO.</p><p><strong>Figuur: De DSGO use cases</strong>
+<img src="media/DSGO-use_cases.png" alt=""></p><p>De ontwerpprincipes zijn daarom bedoeld als werkwoorden, die de participanten
+tijdens het ontwerpproces doordenken en doorleven, zodat de juiste keuzes
+gemaakt worden. In het vervolg illustreren wij deze ontwerpprincipes op basis
+van de genoemde use cases.</p><p><em>Randvoorwaarde:</em> Alle betrokkenen bij een use case bespreken de
+ontwerpprincipes, om concreet te maken wat deze voor een use case betekenen. De
+keuzes die hieruit volgen worden vastgesteld en ingericht, bijgesteld en zo
+lerend ontwikkeld, zodat anderen daarop kunnen voortbouwen.</p></section><section id="radicaal-open-en-transparante-uitkomsten"><h4 id="x4-2-2-radicaal-open-en-transparante-uitkomsten"><span class="secno">4.2.2 </span>Radicaal open en transparante uitkomsten</h4><p>Data, algoritmen en technologie zijn navolgbaar, herleidbaar en begrijpelijk.
+Binnen de usecases worden data en datasets gevormd, gebruikt, bewerkt,
+doorgegeven. Data(sets) die uitgewisseld worden, daarvan is duidelijk hoe deze
+in de opeenvolgende processtappen zijn ontstaan zodat de oorsprong herleidbaar
+is.</p><p>Dit principe is van belang om alle partijen in de keten te informeren over de
+herkomst en dus de kwaliteit van de data. Voor het achterhalen van de
+bouwkwaliteit is het bijvoorbeeld voor de gemeente van belang dat alle
+kwaliteitscontroles goed zijn uitgevoerd. Mocht er ergens een probleem mee zijn,
+dan kan altijd teruggezocht worden naar de oorsprong van de kwaliteitscontrole
+en de onderliggende data.</p><p><em>Eis</em>: Usecases leggen voor elke dataset die tussen partijen uitgewisseld wordt,
+vast wat de oorsprong van deze dataset is en welke bewerkingen deze heeft
+ondergaan.</p></section><section id="inclusiviteit"><h4 id="x4-2-3-inclusiviteit"><span class="secno">4.2.3 </span>Inclusiviteit</h4><p>Inclusiviteit houdt in dat zorgvuldig omgegaan wordt met de belangen van alle
+belanghebbenden. Het zorgt ervoor dat alle belanghebbenden input kunnen geven.
+Een onafhankelijke voorzitter is daarin een pré. Die zorgt ervoor dat in het
+proces van belangenafweging eventuele tegengestelde belangen en
+minderheidsbelangen meegenomen worden. Voor elke usecase wordt bijvoorbeeld
+nagegaan of alle betrokkenen aan boord zijn of vertegenwoordigd zijn, voor het
+uitwerken van de usecase, met bijzondere aandacht voor de positie van burgers.</p><p>In het kader van circulariteit en bouwkwaliteit is het bijvoorbeeld van belang
+burgers te betrekken. Zolang hun woning goed functioneert is er niets aan de
+hand. Op het moment dat er duidelijk problemen blijken te zijn met bepaalde
+materialen of producten, dan willen burgers graag weten of deze materialen of
+producten in hun woning verwerkt zijn.</p><p><em>Randvoorwaarde</em>: Maak de ontwikkeling van het DSGO inclusief, zodat de belangen
+van alle stakeholders zorgvuldig aan bod komen bij elke usecase. De inzet van
+een onafhankelijk voorzitter is daarbij een aanrader.</p></section><section id="rechtvaardigheid"><h4 id="x4-2-4-rechtvaardigheid"><span class="secno">4.2.4 </span>Rechtvaardigheid</h4><p>Rechtvaardigheid ziet toe op het eerlijk behandelen van elke belanghebbende. Dat
+houdt in dat de gemaakte afspraken en spelregels eerlijk worden toegepast in
+elke situatie zonder ‘aanziens des persoons’. In de context van het DSGO is
+daarbij een eerlijke en volledige weergave van feiten gebaseerd op data
+essentieel. Op basis van data worden immers besluiten genomen zoals het
+toekennen van een vergunning.</p><p>In het kader van bouwkwaliteit is het van belang dat alle kwaliteitsinformatie
+over het bouwwerk bekend is en eerlijk wordt weergegeven ook als eventuele
+afkeuringen eerder in de keten zijn ontstaan, zodat de oplevering van het
+bouwwerk goedgekeurd kan worden door de gemeente. Dit is van belang zowel voor
+de gemeente als voor de toekomstig eigenaar en beheerder.</p><p><em>Eis</em>: Ontwerp elke usecase binnen het DSGO rechtvaardig, zodat alle
+belanghebbenden een eerlijke en volledige weergave van de feiten kunnen inzien.</p></section><section id="doelgerichtheid"><h4 id="x4-2-5-doelgerichtheid"><span class="secno">4.2.5 </span>Doelgerichtheid</h4><p>Doelgerichtheid ziet toe op het doeltreffend en toepasbaar ontwerpen van het
+DSGO. Voor elke usecase worden data, algoritmen, voorzieningen en technologie
+doelgericht ingezet. De data die wordt vastgelegd en doorgegeven is nodig voor
+het doel en wordt daarom gericht vastgelegd en bewust gebruikt door een andere
+belanghebbende. Dit geldt extra voor privacy-gevoelige informatie.</p><p>In het kader van de energietransitie stimuleren is gebruik van gebruiksdata over
+energie mogelijk terug te voeren op het gedrag van de bewoner/ huurder en
+daarmee privacy gevoelig. Deze informatie mag daarom alleen gebruikt worden door
+de bewoner zelf, na zijn toestemming of voor een analyse waarin de gegevens voor
+een wijk verzameld worden, maar niet meer terug te voeren zijn op een adres.</p><p><em>Eis</em>: Ontwerp elke usecase binnen het DSGO doelgericht, zodat de uit te
+wisselen data geschikt en voldoende is voor het doel, waarvoor de informatie
+nodig is.</p></section><section id="betrokkenheid"><h4 id="x4-2-6-betrokkenheid"><span class="secno">4.2.6 </span>Betrokkenheid</h4><p>In aanvulling op inclusiviteit (iedereen die er toe doet is betrokken) ziet
+betrokkenheid erop toe dat alle belanghebbenden input geven op de inrichting van
+een usecase, en zijn er ‘checks en balances’ om toe te zien op de naleving van
+de afspraken. Voor het DSGO geldt specifiek dat voor elke afspraak waarin
+informatie wordt vastgelegd en beschikbaar gemaakt, of dit verplicht of
+optioneel is en dat partijen individueel of via hun brancheorganisatie zich
+verplichten daaraan te houden. In deze afspraken kunnen ook overgangstermijnen
+worden vastgelegd.</p><p>In het kader van het optimaleren van circulariteit is het bijvoorbeeld van
+belang dat alle toeleveranciers hun productinformatie ter beschikking stellen,
+zodat een compleet beeld wordt verkregen van een gebouw. Het gebouwdossier wordt
+daarmee compleet, waarop in de toekomst zinvolle besluiten mogelijk zijn over
+hergebruik van materialen na ontmanteling van het bouwwerk.</p><p><em>Randvoorwaarde</em>: Voor elke usecase worden de afspraken met alle betrokkenen
+gemaakt en vastgelegd. Onderdeel van de afspraak is duidelijkheid over het
+verplichtende karakter en de manier waarop toezicht wordt gehouden over de
+naleving ervan.</p></section><section id="controleerbaarheid"><h4 id="x4-2-7-controleerbaarheid"><span class="secno">4.2.7 </span>Controleerbaarheid</h4><p>Dit principe ziet toe op het organiseren van menselijke controle en
+interventiemacht in geautomatiseerde beeld-, oordeels- en
+besluitvormingsprocessen. Naarmate meer en meer informatie geautomatiseerd
+beschikbaar is, kan de menselijke maat over het hoofd gezien worden, of
+belangrijke details vergeten worden.</p><p>In het kader van het optimaliseren van logistieke processen in de bouw is het
+bijvoorbeeld van belang om onverwachte gebeurtenissen, zoals vertragingen in
+productleveringen, op te vangen en daarom de inzet van specifieke kraan uit te
+stellen. Voor het checken van de bouwkwaliteit zijn menselijke controles
+noodzakelijk, zowel op de verstrekte gegevens, als op de manier waarop
+kwaliteitscontroles zijn uitgevoerd. Audits zijn een manier om de werking van
+het kwaliteitssysteem van betrokken partijen periodiek te controleren.</p><p><em>Eis</em>: ontwerp elke usecase zo dat er kan worden ingegrepen in de
+geautomatiseerde processen.</p></section><section id="soevereiniteit"><h4 id="x4-2-8-soevereiniteit"><span class="secno">4.2.8 </span>Soevereiniteit</h4><p>Soevereiniteit betekent het recht hebben om te beschikken over iets zonder
+verantwoording aan een ander te hoeven afleggen. Dit principe ziet toe op het
+alloceren van eigenaarschap, zeggenschap controle over en gebruik van data,
+standaarden, algoritmen en voorzieningen. In de context van het DSGO is dan
+duidelijk met welke natuurlijke of rechtspersoon je afspraken moet maken voor
+het delen, manipuleren en hergebruiken van data, standaarden, algoritmen en
+voorzieningen en de daaruit voortvloeiende nieuwe of aangepaste data die
+ontstaat.</p><p><em>Uitgangspunt</em>: binnen het DSGO wordt bepaald welke belanghebbende (in
+juridische termen natuurlijke persoon of rechtspersoon) eigenaar is en/of
+zeggenschap en controle uitoefent over en/of gebruik maakt van de data(set),
+standaard, algoritme of voorziening die van belang zijn binnen de usecases. Met
+deze belanghebbenden kunnen vervolgens afspraken worden gemaakt om de data(set),
+standaard, algoritme of voorziening FAIR te kunnen (her)gebruiken.</p></section><section id="informatieveiligheid"><h4 id="x4-2-9-informatieveiligheid"><span class="secno">4.2.9 </span>Informatieveiligheid</h4><p>Informatieveiligheid houdt in dat er maatregelen getroffen zijn om er voor te
+zorgen dat - gegevens niet gemanipuleerd zijn tussen bron en eindgebruiker
+(integriteit); - alleen de rechthebbende inzage krijgt in de gegevens
+(autorisatie en autenticatie). - de eindgebruiker kan vaststellen dat de
+gegevens betrouwbaar zijn en inzicht heeft of de bron de gegevens gewijzigd
+heeft (transparantie en provenance).</p><p>Eis: Binnen het DSGO worden maatregelen getroffen om de integriteit te
+waarborgen.</p><p>Eis: Het DSGO voorziet in autorisatie en athenticatiemogelijkheden, zodat alleen
+de rechthebbenden inzage krijgen in de data(sets) die uitgewisseld worden.</p><p>Eis: Het DSGO geeft transparant weer wat de bron is van elke dataset en welke
+bewerkingen deze heeft ondergaan en/of aan welke kwaliteitseisen deze voldoet in
+termen van actualiteit, volledigheid en juistheid), zodat de eindgebruiker de
+betrouwbaarheid kan vaststellen.</p></section></section></section><section id="dataprincipes" data-format="markdown"><!--OddPage--><h2 id="x5-dataprincipes"><span class="secno">5. </span>Dataprincipes</h2><p>Het data aanbod en de data vraag op elkaar aansluiten is voor het DGSO niet
+eenvoudig omdat er zeer veel organisaties in de sector actief zijn met veel
+verschillende soorten data en behoeftes. Het gebrek aan beschikbaar hebben van
+de juiste data op de juiste plek is niet alleen een uitdaging om
+stikstofreductie doelen te halen maar is noodzakelijk voor alle maatschappelijke
+en/of sector-overstijgende doelen.</p><section id="ontwerpprincipes-1"><h3 id="x5-1-ontwerpprincipes"><span class="secno">5.1 </span>Ontwerpprincipes</h3><p>In dit hoofdstuk worden de ontwerpprincipes voor (meta)data(sets) in het DSGO
+beschreven aan de hand van de FAIR-principes: 
+<em>Findable</em> (vindbaar), <em>Accessible</em> (toegankelijk), <em>Interoperable</em> (uitwisselbaar) en <em>Reusable</em> (herbruikbaar).
+Deze zijn geletterd en genummerd, aan de hand waarvan ze worden doorgenomen.
+</p><section id="vindbaar"><h4 id="x5-1-1-vindbaar"><span class="secno">5.1.1 </span>Vindbaar</h4><p>De eerste stap bij het (her)gebruiken van data is om de data te vinden. Metadata
+en data moeten gemakkelijk te vinden zijn voor zowel mensen als computers.
+Machineleesbare metadata zijn essentieel voor het ontdekken van datasets en
+services. Vindbaar begint met bekendheid om te weten dat data gevonden kan
+worden. Hiervoor is communicatie over het DSGO-uitgangspunt en een centraal
+loket voor vragen essentieel.</p><p><strong>F1. (Meta)data krijgen een wereldwijd unieke en persistente identifier</strong></p><p>(Meta)data(set) in het DSGO krijgen een unieke object identificatie
+(<a href="#toegankelijk">UOI</a>) welke tijdens de hele levensloop van de (meta)data(set).</p><p>Het&nbsp;<a href="https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie">Unieke Object Identificator
+(UOI)</a>&nbsp;‘systeem’
+is een digitale sleutel waarmee je op basis van je rol en toegangsrechten
+informatie over gebouwen en objecten in de gebouwde omgeving kunt raadplegen.
+Het ‘systeem’ als gedachte is ontwikkeld binnen de bouw- en vastgoedsector. De
+gedachte achter een UOI-code is dat er domein-overstijgend verbindingen mee
+gelegd kunnen worden die het beantwoorden van vragen over objecten in de
+gebouwde omgeving vereenvoudigen. De UOI-code wordt ook genoemd in de lopende
+consultatie van de&nbsp;<a href="https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang/objectenregistratie">Samenhangende Objecten Registratie
+(SOR)</a>.
+Experts uit de bouw- en geo-wereld hebben het UOI als systeem getoetst aan de
+nieuwe Geo- &amp; Bouw-informatiestandaarden (NEN 3610, NEN 2660 en BIM gerelateerde
+standaarden) en de&nbsp;<a href="https://docs.geostandaarden.nl/disgeo/emso/#identificatie-van-objecten">principes die DiSGeo
+hanteert</a>&nbsp;voor
+de Samenhangende Objecten Registratie (SOR). Ook is gekeken naar de instrumenten
+van de Wet kwaliteitsborging Bouw (Wkb) en het ontwerp Digitaal Stelsel Gebouwde
+Omgeving DSGO (binnen DigiGo).</p><p>Merk op dat zowel het beschreven object middels een UOI wordt geïdentificeerd, 
+als de data, documenten, etc. die het object beschrijven.
+</p><p><em>Noot van de schrijvers: Tussen november 2020 en april 2021 heeft het ministerie
+van BZK onderzoek laten doen naar het ontwerp van een Unieke Object
+Identificatie (UOI). Vraag aan Geonovum was de UOI te verkennen in relatie tot
+standaarden in de bouw- en geo-sector en de ontwikkelingen rond
+objectidentificatie in de fysieke leefomgeving. Ten tijde van het schrijven dit
+rapport is er een concept onderzoeksrapport over UOI.</em></p><p><strong>F2. Gegevens worden beschreven met uitgebreide metadata</strong></p><p>Van elk gegeven in het DSGO is meta-informatie over onder meer de herkomst,
+kwaliteit en gebruik (licentie + toepassing) beschikbaar. De wijze van
+metadatering sluit aan bij vigerende (inter)nationale standaarden voor metadata.</p><p><strong>F3. Metadata bevatten duidelijk en expliciet de identifier van de gegevens die
+ze beschrijven</strong></p><p>Metadata is beschikbaar op het niveau van data en dataset. Een data(set) in het
+DSGO heeft een UOI, en bij metadata wordt het UOI van de data(set) vastgelegd.
+<em>N.B. de relatie is dus ‘Metadata beschrijft 0..\</em> data(set)’ en niet ‘Data(set)
+wordt beschreven in 0..* Metadata’*</p><p><strong>F4. (Meta)data worden geregistreerd of geïndexeerd in een doorzoekbare bron</strong></p><p>Het DSGO fungeert als een <a href="#dsgo-als-catalogus">catalogus</a> met gedistribueerde
+data(sets) over de gebouwde omgeving.</p><p>Het DSGO fungeert als doorzoekbare catalogus c.q. register met datasets over de
+Gebouwde Omgeving, bijvoorbeeld Gebouwdossier, Energielabels,
+geobasisregistraties.</p><p>Register voor datasets in het DSGO in een metadata-register à la <a href="https://nationaalgeoregister.nl/">Nationaal Geo
+Register</a> (NGR).</p><p>Het DSGO als catalogus c.q. register van datasets over de gebouwde omgeving
+sluit aan bij principe van ‘data bij de bron’. Dataset zelf wordt niet
+aangeleverd aan ofwel gekopiëerd in DSGO; er worden wel gegevens over de
+data(set) (ofwel: metadata) aan het DSGO aangeleverd. Over deze metadata van
+data(sets) wordt metadata vastgelegd, bijvoorbeeld data over de herkomst en
+actualiteit van de metadata over de data(set).</p><blockquote>
+<p>Bijvoorbeeld BAG: De Basisregistratie Adressen en Gebouwen (BAG) is de
+authentieke bron voor officiële adressen en bouwjaren van panden. De
+‘eigenaar’ van de BAG draagt gegevens aan over de dataset BAG aan het DSGO
+ondermeer over de herkomst, kwaliteit (bijvoorbeeld actualiteit 4 dagen,
+geometrische nauwkeurigheid van 30-60 cm, volledigheid 100%) en gebruik
+(wettelijk verplicht voor overheden) van de data in de BAG. In het DSGO
+wordt vastgelegd de herkomst (eigenaar BAG) en kwaliteit (wanneer metadata
+voor het laatst is bijgewerkt) over de BAG vastgelegd.</p>
+</blockquote></section><section id="toegankelijk"><h4 id="x5-1-2-toegankelijk"><span class="secno">5.1.2 </span>Toegankelijk</h4><p>Zodra de gebruiker de benodigde gegevens heeft gevonden bij een of meerdere
+databronnen, moet hij/zij weten hoe deze kunnen worden geraadpleegd en kan
+worden toegepast, mogelijk inclusief authenticatie en autorisatie.</p><p><strong>A1. (Meta)gegevens kunnen worden opgehaald door hun identifier met behulp van
+een gestandaardiseerd communicatieprotocol</strong></p><p>De UOI is de sleutel naar het Dossier van een Object dat middels de UOI wordt
+geidentificeerd.</p><p><em>Samenbrengen van gegevens vanuit basisregistraties als BGT en BAG. Ook Digitaal
+Stelsel Omgevingswet voor de ruimtelijke besluiten als een omgevingsplan (nu
+conform de Wro: bestemmingsplan). UOI Verschil tussen diensten en projectdossier
+beschrijven</em></p><p><strong>A1.1 Het protocol is open, gratis en universeel toepasbaar</strong></p><p>De gegevens in de data(sets) die in de catalogus DSGO zijn met een open en
+gratis protocol bij de bron toegankelijk.</p><p>Dat betekent slechts dat de wijze van de toegang gratis is, niet per se bijv. de toegangscodes.</p><blockquote>
+<p>Bijvoorbeeld met <a href="#koppelen-van-heterogene-datasets-met-linked-data">Linked
+  Data</a>. De overheid
+beschikt over veel verschillende datasets met gegevens die wel een relatie
+hebben, maar nu niet aan elkaar zijn gelinkt. Door bijvoorbeeld
+beleidsstukken, voorlichting, jurisprudentie en uitvoeringsaanwijzingen te
+koppelen aan wet- en regelgeving creëer je samenhang. Door relaties
+zichtbaar te maken, kan linked data ook fungeren als lijm tussen de
+verschillende (basis)registraties. Met linked data breng je samenhang aan in
+informatie. Linked data maakt van woorden, zoals de stad ‘Den Haag’, unieke
+concepten. Elk concept wint aan betekenis als er meer beschrijvingen aan
+gelinkt worden. Daardoor krijgt de inhoud van webdocumenten meer betekenis
+en worden zoekresultaten nauwkeuriger.</p>
+</blockquote><p><strong>A1.2 Het protocol maakt een authenticatie- en autorisatieprocedure mogelijk,
+waar nodig</strong></p><p>Het DSGO geeft gecontroleerde toegang tot data over de gebouwde omgeving. In de
+<em>authenticatie</em>procedure wordt de identiteit van de leverancier of afnemer van
+gegevens vastgesteld. In de <em>autorisatie</em>procedure wordt bepaald of de
+leverancier of afnemer recht heeft tot het wijzigen of gebruiken van de
+gegevens.</p><blockquote>
+<p>DigiD en e-Herkenning</p>
+</blockquote><p><strong>A2. Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn</strong></p><p>Data kan niet meer beschikbaar zijn voor afnemer om verschillende redenen:
+gegevens zijn verwijderd, gebruiker is niet meer geautoriseerd, of de koppeling
+met de gedistribueerde bronnen liggen eruit. In het DSGO fungeert het
+metadata-register als referentie naar welke data(sets) beschikbaar zijn, of zijn
+geweest.</p></section><section id="uitwisselbaar"><h4 id="x5-1-3-uitwisselbaar"><span class="secno">5.1.3 </span>Uitwisselbaar</h4><p>Interoperabiliteit betekent het kunnen uitwisselen van digitale gegevens tussen
+overheden onderling en tussen de overheid, bedrijven en burgers. Door uit te
+wisselen kunnen gegevens geïntegreerd met andere gegevens. Bovendien moeten de
+gegevens samenwerken met applicaties of workflows voor analyse, opslag en
+verwerking.</p><p>Op eenduidige manieren samenwerken om zo informatie beter te kunnen beveiligen
+en makkelijker en toegankelijker te maken voor iedereen: dat is hoe open
+standaarden de samenwerking bevorderen tussen het bedrijfsleven, de burger en
+overheid. Een standaard is een afspraak over informatie of een proces,
+vastgelegd in een specificatiedocument. Als computersystemen gegevens
+uitwisselen, dan moeten zij die dezelfde afspraken of processen hanteren. Doen
+ze dat niet, dan kunnen er fouten ontstaan, kan het systeem misbruikt worden of
+wordt verkeerde data overgenomen.</p><p><strong>I1. (Meta)data gebruiken een formele, toegankelijke, gedeelde en breed
+toepasbare taal voor kennisrepresentatie.</strong></p><p>In het DSGO worden voor de beschrijving van de datasets (metadata) en de data
+van datasets zelf open standaarden gebruikt.</p><p>In Nederland zet het&nbsp;<a href="https://forumstandaardisatie.nl/over-ons">Forum
+Standaardisatie</a>&nbsp;zich in voor open
+ICT-standaarden. Standaarden ondersteunen gegevensuitwisseling tussen
+ICT-systemen. De openheid zorgt ervoor dat iedereen de standaard kan
+gebruiken.&nbsp;<a href="https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/standaardisatie/open-standaarden/">Open
+standaarden</a>&nbsp;dragen
+bij aan interoperabiliteit en leveranciersonafhankelijkheid. Het gebruik van
+open standaarden in ICT-systemen bespaart kosten en verlicht administratieve
+lasten.</p><p>Het Forum Standaardisatie hanteert twee type&nbsp;<a href="https://forumstandaardisatie.nl/open-standaarden">lijsten open
+standaarden</a>: de verplichte
+(‘pas toe of leg uit’) en aanbevolen open standaarden voor de publieke sector.</p><p><strong>I2. (Meta)data gebruiken vocabulaires die FAIR-principes volgen</strong></p><p>In het DSGO vindt domein overstijgende uitwisseling van data plaats. Als
+verschillende domeinen data willen uitwisselen, dan is er vaak sprake van
+verschil in definities en begrippen.</p><p>Betekenisverwarring kan op twee wijzes overbrugd worden.
+Enerzijds door gebruik te maken van een bovenliggende identifier die in beide
+domeinen wordt toegepast. De UOI biedt in dat geval uitkomst om data van het ene
+domein te combineren met data van het andere domein. Voorbeelden van
+overstijgende domeinen zijn: het geodomein waaronder de geo-basisregistraties,
+het energiedomein, ....</p><p>Anderzijds door de wijze waarop de gegevens zijn opgeslagen, te beschrijven.
+Zulke beschrijven worden ook wel OTL’s, ontologieën of informatiemodellen genoemd.</p><blockquote>
+<p>Bijvoorbeeld <a href="https://public.cbnl.org/over-cb-nl">CB-NL</a>: Verschillende
+definiëring, beschrijvingen en interpretaties door betrokken partijen leiden
+ertoe dat bouwpartijen in de sector een verschillende taal ‘spreken’.
+Hierdoor zijn objectgegevens niet efficiënt (geautomatiseerd) herbruikbaar.
+De conceptenbibliotheek Nederland (CB-NL) is een soort digitaal woordenboek
+voor de bouw, eenvoudig bruikbaar voor elke&nbsp;gebruiker.&nbsp;De CB-NL is een
+digitale beschrijving van generieke, herbruikbare concepten (typen of
+soorten), die betrekking hebben op onder meer fysieke gebouwde objecten, de
+gebruiksruimten en –gebieden en ruimtelijke omgeving. De beschrijving geldt
+bovendien&nbsp;gedurende de hele levenscyclus.</p>
+</blockquote><p><strong>I3. (Meta)data bevatten gekwalificeerde verwijzingen naar andere (meta)data</strong></p><p>In het DSGO is de <strong>metadataredacteur</strong> verantwoordelijk voor aanmaken metadata
+van een dataset, en voert wijzigingen door in de metadata. De metadata voldoet
+aan de gestelde kwaliteitseisen (o.m. actueel, juist en volledig).</p></section><section id="herbruikbaar"><h4 id="x5-1-4-herbruikbaar"><span class="secno">5.1.4 </span>Herbruikbaar</h4><p>Het uiteindelijke doel van FAIR is het hergebruik van data te optimaliseren. Om
+dit te bereiken moeten metadata en data goed worden beschreven, zodat ze in
+verschillende situaties kunnen worden gerepliceerd en/of gecombineerd. Denk
+daarbij aan de basisregistraties en landelijke voorzieningen.</p><p><strong>R1. (Meta)data zijn rijkelijk beschreven met groot aantal nauwkeurige en
+relevante attributen</strong></p><p>Het DSGO sluit aan op de <a href="#section">Wet Kwaliteitsborging voor het Bouwen</a>.
+Onderdeel van deze wet is het&nbsp;<em>dossier bevoegd gezag</em>.</p><p>Op dit moment is de opdrachtgever verantwoordelijk voor de bouwkwaliteit van een
+object bij overhandiging van de sleutel. De Wet Kwaliteitsborging (WKB) is erop
+gericht om bouwkwaliteit te verbeteren, door de bewijslast van geleverde
+kwaliteit bij de aannemer te beleggen. Deze dient dat vast te leggen in
+het&nbsp;<em>dossier bevoegd gezag</em>, waarbij de data die voor dit dossier benodigd is
+door alle ketenpartners aangeleverd moet worden. Dit digitale bouwdossier bevat
+informatie over het gerealiseerde bouwwerk en de verklaring van de
+kwaliteitsborger dat het gerealiseerde bouwwerk voldoet aan de bouwtechnische
+vereisten van het Bouwbesluit. Het op orde hebben van dit dossier, gaat op
+termijn een voorwaarde worden voor gunning van een opdracht.</p><p>Het verkrijgen van deze data is op dit moment een tijdrovend en kostbaar karwei.
+De data liggen bij een groot aantal partijen en is niet gestandaardiseerd en/of
+automatisch verkrijgbaar. Door uniforme afspraken faciliteert het DSGO het
+toegankelijk maken van alle gebouw gerelateerde data op een eenvoudige, veilige
+en gecontroleerde manier. Dit heeft een aantal voordelen:</p><p>• Risico’s worden teruggedrongen</p><p>• Besparing van tijd en kosten voor delen van data</p><p>• Makkelijker om te voldoen aan WKB</p><p>• Verhogen van kwaliteit</p><p>• Verhogen van veiligheid</p><p><strong>R2. (Meta)data worden vrijgegeven met een duidelijke en toegankelijke
+datagebruikslicentie</strong></p><p>In het DSGO worden met een datagebruikslicentie voorwaarden oplegd wie welke
+gegevens voor welke doel mag gebruiken.</p><p>Wie (geo-)informatie van een ander gebruikt, moet weten of daarvoor voorwaarden
+gelden en zo ja welke voorwaarden dat zijn. De Nederlandse overheid wil
+overheidsinformatie zoveel mogelijk gratis en zonder gebruiksvoorwaarden
+beschikbaar stellen. In de bouwwereld wordt veel geïnvesteerd in
+objectenbibliotheek waar ontwikkelende marktpartijen het exclusieve
+gebruiksrecht op willen behouden.</p><p><strong>R3. (Meta)data worden geassocieerd met hun herkomst</strong></p><p><strong>R4. (Meta)data voldoen aan domein-relevante Standaarden</strong></p><p>Standaarden zijn de afsprakenstelsels van domeinen die specificaties en eisen
+aan de (meta)data beschrijven. De standaarden voor (meta)data(sets) in het DSGO
+worden in de domeinen beheerd en doorontwikkeld.</p></section></section></section><section id="samenvatting" data-format="markdown"><!--OddPage--><h2 id="x6-samenvatting"><span class="secno">6. </span>Samenvatting</h2><p>Het publiek belang en de publieke waarden zijn de basisprincipes voor
+sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data.
+De volgende uitgangspunten, randvoorwaarden en eisen komen voort uit de
+ontwerpprincipes en dataprincipes zoals in voorgaande hoofdstukken beschreven.</p><section id="uitgangspunten"><h3 id="x6-1-uitgangspunten"><span class="secno">6.1 </span>Uitgangspunten</h3><ul>
+<li><p>Afsprakenstelsel DSGO: Samen met de sector co-creëren van een samenhangende set afspraken op business, functioneel, operationeel, juridisch en technisch gebied, om gemakkelijker gebruik te kunnen maken van elkaars data.</p>
+</li>
+<li><p>Het DSGO baseren we op publieke waarden die de samenleving reflecteren. Deze
+publieke waarden worden concreet in acht ontwerpprincipes die richting geven
+aan het ontwerpen onderhouden en toepassen van de processen en afspraken die
+door het DSGO ondersteund worden.</p>
+</li>
+<li><p>In het DSGO worden Standaarden uit verschillende domeinen toegepast. Het is
+onmogelijk om al deze Standaarden te harmoniseren op semantiek etc..</p>
+</li>
+<li><p>(meta)data(set) bij de bron laten.. (borgt bron)</p>
+</li>
+<li><p>metadata is vrij opvraagbaar</p>
+</li>
+<li><p>het schema van de data en de metadata is los beschikbaar en interpreteerbaar</p>
+</li>
+</ul></section><section id="randvoorwaarden"><h3 id="x6-2-randvoorwaarden"><span class="secno">6.2 </span>Randvoorwaarden</h3><ul>
+<li><p>Mapping-table à la CB-NL om semantisch te linken voor gebruikers.</p>
+</li>
+<li><p>(meta)data(sets) als een service opvraagbaar</p>
+</li>
+</ul></section><section id="eisen"><h3 id="x6-3-eisen"><span class="secno">6.3 </span>Eisen</h3><ul>
+<li><p>Afspraken over/voor Standaarden zijn slechts nodig op het grensvlak ten
+behoeve van uitwisselbaarheid en koppelbaarheid en hergebruik van data uit
+verschillende domeinen/standaarden. Afspraken zijn dan nodig over
+identificering van gegevens, historie en levensduur, uitwisselprotocol
+(techniek), metadata-standaarden.</p>
+</li>
+<li><p>API op (meta)data(set) services</p>
+</li>
+<li><p>Gebruik van open standaarden en richtlijnen in de sector die er al zijn,
+benutting van wat er al is inclusief bijbehorende kennis en expertise. Het
+betreft open standaarden en richtlijnen in het palet van het BIM Loket en de
+broedplaats van het BIM Loket en van aanpalende kennisinstellingen zoals
+Ketenstandaard Bouw en Techniek. Tevens als uitgangspunt het kader vanuit de
+Roadmap standaarden die momenteel als versnellingsproject DigiGO geupdated
+wordt.</p>
+</li>
+<li><p>Gebruik van&nbsp;<a href="https://forumstandaardisatie.nl/open-standaarden">verplichte open standaarden van de 'Pas toe of leg uit' van het
+Forum Standaardisatie</a>.</p>
+</li>
+<li><p>DSGO en geobasisregistraties moeten met elkaar overeenstemmen. Doen ze dan
+niet, dan worden processen opgestart om die bij te werken volgende de
+geldende regelgeving. Daarbij geldt dat:</p>
+</li>
+<li><p>architecten, ingenieursbureaus en bouwbedrijven en aannemers gebruiken de
+informatie uit de basisregistraties als uitgangspunt voor hun ontwerp en
+doen waar nodig meldingen waar de info niet juist is.</p>
+</li>
+<li><p>Bevoegd gezag controleert na oplevering de maatvoering met de werkelijkheid
+en zorgt voor aanpassing van de geobasisregistraties, op basis van de
+informatie uit het digitaal bouwwerkdossier. Daarbij gebruiken alle partijen
+de voorzieningen van de Geobasisregistraties.</p>
+</li>
+</ul></section></section><section id="bijlagen" data-format="markdown"><!--OddPage--><h2 id="x7-bijlagen"><span class="secno">7. </span>Bijlagen</h2><section id="begrippen-en-afkortingen"><h3 id="x7-1-begrippen-en-afkortingen"><span class="secno">7.1 </span>Begrippen en afkortingen</h3><table>
+<thead>
+<tr>
+<th>Begrip</th>
+<th>Toelichting</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>DiSGeo</td>
+<td>Doorontwikkeling in Samenhang van de geo-basisregistraties.</td>
+</tr>
+<tr>
+<td>DSGO</td>
+<td>Digitaal Stelsel Gebouwde Omgeving</td>
+</tr>
+<tr>
+<td>FAIR</td>
+<td>De FAIR Principes staan voor Findable (vindbaarheid), Accessible (toegankelijkheid), Interoperable (uitwisselbaar/ interoperabiliteit), Reusable (herbruikbaar).</td>
+</tr>
+<tr>
+<td>UOI</td>
+<td>Het Unieke Object Identificator (UOI) ‘systeem’ is een digitale sleutel waarmee je op basis van je rol en toegangsrechten informatie over gebouwen en objecten in de gebouwde omgeving kunt raadplegen.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table></section><section id="gebruikte-bronnen"><h3 id="x7-2-gebruikte-bronnen"><span class="secno">7.2 </span>Gebruikte bronnen:</h3><ul>
+<li>Actieplan DSGO, document versie 1.0</li>
+</ul></section></section><p role="navigation" id="back-to-top"><a href="#title">
+  <abbr title="Naar begin">↑</abbr></a></p><script src="https://www.w3.org/scripts/TR/2016/fixup.js"></script></body></html>
