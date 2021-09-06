@@ -3,12 +3,14 @@ var respecConfig = {
   specStatus: "GN-WV",
   specType: "HR", 
   publishDate: "2020-09-06",
-  authors: [{ name: "Arnoud de Boer          ", companyURL: "https://www.geonovum.nl", mailto: "a.deboer@geonovum.nl" },
-{ name: "Dik Spekkink            ", companyURL: "https://www.bimloket.nl", mailto: "dik.spekkink@bimloket.nl" },
-{ name: "Jacueline Meerkerk      ", companyURL: "https://www.bimloket.nl", mailto: "jacqueline.meerkerk@bimloket.nl" },
-{ name: "Jan-Pieter Eelants      ", companyURL: "https://www.crow.nl", mailto: "jan-pieter.eelants@crow.nl" },
+  authors: [
+    { name: "Arnoud de Boer", companyURL: "https://www.geonovum.nl", mailto: "a.deboer@geonovum.nl" },
+{ name: "Dik Spekkink", companyURL: "https://www.bimloket.nl", mailto: "dik.spekkink@bimloket.nl" },
+{ name: "Jacueline Meerkerk", companyURL: "https://www.bimloket.nl", mailto: "jacqueline.meerkerk@bimloket.nl" },
+{ name: "Jan-Pieter Eelants", companyURL: "https://www.crow.nl", mailto: "jan-pieter.eelants@crow.nl" },
 { name: "Monique van Scherpenzeel", companyURL: "https://www.geonovum.nl", mailto: "m.vanscherpenzeel@geonovum.nl" },
-{ name: "Redmer Kronemeijer      ", companyURL: "https://www.crow.nl", mailto: "redmer.kronemeijer@crow.nl" }],  
+{ name: "Redmer Kronemeijer", companyURL: "https://www.crow.nl", mailto: "redmer.kronemeijer@crow.nl" }
+           ],  
   editors: [
     {
       name: "Geonovum",
