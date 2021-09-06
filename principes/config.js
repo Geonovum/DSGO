@@ -2,7 +2,7 @@ var respecConfig = {
   format: "markdown",
   specStatus: "GN-WV",
   specType: "HR", 
-  //publishDate: "2017-09-12",
+  publishDate: "2020-09-06",
   authors: [{ name: "Arnoud de Boer          ", companyURL: "https://www.geonovum.nl", mailto: "a.deboer@geonovum.nl" },
 { name: "Dik Spekkink            ", companyURL: "https://www.bimloket.nl", mailto: "dik.spekkink@bimloket.nl" },
 { name: "Jacueline Meerkerk      ", companyURL: "https://www.bimloket.nl", mailto: "jacqueline.meerkerk@bimloket.nl" },
