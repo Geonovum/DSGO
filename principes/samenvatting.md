@@ -37,6 +37,9 @@ Randvoorwaarden
 
 -   (meta)data(sets) als een service opvraagbaar
 
+-   Aangeboden datasets worden aangeleverd met een juiste, volledige en uitgebreide metadatabeschrijving.
+Die aanlevering en de toegang tot de dataset zijn via API-service geregeld. (Of is dit een eis?)
+
 Eisen
 -----
 
