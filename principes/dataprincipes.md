@@ -211,23 +211,31 @@ toepasbare taal voor kennisrepresentatie.**
 In het DSGO worden voor de beschrijving van de datasets (metadata) en de data
 van datasets zelf open standaarden gebruikt.
 
-In Nederland zet het [Forum
-Standaardisatie](https://forumstandaardisatie.nl/over-ons) zich in voor open
+In Nederland zet het [Forum Standaardisatie][forum-standaardisatie] zich in voor open
 ICT-standaarden. Standaarden ondersteunen gegevensuitwisseling tussen
 ICT-systemen. De openheid zorgt ervoor dat iedereen de standaard kan
-gebruiken. [Open
-standaarden](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/standaardisatie/open-standaarden/) dragen
+gebruiken.
+[Open standaarden][digi-overheid-os] dragen
 bij aan interoperabiliteit en leveranciersonafhankelijkheid. Het gebruik van
 open standaarden in ICT-systemen bespaart kosten en verlicht administratieve
 lasten.
 
+[forum-standaardisatie]: https://forumstandaardisatie.nl/over-ons
+[digi-overheid-os]: https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/standaardisatie/open-standaarden/
+
 Het Forum Standaardisatie hanteert twee type [lijsten open
-standaarden](https://forumstandaardisatie.nl/open-standaarden): de verplichte
+standaarden][forum-standaardisatie-os]: de verplichte
 (‘pas toe of leg uit’) en aanbevolen open standaarden voor de publieke sector.
+
+[forum-standaardisatie-os]: https://forumstandaardisatie.nl/open-standaarden
 
 **I2. (Meta)data gebruiken vocabulaires die FAIR-principes volgen**
 
-In het DSGO vindt domein overstijgende uitwisseling van data plaats. Als
+Door expliciet te zijn over de gebruikte vocabulaires in metadata en gegevenssets,
+maken we het makkelijker aan te sluiten op DSGO.
+Een systeem dat gegevens verwerkt (of de programmeur ervan), kan zien hoe gegevens geïnterpreteerd moeten worden.
+
+In het DSGO vindt domein-overstijgende uitwisseling van data plaats. Als
 verschillende domeinen data willen uitwisselen, dan is er vaak sprake van
 verschil in definities en begrippen.
 
@@ -240,6 +248,8 @@ het energiedomein, ....
 
 Anderzijds door de wijze waarop de gegevens zijn opgeslagen, te beschrijven.
 Zulke beschrijven worden ook wel OTL’s, ontologieën of informatiemodellen genoemd.
+Niet alle schema’s (vocabulaires, ontologiën, OTL’s, informatiemodellen) zijn als vijf-ster FAIR te kwalificeren.
+Toch dienen ze ten minste publiekelijk te raadplegen te zijn.
 
 >   Bijvoorbeeld [CB-NL](https://public.cbnl.org/over-cb-nl): Verschillende
 >   definiëring, beschrijvingen en interpretaties door betrokken partijen leiden
@@ -254,8 +264,11 @@ Zulke beschrijven worden ook wel OTL’s, ontologieën of informatiemodellen gen
 
 **I3. (Meta)data bevatten gekwalificeerde verwijzingen naar andere (meta)data**
 
-In het DSGO is de **metadataredacteur** verantwoordelijk voor aanmaken metadata
-van een dataset, en voert wijzigingen door in de metadata. De metadata voldoet
+Door gebruik te maken van UOI’s bij verwijzingen naar objecten, maken we koppelingen over datasets mogelijk.
+Meer koppelingen zijn mogelijk, maar niet van elke leverancier van een dataset kan worden verwacht dat die alle mogelijke koppelingen maakt.
+
+Daarom is in het DSGO de **metadataredacteur** verantwoordelijk voor aanmaken metadata
+van een dataset (o.b.v. aangeleverde metagegevens), en voert wijzigingen door in de metadata. De metadata voldoet
 aan de gestelde kwaliteitseisen (o.m. actueel, juist en volledig).
 
 ### Herbruikbaar
