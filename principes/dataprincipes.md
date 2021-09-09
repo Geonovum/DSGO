@@ -1,9 +1,11 @@
 Dataprincipes
 =============
 
-Het data aanbod en de data vraag op elkaar aansluiten is voor het DGSO niet
-eenvoudig omdat er zeer veel organisaties in de sector actief zijn met veel
-verschillende soorten data en behoeftes. Het gebrek aan beschikbaar hebben van
+Er zijn veel organisaties in de sector actief die data kunnen gaan delen met DSGO.
+Daardoor is het op elkaar aansluiten van aanbod en vraag van gegevenssets niet eenvoudig.
+Elke organisatie heeft weer behoefte aan verschillende soorten gegevens.
+
+Het gebrek aan beschikbaar hebben van
 de juiste data op de juiste plek is niet alleen een uitdaging om
 stikstofreductie doelen te halen maar is noodzakelijk voor alle maatschappelijke
 en/of sector-overstijgende doelen.
@@ -21,35 +23,38 @@ Deze zijn geletterd en genummerd, aan de hand waarvan ze worden doorgenomen.
 De eerste stap bij het (her)gebruiken van data is om de data te vinden. Metadata
 en data moeten gemakkelijk te vinden zijn voor zowel mensen als computers.
 Machineleesbare metadata zijn essentieel voor het ontdekken van datasets en
-services. Vindbaar begint met bekendheid om te weten dat data gevonden kan
+services. Vindbaarheid begint met bekendheid om te weten dat data gevonden kan
 worden. Hiervoor is communicatie over het DSGO-uitgangspunt en een centraal
 loket voor vragen essentieel.
 
 **F1. (Meta)data krijgen een wereldwijd unieke en persistente identifier**
 
 (Meta)data(set) in het DSGO krijgen een unieke object identificatie
-([UOI](#toegankelijk)) welke tijdens de hele levensloop van de (meta)data(set).
+([UOI](#toegankelijk)) welke tijdens de hele levensloop van de (meta)data(set) hetzelfde blijft.
 
-Het [Unieke Object Identificator
-(UOI)](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie) ‘systeem’
+Het [Unieke Object Identificator (UOI)][uoinieuws] ‘systeem’
 is een digitale sleutel waarmee je op basis van je rol en toegangsrechten
 informatie over gebouwen en objecten in de gebouwde omgeving kunt raadplegen.
+
+[uoinieuws]: https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie
+
+Ook identificeerbare datasets, documenten, etc. worden een middels een UOI geïdentificeerd.
+
 Het ‘systeem’ als gedachte is ontwikkeld binnen de bouw- en vastgoedsector. De
 gedachte achter een UOI-code is dat er domein-overstijgend verbindingen mee
 gelegd kunnen worden die het beantwoorden van vragen over objecten in de
-gebouwde omgeving vereenvoudigen. De UOI-code wordt ook genoemd in de lopende
-consultatie van de [Samenhangende Objecten Registratie
-(SOR)](https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang/objectenregistratie).
+gebouwde omgeving vereenvoudigen.
+De UOI-code wordt ook genoemd in de lopende consultatie van de [Samenhangende Objecten Registratie (SOR)][sorinfo].
 Experts uit de bouw- en geo-wereld hebben het UOI als systeem getoetst aan de
 nieuwe Geo- & Bouw-informatiestandaarden (NEN 3610, NEN 2660 en BIM gerelateerde
-standaarden) en de [principes die DiSGeo
-hanteert](https://docs.geostandaarden.nl/disgeo/emso/#identificatie-van-objecten) voor
-de Samenhangende Objecten Registratie (SOR). Ook is gekeken naar de instrumenten
+standaarden) en de [principes die DiSGeo hanteert][disgeoemso] voor
+de Samenhangende Objecten Registratie (SOR). 
+Ook is gekeken naar de instrumenten
 van de Wet kwaliteitsborging Bouw (Wkb) en het ontwerp Digitaal Stelsel Gebouwde
 Omgeving DSGO (binnen DigiGo).
 
-Merk op dat zowel het beschreven object middels een UOI wordt geïdentificeerd, 
-als de data, documenten, etc. die het object beschrijven.
+[sorinfo]: https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang/objectenregistratie
+[disgeoemso]: https://docs.geostandaarden.nl/disgeo/emso/#identificatie-van-objecten
 
 *Noot van de schrijvers: Tussen november 2020 en april 2021 heeft het ministerie
 van BZK onderzoek laten doen naar het ontwerp van een Unieke Object
@@ -64,6 +69,8 @@ Van elk gegeven in het DSGO is meta-informatie over onder meer de herkomst,
 kwaliteit en gebruik (licentie + toepassing) beschikbaar. De wijze van
 metadatering sluit aan bij vigerende (inter)nationale standaarden voor metadata.
 
+Ook de wijze van toegang, de gebruikte gegevensformaten en schema’s worden beschreven in de metadata van een dataset.
+
 **F3. Metadata bevatten duidelijk en expliciet de identifier van de gegevens die
 ze beschrijven**
 
@@ -74,15 +81,14 @@ wordt beschreven in 0..\* Metadata’*
 
 **F4. (Meta)data worden geregistreerd of geïndexeerd in een doorzoekbare bron**
 
-Het DSGO fungeert als een [catalogus](#dsgo-als-catalogus) met gedistribueerde
+Het DSGO fungeert ondermeer als een doorzoekbare catalogus c.q. register met gedistribueerde
 data(sets) over de gebouwde omgeving.
+Bijvoorbeeld Gebouwdossier, Energielabels, geobasisregistraties.
 
-Het DSGO fungeert als doorzoekbare catalogus c.q. register met datasets over de
-Gebouwde Omgeving, bijvoorbeeld Gebouwdossier, Energielabels,
-geobasisregistraties.
+Daarmee lijkt deze functie van DSGO op een metadata-register à la [Nationaal Geo
+Register][ngr] (NGR).
 
-Register voor datasets in het DSGO in een metadata-register à la [Nationaal Geo
-Register](https://nationaalgeoregister.nl/) (NGR).
+[ngr]: https://nationaalgeoregister.nl/
 
 Het DSGO als catalogus c.q. register van datasets over de gebouwde omgeving
 sluit aan bij principe van ‘data bij de bron’. Dataset zelf wordt niet
