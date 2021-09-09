@@ -11,19 +11,24 @@ Uitgangspunten
 
 -   Afsprakenstelsel DSGO: Samen met de sector co-creëren van een samenhangende set afspraken op business, functioneel, operationeel, juridisch en technisch gebied, om gemakkelijker gebruik te kunnen maken van elkaars data.
 
--   Het DSGO baseren we op publieke waarden die de samenleving reflecteren. Deze
-    publieke waarden worden concreet in acht ontwerpprincipes die richting geven
-    aan het ontwerpen onderhouden en toepassen van de processen en afspraken die
-    door het DSGO ondersteund worden.
+-   Het DSGO baseren we op publieke waarden die de samenleving reflecteren. 
+Deze publieke waarden zijn concreet gemaakt in acht ontwerpprincipes. 
+Die geven richting aan het ontwerpen, onderhouden en toepassen van de processen en afspraken die door het DSGO ondersteund worden.
 
--   In het DSGO worden Standaarden uit verschillende domeinen toegepast. Het is
-    onmogelijk om al deze Standaarden te harmoniseren op semantiek etc..
+-   In het DSGO worden Standaarden uit verschillende domeinen toegepast. 
+Het is onmogelijk om al deze standaarden te harmoniseren op semantiek, 
+daarom stellen we de standaarden van Forum Standaardisatie als uitgangspunt vast.
 
--   (meta)data(set) bij de bron laten.. (borgt bron)
+-   Datasets laten we bij de bron.
+DSGO catalogiseert metadata die die datasets beschrijven, maar verzorgt niet de toegang zelf: 
+dat wordt bepaald bij de bron.
 
--   metadata is vrij opvraagbaar
+-   Metadata van datasets is vrij opvraagbaar bij het digitaal stelsel.
+Uitgangspunt voor data-aanbieders zou eveneens moeten zijn dat de datasets zelf vrij beschikbaar zijn, tenzij zwaarwegende factoren dat onpraktisch of onmogelijk maken.
 
--   het schema van de data en de metadata is los beschikbaar en interpreteerbaar
+-   Metadata van datasets wordt beschreven in een separaat beschreven schema.
+Zo maken we mogelijk dat systemen direct op DSGO aansluiten.
+Ook voor data zelf geldt dat het schema ervan beschreven en vrij beschikbaar is. 
 
 Randvoorwaarden
 ---------------
