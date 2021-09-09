@@ -118,6 +118,9 @@ een gestandaardiseerd communicatieprotocol**
 De UOI is de sleutel naar het Dossier van een Object dat middels de UOI wordt
 geidentificeerd.
 
+<div class="issue" data-number="11">
+</div>
+
 *Samenbrengen van gegevens vanuit basisregistraties als BGT en BAG. Ook Digitaal
 Stelsel Omgevingswet voor de ruimtelijke besluiten als een omgevingsplan (nu
 conform de Wro: bestemmingsplan). UOI Verschil tussen diensten en projectdossier
@@ -128,7 +131,20 @@ beschrijven*
 De gegevens in de data(sets) die in de catalogus DSGO zijn met een open en
 gratis protocol bij de bron toegankelijk.
 
-Dat betekent slechts dat de wijze van de toegang gratis is, niet per se bijv. de toegangscodes.
+Het protocol betekent in dezen bijv. [HTTP], [FTP], [SMTP] en sluit daarmee bijv. Teamskanalen uit.
+Meestal worden API’s over HTTP aangeboden.
+
+[HTTP]: http://www.wikidata.org/entity/Q8777
+[FTP]: https://www.w3.org/Protocols/rfc959/
+[SMTP]: http://www.wikidata.org/entity/Q160453
+
+Ook betekent dit principe niet dat wat er over het protocol vervolgens gecommuniceerd wordt,
+open, gratis of universeel toepasbaar zou zijn.
+Toegang tot de data kan nog steeds via een eigen API gaan, al dan niet met toegewezen toegangscodes.
+Het verdient wel de voorkeur om van standaarden gebruik te maken,
+en wanneer die niet voorhanden zijn, een eigen API te beschrijven met een [Open API-specificatie][oas].
+
+[oas]: https://spec.openapis.org/oas/v3.1.0
 
 >   Bijvoorbeeld met [Linked
 >   Data](#koppelen-van-heterogene-datasets-met-linked-data). De overheid
@@ -152,6 +168,8 @@ gegevens vastgesteld. In de *autorisatie*procedure wordt bepaald of de
 leverancier of afnemer recht heeft tot het wijzigen of gebruiken van de
 gegevens.
 
+<aside class="issue" data-number="12"></aside>
+
 > DigiD en e-Herkenning
 
 **A2. Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn**
@@ -161,6 +179,14 @@ gegevens zijn verwijderd, gebruiker is niet meer geautoriseerd, of de koppeling
 met de gedistribueerde bronnen liggen eruit. In het DSGO fungeert het
 metadata-register als referentie naar welke data(sets) beschikbaar zijn, of zijn
 geweest.
+
+Opeenvolgende versies van metadata kunnen mogelijk beschikbaar blijven, 
+maar met verloop van tijd zullen meer en meer datasets onbeschikbaar geraken.
+Het is de verantwoordelijkheid van de gebruiker om gegevens te zeker te stellen, 
+waar dat nodig is voor processen.
+
+DSGO kan afspraken maken over beschikbaarheid van gegevenssets met de aanbieders daarvan.
+Dankzij de autorisatie/authenticatie-functie van DSGO kan het mogelijk gemaakt worden dat veranderingen aan datasets aangekondigd worden.
 
 ### Uitwisselbaar
 
