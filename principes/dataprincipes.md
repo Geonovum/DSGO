@@ -271,6 +271,8 @@ Daarom is in het DSGO de **metadataredacteur** verantwoordelijk voor aanmaken me
 van een dataset (o.b.v. aangeleverde metagegevens), en voert wijzigingen door in de metadata. De metadata voldoet
 aan de gestelde kwaliteitseisen (o.m. actueel, juist en volledig).
 
+<aside class="issue" data-number="13"></aside>
+
 ### Herbruikbaar
 
 Het uiteindelijke doel van FAIR is het hergebruik van data te optimaliseren. Om
@@ -325,6 +327,12 @@ objectenbibliotheek waar ontwikkelende marktpartijen het exclusieve
 gebruiksrecht op willen behouden.
 
 **R3. (Meta)data worden geassocieerd met hun herkomst**
+
+Van elke dataset is bekend wie de leverancier is.
+Elke dataset houdt voor zich ook bij (en levert dat, indien mogelijk, uit) waar welk gegevenspunt vandaan komt.
+
+Zo houden we duidelijk waar gegevens vandaan komen en wie ervoor verantwoordelijk is.
+Dat betekent ook dat de metadata zowel van de datasetleverancier is, als van de metadataredacteur.
 
 **R4. (Meta)data voldoen aan domein-relevante Standaarden**
 
