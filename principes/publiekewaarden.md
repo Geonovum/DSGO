@@ -56,9 +56,9 @@ Deze aandacht heeft er onder andere toe geleid dat er ook concrete handvatten zi
 - vanuit het locatiepact waarin een groep overheden, bedrijven en kennisinstellingen met elkaar samenwerken aan locatietechnologie, is een ethische referentie ontwikkeld (https://www.wijsmetlocatie.nl/wat-we-doen/ethiek). Deze is in de praktijk getoetst en vergeleken met diverse andere ethische referenties.
 
 Ook Vanuit **Europa** is er een sterk sturende rol van de commissie op het handhaven van publieke waarden zoals blijkt uit de Europese digitale strategie. Bouwstenen in de Europese digitale strategie zijn:
-• De Verordening Digitale Markten (Digital Markets Act, DMA), die de digitale eenheidsmarkt reguleert, en een reeks eisen stelt t.a.v. interoperabiliteit, eerlijkheid en openheid, en de markpositie reguleert van grote online platformen die als gatekeepers functioneren. De DMA is als voorstel gepubliceerd eind 2020, met een beoogde implementatie uiterlijk begin 2022.
-• De Verordening Digitale Diensten (Digital Services Act, DSA), die de digitale eenheidsmarkt als gelijk speelveld inricht voor innovatie, groei, en concurrentie, en waar de grondrechten van alle gebruikers van digitale diensten actief gewaarborgd zijn, onder meer door vereisten t.a.v. transparantie en een verantwoordingsraamwerk voor dienstverleners. De DSA is als voorstel gepubliceerd eind 2020, met een beoogde implementatie uiterlijk begin 2022
-De Europese datastrategie, die streeft naar een eenheidsmarkt voor de distributie en het gebruik van data, gericht op datasoevereiniteit en wereldwijd competitievermogen. Er wordt gestreefd naar een integrale EU-brede dataspace, om te zorgen dat er meer data beschikbaar komt voor zowel maatschappelijke als economische waarde-creatie.
+- De Verordening Digitale Markten (Digital Markets Act, DMA), die de digitale eenheidsmarkt reguleert, en een reeks eisen stelt t.a.v. interoperabiliteit, eerlijkheid en openheid, en de markpositie reguleert van grote online platformen die als gatekeepers functioneren. De DMA is als voorstel gepubliceerd eind 2020, met een beoogde implementatie uiterlijk begin 2022.
+- De Verordening Digitale Diensten (Digital Services Act, DSA), die de digitale eenheidsmarkt als gelijk speelveld inricht voor innovatie, groei, en concurrentie, en waar de grondrechten van alle gebruikers van digitale diensten actief gewaarborgd zijn, onder meer door vereisten t.a.v. transparantie en een verantwoordingsraamwerk voor dienstverleners. De DSA is als voorstel gepubliceerd eind 2020, met een beoogde implementatie uiterlijk begin 2022.
+
 
 
 Ontwerpprincipes
@@ -87,7 +87,7 @@ ontwerpprincipes, om concreet te maken wat deze voor een use case betekenen. De
 keuzes die hieruit volgen worden vastgesteld en ingericht, bijgesteld en zo
 lerend ontwikkeld, zodat anderen daarop kunnen voortbouwen.
 
-### Radicaal open en transparante uitkomsten
+### open en transparante uitkomsten
 
 Data, algoritmen en technologie zijn navolgbaar, herleidbaar en begrijpelijk.
 Binnen de usecases worden data en datasets gevormd, gebruikt, bewerkt,
