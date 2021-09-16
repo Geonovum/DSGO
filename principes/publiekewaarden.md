@@ -43,6 +43,16 @@ moeten niet alleen kijken naar het topje, maar met elkaar de hele ijsberg zien
 en ontwerpen. Voor het DSGO doen we dat dus op basis van publieke waarden, de we
 concreet hebben gemaakt in de hierna uitgewerke 8 ontwerpprincipes.
 
+**Basisvoorwaarden publieke waarden**
+In 2017 heeft het Rathenau instituut met haar onderzoek 'Opwaarderen - Borgen van publieke waarden in de digitale samenleving' aandacht gevraagd voor dit onderwerp en gepleit voor een actieprogramma. Sinds dat moment heet het Ministerie van BZK deze handschoen opgepakt, als hoeder van de grondwet en grondrechten. 
+Sindsdien zijn diverse actielijnen uitgezet vanuit de Agenda Digitale Overheid (zie https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2021/08/nl-digibeter-2020.pdf). Zo is de kamer geinformeerd over de inzet van Artificial Intelligence en de relatie met publieke waarden (zie  https://www.rijksoverheid.nl/documenten/kamerstukken/2019/10/08/kamerbrief-over-ai-publieke-waarden-en-mensenrechten).
+
+Vanuit wet- en regelgeving worden steeds hogere eisen gesteld aan het beheer van data in de publieke sector. Dit betreft niet alleen de bescherming van persoonsgegevens, de integriteit van de systemen en processen, maar ook openbaarheid, transparantie en herleidbaarheid van besluitvorming. Deze eisen zijn vastgelegd in onder meer de Algemene Verordening Gegevensbescherming (AVG), de Archiefwet, de Baseline Informatiebeveiliging Overheid (BIO), de Wet Hergebruik Overheidsinformatie, de Wet Openbaarheid van Bestuur en de beleidsbrief Regie op Gegevens.
+
+Sinds 1 januari 2019 is de Baseline Informatiebeveiliging Overheid (BIO) van kracht. Dit is het basisnormenkader voor informatiebeveiliging voor Rijk, provincies, gemeenten en waterschappen. Momenteel werken alle bestuurslagen aan de implementatie van de BIO. In 2019 is de nieuwe Open Data-richtlijn vastgesteld. In 2020-2021 wordt de Wet Hergebruik Overheidsinformatie in overeenstemming gebracht met deze richtlijn.
+
+Als vervolg op de nieuwe richtlijn komt er ook een uitvoeringsrichtlijn waarin wordt vastgelegd welke overheidsdata in elk geval door lidstaten als open data beschikbaar moet worden gesteld omdat zij van grote economische of maatschappelijke waarde kunnen zijn. Dit worden ook wel ‘high value datasets’ genoemd.
+
 Ontwerpprincipes
 ----------------
 
