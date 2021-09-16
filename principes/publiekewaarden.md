@@ -17,12 +17,6 @@ bouwsector. Door deze uniforme afspraken kunnen partijen makkelijk en veilig
 gebruik maken van reeds beschikbare data. In alle fases van de levenscyclus van
 een bouwwerk.
 
-Datasets over een gebouw dienen een groot aantal partijen uit de samenleving.
-Daarmee dient deze data zowel een privé belang (bijvoorbeeld de data over het
-energiegebruik binnen een gebouw) als ook een publiek belang (bijvoorbeeld het
-voldoen aan de brandveiligheidsvoorschriften of de voorschriften uit de
-bouwvergunning).
-
 Het DSGO gaat over de totale gebouwde omgeving en dient daarmee de samenleving
 in heel veel processen. Voorbeelden daarvan zien we terug in de behoeftes van
 publieke en private organisaties naar data-uitwisseling die zijn samengevat in
@@ -32,9 +26,8 @@ organisaties. Het DSGO helpt digitalisering in de bouw- en installatie sector,
 en maakt onder andere stikstofreductie daarmee mogelijk.
 
 Veel partijen uit de samenleving dragen bij om tot het gewenste resultaat te
-komen en wisselen daartoe data uit met elkaar. Het is daarom van belang dat het
-DSGO de publieke waarden van de samenleving reflecteert, en dat alle betrokkenen zich kunnen vinden in de
-afspraken.
+komen en wisselen daartoe data uit met elkaar. Datasets over een gebouw dienen een groot aantal partijen uit de samenleving. Daarmee dient deze data zowel een privé belang (bijvoorbeeld de data over het energiegebruik binnen een gebouw) als ook een publiek belang (bijvoorbeeld het
+voldoen aan de brandveiligheidsvoorschriften of de voorschriften uit de bouwvergunning). Het is daarom van belang dat het DSGO de publieke waarden van de samenleving reflecteert, en dat alle betrokkenen zich kunnen vinden in de afspraken. Het effect van deze benadering zou kunnen zijn dat de  adoptie van het DSGO versneld wordt.
 
 De gemaakte afspraken borgen als het goed is de belangen van elke betrokken
 partij en worden vervolgens omgezet in technologie die de uitwisseling van data
@@ -91,7 +84,7 @@ kwaliteitscontroles goed zijn uitgevoerd. Mocht er ergens een probleem mee zijn,
 dan kan altijd teruggezocht worden naar de oorsprong van de kwaliteitscontrole
 en de onderliggende data.
 
-*Eis*: Usecases leggen voor elke dataset die tussen partijen uitgewisseld wordt,
+*Eis*: Usecases leggen voor elke data(set) die tussen partijen uitgewisseld wordt,
 vast wat de oorsprong van deze dataset is en welke bewerkingen deze heeft
 ondergaan.
 
