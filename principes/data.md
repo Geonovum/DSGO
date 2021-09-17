@@ -30,7 +30,7 @@ inspectie. In PDF-vorm staat dat dan op de voorkant van het rapport, maar in het
 zijn metadata informatie over de EAN-aansluiting, maar ook misschien adres
 of netbeheerder of vergelijking met andere gebruikers.
 
-Het op een gestructureerde en afsgeproken manier van toevoegen van metadata aan data heeft als resultaat data data vindbaar en doorzoekbaar is. Denk daarbij aan de systematiek van bibliotheken en archieven. 
+Het op een gestructureerde en afsgeproken manier van toevoegen van metadata aan data heeft als resultaat dat data vindbaar en doorzoekbaar is. Denk daarbij aan de systematiek van bibliotheken en archieven. 
 
 De scheidslijn tussen metadata en data zelf is soms lastig te trekken. Wat voor
 de ene toepassing randzaken zijn, kan centraal staan in de andere. Bijvoorbeeld
@@ -42,7 +42,7 @@ metadata te verzamelen.
 De interpretatie van gegevens is afhankelijk van het bestandsformaat waarin het
 is opgeslagen. Een PDF-bestand is slecht interpreteerbaar voor een
 computersysteem: slechts de titel en auteur van het document staat op een vaste
-plek bewaard. Een spreadsheet daareentegen kan worden genavigeerd, met vaste
+plek bewaard. Een spreadsheet daarentegen kan worden genavigeerd, met vaste
 cellen voor bepaalde informatie. Andere bestandsformaten, zoals XML of linked data-talen,
 zijn nog meer zelfbeschrijvend. Deze formaten kunnen een interpretatieschema
 toevoegen aan de data, zodat een computersysteem zelf kan achterhalen waar de
@@ -51,23 +51,21 @@ relevante informatie staat.
 Een **dataset** is de derde en laatste data-gerelateerde term. Een dataset is een identificeerbare verzameling van data die als een geheel kan
 worden verwerkt, bewerkt en gepubliceerd door een enkel subject. 
 Een verzameling van datasets kan ook op zich weer een dataset zijn.
-Bijvoorbeeld de verzamelde gegevens vanuit de verschillende disciplines van een _dossier bevoegd gezag_ zijn een dataset, maar het dossier zelf ook.
+Bijvoorbeeld de verzamelde gegevens vanuit de verschillende disciplines die opgenomen worden in een _dossier bevoegd gezag_ zijn elk een dataset. Het dossier bevoegd gezag, wordt gevormd door de verzameling van deze datasets en is zelf ook een dataset.
 
-Dit leidt ertoe
-dat de levenscyclus van de dataset is samen te vatten in vier fasen,
+Data en datasets ontstaan niet zomaar. Ze kennen een **levenscyclus**.
+Deze levenscyclus van de dataset is samen te vatten in vier fasen,
 geillustreerd door figuur ‘Levenscyclus van de dataset’:
 
-1.  Definitie: hoe goed het model of algoritme dat de dataset voortbrengt, is
-    gedefinieerd, ontwikkeld en gevalideerd voor bedoeld gebruik.
+1.  Definitie: in deze fase is de dataset gedefinieerd en krijgt ze betekenis. In deze fase is bepalend hoe goed het model of algoritme dat de dataset voortbrengt, is
+    gedefinieerd, ontwikkeld en gevalideerd voor bedoeld gebruik. De kwaliteitsparameters die in deze fase een rol spelen zijn de juistheid, 
 
-2.  Productie: hoe goed het product dat daaruit ontstaat word geproduceerd,
+2.  Productie: in deze fase wordt de dataset geproduceerd. In deze fase is het bepalend hoe goed het 'dataproduct' dat ontstaat word geproduceerd,
     geëvalueerd en vrijgegeven.
 
-3.  Beheer: hoe goed de dataset wordt bewaard, voorzien van metadata en
-    toegankelijk gemaakt.
+3.  Beheer: in deze fase wordt de dataset beheerd. In deze fase is bepalend hoe goed de dataset wordt bewaard, voorzien van metadata en toegankelijk gemaakt.
 
-4.  Gebruik: hoe goed de data als service ter beschikking wordt gesteld,
-    ondersteund en hergebruikt.
+4.  Gebruik: in deze fase wordt de data gebruikt. In deze fase is bepalend hoe goed de dataset als service ter beschikking wordt gesteld en ondersteund en hergebruikt.
 
 **Figuur: Levenscyclus van de dataset**
 
