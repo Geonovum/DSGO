@@ -106,11 +106,31 @@ Gebouwdossier, Energielabels, geobasisregistraties.
 ![](media/36416e98132988ee2c688ba67671ba60.png)
 
 Het DSGO als catalogus c.q. register van datasets over de gebouwde omgeving
-sluit aan bij principe van ‘data bij de bron’. Dataset zelf wordt niet
-aangeleverd aan ofwel gekopiëerd in DSGO; er worden wel gegevens over de
-data(set) (ofwel: metadata) aan het DSGO aangeleverd. Over deze metadata van
-data(sets) wordt metadata vastgelegd, bijvoorbeeld data over de herkomst en
-actualiteit van de metadata over de data(set).
+sluit aan bij principe van ‘bevragen bij de bron’. Met ‘bevragen bij de bron’
+worden kopieën en daarmee dubbele dataopslag, asynchroniteit en inconsistenties
+voorkomen. Dataset zelf wordt niet aangeleverd aan ofwel gekopiëerd in DSGO; er
+worden wel gegevens over de data(set) (ofwel: metadata) aan het DSGO
+aangeleverd. Over deze metadata van data(sets) wordt metadata vastgelegd,
+bijvoorbeeld data over de herkomst en actualiteit van de metadata over de
+data(set). Dit principe sluit aan bij de [Beleidsvisie Samenhangende
+Objectenregistratie](https://www.geobasisregistraties.nl/documenten/beleidsnota/2019/11/29/beleidsvisie-samenhangende-objectenregistratie)
+van het ministerie van BZK en
+[architectuurprincipes](https://docs.geostandaarden.nl/disgeo/arch/) van de
+voorzieningen in Nederlandse Geo-Informatie Infrastructuur (NGII) en het
+samenhangend stelsel van geobasisgegevens, ookwel ‘samenhangende
+objectenregistratie’.
+
+>   [Beleidsvisie Samenhangende
+>   Objectenregistratie](https://www.geobasisregistraties.nl/documenten/beleidsnota/2019/11/29/beleidsvisie-samenhangende-objectenregistratie)
+>   van het ministerie van BZK::“Er wordt in de eindsituatie zoveel mogelijk
+>   uitgegaan van ‘bevragen bij de bron’. Hierbij is van belang dat de gebruiker
+>   voor verstrekkingen zoveel mogelijk uit kan gaan van één loket. Een
+>   belangrijk aandachtspunt hierbij is het gebeurtenis georiënteerd werken
+>   (nader uit te werken). Of de bronhouders gedistribueerd en decentraal werken
+>   of direct inwinning en bijhouding in een (of meerdere) voorziening(en)
+>   uitvoeren via gestandaardiseerde services moet nader bepaald worden (nadere
+>   uitwerking in kader van DiS GEO/beleidsvisie: leveranciers, bronhouders,
+>   Kadaster, VNG-R, Ministerie van BZK).
 
 >   Bijvoorbeeld BAG: De Basisregistratie Adressen en Gebouwen (BAG) is de
 >   authentieke bron voor officiële adressen en bouwjaren van panden. De
