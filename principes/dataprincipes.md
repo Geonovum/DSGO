@@ -92,9 +92,18 @@ Gebouwdossier, Energielabels, geobasisregistraties.
 
 ![](media/1baad1a873819844057d99d93f018065.png)
 
-Bijvoorbeeld Nationaal Geo Register: de catalogusfunctie van DSGO lijkt daarmee
-op een metadata-register à la [Nationaal Geo
-Register](https://nationaalgeoregister.nl/) (NGR).
+>   Bijvoorbeeld [Nationaal Geo Register](https://nationaalgeoregister.nl/): de
+>   catalogusfunctie van DSGO lijkt daarmee op een metadata-register à la
+>   [Nationaal Geo Register](https://nationaalgeoregister.nl/) (NGR). Met de
+>   eenvoudige zoekopties en presentatie van resultaten kunnen de datasets in de
+>   kaartviewer worden bekeken of worden gedownload. Het NGR richt zich op
+>   verschillende gebruikers: van professionele Geo-ICT Specialisten op zoek
+>   naar datasets en services voor bijvoorbeeld een ruimtelijke analyse of
+>   website/applicatie tot beleidsmedewerkers die een kaartje willen raadplegen.
+>   Van elke geodataset met een open data licentie wordt de metadata in het NGR
+>   automatisch op data.overheid.nl beschikbaar gesteld.
+
+![](media/36416e98132988ee2c688ba67671ba60.png)
 
 Het DSGO als catalogus c.q. register van datasets over de gebouwde omgeving
 sluit aan bij principe van ‘data bij de bron’. Dataset zelf wordt niet
