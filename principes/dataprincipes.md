@@ -71,6 +71,19 @@ metadatering sluit aan bij vigerende (inter)nationale standaarden voor metadata.
 Ook de wijze van toegang, de gebruikte gegevensformaten en schema’s worden
 beschreven in de metadata van een dataset.
 
+*De eigenaar van de (meta)data(set) is zelf verantwoordelijk voor een goede
+kwaliteit van de (meta)data(set).*
+
+>   Bijvoorbeeld metadata over de Basisregistratie Adressen en Gebouwen: De
+>   Basisregistratie Adressen en Gebouwen (BAG) is de authentieke bron voor
+>   officiële adressen en bouwjaren van panden. De ‘eigenaar’ van de BAG draagt
+>   gegevens aan over de dataset BAG aan het DSGO onder meer over de herkomst,
+>   kwaliteit (bijvoorbeeld actualiteit 4 dagen, geometrische nauwkeurigheid van
+>   30-60 cm, volledigheid 100%) en gebruik (wettelijk verplicht voor overheden)
+>   van de data in de BAG. In het DSGO wordt vastgelegd de herkomst (eigenaar
+>   BAG) en kwaliteit (wanneer metadata voor het laatst is bijgewerkt) over de
+>   BAG vastgelegd.
+
 **F3. Metadata bevatten duidelijk en expliciet de identifier van de gegevens die
 ze beschrijven**
 
@@ -131,15 +144,6 @@ objectenregistratie’.
 >   uitvoeren via gestandaardiseerde services moet nader bepaald worden (nadere
 >   uitwerking in kader van DiS GEO/beleidsvisie: leveranciers, bronhouders,
 >   Kadaster, VNG-R, Ministerie van BZK).
-
->   Bijvoorbeeld BAG: De Basisregistratie Adressen en Gebouwen (BAG) is de
->   authentieke bron voor officiële adressen en bouwjaren van panden. De
->   ‘eigenaar’ van de BAG draagt gegevens aan over de dataset BAG aan het DSGO
->   ondermeer over de herkomst, kwaliteit (bijvoorbeeld actualiteit 4 dagen,
->   geometrische nauwkeurigheid van 30-60 cm, volledigheid 100%) en gebruik
->   (wettelijk verplicht voor overheden) van de data in de BAG. In het DSGO
->   wordt vastgelegd de herkomst (eigenaar BAG) en kwaliteit (wanneer metadata
->   voor het laatst is bijgewerkt) over de BAG vastgelegd.
 
 ### Toegankelijk
 
