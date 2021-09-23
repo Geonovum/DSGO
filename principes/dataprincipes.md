@@ -190,14 +190,18 @@ gegevens vastgesteld. In de *autorisatie*procedure wordt bepaald of de
 leverancier of afnemer recht heeft tot het wijzigen of gebruiken van de
 gegevens.
 
-Bijvoorbeeld DigiD en e-Herkenning:
-[DigiD](https://www.logius.nl/diensten/digid) is een veilig en betrouwbaar
-middel waarmee gebruikers zich digital kunnen identificeren. DigiD is voor
-overheidsorganisaties en organisaties met een publieke taak zoals ministeries,
-lokale overheden, organisaties in de zorg, onderwijs, pensioen en waterschappen.
-[e-Herkenning](https://eherkenning.nl/) is de DigiD voor bedrijven, zodat
-bedrijven namens clienten aanvragen kunnen indienen bij de overheid met een hoog
-veiligheidsniveau.
+>   Bijvoorbeeld DigiD en e-Herkenning:
+>   [DigiD](https://www.logius.nl/diensten/digid) is een veilig en betrouwbaar
+>   middel waarmee gebruikers zich digital kunnen identificeren. DigiD is voor
+>   overheidsorganisaties en organisaties met een publieke taak zoals
+>   ministeries, lokale overheden, organisaties in de zorg, onderwijs, pensioen
+>   en waterschappen. [e-Herkenning](https://eherkenning.nl/) is de DigiD voor
+>   bedrijven, zodat bedrijven namens clienten aanvragen kunnen indienen bij de
+>   overheid met een hoog veiligheidsniveau.
+
+In het DSGO verloopt de authenticatie van natuurlijke personen en
+(overheids)organisaties met een publieke taak zich middels DigiD, van bedrijven
+middels eHerkenning.
 
 **A2. Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn**
 
