@@ -1,22 +1,23 @@
 Dataprincipes
 =============
 
-Er zijn veel organisaties in de sector actief die data kunnen gaan delen met DSGO.
-Daardoor is het op elkaar aansluiten van aanbod en vraag van gegevenssets niet eenvoudig.
-Elke organisatie heeft weer behoefte aan verschillende soorten gegevens.
+Er zijn veel organisaties in de sector actief die data kunnen gaan delen met
+DSGO. Daardoor is het op elkaar aansluiten van aanbod en vraag van gegevenssets
+niet eenvoudig. Elke organisatie heeft weer behoefte aan verschillende soorten
+gegevens.
 
-Het gebrek aan beschikbaar hebben van
-de juiste data op de juiste plek is niet alleen een uitdaging om
-stikstofreductie doelen te halen maar is noodzakelijk voor alle maatschappelijke
-en/of sector-overstijgende doelen.
+Het gebrek aan beschikbaar hebben van de juiste data op de juiste plek is niet
+alleen een uitdaging om stikstofreductie doelen te halen maar is noodzakelijk
+voor alle maatschappelijke en/of sector-overstijgende doelen.
 
 Ontwerpprincipes
 ----------------
 
 In dit hoofdstuk worden de ontwerpprincipes voor (meta)data(sets) in het DSGO
-beschreven aan de hand van de FAIR-principes: 
-*Findable* (vindbaar), *Accessible* (toegankelijk), *Interoperable* (uitwisselbaar) en *Reusable* (herbruikbaar).
-Deze zijn geletterd en genummerd, aan de hand waarvan ze worden doorgenomen. 
+beschreven aan de hand van de FAIR-principes: *Findable* (vindbaar),
+*Accessible* (toegankelijk), *Interoperable* (uitwisselbaar) en *Reusable*
+(herbruikbaar). Deze zijn geletterd en genummerd, aan de hand waarvan ze worden
+doorgenomen.
 
 ### Vindbaar
 
@@ -30,31 +31,29 @@ loket voor vragen essentieel.
 **F1. (Meta)data krijgen een wereldwijd unieke en persistente identifier**
 
 (Meta)data(set) in het DSGO krijgen een unieke object identificatie
-([UOI](#toegankelijk)) welke tijdens de hele levensloop van de (meta)data(set) hetzelfde blijft.
+([UOI](#toegankelijk)) welke tijdens de hele levensloop van de (meta)data(set)
+hetzelfde blijft.
 
-Het [Unieke Object Identificator (UOI)][uoinieuws] ‘systeem’
-is een digitale sleutel waarmee je op basis van je rol en toegangsrechten
-informatie over gebouwen en objecten in de gebouwde omgeving kunt raadplegen.
+Het Unieke Object Identificator (UOI) ‘systeem’ is een digitale sleutel waarmee
+je op basis van je rol en toegangsrechten informatie over gebouwen en objecten
+in de gebouwde omgeving kunt raadplegen.
 
-[uoinieuws]: https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie
-
-Ook identificeerbare datasets, documenten, etc. worden een middels een UOI geïdentificeerd.
+Ook identificeerbare datasets, documenten, etc. worden een middels een UOI
+geïdentificeerd.
 
 Het ‘systeem’ als gedachte is ontwikkeld binnen de bouw- en vastgoedsector. De
 gedachte achter een UOI-code is dat er domein-overstijgend verbindingen mee
 gelegd kunnen worden die het beantwoorden van vragen over objecten in de
-gebouwde omgeving vereenvoudigen.
-De UOI-code wordt ook genoemd in de lopende consultatie van de [Samenhangende Objecten Registratie (SOR)][sorinfo].
+gebouwde omgeving vereenvoudigen. De UOI-code wordt ook genoemd in de lopende
+consultatie van de [Samenhangende Objecten Registratie
+(SOR)](https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang/objectenregistratie).
 Experts uit de bouw- en geo-wereld hebben het UOI als systeem getoetst aan de
 nieuwe Geo- & Bouw-informatiestandaarden (NEN 3610, NEN 2660 en BIM gerelateerde
-standaarden) en de [principes die DiSGeo hanteert][disgeoemso] voor
-de Samenhangende Objecten Registratie (SOR). 
-Ook is gekeken naar de instrumenten
+standaarden) en de [principes die DiSGeo
+hanteert](https://docs.geostandaarden.nl/disgeo/emso/#identificatie-van-objecten) voor
+de Samenhangende Objecten Registratie (SOR). Ook is gekeken naar de instrumenten
 van de Wet kwaliteitsborging Bouw (Wkb) en het ontwerp Digitaal Stelsel Gebouwde
 Omgeving DSGO (binnen DigiGo).
-
-[sorinfo]: https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang/objectenregistratie
-[disgeoemso]: https://docs.geostandaarden.nl/disgeo/emso/#identificatie-van-objecten
 
 *Noot van de schrijvers: Tussen november 2020 en april 2021 heeft het ministerie
 van BZK onderzoek laten doen naar het ontwerp van een Unieke Object
@@ -69,7 +68,8 @@ Van elk gegeven in het DSGO is meta-informatie over onder meer de herkomst,
 kwaliteit en gebruik (licentie + toepassing) beschikbaar. De wijze van
 metadatering sluit aan bij vigerende (inter)nationale standaarden voor metadata.
 
-Ook de wijze van toegang, de gebruikte gegevensformaten en schema’s worden beschreven in de metadata van een dataset.
+Ook de wijze van toegang, de gebruikte gegevensformaten en schema’s worden
+beschreven in de metadata van een dataset.
 
 **F3. Metadata bevatten duidelijk en expliciet de identifier van de gegevens die
 ze beschrijven**
@@ -81,14 +81,20 @@ wordt beschreven in 0..\* Metadata’*
 
 **F4. (Meta)data worden geregistreerd of geïndexeerd in een doorzoekbare bron**
 
-Het DSGO fungeert ondermeer als een doorzoekbare catalogus c.q. register met gedistribueerde
-data(sets) over de gebouwde omgeving.
-Bijvoorbeeld Gebouwdossier, Energielabels, geobasisregistraties.
+Het DSGO fungeert ondermeer als een doorzoekbare catalogus c.q. register met
+gedistribueerde data(sets) over de gebouwde omgeving. Bijvoorbeeld
+Gebouwdossier, Energielabels, geobasisregistraties.
 
-Daarmee lijkt deze functie van DSGO op een metadata-register à la [Nationaal Geo
-Register][ngr] (NGR).
+>   Bijvoorbeeld Data.overheid: de catalogusfunctie van DSGO lijkt daarmee op
+>   het open dataregister van de Nederlandse overheid, ofwel Data.overheid.nl,
+>   echter toegespitst op datasets welke een toepassing hebben op de fysieke
+>   leef- cq. gebouwde omgeving.
 
-[ngr]: https://nationaalgeoregister.nl/
+![](media/1baad1a873819844057d99d93f018065.png)
+
+Bijvoorbeeld Nationaal Geo Register: de catalogusfunctie van DSGO lijkt daarmee
+op een metadata-register à la [Nationaal Geo
+Register](https://nationaalgeoregister.nl/) (NGR).
 
 Het DSGO als catalogus c.q. register van datasets over de gebouwde omgeving
 sluit aan bij principe van ‘data bij de bron’. Dataset zelf wordt niet
@@ -118,9 +124,6 @@ een gestandaardiseerd communicatieprotocol**
 De UOI is de sleutel naar het Dossier van een Object dat middels de UOI wordt
 geidentificeerd.
 
-<div class="issue" data-number="11">
-</div>
-
 *Samenbrengen van gegevens vanuit basisregistraties als BGT en BAG. Ook Digitaal
 Stelsel Omgevingswet voor de ruimtelijke besluiten als een omgevingsplan (nu
 conform de Wro: bestemmingsplan). UOI Verschil tussen diensten en projectdossier
@@ -131,20 +134,18 @@ beschrijven*
 De gegevens in de data(sets) die in de catalogus DSGO zijn met een open en
 gratis protocol bij de bron toegankelijk.
 
-Het protocol betekent in dezen bijv. [HTTP], [FTP], [SMTP] en sluit daarmee bijv. Teamskanalen uit.
-Meestal worden API’s over HTTP aangeboden.
+Het protocol betekent in dezen bijv.
+[HTTP](http://www.wikidata.org/entity/Q8777),
+[FTP](https://www.w3.org/Protocols/rfc959/),
+[SMTP](http://www.wikidata.org/entity/Q160453) en sluit daarmee bijv.
+Teamskanalen uit. Meestal worden API’s over HTTP aangeboden.
 
-[HTTP]: http://www.wikidata.org/entity/Q8777
-[FTP]: https://www.w3.org/Protocols/rfc959/
-[SMTP]: http://www.wikidata.org/entity/Q160453
-
-Ook betekent dit principe niet dat wat er over het protocol vervolgens gecommuniceerd wordt,
-open, gratis of universeel toepasbaar zou zijn.
-Toegang tot de data kan nog steeds via een eigen API gaan, al dan niet met toegewezen toegangscodes.
-Het verdient wel de voorkeur om van standaarden gebruik te maken,
-en wanneer die niet voorhanden zijn, een eigen API te beschrijven met een [Open API-specificatie][oas].
-
-[oas]: https://spec.openapis.org/oas/v3.1.0
+Ook betekent dit principe niet dat wat er over het protocol vervolgens
+gecommuniceerd wordt, open, gratis of universeel toepasbaar zou zijn. Toegang
+tot de data kan nog steeds via een eigen API gaan, al dan niet met toegewezen
+toegangscodes. Het verdient wel de voorkeur om van standaarden gebruik te maken,
+en wanneer die niet voorhanden zijn, een eigen API te beschrijven met een [Open
+API-specificatie](https://spec.openapis.org/oas/v3.1.0).
 
 >   Bijvoorbeeld met [Linked
 >   Data](#koppelen-van-heterogene-datasets-met-linked-data). De overheid
@@ -168,9 +169,7 @@ gegevens vastgesteld. In de *autorisatie*procedure wordt bepaald of de
 leverancier of afnemer recht heeft tot het wijzigen of gebruiken van de
 gegevens.
 
-<aside class="issue" data-number="12"></aside>
-
-> DigiD en e-Herkenning
+>   DigiD en e-Herkenning
 
 **A2. Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn**
 
@@ -180,13 +179,14 @@ met de gedistribueerde bronnen liggen eruit. In het DSGO fungeert het
 metadata-register als referentie naar welke data(sets) beschikbaar zijn, of zijn
 geweest.
 
-Opeenvolgende versies van metadata kunnen mogelijk beschikbaar blijven, 
-maar met verloop van tijd zullen meer en meer datasets onbeschikbaar geraken.
-Het is de verantwoordelijkheid van de gebruiker om gegevens te zeker te stellen, 
-waar dat nodig is voor processen.
+Opeenvolgende versies van metadata kunnen mogelijk beschikbaar blijven, maar met
+verloop van tijd zullen meer en meer datasets onbeschikbaar geraken. Het is de
+verantwoordelijkheid van de gebruiker om gegevens te zeker te stellen, waar dat
+nodig is voor processen.
 
-DSGO kan afspraken maken over beschikbaarheid van gegevenssets met de aanbieders daarvan.
-Dankzij de autorisatie/authenticatie-functie van DSGO kan het mogelijk gemaakt worden dat veranderingen aan datasets aangekondigd worden.
+DSGO kan afspraken maken over beschikbaarheid van gegevenssets met de aanbieders
+daarvan. Dankzij de autorisatie/authenticatie-functie van DSGO kan het mogelijk
+gemaakt worden dat veranderingen aan datasets aangekondigd worden.
 
 ### Uitwisselbaar
 
@@ -211,45 +211,42 @@ toepasbare taal voor kennisrepresentatie.**
 In het DSGO worden voor de beschrijving van de datasets (metadata) en de data
 van datasets zelf open standaarden gebruikt.
 
-In Nederland zet het [Forum Standaardisatie][forum-standaardisatie] zich in voor open
+In Nederland zet het [Forum
+Standaardisatie](https://forumstandaardisatie.nl/over-ons) zich in voor open
 ICT-standaarden. Standaarden ondersteunen gegevensuitwisseling tussen
-ICT-systemen. De openheid zorgt ervoor dat iedereen de standaard kan
-gebruiken.
-[Open standaarden][digi-overheid-os] dragen
+ICT-systemen. De openheid zorgt ervoor dat iedereen de standaard kan gebruiken.
+[Open
+standaarden](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/standaardisatie/open-standaarden/) dragen
 bij aan interoperabiliteit en leveranciersonafhankelijkheid. Het gebruik van
 open standaarden in ICT-systemen bespaart kosten en verlicht administratieve
 lasten.
 
-[forum-standaardisatie]: https://forumstandaardisatie.nl/over-ons
-[digi-overheid-os]: https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/standaardisatie/open-standaarden/
-
 Het Forum Standaardisatie hanteert twee type [lijsten open
-standaarden][forum-standaardisatie-os]: de verplichte
+standaarden](https://forumstandaardisatie.nl/open-standaarden): de verplichte
 (‘pas toe of leg uit’) en aanbevolen open standaarden voor de publieke sector.
-
-[forum-standaardisatie-os]: https://forumstandaardisatie.nl/open-standaarden
 
 **I2. (Meta)data gebruiken vocabulaires die FAIR-principes volgen**
 
-Door expliciet te zijn over de gebruikte vocabulaires in metadata en gegevenssets,
-maken we het makkelijker aan te sluiten op DSGO.
-Een systeem dat gegevens verwerkt (of de programmeur ervan), kan zien hoe gegevens geïnterpreteerd moeten worden.
+Door expliciet te zijn over de gebruikte vocabulaires in metadata en
+gegevenssets, maken we het makkelijker aan te sluiten op DSGO. Een systeem dat
+gegevens verwerkt (of de programmeur ervan), kan zien hoe gegevens
+geïnterpreteerd moeten worden.
 
 In het DSGO vindt domein-overstijgende uitwisseling van data plaats. Als
 verschillende domeinen data willen uitwisselen, dan is er vaak sprake van
 verschil in definities en begrippen.
 
-Betekenisverwarring kan op twee wijzes overbrugd worden.
-Enerzijds door gebruik te maken van een bovenliggende identifier die in beide
-domeinen wordt toegepast. De UOI biedt in dat geval uitkomst om data van het ene
-domein te combineren met data van het andere domein. Voorbeelden van
-overstijgende domeinen zijn: het geodomein waaronder de geo-basisregistraties,
-het energiedomein, ....
+Betekenisverwarring kan op twee wijzes overbrugd worden. Enerzijds door gebruik
+te maken van een bovenliggende identifier die in beide domeinen wordt toegepast.
+De UOI biedt in dat geval uitkomst om data van het ene domein te combineren met
+data van het andere domein. Voorbeelden van overstijgende domeinen zijn: het
+geodomein waaronder de geo-basisregistraties, het energiedomein, ....
 
 Anderzijds door de wijze waarop de gegevens zijn opgeslagen, te beschrijven.
-Zulke beschrijven worden ook wel OTL’s, ontologieën of informatiemodellen genoemd.
-Niet alle schema’s (vocabulaires, ontologiën, OTL’s, informatiemodellen) zijn als vijf-ster FAIR te kwalificeren.
-Toch dienen ze ten minste publiekelijk te raadplegen te zijn.
+Zulke beschrijven worden ook wel OTL’s, ontologieën of informatiemodellen
+genoemd. Niet alle schema’s (vocabulaires, ontologiën, OTL’s,
+informatiemodellen) zijn als vijf-ster FAIR te kwalificeren. Toch dienen ze ten
+minste publiekelijk te raadplegen te zijn.
 
 >   Bijvoorbeeld [CB-NL](https://public.cbnl.org/over-cb-nl): Verschillende
 >   definiëring, beschrijvingen en interpretaties door betrokken partijen leiden
@@ -264,14 +261,15 @@ Toch dienen ze ten minste publiekelijk te raadplegen te zijn.
 
 **I3. (Meta)data bevatten gekwalificeerde verwijzingen naar andere (meta)data**
 
-Door gebruik te maken van UOI’s bij verwijzingen naar objecten, maken we koppelingen over datasets mogelijk.
-Meer koppelingen zijn mogelijk, maar niet van elke leverancier van een dataset kan worden verwacht dat die alle mogelijke koppelingen maakt.
+Door gebruik te maken van UOI’s bij verwijzingen naar objecten, maken we
+koppelingen over datasets mogelijk. Meer koppelingen zijn mogelijk, maar niet
+van elke leverancier van een dataset kan worden verwacht dat die alle mogelijke
+koppelingen maakt.
 
-Daarom is in het DSGO de **metadataredacteur** verantwoordelijk voor aanmaken metadata
-van een dataset (o.b.v. aangeleverde metagegevens), en voert wijzigingen door in de metadata. De metadata voldoet
-aan de gestelde kwaliteitseisen (o.m. actueel, juist en volledig).
-
-<aside class="issue" data-number="13"></aside>
+Daarom is in het DSGO de **metadataredacteur** verantwoordelijk voor aanmaken
+metadata van een dataset (o.b.v. aangeleverde metagegevens), en voert
+wijzigingen door in de metadata. De metadata voldoet aan de gestelde
+kwaliteitseisen (o.m. actueel, juist en volledig).
 
 ### Herbruikbaar
 
@@ -328,11 +326,13 @@ gebruiksrecht op willen behouden.
 
 **R3. (Meta)data worden geassocieerd met hun herkomst**
 
-Van elke dataset is bekend wie de leverancier is.
-Elke dataset houdt voor zich ook bij (en levert dat, indien mogelijk, uit) waar welk gegevenspunt vandaan komt.
+Van elke dataset is bekend wie de leverancier is. Elke dataset houdt voor zich
+ook bij (en levert dat, indien mogelijk, uit) waar welk gegevenspunt vandaan
+komt.
 
-Zo houden we duidelijk waar gegevens vandaan komen en wie ervoor verantwoordelijk is.
-Dat betekent ook dat de metadata zowel van de datasetleverancier is, als van de metadataredacteur.
+Zo houden we duidelijk waar gegevens vandaan komen en wie ervoor
+verantwoordelijk is. Dat betekent ook dat de metadata zowel van de
+datasetleverancier is, als van de metadataredacteur.
 
 **R4. (Meta)data voldoen aan domein-relevante Standaarden**
 
