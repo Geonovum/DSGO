@@ -34,10 +34,9 @@ loket voor vragen essentieel.
 ([UOI](#toegankelijk)) welke tijdens de hele levensloop van de (meta)data(set)
 hetzelfde blijft.
 
-Het [Unieke Object Identificator
-(UOI)](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie) ‘systeem’
-is een digitale sleutel waarmee je op basis van je rol en toegangsrechten
-informatie over gebouwen en objecten in de gebouwde omgeving kunt raadplegen.
+Het Unieke Object Identificator (UOI) ‘systeem’ is een digitale sleutel waarmee
+je op basis van je rol en toegangsrechten informatie over gebouwen en objecten
+in de gebouwde omgeving kunt raadplegen.
 
 Ook identificeerbare datasets, documenten, etc. worden een middels een UOI
 geïdentificeerd.
@@ -357,6 +356,12 @@ overheidsinformatie zoveel mogelijk gratis en zonder gebruiksvoorwaarden
 beschikbaar stellen. In de bouwwereld wordt veel geïnvesteerd in
 objectenbibliotheek waar ontwikkelende marktpartijen het exclusieve
 gebruiksrecht op willen behouden.
+
+>   Bijvoorbeeld Gebruikslicenties open data van de overheid. Open data is
+>   herkenbaar aan de publiek domein licentie, de creative commons zero (CC0) of
+>   creative commons - naamsvermelding verplicht (CC-BY) licentie.
+
+>   <https://creativecommons.nl/publiek-domein/>
 
 **R3. (Meta)data worden geassocieerd met hun herkomst**
 
