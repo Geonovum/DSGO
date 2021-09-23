@@ -34,9 +34,10 @@ loket voor vragen essentieel.
 ([UOI](#toegankelijk)) welke tijdens de hele levensloop van de (meta)data(set)
 hetzelfde blijft.
 
-Het Unieke Object Identificator (UOI) ‘systeem’ is een digitale sleutel waarmee
-je op basis van je rol en toegangsrechten informatie over gebouwen en objecten
-in de gebouwde omgeving kunt raadplegen.
+Het [Unieke Object Identificator
+(UOI)](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie) ‘systeem’
+is een digitale sleutel waarmee je op basis van je rol en toegangsrechten
+informatie over gebouwen en objecten in de gebouwde omgeving kunt raadplegen.
 
 Ook identificeerbare datasets, documenten, etc. worden een middels een UOI
 geïdentificeerd.
@@ -70,19 +71,6 @@ metadatering sluit aan bij vigerende (inter)nationale standaarden voor metadata.
 
 Ook de wijze van toegang, de gebruikte gegevensformaten en schema’s worden
 beschreven in de metadata van een dataset.
-
-*De eigenaar van de (meta)data(set) is zelf verantwoordelijk voor een goede
-kwaliteit van de (meta)data(set).*
-
->   Bijvoorbeeld metadata over de Basisregistratie Adressen en Gebouwen: De
->   Basisregistratie Adressen en Gebouwen (BAG) is de authentieke bron voor
->   officiële adressen en bouwjaren van panden. De ‘eigenaar’ van de BAG draagt
->   gegevens aan over de dataset BAG aan het DSGO onder meer over de herkomst,
->   kwaliteit (bijvoorbeeld actualiteit 4 dagen, geometrische nauwkeurigheid van
->   30-60 cm, volledigheid 100%) en gebruik (wettelijk verplicht voor overheden)
->   van de data in de BAG. In het DSGO wordt vastgelegd de herkomst (eigenaar
->   BAG) en kwaliteit (wanneer metadata voor het laatst is bijgewerkt) over de
->   BAG vastgelegd.
 
 **F3. Metadata bevatten duidelijk en expliciet de identifier van de gegevens die
 ze beschrijven**
@@ -303,6 +291,19 @@ Daarom is in het DSGO de **metadataredacteur** verantwoordelijk voor aanmaken
 metadata van een dataset (o.b.v. aangeleverde metagegevens), en voert
 wijzigingen door in de metadata. De metadata voldoet aan de gestelde
 kwaliteitseisen (o.m. actueel, juist en volledig).
+
+*De eigenaar van de (meta)data(set) is zelf verantwoordelijk voor een goede
+kwaliteit van de (meta)data(set).*
+
+>   Bijvoorbeeld metadata over de Basisregistratie Adressen en Gebouwen: De
+>   Basisregistratie Adressen en Gebouwen (BAG) is de authentieke bron voor
+>   officiële adressen en bouwjaren van panden. De ‘eigenaar’ van de BAG draagt
+>   gegevens aan over de dataset BAG aan het DSGO onder meer over de herkomst,
+>   kwaliteit (bijvoorbeeld actualiteit 4 dagen, geometrische nauwkeurigheid van
+>   30-60 cm, volledigheid 100%) en gebruik (wettelijk verplicht voor overheden)
+>   van de data in de BAG. In het DSGO wordt vastgelegd de herkomst (eigenaar
+>   BAG) en kwaliteit (wanneer metadata voor het laatst is bijgewerkt) over de
+>   BAG vastgelegd.
 
 ### Herbruikbaar
 
