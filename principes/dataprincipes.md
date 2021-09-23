@@ -378,3 +378,14 @@ datasetleverancier is, als van de metadataredacteur.
 Standaarden zijn de afsprakenstelsels van domeinen die specificaties en eisen
 aan de (meta)data beschrijven. De standaarden voor (meta)data(sets) in het DSGO
 worden in de domeinen beheerd en doorontwikkeld.
+
+>   Bijvoorbeeld geostandaarden: In de [Beleidsvisie Samenhangende
+>   Objectenregistratie](https://www.geobasisregistraties.nl/documenten/beleidsnota/2019/11/29/beleidsvisie-samenhangende-objectenregistratie)
+>   van het ministerie van BZK is het uitgangspunt dat de modellering van
+>   (meta)data(sets) voor geo-informatie zal plaatsvinden conform afspraken
+>   tussen de organisaties Kadaster – Geonovum – VNG-Realisatie (zogenaamde
+>   [MIM-metamodellering](https://www.geonovum.nl/geo-standaarden/metamodel-informatiemodellering-mim)).
+>   De ontwikkeling van de onderliggende Standaarden voor de realisatie van de
+>   (meta)data(sets), worden ook afgestemd met andere relevante nationale
+>   standaarden (zoals de in ontwikkeling zijnde standaard NEN-2660, en de
+>   doorontwikkeling van NEN-3610) en Europese standaarden.
