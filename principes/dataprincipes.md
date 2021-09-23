@@ -34,9 +34,10 @@ loket voor vragen essentieel.
 ([UOI](#toegankelijk)) welke tijdens de hele levensloop van de (meta)data(set)
 hetzelfde blijft.
 
-Het Unieke Object Identificator (UOI) ‘systeem’ is een digitale sleutel waarmee
-je op basis van je rol en toegangsrechten informatie over gebouwen en objecten
-in de gebouwde omgeving kunt raadplegen.
+Het [Unieke Object Identificator
+(UOI)](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie) ‘systeem’
+is een digitale sleutel waarmee je op basis van je rol en toegangsrechten
+informatie over gebouwen en objecten in de gebouwde omgeving kunt raadplegen.
 
 Ook identificeerbare datasets, documenten, etc. worden een middels een UOI
 geïdentificeerd.
@@ -189,7 +190,14 @@ gegevens vastgesteld. In de *autorisatie*procedure wordt bepaald of de
 leverancier of afnemer recht heeft tot het wijzigen of gebruiken van de
 gegevens.
 
->   DigiD en e-Herkenning
+Bijvoorbeeld DigiD en e-Herkenning:
+[DigiD](https://www.logius.nl/diensten/digid) is een veilig en betrouwbaar
+middel waarmee gebruikers zich digital kunnen identificeren. DigiD is voor
+overheidsorganisaties en organisaties met een publieke taak zoals ministeries,
+lokale overheden, organisaties in de zorg, onderwijs, pensioen en waterschappen.
+[e-Herkenning](https://eherkenning.nl/) is de DigiD voor bedrijven, zodat
+bedrijven namens clienten aanvragen kunnen indienen bij de overheid met een hoog
+veiligheidsniveau.
 
 **A2. Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn**
 
