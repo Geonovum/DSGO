@@ -57,13 +57,13 @@ Data en datasets ontstaan niet zomaar. Ze kennen een **levenscyclus**.
 Deze levenscyclus van de dataset is samen te vatten in vier fasen,
 geillustreerd door figuur ‘Levenscyclus van de dataset’:
 
-1.  Definitie: in deze fase is de dataset gedefinieerd en krijgt ze betekenis. Van belang is dat het algoritme de juiste data voortbrengt zodat de inhoud van de dataset overeenkomst met zoals deze vooraf gedefinieerd was. 
+1.  Definitie: in deze fase is de dataset gedefinieerd en krijgt ze betekenis. Van belang is dat het algoritme de juiste data voortbrengt zodat de inhoud van de dataset overeenkomst met zoals deze vooraf gedefinieerd was. De ontwikkelaar van een dataset is daarmee verantwoordelijk voor de juistheid van de inhoud.
 
-2.  Productie: in deze fase wordt de dataset geproduceerd. In deze fase is bepalend dat de dataset volledig en in het juiste formaat wordt vrijgegeven. 
+2.  Productie: in deze fase wordt de dataset geproduceerd. In deze fase is bepalend dat de dataset volledig en in het juiste formaat wordt vrijgegeven. De producent van de dataset is verantwoordelijkheid voor de volledigheid van de dataset.
 
-3.  Beheer: in deze fase wordt de dataset beheerd. In deze fase is bepalend hoe goed de dataset wordt bewaard, voorzien van metadata en toegankelijk gemaakt.
+3.  Beheer: in deze fase wordt de dataset beheerd. In deze fase is bepalend hoe goed de dataset wordt bewaard, voorzien van metadata en toegankelijk gemaakt. De beheerder van de dataset is verantwoordelijk voor de metadata van de dataset.
 
-4.  Gebruik: in deze fase wordt de data gebruikt. In deze fase is bepalend hoe goed de dataset als service ter beschikking wordt gesteld en ondersteund en herbruikbaar is.
+4.  Gebruik: in deze fase wordt de data gebruikt. In deze fase is bepalend hoe goed de dataset als service ter beschikking wordt gesteld en ondersteund en herbruikbaar is. De exploitant van de dataset is verantwoordelijk voor het ondersteunen van het gebruik van de dataset.
 
 **Figuur: Levenscyclus van de dataset**
 
