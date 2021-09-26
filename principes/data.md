@@ -57,15 +57,13 @@ Data en datasets ontstaan niet zomaar. Ze kennen een **levenscyclus**.
 Deze levenscyclus van de dataset is samen te vatten in vier fasen,
 geillustreerd door figuur ‘Levenscyclus van de dataset’:
 
-1.  Definitie: in deze fase is de dataset gedefinieerd en krijgt ze betekenis. In deze fase is bepalend hoe goed het model of algoritme dat de dataset voortbrengt, is
-    gedefinieerd, ontwikkeld en gevalideerd voor bedoeld gebruik. De kwaliteitsparameters die in deze fase een rol spelen zijn de juistheid, 
+1.  Definitie: in deze fase is de dataset gedefinieerd en krijgt ze betekenis. Van belang is dat het algoritme de juiste data voortbrengt zodat de inhoud van de dataset overeenkomst met zoals deze vooraf gedefinieerd was. 
 
-2.  Productie: in deze fase wordt de dataset geproduceerd. In deze fase is het bepalend hoe goed het 'dataproduct' dat ontstaat word geproduceerd,
-    geëvalueerd en vrijgegeven.
+2.  Productie: in deze fase wordt de dataset geproduceerd. In deze fase is bepalend dat de dataset volledig en in het juiste formaat wordt vrijgegeven. 
 
 3.  Beheer: in deze fase wordt de dataset beheerd. In deze fase is bepalend hoe goed de dataset wordt bewaard, voorzien van metadata en toegankelijk gemaakt.
 
-4.  Gebruik: in deze fase wordt de data gebruikt. In deze fase is bepalend hoe goed de dataset als service ter beschikking wordt gesteld en ondersteund en hergebruikt.
+4.  Gebruik: in deze fase wordt de data gebruikt. In deze fase is bepalend hoe goed de dataset als service ter beschikking wordt gesteld en ondersteund en herbruikbaar is.
 
 **Figuur: Levenscyclus van de dataset**
 
