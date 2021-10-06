@@ -7,7 +7,7 @@ niet eenvoudig. Elke organisatie heeft weer behoefte aan verschillende soorten
 gegevens.
 
 Het gebrek aan beschikbaar hebben van de juiste data op de juiste plek is niet
-alleen een uitdaging om stikstofreductie doelen te halen maar is noodzakelijk
+alleen een uitdaging om stikstofreductiedoelen te halen maar is noodzakelijk
 voor alle maatschappelijke en/of sector-overstijgende doelen.
 
 Ontwerpprincipes
@@ -30,17 +30,18 @@ loket voor vragen essentieel.
 
 **F1. (Meta)data krijgen een wereldwijd unieke en persistente identifier**
 
-(Meta)data(set) in het DSGO krijgen een unieke object identificatie
-([UOI](#toegankelijk)) welke tijdens de hele levensloop van de (meta)data(set)
-hetzelfde blijft.
+De objecten die DSGO beschrijft zijn identificeerbaar aan de hand van een [UOI][UOI-actueel].
+Elke dataset verwijst/beschrijft naar één of meerdere UOI's -- en is zelf ook uniek identificeerbaar aan de hand van een persistente identifier. 
+Ook metadata krijgt zo'n unieke en persistente identifier.
+
+Persistent betekent dat maar één ding zo'n identifier krijgt en dat een ding die identifier z'n hele levensloop behoudt.
+
+[UOI-actueel]: https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie
 
 Het [Unieke Object Identificator
 (UOI)](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie) ‘systeem’
 is een digitale sleutel waarmee je op basis van je rol en toegangsrechten
 informatie over gebouwen en objecten in de gebouwde omgeving kunt raadplegen.
-
-Ook identificeerbare datasets, documenten, etc. worden een middels een UOI
-geïdentificeerd.
 
 Het ‘systeem’ als gedachte is ontwikkeld binnen de bouw- en vastgoedsector. De
 gedachte achter een UOI-code is dat er domein-overstijgend verbindingen mee
