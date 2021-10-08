@@ -1,14 +1,19 @@
 Dataprincipes
 =============
 
-Er zijn veel organisaties in de sector actief die data kunnen gaan delen met
-DSGO. Daardoor is het op elkaar aansluiten van aanbod en vraag van gegevenssets
-niet eenvoudig. Elke organisatie heeft weer behoefte aan verschillende soorten
-gegevens.
+Centraal in de definitie van het Digitaal Stelsel Gebouwde Omgeving (DSGO) staat
+de veilige, betrouwbare en gecontroleerde toegang tot data in de bouwsector. Om
+deze toegang tot data te realiseren is een set van uniforme afspraken nodig. In
+dit hoofdstuk gaan we in op welke afspraken minimaal nodig zijn om data voor de
+bouwsector *te laten stromen*.
 
-Het gebrek aan beschikbaar hebben van de juiste data op de juiste plek is niet
-alleen een uitdaging om stikstofreductiedoelen te halen maar is noodzakelijk
-voor alle maatschappelijke en/of sector-overstijgende doelen.
+Welke principes pas je toe om gecontroleerde toegang tot het stelsel te geven?
+Welke principes pas je toe om de veiligheid van de gegevens in het stelsel te
+waarborgen, ook met het oog op eigendom en privacy? En welke principes pas je
+toe om te zorgen dat gegevens tussen verschillende organisaties die opereren in
+het stelsel uitgewisseld kunnen worden? En dat de gegevens (her)bruikbaar zijn:
+aansluiten bij de behoefte zowel vraag als aanbod van de verschillende
+organisaties?
 
 Ontwerpprincipes
 ----------------
@@ -30,13 +35,14 @@ loket voor vragen essentieel.
 
 **F1. (Meta)data krijgen een wereldwijd unieke en persistente identifier**
 
-De objecten die DSGO beschrijft zijn identificeerbaar aan de hand van een [UOI][UOI-actueel].
-Elke dataset verwijst/beschrijft naar één of meerdere UOI's -- en is zelf ook uniek identificeerbaar aan de hand van een persistente identifier. 
-Ook metadata krijgt zo'n unieke en persistente identifier.
+De objecten die DSGO beschrijft zijn identificeerbaar aan de hand van een
+[UOI](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie).
+Elke dataset verwijst/beschrijft naar één of meerdere UOI's -- en is zelf ook
+uniek identificeerbaar aan de hand van een persistente identifier. Ook metadata
+krijgt zo'n unieke en persistente identifier.
 
-Persistent betekent dat maar één ding zo'n identifier krijgt en dat een ding die identifier z'n hele levensloop behoudt.
-
-[UOI-actueel]: https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie
+Persistent betekent dat maar één ding zo'n identifier krijgt en dat een ding die
+identifier z'n hele levensloop behoudt.
 
 Het [Unieke Object Identificator
 (UOI)](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie) ‘systeem’
