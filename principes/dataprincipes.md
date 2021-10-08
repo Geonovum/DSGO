@@ -51,12 +51,12 @@ met dezelfde basis-URL.
 
 Bij uitwisseling van data tussen systemen op verschillende fysieke plekken,
 ofwel gedistribueerde systemen is het dus van belangrijk dat de technische
-aanduiding, ofwel identificatie, van een van data of een dataset *uniek* en
-*persistent* (blijvend) is.
+aanduiding, ofwel identificatie, van data of een dataset *uniek* en *persistent*
+(blijvend) is.
 
 Zodoende zijn datasets of informatie over datasets door de tijd heen vindbaar en
-*citeerbaar* zijn, ongeacht de status, beschikbaarheid of het formaat van de
-data. (zie <https://www.w3.org/TR/dwbp/#UniqueIdentifiers>)
+*citeerbaar* , ongeacht de status, beschikbaarheid of het formaat van de data.
+(zie <https://www.w3.org/TR/dwbp/#UniqueIdentifiers>)
 
 In Nederland (en internationaal) wordt gewerkt aan het [Unieke Object
 Identificator
@@ -144,7 +144,8 @@ Bij het veelvuldig kopiëren en opslaan van dataset kunnen de kopien in systemen
 in de tijd uit de pas gaan lopen (asynchroniteit) wat kan leiden tot
 verschillende resultaten (inconsistenties) bij het gebruik van deze gegevens.
 
-Dit uitgangspunt wordt ook gehanteerd in de [Beleidsvisie Samenhangende
+Dit uitgangspunt van ‘data bij de bron’ wordt ook gehanteerd in de [Beleidsvisie
+Samenhangende
 Objectenregistratie](https://www.geobasisregistraties.nl/documenten/beleidsnota/2019/11/29/beleidsvisie-samenhangende-objectenregistratie)[^3]
 van het ministerie van BZK en successievelijk de
 [architectuurprincipes](https://docs.geostandaarden.nl/disgeo/arch/) voor de
@@ -165,7 +166,7 @@ leveranciers, bronhouders, Kadaster, VNG-R, Ministerie van BZK).”*
 
 Om het bevragen van ‘data bij de bron’ mogelijk te maken, moet er op een manier
 kenbaar gemaakt worden dat deze data bestaat. Ofwel: om (meta)data(sets) te
-kunnen vinden, moet er bronsysteem zijn, waarin deze (meta)data(sets) zijn
+kunnen vinden, moet er een bronsysteem zijn, waarin deze (meta)data(sets) zijn
 geregistreerd of geïndexeerd, en welke mensen en systemen kunnen doorzoeken.
 Deze doorzoekbare bron fungeert als een soort van catalogus van (meta)data(sets)
 die in andere systemen zijn opgeslagen.
@@ -226,6 +227,24 @@ worden toegepast, mogelijk inclusief authenticatie en autorisatie.
 
 **A1. (Meta)gegevens kunnen worden opgehaald door hun identifier met behulp van
 een gestandaardiseerd communicatieprotocol**
+
+In principe F1 hebben we beschreven dat elke (meta)data(set) een unieke en
+persistente identifier krijgt. Om de gegevens op te halen zijn technische en
+organisatorische afspraken nodig . Ofwel er is een communicatieprotocol a la
+API-Kadaster nodig waarin heterogene inhoud met een standaard
+communicatiewrapper kan worden uitgewisseld.
+
+Dit vraagt om een standaard uitwisselingsformaat of Generieke Download Service,
+Mutatie API of
+
+Voor het DSGO gaat het erom hoe dat we afspraken maken over hoe we bestaande
+inhoud uitwisselen zonder daarbij de structuur en semantiek van de inhoud
+aanpassen.
+
+**Een gestandaardiseerd communicatieprotocol bevordert de technische
+interoperabiliteit.**
+
+**Dit vraat po**
 
 De UOI is de sleutel naar het Dossier van een Object dat middels de UOI wordt
 geidentificeerd.
