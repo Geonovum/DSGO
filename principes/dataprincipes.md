@@ -58,19 +58,16 @@ Zodoende zijn datasets of informatie over datasets door de tijd heen vindbaar en
 *citeerbaar* zijn, ongeacht de status, beschikbaarheid of het formaat van de
 data. (zie <https://www.w3.org/TR/dwbp/#UniqueIdentifiers>)
 
-De objecten die DSGO beschrijft zijn identificeerbaar aan de hand van een
-[UOI](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie).
-Elke dataset verwijst/beschrijft naar één of meerdere UOI's -- en is zelf ook
-uniek identificeerbaar aan de hand van een persistente identifier. Ook metadata
-krijgt zo'n unieke en persistente identifier.
-
-Persistent betekent dat maar één ding zo'n identifier krijgt en dat een ding die
-identifier z'n hele levensloop behoudt.
-
-Het [Unieke Object Identificator
-(UOI)](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie) ‘systeem’
-is een digitale sleutel waarmee je op basis van je rol en toegangsrechten
-informatie over gebouwen en objecten in de gebouwde omgeving kunt raadplegen.
+In Nederland (en internationaal) wordt gewerkt aan het [Unieke Object
+Identificator
+(UOI)](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie) systeem
+voor toegang tot informatie over een nieuwe en bestaande gebouwen of de gebouwde
+omgeving die in verschillende databases zijn opgeslagen. Het UOI dient als een
+digitale sleutel waarmee je op basis van je rol en toegangsrechten informatie
+over gebouwen en objecten in de gebouwde omgeving kunt raadplegen. Daarmee kan
+specifieke informatie over een gebouw, verdieping, kamer of raamkozijn worden
+geraadpleegd op basis van rollen en toegangsrechten
+(https://fibree.org/uoi-nl/).
 
 Het ‘systeem’ als gedachte is ontwikkeld binnen de bouw- en vastgoedsector. De
 gedachte achter een UOI-code is dat er domein-overstijgend verbindingen mee
@@ -84,49 +81,110 @@ standaarden) en de [principes die DiSGeo
 hanteert](https://docs.geostandaarden.nl/disgeo/emso/#identificatie-van-objecten) voor
 de Samenhangende Objecten Registratie (SOR). Ook is gekeken naar de instrumenten
 van de Wet kwaliteitsborging Bouw (Wkb) en het ontwerp Digitaal Stelsel Gebouwde
-Omgeving DSGO (binnen DigiGo).
+Omgeving DSGO (binnen DigiGo).[^1]
 
-*Noot van de schrijvers: Tussen november 2020 en april 2021 heeft het ministerie
-van BZK onderzoek laten doen naar het ontwerp van een Unieke Object
+[^1]: Noot van de schrijvers: Tussen november 2020 en april 2021 heeft het
+ministerie van BZK onderzoek laten doen naar het ontwerp van een Unieke Object
 Identificatie (UOI). Vraag aan Geonovum was de UOI te verkennen in relatie tot
 standaarden in de bouw- en geo-sector en de ontwikkelingen rond
 objectidentificatie in de fysieke leefomgeving. Ten tijde van het schrijven dit
-rapport is er een concept onderzoeksrapport over UOI.*
+rapport is er een concept onderzoeksrapport over UOI.
+
+>   **Eis:** De data die het DSGO beschrijft zijn identificeerbaar aan de hand
+>   van een
+>   [UOI](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie).
+>   Elke dataset verwijst/beschrijft naar één of meerdere UOI's -- en is zelf
+>   ook uniek identificeerbaar aan de hand van een persistente identifier. Ook
+>   metadata krijgt zo'n unieke en persistente identifier. Persistent betekent
+>   dat maar één ding zo'n identifier krijgt en dat een ding die identifier z'n
+>   hele levensloop behoudt.
 
 **F2. Gegevens worden beschreven met uitgebreide metadata**
 
-Van elk gegeven in het DSGO is meta-informatie over onder meer de herkomst,
-kwaliteit en gebruik (licentie + toepassing) beschikbaar. De wijze van
-metadatering sluit aan bij vigerende (inter)nationale standaarden voor metadata.
+Metadata zijn gegevens over de data zelf. Voorbeelden van metadata zijn de
+contactgegevens van de organisatie die de gegevens beschikbaar stelt (herkomst),
+gegevens over hoe de informatie is ingewonnen en met welke kwaliteit, of
+gegevens over het intellectueel eigendom en toepassing om de data voor bepaalde
+toepassingen te gebruiken (licentie).
 
-Ook de wijze van toegang, de gebruikte gegevensformaten en schema’s worden
-beschreven in de metadata van een dataset.
+>   **Eis:** Van elk gegeven in het DSGO is meta-informatie over onder meer de
+>   herkomst, kwaliteit en gebruik (licentie + toepassing) beschikbaar. De wijze
+>   van metadatering sluit aan bij vigerende (inter)nationale standaarden voor
+>   metadata. Ook de wijze van toegang, de gebruikte gegevensformaten en
+>   schema’s worden beschreven in de metadata van een dataset.
 
 **F3. Metadata bevatten duidelijk en expliciet de identifier van de gegevens die
 ze beschrijven**
 
-Metadata is beschikbaar op het niveau van data en dataset. Een data(set) in het
-DSGO heeft een UOI, en bij metadata wordt het UOI van de data(set) vastgelegd.
-*N.B. de relatie is dus ‘Metadata beschrijft 0..\* data(set)’ en niet ‘Data(set)
-wordt beschreven in 0..\* Metadata’*
+Metadata zijn gegevens over de data zelf. Metadata beschrijft dus dataset. Om te
+weten welke metadata(set) hoort welke data(set) moet een expliciete relatie
+vastgelegd worden tussen de metadata(set) en data(set). Dit kan door het opnemen
+van de identificatie van de data(set) in de metadata(set).
+
+>   Eis: Bij de metadata(set) wordt de unieke identificatie (UOI) van de
+>   betreffende data(set) opgenomen.[^2]
+
+[^2]: D*e informatiekundige relatie is dus ‘Metadata(set) beschrijft 0..\*
+data(set)’ en niet ‘Data(set) wordt beschreven in 0..\* Metadata(sets)’*
 
 **F4. (Meta)data worden geregistreerd of geïndexeerd in een doorzoekbare bron**
 
-Het DSGO fungeert ondermeer als een doorzoekbare catalogus c.q. register met
-gedistribueerde data(sets) over de gebouwde omgeving. Bijvoorbeeld
-Gebouwdossier, Energielabels, geobasisregistraties.
+Voor het DSGO gaan we er vanuit dat het een set met uniforme afspraken is voor
+de uitwisseling van data, en niet een centraal registratiesysteem (à la
+landelijke voorziening) waarin alle data zijn opgeslagen. (Meta)data(sets)
+worden opgeslagen in de systemen van de organisaties die de data creëren, lezen,
+updaten of verwijderen (CRUD), en worden beschikbaar gesteld vanuit hun
+bronsysteem aan andere partijen in het DSGO volgens de centrale en bilaterale
+afspraken.
 
->   Bijvoorbeeld Data.overheid: de catalogusfunctie van DSGO lijkt daarmee op
+Dit uitgangspunt past bij het [Common Ground](https://commonground.nl/)-principe
+van bevragen van ‘data bij de bron’. Het ‘bevragen bij de bron’ voorkomt het
+veelvuldig kopieëren en opslaan van dezelfde gegevens op verschillende plekken.
+Bij het veelvuldig kopiëren en opslaan van dataset kunnen de kopien in systemen
+in de tijd uit de pas gaan lopen (asynchroniteit) wat kan leiden tot
+verschillende resultaten (inconsistenties) bij het gebruik van deze gegevens.
+
+Dit uitgangspunt wordt ook gehanteerd in de [Beleidsvisie Samenhangende
+Objectenregistratie](https://www.geobasisregistraties.nl/documenten/beleidsnota/2019/11/29/beleidsvisie-samenhangende-objectenregistratie)[^3]
+van het ministerie van BZK en successievelijk de
+[architectuurprincipes](https://docs.geostandaarden.nl/disgeo/arch/) voor de
+Nederlandse Geo-Informatie Infrastructuur (NGII).
+
+[^3]: *“Er wordt in de eindsituatie zoveel mogelijk uitgegaan van ‘bevragen bij
+de bron’. Hierbij is van belang dat de gebruiker voor verstrekkingen zoveel
+mogelijk uit kan gaan van één loket. Een belangrijk aandachtspunt hierbij is het
+gebeurtenis georiënteerd werken (nader uit te werken). Of de bronhouders
+gedistribueerd en decentraal werken of direct inwinning en bijhouding in een (of
+meerdere) voorziening(en) uitvoeren via gestandaardiseerde services moet nader
+bepaald worden (nadere uitwerking in kader van DiS GEO/beleidsvisie:
+leveranciers, bronhouders, Kadaster, VNG-R, Ministerie van BZK).”*
+
+>   **Uitgangspunt:** het DSGO is een set uniforme afspraken voor de
+>   uitwisseling van gegevens over de gebouwde omgeving tussen organisaties, en
+>   geen landelijk registratiesysteem.
+
+Om het bevragen van ‘data bij de bron’ mogelijk te maken, moet er op een manier
+kenbaar gemaakt worden dat deze data bestaat. Ofwel: om (meta)data(sets) te
+kunnen vinden, moet er bronsysteem zijn, waarin deze (meta)data(sets) zijn
+geregistreerd of geïndexeerd, en welke mensen en systemen kunnen doorzoeken.
+Deze doorzoekbare bron fungeert als een soort van catalogus van (meta)data(sets)
+die in andere systemen zijn opgeslagen.
+
+Voorbeelden van reeds bestaande doorzoekbare bronnen zijn data.overheid.nl en
+het Nationaal Geo Register.
+
+>   **Voorbeeld Data.overheid:** de catalogusfunctie van DSGO lijkt daarmee op
 >   het open dataregister van de Nederlandse overheid, ofwel Data.overheid.nl,
 >   echter toegespitst op datasets welke een toepassing hebben op de fysieke
 >   leef- cq. gebouwde omgeving.
 
 ![](media/1baad1a873819844057d99d93f018065.png)
 
->   Bijvoorbeeld [Nationaal Geo Register](https://nationaalgeoregister.nl/): de
->   catalogusfunctie van DSGO lijkt daarmee op een metadata-register à la
->   [Nationaal Geo Register](https://nationaalgeoregister.nl/) (NGR). Met de
->   eenvoudige zoekopties en presentatie van resultaten kunnen de datasets in de
+>   **Voorbeeld** [Nationaal Geo
+>   Register](https://nationaalgeoregister.nl/)**:** de catalogusfunctie van
+>   DSGO lijkt daarmee op een metadata-register à la [Nationaal Geo
+>   Register](https://nationaalgeoregister.nl/) (NGR). Met de eenvoudige
+>   zoekopties en presentatie van resultaten kunnen de datasets in de
 >   kaartviewer worden bekeken of worden gedownload. Het NGR richt zich op
 >   verschillende gebruikers: van professionele Geo-ICT Specialisten op zoek
 >   naar datasets en services voor bijvoorbeeld een ruimtelijke analyse of
@@ -136,32 +194,21 @@ Gebouwdossier, Energielabels, geobasisregistraties.
 
 ![](media/36416e98132988ee2c688ba67671ba60.png)
 
-Het DSGO als catalogus c.q. register van datasets over de gebouwde omgeving
-sluit aan bij principe van ‘bevragen bij de bron’. Met ‘bevragen bij de bron’
-worden kopieën en daarmee dubbele dataopslag, asynchroniteit en inconsistenties
-voorkomen. Dataset zelf wordt niet aangeleverd aan ofwel gekopiëerd in DSGO; er
-worden wel gegevens over de data(set) (ofwel: metadata) aan het DSGO
-aangeleverd. Over deze metadata van data(sets) wordt metadata vastgelegd,
-bijvoorbeeld data over de herkomst en actualiteit van de metadata over de
-data(set). Dit principe sluit aan bij de [Beleidsvisie Samenhangende
-Objectenregistratie](https://www.geobasisregistraties.nl/documenten/beleidsnota/2019/11/29/beleidsvisie-samenhangende-objectenregistratie)
-van het ministerie van BZK en
-[architectuurprincipes](https://docs.geostandaarden.nl/disgeo/arch/) van de
-voorzieningen in Nederlandse Geo-Informatie Infrastructuur (NGII) en het
-samenhangend stelsel van geobasisgegevens, ookwel ‘samenhangende
-objectenregistratie’.
+We zien voor ons dat één van de functies van het DSGO deze catalogus-functie is.
+Deze catalogus-functie is een belangrijk voor de goede vindbaarheid van
+data(sets).[^4]
 
->   [Beleidsvisie Samenhangende
->   Objectenregistratie](https://www.geobasisregistraties.nl/documenten/beleidsnota/2019/11/29/beleidsvisie-samenhangende-objectenregistratie)
->   van het ministerie van BZK::“Er wordt in de eindsituatie zoveel mogelijk
->   uitgegaan van ‘bevragen bij de bron’. Hierbij is van belang dat de gebruiker
->   voor verstrekkingen zoveel mogelijk uit kan gaan van één loket. Een
->   belangrijk aandachtspunt hierbij is het gebeurtenis georiënteerd werken
->   (nader uit te werken). Of de bronhouders gedistribueerd en decentraal werken
->   of direct inwinning en bijhouding in een (of meerdere) voorziening(en)
->   uitvoeren via gestandaardiseerde services moet nader bepaald worden (nadere
->   uitwerking in kader van DiS GEO/beleidsvisie: leveranciers, bronhouders,
->   Kadaster, VNG-R, Ministerie van BZK).
+[^4]: We geen keuze hoe deze catalogus-functie wordt geïmplementeerd: sla je
+alle metadatasets centraal op die verwijst naar de data, of maak je een
+koppeling naar een metadata-service van een gedistribueerd bronsysteem. Ofwel
+een koppelvlak waarmee de indexen van andere systemen kunnen worden opgevraagd.
+
+>   Eis: Het DSGO fungeert ondermeer als een doorzoekbare catalogus c.q.
+>   register met gedistribueerde data(sets) over de gebouwde omgeving.
+>   Bijvoorbeeld Gebouwdossier, Energielabels, geobasisregistraties.
+
+*Bijkomend voordeel is dat je alleen afspraken maakt over de koppelvlakken
+(uitwisselbaarheid) en niet over de inhoud (gegevens) zelf.*
 
 ### Toegankelijk
 
@@ -288,6 +335,11 @@ standaarden](https://forumstandaardisatie.nl/open-standaarden): de verplichte
 (‘pas toe of leg uit’) en aanbevolen open standaarden voor de publieke sector.
 
 **I2. (Meta)data gebruiken vocabulaires die FAIR-principes volgen**
+
+*Bovendien gaat het in deze hele beweging niet alleen om laagdrempelige toegang
+tot individuele databronnen, maar steeds vaker ook om het kunnen combineren van
+data uit verschillende bronnen. Hiermee neemt het belang van zowel semantische
+als technische interoperabiliteit steeds verder toe.*
 
 Door expliciet te zijn over de gebruikte vocabulaires in metadata en
 gegevenssets, maken we het makkelijker aan te sluiten op DSGO. Een systeem dat
