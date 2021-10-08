@@ -21,10 +21,18 @@ Ontwerpprincipes
 In dit hoofdstuk worden de ontwerpprincipes voor (meta)data(sets) in het DSGO
 beschreven aan de hand van de FAIR-principes: *Findable* (vindbaar),
 *Accessible* (toegankelijk), *Interoperable* (uitwisselbaar) en *Reusable*
-(herbruikbaar). Deze zijn geletterd en genummerd, aan de hand waarvan ze worden
-doorgenomen.
+(herbruikbaar).
+
+We hanteren de term *(meta)data(sets)* omdat de dataprincipes van toepassing
+kunnen zijn op data, metadata, een dataset, en/of metadataset.
+
+De FAIR principes zijn nader onderverdeeld in subprincipes; deze zijn geletterd
+en genummerd, aan de hand waarvan ze worden beschreven in de volgende
+paragrafen.
 
 ### Vindbaar
+
+**Samenvatting**
 
 De eerste stap bij het (her)gebruiken van data is om de data te vinden. Metadata
 en data moeten gemakkelijk te vinden zijn voor zowel mensen als computers.
@@ -33,7 +41,22 @@ services. Vindbaarheid begint met bekendheid om te weten dat data gevonden kan
 worden. Hiervoor is communicatie over het DSGO-uitgangspunt en een centraal
 loket voor vragen essentieel.
 
-**F1. (Meta)data krijgen een wereldwijd unieke en persistente identifier**
+**F1. Elke (meta)data(set) krijgt een wereldwijd unieke en persistente
+identifier**
+
+De vindbaarheid van data wordt vergroot als deze altijd op dezelfde plek is
+terug te vinden. Bijvoorbeeld een dataset is altijd te downloaden vanaf dezelfde
+weblocatie of een app stuurt altijd een HTTP-request naar een API of webservice
+met dezelfde basis-URL.
+
+Bij uitwisseling van data tussen systemen op verschillende fysieke plekken,
+ofwel gedistribueerde systemen is het dus van belangrijk dat de technische
+aanduiding, ofwel identificatie, van een van data of een dataset *uniek* en
+*persistent* (blijvend) is.
+
+Zodoende zijn datasets of informatie over datasets door de tijd heen vindbaar en
+*citeerbaar* zijn, ongeacht de status, beschikbaarheid of het formaat van de
+data. (zie <https://www.w3.org/TR/dwbp/#UniqueIdentifiers>)
 
 De objecten die DSGO beschrijft zijn identificeerbaar aan de hand van een
 [UOI](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie).
