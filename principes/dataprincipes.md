@@ -173,12 +173,14 @@ die in andere systemen zijn opgeslagen.
 Voorbeelden van reeds bestaande doorzoekbare bronnen zijn data.overheid.nl en
 het Nationaal Geo Register.
 
->   **Voorbeeld Data.overheid:** de catalogusfunctie van DSGO lijkt daarmee op
->   het open dataregister van de Nederlandse overheid, ofwel Data.overheid.nl,
->   echter toegespitst op datasets welke een toepassing hebben op de fysieke
->   leef- cq. gebouwde omgeving.
+>   **Voorbeeld:** Op data.overheid.nl de catalogusfunctie van DSGO lijkt
+>   daarmee op het open dataregister van de Nederlandse overheid, ofwel
+>   Data.overheid.nl, echter toegespitst op datasets welke een toepassing hebben
+>   op de fysieke leef- cq. gebouwde omgeving.
 
 ![](media/1baad1a873819844057d99d93f018065.png)
+
+Figuur data.overheid.nl
 
 >   **Voorbeeld:** Het [Nationaal Geo Register
 >   (NGR)](https://nationaalgeoregister.nl/) bevat metadata van geo-datasets
@@ -197,6 +199,8 @@ het Nationaal Geo Register.
 >   over de kwaliteit (o.m actualiteit).
 
 ![](media/36416e98132988ee2c688ba67671ba60.png)
+
+Figuur Nationaal Geo Register (NGR)
 
 We zien voor ons dat één van de functies van het DSGO deze catalogus-functie is.
 Deze catalogus-functie is een belangrijk voor de goede vindbaarheid van
