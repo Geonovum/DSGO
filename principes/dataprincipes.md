@@ -251,13 +251,17 @@ interoperabiliteit, zonder daarbij de bestaande structuur en semantiek te hoeven
 aanpassen.
 
 De (technische) ambitie voor het DSGO bepaalt in hoeverre het mogelijk wordt om
-geautomatiseerd de (meta)data(sets) op te halen. Het is niet ondenkbaar om
-simpel te beginnen met het samenbrengen/-vatten van de beschikbare data in de
-huidige vorm van bijvoorbeeld PDF’s, waarbij handmatig de documenten kunnen
-worden doorgezocht en geraadpleegd.
+geautomatiseerd de (meta)data(sets) op te halen.
+
+De aanbeveling is om simpel te beginnen door het samenbrengen/-vatten van de
+beschikbare data in de huidige vorm van bijvoorbeeld PDF’s, waarbij handmatig de
+documenten kunnen worden doorgezocht en geraadpleegd. (Dit sluit aan bij het
+één-ster model van Linked Data: De informatie is beschikbaar op het internet, in
+welk formaat dan ook (b.v. PDF).)
 
 Op een wat hoger technisch niveau ligt de mogelijkheid dat systemen die op het
 DSGO zijn aangesloten geautomatiseerd de gegevens kunnen doorzoeken en opvragen.
+
 De (meta)data(sets) worden dan in hun bestaande structuur/standaard in een
 machine-leesbare generieke *wrapper* verpakt.
 
@@ -272,10 +276,26 @@ machine-leesbare generieke *wrapper* verpakt.
 >   worden uitgewisseld. Dit vraagt om een standaard uitwisselingsformaat of
 >   Generieke Download Service, Mutatie API of*
 
+>   Voorbeeld: [Linked Data](#koppelen-van-heterogene-datasets-met-linked-data).
+>   De overheid beschikt over veel verschillende datasets met gegevens die wel
+>   een relatie hebben, maar nu niet aan elkaar zijn gelinkt. Door bijvoorbeeld
+>   beleidsstukken, voorlichting, jurisprudentie en uitvoeringsaanwijzingen te
+>   koppelen aan wet- en regelgeving creëer je samenhang. Door relaties
+>   zichtbaar te maken, kan linked data ook fungeren als lijm tussen de
+>   verschillende (basis)registraties. Met linked data breng je samenhang aan in
+>   informatie. Linked data maakt van woorden, zoals de stad ‘Den Haag’, unieke
+>   concepten. Elk concept wint aan betekenis als er meer beschrijvingen aan
+>   gelinkt worden. Daardoor krijgt de inhoud van webdocumenten meer betekenis
+>   en worden zoekresultaten nauwkeuriger.
+
 **A1.1 Het protocol is open, gratis en universeel toepasbaar**
 
-De gegevens in de data(sets) die in de catalogus DSGO zijn met een open en
-gratis protocol bij de bron toegankelijk.
+Om iedereen gebruik te kunnen laten maken van de data in het DSGO is, is het
+belangrijk dat toegang tot het stelsel wordt geboden middels een open en gratis
+protocol.
+
+open standaarden en open formaten. Daarmee is de data zelf niet nog open: via
+authenticatie en autorisatie kan gecontroleerde toegang worden gegeven.
 
 Het protocol betekent in dezen bijv.
 [HTTP](http://www.wikidata.org/entity/Q8777),
@@ -290,18 +310,17 @@ toegangscodes. Het verdient wel de voorkeur om van standaarden gebruik te maken,
 en wanneer die niet voorhanden zijn, een eigen API te beschrijven met een [Open
 API-specificatie](https://spec.openapis.org/oas/v3.1.0).
 
->   Bijvoorbeeld met [Linked
->   Data](#koppelen-van-heterogene-datasets-met-linked-data). De overheid
->   beschikt over veel verschillende datasets met gegevens die wel een relatie
->   hebben, maar nu niet aan elkaar zijn gelinkt. Door bijvoorbeeld
->   beleidsstukken, voorlichting, jurisprudentie en uitvoeringsaanwijzingen te
->   koppelen aan wet- en regelgeving creëer je samenhang. Door relaties
->   zichtbaar te maken, kan linked data ook fungeren als lijm tussen de
->   verschillende (basis)registraties. Met linked data breng je samenhang aan in
->   informatie. Linked data maakt van woorden, zoals de stad ‘Den Haag’, unieke
->   concepten. Elk concept wint aan betekenis als er meer beschrijvingen aan
->   gelinkt worden. Daardoor krijgt de inhoud van webdocumenten meer betekenis
->   en worden zoekresultaten nauwkeuriger.
+>   **Voorbeeld:** [iSHARE](https://www.ishareworks.org/ishare) is een
+>   afsprakenstelsel of een set van afspraken waarmee partijen elkaar toegang
+>   verstrekken tot hun data. Zij hanteren dezelfde manier van identificatie,
+>   authenticatie en autorisatie waardoor zij niet elke keer opnieuw afspraken
+>   moeten maken om data te delen. Partijen die werken volgens de
+>   iSHARE-afspraken kunnen onderling drempelloos data delen. Drempelloos
+>   betekent dat partijen binnen het stelsel: Geen kostbare en tijdrovende
+>   integraties nodig hebben om data te delen; Data kunnen delen met tot dusver
+>   onbekende partijen; En tegelijkertijd volledige controle houden over hun
+>   eigen data. Zij bepalen te allen tijde onder welke voorwaarden hun data
+>   wordt gedeeld, met wie, voor wat, en hoe lang.
 
 **A1.2 Het protocol maakt een authenticatie- en autorisatieprocedure mogelijk,
 waar nodig**
