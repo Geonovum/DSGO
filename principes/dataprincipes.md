@@ -121,7 +121,7 @@ weten welke metadata(set) hoort welke data(set) moet een expliciete relatie
 vastgelegd worden tussen de metadata(set) en data(set). Dit kan door het opnemen
 van de identificatie van de data(set) in de metadata(set).
 
->   Eis: Bij de metadata(set) wordt de unieke identificatie (UOI) van de
+>   **Eis:** Bij de metadata(set) wordt de unieke identificatie (UOI) van de
 >   betreffende data(set) opgenomen.[^2]
 
 [^2]: D*e informatiekundige relatie is dus ‘Metadata(set) beschrijft 0..\*
@@ -207,12 +207,13 @@ We zien voor ons dat één van de functies van het DSGO deze catalogus-functie i
 Deze catalogus-functie is een belangrijk voor de goede vindbaarheid van
 data(sets).[^4]
 
-[^4]: We geen keuze hoe deze catalogus-functie wordt geïmplementeerd: sla je
-alle metadatasets centraal op die verwijst naar de data, of maak je een
-koppeling naar een metadata-service van een gedistribueerd bronsysteem. Ofwel
-een koppelvlak waarmee de indexen van andere systemen kunnen worden opgevraagd.
+[^4]: We maken geen keuze hoe deze catalogus-functie wordt geïmplementeerd: sla
+je alle metadatasets centraal op die verwijst naar de data, of maak je een
+koppeling naar een metadata-service van een gedistribueerd bronsysteem. Ofwel,
+een koppelvlak waarmee de indexen van andere bronsystemen kunnen worden
+opgevraagd.
 
->   Eis: Het DSGO fungeert ondermeer als een doorzoekbare catalogus c.q.
+>   **Eis:** Het DSGO fungeert ondermeer als een doorzoekbare catalogus c.q.
 >   register met gedistribueerde data(sets) over de gebouwde omgeving.
 >   Bijvoorbeeld Gebouwdossier, Energielabels, geobasisregistraties.
 
@@ -223,36 +224,53 @@ een koppelvlak waarmee de indexen van andere systemen kunnen worden opgevraagd.
 
 Zodra de gebruiker de benodigde gegevens heeft gevonden bij een of meerdere
 databronnen, moet hij/zij weten hoe deze kunnen worden geraadpleegd en kan
-worden toegepast, mogelijk inclusief authenticatie en autorisatie.
+worden toegepast. Verschillende gebruikers krijgen andere rechten voor toegang
+en gebruik van de gegevens.
 
 **A1. (Meta)gegevens kunnen worden opgehaald door hun identifier met behulp van
 een gestandaardiseerd communicatieprotocol**
 
 In principe F1 hebben we beschreven dat elke (meta)data(set) een unieke en
-persistente identifier krijgt. Om de gegevens op te halen zijn technische en
-organisatorische afspraken nodig . Ofwel er is een communicatieprotocol a la
-API-Kadaster nodig waarin heterogene inhoud met een standaard
-communicatiewrapper kan worden uitgewisseld.
+persistente identifier krijgt. Met deze identifier is elke (meta)data(set) uniek
+aan te duiden en te vinden. Om de gegevens vervolgens op te halen zijn
+technische en organisatorische afspraken nodig.
 
-Dit vraagt om een standaard uitwisselingsformaat of Generieke Download Service,
-Mutatie API of
+We gaan er vanuit dat de inhoud van de (meta)data(sets) op basis van de
+bestaande standaarden wordt aangeboden aan de gebruikers van het DSGO. Voor het
+DSGO worden dus geen afspraken gemaakt over één gemeenschappelijke
+taal/semantiek, vervat in één gemeenschappelijke standaard of informatiemodel.
 
-Voor het DSGO gaat het erom hoe dat we afspraken maken over hoe we bestaande
-inhoud uitwisselen zonder daarbij de structuur en semantiek van de inhoud
+>   **Uitgangspunt:** Gegevens worden in het DSGO aangeboden op basis van de
+>   bestaande (semantische) standaarden.
+
+Met dit uitgangspunt zijn er alleen afspraken nodig over de manier van
+uitwisselen van data, *om de data te laten stromen*. Deze afspraken worden
+opgenomen in een communicatieprotocol, ofwel technisch uitwisselingsformaat. Dit
+gestandaardiseerd communicatieprotocol bevordert de technische
+interoperabiliteit, zonder daarbij de bestaande structuur en semantiek te hoeven
 aanpassen.
 
-**Een gestandaardiseerd communicatieprotocol bevordert de technische
-interoperabiliteit.**
+De (technische) ambitie voor het DSGO bepaalt in hoeverre het mogelijk wordt om
+geautomatiseerd de (meta)data(sets) op te halen. Het is niet ondenkbaar om
+simpel te beginnen met het samenbrengen/-vatten van de beschikbare data in de
+huidige vorm van bijvoorbeeld PDF’s, waarbij handmatig de documenten kunnen
+worden doorgezocht en geraadpleegd.
 
-**Dit vraat po**
+Op een wat hoger technisch niveau ligt de mogelijkheid dat systemen die op het
+DSGO zijn aangesloten geautomatiseerd de gegevens kunnen doorzoeken en opvragen.
+De (meta)data(sets) worden dan in hun bestaande structuur/standaard in een
+machine-leesbare generieke *wrapper* verpakt.
 
-De UOI is de sleutel naar het Dossier van een Object dat middels de UOI wordt
-geidentificeerd.
+>   **Eis:** voor het DSGO zijn (vooral) afspraken nodig over de technische
+>   uitwisseling van (meta)data(sets) op de koppelvlakken, ofwel op de
+>   interfaces tussen de systemen, om de data te laten stromen.
 
-*Samenbrengen van gegevens vanuit basisregistraties als BGT en BAG. Ook Digitaal
-Stelsel Omgevingswet voor de ruimtelijke besluiten als een omgevingsplan (nu
-conform de Wro: bestemmingsplan). UOI Verschil tussen diensten en projectdossier
-beschrijven*
+>   **TODO: Voorbeeld:** *Een voorbeeld is de generieke API-service van het
+>   Kadaster voor het geautomatiseerd downloaden / actualiseren van data uit de
+>   geobasisregistraties. Ofwel er is een communicatieprotocol à la API-Kadaster
+>   nodig waarin heterogene inhoud met een standaard communicatiewrapper kan
+>   worden uitgewisseld. Dit vraagt om een standaard uitwisselingsformaat of
+>   Generieke Download Service, Mutatie API of*
 
 **A1.1 Het protocol is open, gratis en universeel toepasbaar**
 
