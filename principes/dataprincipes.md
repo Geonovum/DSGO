@@ -213,7 +213,7 @@ koppeling naar een metadata-service van een gedistribueerd bronsysteem. Ofwel,
 een koppelvlak waarmee de indexen van andere bronsystemen kunnen worden
 opgevraagd.
 
->   **Eis:** Het DSGO fungeert ondermeer als een doorzoekbare catalogus c.q.
+>   **Eis:** Het DSGO fungeert onder meer als een doorzoekbare catalogus c.q.
 >   register met gedistribueerde data(sets) over de gebouwde omgeving.
 >   Bijvoorbeeld Gebouwdossier, Energielabels, geobasisregistraties.
 
