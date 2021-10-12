@@ -2,9 +2,7 @@ Samenvatting
 ============
 
 Het publiek belang en de publieke waarden zijn de basisprincipes voor
-sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data.
-De volgende uitgangspunten, randvoorwaarden en eisen komen voort uit de
-ontwerpprincipes en dataprincipes zoals in voorgaande hoofdstukken beschreven.
+sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data. Samen met de dataprincipes, resulteert dit in de volgende uitgangspunten, randvoorwaarden en eisen, zoals in voorgaande hoofdstukken beschreven.
 
 Uitgangspunten
 --------------
@@ -66,7 +64,7 @@ Eisen
     niet, dan worden processen opgestart om die bij te werken volgende de
     geldende regelgeving. Daarbij geldt dat:
 
--   architecten, ingenieursbureaus en bouwbedrijven en aannemers gebruiken de
+-   Architecten, ingenieursbureaus en bouwbedrijven en aannemers gebruiken de
     informatie uit de basisregistraties als uitgangspunt voor hun ontwerp en
     doen waar nodig meldingen waar de info niet juist is.
 
