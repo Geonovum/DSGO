@@ -43,19 +43,12 @@ rol van Bevoegd Gezag en vanuit haar verantwoordelijkheid voor verschillende
 beleidsthema’s zoals het klimaatakkoord en de basisregistraties hier zelf ook
 profijt van hebben.
 
-Met het opstellen van richtinggevende principes, in aanvulling op 34 ‘use
-cases’, gegroepeerd in zes thema’s, wordt er met dit adviesrapport input
-geleverd voor het ontwerp van een Digitaal Stelsel voor de Gebouwde Omgeving.
-Deze principes dragen bij aan de sector brede afspraken over uitwisseling,
-eigenaarschap en organisatie van data met als resultaat veilige, betrouwbare en
-gecontroleerde toegang tot data in de bouwsector: in verbinding en in samenhang.
-
 Opdracht
 -----------------
 
 Geonovum is door het ministerie van Ministerie van Binnenlandse Zaken en Koninkrijksrelaties gevraagd om in samenwerking met het BIM Loket en CROW de richtinggevende principes te formuleren voor het ontwerp van een Digitaal Stelsel Gebouwde Omgeving (DSGO). 
 
-Dit adviesrapport met richtinggevende principes voor het DSGO geeft de uitdagingen aan op het gebied van publieke waarden en is voor het ministerie van BZK de start om het gesprek aan te gaan hoe publieke waarden en het DSGO zullen gaan samenwerken.  De richtinggevende principes die bij het ontwerp en realisatie van het DSGO in acht genomen dienen te worden, borgen het publiek belang voor bijvoorbeeld publieke waarden rondom digitalisering, de fysieke leefomgeving en de economie. Maar ook robuustheid, toekomstvastheid en stapsgewijze groei van het DSGO. De richtinggevende principes van dit adviesrapport dragen bij aan sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data met als resultaat veilige, betrouwbare en gecontroleerde toegang tot data in de bouwsector.
+Dit adviesrapport met richtinggevende principes voor het DSGO, in aanvulling op 34 ‘use cases’, gegroepeerd in zes thema’s, geeft de uitdagingen aan op het gebied van publieke waarden en is voor het ministerie van BZK de start om het gesprek aan te gaan hoe publieke waarden en het DSGO zullen gaan samenwerken. De richtinggevende principes die bij het ontwerp en realisatie van het DSGO in acht genomen dienen te worden, borgen het publiek belang voor bijvoorbeeld publieke waarden rondom digitalisering, de fysieke leefomgeving en de economie. Maar ook robuustheid, toekomstvastheid en stapsgewijze groei van het DSGO. De richtinggevende principes van dit adviesrapport dragen bij aan sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data met als resultaat veilige, betrouwbare en gecontroleerde toegang tot data in de bouwsector: in verbinding en in samenhang.
 
 Doel en resultaat
 -----------------
@@ -69,7 +62,7 @@ de verschillende fases van de levenscyclus van een bouwwerk met deze afspraken
 makkelijk en veilig gebruik van reeds beschikbare data kunnen maken. Het
 adviesrapport stelt Geonovum op in samenwerking met BIM Loket en CROW.
 
-Om dit doel te bereiken maken we in het adviesrapport onderscheid naar
+Om dit doel te bereiken duiden we ontwerpprincipes (publieke waarden) en dataprincipes en maken we onderscheid naar
 uitgangspunten, randvoorwaarden en eisen. Bij elk van de richtinggevende
 principes zorgen het publiek belang en de publieke waarden de basisprincipes
 voor sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van
@@ -144,43 +137,6 @@ autonomie en veiligheid. We vertalen deze waarden in een aantal ontwerpprincipes
 die leidend zullen zijn voor het DSGO, zowel voor het ontwikkelen van het DSGO,
 als ook voor het gebruik, onderhoud en de governance van het DSGO.
 
-Deze ontwerpprincipes zijn:
-
-1.  *Radicaal open en transparant*: dit principe slaat zowel op de ontwikkeling
-    van het DSGO als de uitkomst ervan. Ontwerpproces: namelijk dat dit in een
-    open en transparant proces ontwikkeld wordt, waarbij alle belanghebbenden
-    inzicht krijgen en invloed hebben op de ontwikkeling. Uitkomsten: Data,
-    algoritmen en technologie zijn navolgbaar, herleidbaar en begrijpelijk. Voor
-    de onderliggende ingrediënten geldt dat ze openbaar, vindbaar, toegankelijk,
-    uitwisselbaar, herbruikbaar en controleerbaar moeten zijn (FAIR ).
-
-2.  Inclusief *betrekken* van alle *belanghebbenden* in de processen die
-    ondersteund worden door het DSGO, met bijzondere aandacht voor de positie
-    van burgers.
-
-3.  *Rechtvaardig ontwerpen* en toepassen van de spelregels voor alle
-    belanghebbenden, zodat recht gedaan wordt aan hun belang.
-
-4.  *Doelgerichtheid*: doorleven, beoordelen en waarderen van de toepasbaarheid
-    en doeltreffendheid van het DSGO, de onderliggende (nieuwe) data, algoritmen
-    en gebruikte technologie, voor alle processen die het DSGO ondersteunt.
-
-5.  *Betrokkenheid*: Inrichten en operationaliseren van een werkwijze waarbij
-    alle belanghebbenden, inclusief het ‘publiek belang’, betrokken worden
-    inclusief de naleving daarvan.
-
-6.  *Controleerbaarheid*: Organiseren van menselijke controle en
-    interventiemacht in geautomatiseerde beeld-, oordeels- en
-    besluitvormingsprocessen.
-
-7.  *Soevereiniteit*: Alloceren van eigenaarschap, zeggenschap en controle over
-    gebruikte data en algoritmen (soevereiniteit).
-
-8.  *Informatieveiligheid*: Voor het DSGO is het belangrijk dat traceerbaar is
-    van wie gegevens afkomstig zijn, of de bron ze gewijzigd of verrijkt heeft
-    (transparantie en provenance) en dat ze tussen creatie en uitlevering niet
-    gemanipuleerd zijn (integriteit). Voor alle belanghebbenden is het
-    essentieel dat data juist, volledig en actueel zijn.
 
 ### FAIR principes
 
@@ -194,23 +150,6 @@ en diensten vindbaar, toegankelijk, interoperabel en herbruikbaar te maken. In
 lijn met het doel van dit adviesrapport nemen we de FAIR principes als basis
 voor het formuleren van de principes voor het DSGO.
 
-**Findable (vindbaar)** De eerste stap bij het (her)gebruiken van data is om de
-data te vinden. Metadata en data moeten gemakkelijk te vinden zijn voor zowel
-mensen als computers. Machine-readable metadata zijn essentieel voor het
-ontdekken van datasets en services.
-
-**Accessible (toegankelijkheid)** Zodra de gebruiker de benodigde gegevens heeft
-gevonden, moet hij/zij weten hoe deze kunnen worden geraadpleegd, inclusief
-authenticatie en autorisatie. Laagdrempelig in gebruik.
-
-**Interoperable (uitwisselbaar)** De gegevens moeten meestal worden geïntegreerd
-met andere gegevens. Bovendien moeten de gegevens samenwerken met applicaties of
-workflows voor analyse, opslag en verwerking.
-
-**Reusable (herbruikbaar)** Het uiteindelijke doel van FAIR is het hergebruik
-van data te optimaliseren. Om dit te bereiken moeten metadata en data goed
-worden beschreven, zodat ze in verschillende situaties kunnen worden
-gerepliceerd en/of gecombineerd.
 
 Afbakening
 ----------

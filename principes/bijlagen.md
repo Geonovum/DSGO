@@ -16,11 +16,6 @@ Begrippen en afkortingen
 |        |                                                                                                                                                                                                         |
 |        |                                                                                                                                                                                                         |
 
-Gebruikte bronnen:
-------------------
-
--   Actieplan DSGO, document versie 1.0
-
 Data, datasets en metadata
 --------------------------
 
@@ -134,3 +129,74 @@ door technologische ontwikkelingen speelt dat steeds minder een rol. Om data
 het niet zozeer over de grootte van een dataset maar juist overover de
 vindbaarheid, toegankelijkheid, herbruikbaarheid en uitwisselbaarheid. Dat komt
 overeen met het maken van afspraken op basis van de FAIR-uitgangspunten.
+
+Ontwerpprincipes
+-----------------
+De ontwerpprincipes zijn:
+
+1.  *Radicaal open en transparant*: dit principe slaat zowel op de ontwikkeling
+    van het DSGO als de uitkomst ervan. Ontwerpproces: namelijk dat dit in een
+    open en transparant proces ontwikkeld wordt, waarbij alle belanghebbenden
+    inzicht krijgen en invloed hebben op de ontwikkeling. Uitkomsten: Data,
+    algoritmen en technologie zijn navolgbaar, herleidbaar en begrijpelijk. Voor
+    de onderliggende ingrediënten geldt dat ze openbaar, vindbaar, toegankelijk,
+    uitwisselbaar, herbruikbaar en controleerbaar moeten zijn (FAIR ).
+
+2.  Inclusief *betrekken* van alle *belanghebbenden* in de processen die
+    ondersteund worden door het DSGO, met bijzondere aandacht voor de positie
+    van burgers.
+
+3.  *Rechtvaardig ontwerpen* en toepassen van de spelregels voor alle
+    belanghebbenden, zodat recht gedaan wordt aan hun belang.
+
+4.  *Doelgerichtheid*: doorleven, beoordelen en waarderen van de toepasbaarheid
+    en doeltreffendheid van het DSGO, de onderliggende (nieuwe) data, algoritmen
+    en gebruikte technologie, voor alle processen die het DSGO ondersteunt.
+
+5.  *Betrokkenheid*: Inrichten en operationaliseren van een werkwijze waarbij
+    alle belanghebbenden, inclusief het ‘publiek belang’, betrokken worden
+    inclusief de naleving daarvan.
+
+6.  *Controleerbaarheid*: Organiseren van menselijke controle en
+    interventiemacht in geautomatiseerde beeld-, oordeels- en
+    besluitvormingsprocessen.
+
+7.  *Soevereiniteit*: Alloceren van eigenaarschap, zeggenschap en controle over
+    gebruikte data en algoritmen (soevereiniteit).
+
+8.  *Informatieveiligheid*: Voor het DSGO is het belangrijk dat traceerbaar is
+    van wie gegevens afkomstig zijn, of de bron ze gewijzigd of verrijkt heeft
+    (transparantie en provenance) en dat ze tussen creatie en uitlevering niet
+    gemanipuleerd zijn (integriteit). Voor alle belanghebbenden is het
+    essentieel dat data juist, volledig en actueel zijn.
+
+Dataprincipes
+--------------
+De dataprincipes zijn:
+
+**Findable (vindbaar)** De eerste stap bij het (her)gebruiken van data is om de
+data te vinden. Metadata en data moeten gemakkelijk te vinden zijn voor zowel
+mensen als computers. Machine-readable metadata zijn essentieel voor het
+ontdekken van datasets en services.
+
+**Accessible (toegankelijkheid)** Zodra de gebruiker de benodigde gegevens heeft
+gevonden, moet hij/zij weten hoe deze kunnen worden geraadpleegd, inclusief
+authenticatie en autorisatie. Laagdrempelig in gebruik.
+
+**Interoperable (uitwisselbaar)** De gegevens moeten meestal worden geïntegreerd
+met andere gegevens. Bovendien moeten de gegevens samenwerken met applicaties of
+workflows voor analyse, opslag en verwerking.
+
+**Reusable (herbruikbaar)** Het uiteindelijke doel van FAIR is het hergebruik
+van data te optimaliseren. Om dit te bereiken moeten metadata en data goed
+worden beschreven, zodat ze in verschillende situaties kunnen worden
+gerepliceerd en/of gecombineerd.
+
+
+Gebruikte bronnen
+------------------
+
+-   Actieplan Digitaal Stelsel Gebouwde Omgeving - Afspraken over toegang tot data. Versie 1.0 mei 2021
+-   Op weg naar een health data infrastructuur en afsprakenstelsel - Adviesrapport van Nederlandse AI Coalitie, over de Health data infrastructuur en afsprakenstelsel in Nederland. Versie 1.0 juli 2020
+
+
