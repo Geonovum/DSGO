@@ -394,6 +394,17 @@ wordt verkeerde data overgenomen.
 **I1. (Meta)data gebruiken een formele, toegankelijke, gedeelde en breed
 toepasbare taal voor kennisrepresentatie.**
 
+Samenhang in stelsel krijgen door
+
+Beter zou het zijn om een infrastructuur te hebben van een of meerdere
+“knowledge graphs” waarin de data in samenhang beschikbaar en bevraagbaar is.
+Een knowledge graph is een kennispresentatie De samenhang is dan geregeld in de
+datalaag. APIs kunnen daarbovenop fungeren als eenvoudige toegang tot de data.
+Voor de geavanceerdere toepassingen en vragen waarbij de samenhang essentieel
+is, kan de knowledge graph direct benaderd worden via SPARQL.
+
+<https://geonovum.github.io/disgeo-demo/#api-versus-knowledge-graph>
+
 *Knowledge graphs*
 
 **I2. (Meta)data gebruiken vocabulaires die FAIR-principes volgen**
