@@ -19,7 +19,9 @@ Begrippen en afkortingen
 Gebruikte bronnen:
 ------------------
 
--   Actieplan DSGO, document versie 1.0
+-   Actieplan Digitaal Stelsel Gebouwde Omgeving - Afspraken over toegang tot data. Versie 1.0 mei 2021
+-   Op weg naar een health data infrastructuur en afsprakenstelsel - Adviesrapport van Nederlandse AI Coalitie, over de Health data infrastructuur en afsprakenstelsel in Nederland. Versie 1.0 juli 2020
+
 
 Data, datasets en metadata
 --------------------------
