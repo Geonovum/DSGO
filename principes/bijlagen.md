@@ -132,7 +132,43 @@ overeen met het maken van afspraken op basis van de FAIR-uitgangspunten.
 
 Ontwerpprincipes
 -----------------
+De ontwerpprincipes zijn:
 
+1.  *Radicaal open en transparant*: dit principe slaat zowel op de ontwikkeling
+    van het DSGO als de uitkomst ervan. Ontwerpproces: namelijk dat dit in een
+    open en transparant proces ontwikkeld wordt, waarbij alle belanghebbenden
+    inzicht krijgen en invloed hebben op de ontwikkeling. Uitkomsten: Data,
+    algoritmen en technologie zijn navolgbaar, herleidbaar en begrijpelijk. Voor
+    de onderliggende ingrediënten geldt dat ze openbaar, vindbaar, toegankelijk,
+    uitwisselbaar, herbruikbaar en controleerbaar moeten zijn (FAIR ).
+
+2.  Inclusief *betrekken* van alle *belanghebbenden* in de processen die
+    ondersteund worden door het DSGO, met bijzondere aandacht voor de positie
+    van burgers.
+
+3.  *Rechtvaardig ontwerpen* en toepassen van de spelregels voor alle
+    belanghebbenden, zodat recht gedaan wordt aan hun belang.
+
+4.  *Doelgerichtheid*: doorleven, beoordelen en waarderen van de toepasbaarheid
+    en doeltreffendheid van het DSGO, de onderliggende (nieuwe) data, algoritmen
+    en gebruikte technologie, voor alle processen die het DSGO ondersteunt.
+
+5.  *Betrokkenheid*: Inrichten en operationaliseren van een werkwijze waarbij
+    alle belanghebbenden, inclusief het ‘publiek belang’, betrokken worden
+    inclusief de naleving daarvan.
+
+6.  *Controleerbaarheid*: Organiseren van menselijke controle en
+    interventiemacht in geautomatiseerde beeld-, oordeels- en
+    besluitvormingsprocessen.
+
+7.  *Soevereiniteit*: Alloceren van eigenaarschap, zeggenschap en controle over
+    gebruikte data en algoritmen (soevereiniteit).
+
+8.  *Informatieveiligheid*: Voor het DSGO is het belangrijk dat traceerbaar is
+    van wie gegevens afkomstig zijn, of de bron ze gewijzigd of verrijkt heeft
+    (transparantie en provenance) en dat ze tussen creatie en uitlevering niet
+    gemanipuleerd zijn (integriteit). Voor alle belanghebbenden is het
+    essentieel dat data juist, volledig en actueel zijn.
 
 Dataprincipes
 --------------------------
