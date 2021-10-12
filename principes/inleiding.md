@@ -43,19 +43,12 @@ rol van Bevoegd Gezag en vanuit haar verantwoordelijkheid voor verschillende
 beleidsthema’s zoals het klimaatakkoord en de basisregistraties hier zelf ook
 profijt van hebben.
 
-Met het opstellen van richtinggevende principes, in aanvulling op 34 ‘use
-cases’, gegroepeerd in zes thema’s, wordt er met dit adviesrapport input
-geleverd voor het ontwerp van een Digitaal Stelsel voor de Gebouwde Omgeving.
-Deze principes dragen bij aan de sector brede afspraken over uitwisseling,
-eigenaarschap en organisatie van data met als resultaat veilige, betrouwbare en
-gecontroleerde toegang tot data in de bouwsector: in verbinding en in samenhang.
-
 Opdracht
 -----------------
 
 Geonovum is door het ministerie van Ministerie van Binnenlandse Zaken en Koninkrijksrelaties gevraagd om in samenwerking met het BIM Loket en CROW de richtinggevende principes te formuleren voor het ontwerp van een Digitaal Stelsel Gebouwde Omgeving (DSGO). 
 
-Dit adviesrapport met richtinggevende principes voor het DSGO geeft de uitdagingen aan op het gebied van publieke waarden en is voor het ministerie van BZK de start om het gesprek aan te gaan hoe publieke waarden en het DSGO zullen gaan samenwerken.  De richtinggevende principes die bij het ontwerp en realisatie van het DSGO in acht genomen dienen te worden, borgen het publiek belang voor bijvoorbeeld publieke waarden rondom digitalisering, de fysieke leefomgeving en de economie. Maar ook robuustheid, toekomstvastheid en stapsgewijze groei van het DSGO. De richtinggevende principes van dit adviesrapport dragen bij aan sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data met als resultaat veilige, betrouwbare en gecontroleerde toegang tot data in de bouwsector.
+Dit adviesrapport met richtinggevende principes voor het DSGO, in aanvulling op 34 ‘use cases’, gegroepeerd in zes thema’s, geeft de uitdagingen aan op het gebied van publieke waarden en is voor het ministerie van BZK de start om het gesprek aan te gaan hoe publieke waarden en het DSGO zullen gaan samenwerken. De richtinggevende principes die bij het ontwerp en realisatie van het DSGO in acht genomen dienen te worden, borgen het publiek belang voor bijvoorbeeld publieke waarden rondom digitalisering, de fysieke leefomgeving en de economie. Maar ook robuustheid, toekomstvastheid en stapsgewijze groei van het DSGO. De richtinggevende principes van dit adviesrapport dragen bij aan sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data met als resultaat veilige, betrouwbare en gecontroleerde toegang tot data in de bouwsector: in verbinding en in samenhang.
 
 Doel en resultaat
 -----------------
