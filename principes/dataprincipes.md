@@ -4,16 +4,17 @@ Dataprincipes
 Centraal in de definitie van het Digitaal Stelsel Gebouwde Omgeving (DSGO) staat
 de veilige, betrouwbare en gecontroleerde toegang tot data in de bouwsector. Om
 deze toegang tot data te realiseren is een set van uniforme afspraken nodig. In
-dit hoofdstuk gaan we in op welke afspraken minimaal nodig zijn om data voor de
-bouwsector *te laten stromen*.
+dit hoofdstuk gaan we in op welke afspraken (‘wat’) vanuit publiek belang
+minimaal nodig zijn om data voor de bouwsector *te laten stromen*.
 
-Welke principes pas je toe om gecontroleerde toegang tot het stelsel te geven?
-Welke principes pas je toe om de veiligheid van de gegevens in het stelsel te
-waarborgen, ook met het oog op eigendom en privacy? En welke principes pas je
-toe om te zorgen dat gegevens tussen verschillende organisaties die opereren in
-het stelsel uitgewisseld kunnen worden? En dat de gegevens (her)bruikbaar zijn:
-aansluiten bij de behoefte zowel vraag als aanbod van de verschillende
-organisaties?
+Welke afspraken zijn nodig om databronnen over de gebouwde omgeving te
+ontsluiten? Welke principes pas je toe om gecontroleerde toegang tot deze
+bronnen te geven? Welke afspraken zijn er op technisch en organisatorisch vlak
+nodig om er voor te zorgen dat gegevens tussen verschillende organisaties die
+opereren in het stelsel uitgewisseld kunnen worden? Welke principes pas je toe
+om de veiligheid van de gegevens in het stelsel te waarborgen, ook met het oog
+op eigendom en privacy? En dat de gegevens (her)bruikbaar zijn: aansluiten bij
+de behoefte zowel vraag als aanbod van de verschillende organisaties?
 
 Ontwerpprincipes
 ----------------
@@ -139,8 +140,8 @@ afspraken.
 
 Dit uitgangspunt past bij het [Common Ground](https://commonground.nl/)-principe
 van bevragen van ‘data bij de bron’. Het ‘bevragen bij de bron’ voorkomt het
-veelvuldig kopieëren en opslaan van dezelfde gegevens op verschillende plekken.
-Bij het veelvuldig kopiëren en opslaan van dataset kunnen de kopien in systemen
+veelvuldig kopiëren en opslaan van dezelfde gegevens op verschillende plekken.
+Bij het veelvuldig kopiëren en opslaan van dataset kunnen de kopieën in systemen
 in de tijd uit de pas gaan lopen (asynchroniteit) wat kan leiden tot
 verschillende resultaten (inconsistenties) bij het gebruik van deze gegevens.
 
@@ -215,7 +216,7 @@ opgevraagd.
 
 >   **Eis:** Het DSGO fungeert onder meer als een doorzoekbare catalogus c.q.
 >   register met gedistribueerde data(sets) over de gebouwde omgeving.
->   Bijvoorbeeld Gebouwdossier, Energielabels, geobasisregistraties.
+>   Bijvoorbeeld Gebouwdossier, Energielabels, en geobasisregistraties.
 
 *Bijkomend voordeel is dat je alleen afspraken maakt over de koppelvlakken
 (uitwisselbaarheid) en niet over de inhoud (gegevens) zelf.*
@@ -290,18 +291,27 @@ machine-leesbare generieke *wrapper* verpakt.
 
 **A1.1 Het protocol is open, gratis en universeel toepasbaar**
 
-Om iedereen gebruik te kunnen laten maken van de data in het DSGO is, is het
-belangrijk dat toegang tot het stelsel wordt geboden middels een open en gratis
-protocol.
+Iedereen die toe wil treden tot DSGO, moet kunnen toe treden tot het stelsel. Om
+dat te bereiken is het belangrijk dat toegang tot het stelsel wordt geboden
+middels een open, gratis en universeel toepasbaar protocol.
 
-open standaarden en open formaten. Daarmee is de data zelf niet nog open: via
-authenticatie en autorisatie kan gecontroleerde toegang worden gegeven.
+Voorbeeld: Het [HyperText Transfer Protocol
+(HTTP)](http://www.wikidata.org/entity/Q8777) is een open communicatieprotocol
+voor gedistribueerde collaboratieve, hypermedia informatiesystemen. Andere open
+protocollen zijn bijvoorbeeld [File Tranfer
+Protocol](https://www.w3.org/Protocols/rfc959/) (FTP), [Simple Mail Transfer
+Protocol (SMTP](http://www.wikidata.org/entity/Q160453)), en Simple Object
+Access Protocol (SOAP). Een Teams-kanaal
 
-Het protocol betekent in dezen bijv.
-[HTTP](http://www.wikidata.org/entity/Q8777),
+van een open protocollen zijn open standaarden en open formaten. Het protocol
+betekent in dezen bijv. [HTTP](http://www.wikidata.org/entity/Q8777),
 [FTP](https://www.w3.org/Protocols/rfc959/),
 [SMTP](http://www.wikidata.org/entity/Q160453) en sluit daarmee bijv.
 Teamskanalen uit. Meestal worden API’s over HTTP aangeboden.
+
+Toepassing van een open protocol impliceert nog niet dat de data die wordt
+ontsloten zelf ook open is: via authenticatie en autorisatie kan gecontroleerde
+toegang worden gegeven.
 
 Ook betekent dit principe niet dat wat er over het protocol vervolgens
 gecommuniceerd wordt, open, gratis of universeel toepasbaar zou zijn. Toegang
