@@ -50,6 +50,11 @@ Deze principes dragen bij aan de sector brede afspraken over uitwisseling,
 eigenaarschap en organisatie van data met als resultaat veilige, betrouwbare en
 gecontroleerde toegang tot data in de bouwsector: in verbinding en in samenhang.
 
+Opdracht
+-----------------
+
+x
+
 Doel en resultaat
 -----------------
 
