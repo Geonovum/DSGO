@@ -120,9 +120,4 @@ Tijdens het schrijven heeft onder leiding van de opdrachtgever een informele con
 Afbakening
 ----------
 
--   Wat is het niet, zoals een globale architectuur schets (GAS) of product
-    beschrijving
-
--   verwijzing naar programma spoor governance& beheer
-
--   BOMOS voor beheer
+Met de richtinggevende principes in dit adviesrapport brengen we onder de aandacht waarom, hoe en wat nodig is om data te laten stromen vanuit het perspectief van het publiek belang. Voor het ministerie van BZK is dit de start om het gesprek aan te gaan hoe publieke waarden en het DSGO zullen gaan samenwerken. Dit adviesrapport is geen ontwerp of globale architectuur schets van het Digitaal Stelsel Gebouwde Omgeving, het is geen aanzet tot het ontwikkelen of beheren van standaarden daarvoor. Voor het beheer van DSGO verwijzen we naar het programma spoor governance& beheer van DSGO. 
