@@ -62,7 +62,7 @@ de verschillende fases van de levenscyclus van een bouwwerk met deze afspraken
 makkelijk en veilig gebruik van reeds beschikbare data kunnen maken. Het
 adviesrapport stelt Geonovum op in samenwerking met BIM Loket en CROW.
 
-Om dit doel te bereiken maken we in het adviesrapport onderscheid naar
+Om dit doel te bereiken duiden we ontwerpprincipes (publieke waarden) en dataprincipes en maken we onderscheid naar
 uitgangspunten, randvoorwaarden en eisen. Bij elk van de richtinggevende
 principes zorgen het publiek belang en de publieke waarden de basisprincipes
 voor sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van
