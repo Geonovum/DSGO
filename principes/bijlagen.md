@@ -16,13 +16,6 @@ Begrippen en afkortingen
 |        |                                                                                                                                                                                                         |
 |        |                                                                                                                                                                                                         |
 
-Gebruikte bronnen:
-------------------
-
--   Actieplan Digitaal Stelsel Gebouwde Omgeving - Afspraken over toegang tot data. Versie 1.0 mei 2021
--   Op weg naar een health data infrastructuur en afsprakenstelsel - Adviesrapport van Nederlandse AI Coalitie, over de Health data infrastructuur en afsprakenstelsel in Nederland. Versie 1.0 juli 2020
-
-
 Data, datasets en metadata
 --------------------------
 
@@ -136,3 +129,11 @@ door technologische ontwikkelingen speelt dat steeds minder een rol. Om data
 het niet zozeer over de grootte van een dataset maar juist overover de
 vindbaarheid, toegankelijkheid, herbruikbaarheid en uitwisselbaarheid. Dat komt
 overeen met het maken van afspraken op basis van de FAIR-uitgangspunten.
+
+Gebruikte bronnen
+------------------
+
+-   Actieplan Digitaal Stelsel Gebouwde Omgeving - Afspraken over toegang tot data. Versie 1.0 mei 2021
+-   Op weg naar een health data infrastructuur en afsprakenstelsel - Adviesrapport van Nederlandse AI Coalitie, over de Health data infrastructuur en afsprakenstelsel in Nederland. Versie 1.0 juli 2020
+
+
