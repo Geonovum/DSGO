@@ -53,7 +53,9 @@ gecontroleerde toegang tot data in de bouwsector: in verbinding en in samenhang.
 Opdracht
 -----------------
 
-x
+Geonovum is door het ministerie van Ministerie van Binnenlandse Zaken en Koninkrijksrelaties gevraagd om in samenwerking met het BIM Loket en CROW de richtinggevende principes te formuleren voor het ontwerp van een Digitaal Stelsel Gebouwde Omgeving (DSGO). 
+
+Dit adviesrapport met richtinggevende principes voor het DSGO geeft de uitdagingen aan op het gebied van publieke waarden en is voor het ministerie van BZK de start om het gesprek aan te gaan hoe publieke waarden en het DSGO zullen gaan samenwerken.  De richtinggevende principes die bij het ontwerp en realisatie van het DSGO in acht genomen dienen te worden, borgen het publiek belang voor bijvoorbeeld publieke waarden rondom digitalisering, de fysieke leefomgeving en de economie. Maar ook robuustheid, toekomstvastheid en stapsgewijze groei van het DSGO. De richtinggevende principes van dit adviesrapport dragen bij aan sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data met als resultaat veilige, betrouwbare en gecontroleerde toegang tot data in de bouwsector.
 
 Doel en resultaat
 -----------------
@@ -66,11 +68,6 @@ toegang tot data in de bouwsector, zodat alle ketenpartners die actief zijn in
 de verschillende fases van de levenscyclus van een bouwwerk met deze afspraken
 makkelijk en veilig gebruik van reeds beschikbare data kunnen maken. Het
 adviesrapport stelt Geonovum op in samenwerking met BIM Loket en CROW.
-
-De richtinggevende principes die bij het ontwerp en realisatie van het DSGO in
-acht genomen dienen te worden, borgen het publiek belang voor bijvoorbeeld
-publieke waarden rondom digitalisering, de fysieke leefomgeving en de economie.
-Maar ook robuustheid, toekomstvastheid en stapsgewijze groei van het DSGO.
 
 Om dit doel te bereiken maken we in het adviesrapport onderscheid naar
 uitgangspunten, randvoorwaarden en eisen. Bij elk van de richtinggevende
