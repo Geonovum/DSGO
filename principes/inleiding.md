@@ -71,47 +71,11 @@ data: ze leiden tot verbinding en samenhang.
 Aanpak
 ------
 
-Voor de uitvoering van deze opdracht hebben Geonovum, BIM Loket en CROW de
-volgende aanpak gehanteerd.
+Voor de totstandkoming van dit adviesrapport hebben we onderzocht hoe afspraken over uitwisseling, eigenaarschap en organisatie van data met kan leiden tot als resultaat veilige, betrouwbare en gecontroleerde toegang tot data in de bouwsector, kunnen worden geduid in de vorm van richtinggevende principes. Hiervoor zijn eerst uitgangspunten, randvoorwaarden en eisen nodig die de richtinggevende principes dienen, waarna de uitwerking in bijvoorbeeld een doelarchitectuur kan plaats vinden. 
+Geonovum maakt hiervoor hergebruik van ervaringen uit eerdere adviestrajecten voor (doorontwikkeling van) digitale stelsels voor onder meer  Digitaal Stelsel Omgevingswet (DSO), Objectidentificering (UOI) en samenhang geo(basis)registraties. CROW zet kennis en ervaring met dataprincipes in als kennisinstituut voor infrastructuur, openbare ruimte, verkeer en vervoer, en werk en veiligheid. Digitaal samenwerken in de gebouwde omgeving op basis van standaarden en richtlijnen is de basis voor het BIM Loket. 
+Voor het laten stromen van data, data die het publiek belang dient, zijn de volgende uitgangspunten de rode draad geworden van dit adviesrapport.
 
-### Processtappen
-
-*Stap 1. Voorbereiding* Geonovum heeft met 2-3 eigen experts een eerste aanzet
-gemaakt van principes op het gebied van onder meer openheid, toegankelijkheid,
-interoperabiliteit, authenticiteit en verantwoordelijkheid (governance) voor het
-Digitaal Stelsel Gebouwde Omgeving (DSGO). Geonovum heeft hiervoor hergebruik
-gemaakt van ervaringen uit eerdere adviestrajecten voor (doorontwikkeling van)
-digitale stelsels voor onder meer Digitaal Stelsel Omgevingswet (DSO),
-Objectidentificering (UOI) en samenhang geo(basis)registraties. Aan dit rapport
-hebben we in een open/ publieke omgeving gewerkt waardoor meerder mensen van de
-verschillende organisaties tegelijkertijd aan het rapport konden werken.
-
-*Stap 2. Uitbreiding* In een workshopachtige setting heeft Geonovum samen met
-experts van BIM Loket en CROW de eerste aanzet van principes uitgebreid. De
-principes zijn verbreed, verfijnd en geconcretiseerd zonder de
-implementatievrijheid in latere uitwerking te beperken.
-
-*Stap 3. Toetsing* Het tussenresultaat van het adviesrapport met richtinggevende
-principes (versie 0.3) is begin september met BZK, Geonovum, BIM Loket en CROW
-getoetst. In het vervolg van september zullen de de concept-principes door
-middel van een informele consultatie gericht aan 5 tot maximaal 10, samen met
-BZK te bepalen organisaties, tijdens een klankbordsessie worden gepresenteerd en
-getoetst (waaronder Innopay, de programma’s Bouwwijzer en MedMij, verschillende
-directoraten/ programma’s van BZK, andere departementen, publieke partijen). De
-presentatie heeft tot doel het creëren van draagvlak en het kunnen ingaan op
-vragen en discussie. Na afloop van klankbordsessie krijgen de organisaties 2
-weken gelegenheid om principes te reviewen, en verbetersuggesties aan te dragen.
-
-*Stap 4. Afronding* Geonovum verwerkt samen met BIM Loket en CROW de
-verbetersuggesties uit de informele consultatie/toetsing. Waar dat wel kan
-worden de verbetersuggesties doorgevoerd in de principes, waar dat niet kan als
-gevolg van te veel discussie/divergentie worden deze verbetersuggesties als
-aandachtspunt voor nadere afstemming/uitwerking opgenomen (issuelijst). Het
-resultaat van de vierde en laatste stap is versie 0.99 van het adviesrapport met
-richtinggevende principes. Geonovum levert dit rapport ter
-vaststelling/besluitvorming in begeleidings-/stuurgroep aan de opdrachtgever op.
-
-### Participatie en publieke waarden
+**Participatie en publieke waarden**
 
 Het DSGO maakt participatie en co-creatie mogelijk tussen alle publieke en
 private partijen die een belang hebben bij informatie over de gebouwde omgeving.
@@ -123,7 +87,7 @@ ontwerp en de implementatie van het DSGO, alsmede in het gebruik van de het
 DSGO, de gelijkwaardigheid van de informatiepositie van alle betrokkenen, voorop
 staat.
 
-### Ontwerpprincipes
+**Ontwerpprincipes**
 
 Het DSGO staat in de bredere context van de digitalisering & dataficering van de
 samenleving en vertegenwoordigt alle data over de gebouwde omgeving. De digitale
@@ -138,7 +102,7 @@ die leidend zullen zijn voor het DSGO, zowel voor het ontwikkelen van het DSGO,
 als ook voor het gebruik, onderhoud en de governance van het DSGO.
 
 
-### FAIR principes
+**FAIR principes**
 
 Op eenduidige manieren samenwerken om informatie zo beter te kunnen beveiligen,
 makkelijker uit te wisselen en toegankelijker te maken voor iedereen. Dat is hoe
@@ -149,6 +113,8 @@ Principes dwingen geen standaarden af, maar moedigen communities aan om om data
 en diensten vindbaar, toegankelijk, interoperabel en herbruikbaar te maken. In
 lijn met het doel van dit adviesrapport nemen we de FAIR principes als basis
 voor het formuleren van de principes voor het DSGO.
+
+Tijdens het schrijven heeft onder leiding van de opdrachtgever een informele consultatie plaats gevonden van het concept rapport. Aan Geonovum, BIM Loket en CROW de taak om deze waardevolle ervaringen en kennis te wegen en mee te nemen in dit voorliggende document. 
 
 
 Afbakening
