@@ -341,18 +341,21 @@ gegevens vastgesteld. In de *autorisatie*procedure wordt bepaald of de
 leverancier of afnemer recht heeft tot het wijzigen of gebruiken van de
 gegevens.
 
->   Bijvoorbeeld DigiD en e-Herkenning:
->   [DigiD](https://www.logius.nl/diensten/digid) is een veilig en betrouwbaar
->   middel waarmee gebruikers zich digital kunnen identificeren. DigiD is voor
->   overheidsorganisaties en organisaties met een publieke taak zoals
->   ministeries, lokale overheden, organisaties in de zorg, onderwijs, pensioen
->   en waterschappen. [e-Herkenning](https://eherkenning.nl/) is de DigiD voor
+>   Voorbeeld: [DigiD](https://www.logius.nl/diensten/digid) is een veilig en
+>   betrouwbaar middel waarmee gebruikers zich digital kunnen identificeren.
+>   DigiD is voor overheidsorganisaties en organisaties met een publieke taak
+>   zoals ministeries, lokale overheden, organisaties in de zorg, onderwijs,
+>   pensioen en waterschappen.
+
+>   Voorbeeld: [e-Herkenning](https://eherkenning.nl/) is de DigiD voor
 >   bedrijven, zodat bedrijven namens clienten aanvragen kunnen indienen bij de
 >   overheid met een hoog veiligheidsniveau.
 
-In het DSGO verloopt de authenticatie van natuurlijke personen en
-(overheids)organisaties met een publieke taak zich middels DigiD, van bedrijven
-middels eHerkenning.
+>   Voorbeeld: OAuth
+
+>   Eis: In het DSGO verloopt de authenticatie van natuurlijke personen en
+>   (overheids)organisaties met een publieke taak zich middels DigiD, van
+>   bedrijven middels eHerkenning.
 
 **A2. Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn**
 
@@ -375,9 +378,9 @@ gemaakt worden dat veranderingen aan datasets aangekondigd worden.
 
 Interoperabiliteit betekent het kunnen uitwisselen van digitale gegevens tussen
 overheden onderling en tussen de overheid, bedrijven en burgers. Door uit te
-wisselen kunnen gegevens geïntegreerd met andere gegevens. Bovendien moeten de
-gegevens samenwerken met applicaties of workflows voor analyse, opslag en
-verwerking.
+wisselen kunnen gegevens geïntegreerd worden met andere gegevens. Bovendien
+moeten de gegevens samenwerken met applicaties of workflows voor analyse, opslag
+en verwerking.
 
 Op eenduidige manieren samenwerken om zo informatie beter te kunnen beveiligen
 en makkelijker en toegankelijker te maken voor iedereen: dat is hoe open
@@ -391,22 +394,7 @@ wordt verkeerde data overgenomen.
 **I1. (Meta)data gebruiken een formele, toegankelijke, gedeelde en breed
 toepasbare taal voor kennisrepresentatie.**
 
-In het DSGO worden voor de beschrijving van de datasets (metadata) en de data
-van datasets zelf open standaarden gebruikt.
-
-In Nederland zet het [Forum
-Standaardisatie](https://forumstandaardisatie.nl/over-ons) zich in voor open
-ICT-standaarden. Standaarden ondersteunen gegevensuitwisseling tussen
-ICT-systemen. De openheid zorgt ervoor dat iedereen de standaard kan gebruiken.
-[Open
-standaarden](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/standaardisatie/open-standaarden/) dragen
-bij aan interoperabiliteit en leveranciersonafhankelijkheid. Het gebruik van
-open standaarden in ICT-systemen bespaart kosten en verlicht administratieve
-lasten.
-
-Het Forum Standaardisatie hanteert twee type [lijsten open
-standaarden](https://forumstandaardisatie.nl/open-standaarden): de verplichte
-(‘pas toe of leg uit’) en aanbevolen open standaarden voor de publieke sector.
+*Knowledge graphs*
 
 **I2. (Meta)data gebruiken vocabulaires die FAIR-principes volgen**
 
@@ -459,18 +447,17 @@ metadata van een dataset (o.b.v. aangeleverde metagegevens), en voert
 wijzigingen door in de metadata. De metadata voldoet aan de gestelde
 kwaliteitseisen (o.m. actueel, juist en volledig).
 
-*De eigenaar van de (meta)data(set) is zelf verantwoordelijk voor een goede
-kwaliteit van de (meta)data(set).*
+>   Eis: De eigenaar van de (meta)data(set) is zelf verantwoordelijk voor een
+>   goede kwaliteit van de (meta)data(set).
 
->   Bijvoorbeeld metadata over de Basisregistratie Adressen en Gebouwen: De
->   Basisregistratie Adressen en Gebouwen (BAG) is de authentieke bron voor
->   officiële adressen en bouwjaren van panden. De ‘eigenaar’ van de BAG draagt
->   gegevens aan over de dataset BAG aan het DSGO onder meer over de herkomst,
->   kwaliteit (bijvoorbeeld actualiteit 4 dagen, geometrische nauwkeurigheid van
->   30-60 cm, volledigheid 100%) en gebruik (wettelijk verplicht voor overheden)
->   van de data in de BAG. In het DSGO wordt vastgelegd de herkomst (eigenaar
->   BAG) en kwaliteit (wanneer metadata voor het laatst is bijgewerkt) over de
->   BAG vastgelegd.
+>   Voorbeeld: De Basisregistratie Adressen en Gebouwen (BAG) is de authentieke
+>   bron voor officiële adressen en bouwjaren van panden. De ‘eigenaar’ van de
+>   BAG draagt gegevens aan over de dataset BAG aan het DSGO onder meer over de
+>   herkomst, kwaliteit (bijvoorbeeld actualiteit 4 dagen, geometrische
+>   nauwkeurigheid van 30-60 cm, volledigheid 100%) en gebruik (wettelijk
+>   verplicht voor overheden) van de data in de BAG. In het DSGO wordt
+>   vastgelegd de herkomst (eigenaar BAG) en kwaliteit (wanneer metadata voor
+>   het laatst is bijgewerkt) over de BAG vastgelegd.
 
 ### Herbruikbaar
 
@@ -481,36 +468,6 @@ daarbij aan de basisregistraties en landelijke voorzieningen.
 
 **R1. (Meta)data zijn rijkelijk beschreven met groot aantal nauwkeurige en
 relevante attributen**
-
-Het DSGO sluit aan op de [Wet Kwaliteitsborging voor het Bouwen](#section).
-Onderdeel van deze wet is het *dossier bevoegd gezag*.
-
-Op dit moment is de opdrachtgever verantwoordelijk voor de bouwkwaliteit van een
-object bij overhandiging van de sleutel. De Wet Kwaliteitsborging (WKB) is erop
-gericht om bouwkwaliteit te verbeteren, door de bewijslast van geleverde
-kwaliteit bij de aannemer te beleggen. Deze dient dat vast te leggen in
-het *dossier bevoegd gezag*, waarbij de data die voor dit dossier benodigd is
-door alle ketenpartners aangeleverd moet worden. Dit digitale bouwdossier bevat
-informatie over het gerealiseerde bouwwerk en de verklaring van de
-kwaliteitsborger dat het gerealiseerde bouwwerk voldoet aan de bouwtechnische
-vereisten van het Bouwbesluit. Het op orde hebben van dit dossier, gaat op
-termijn een voorwaarde worden voor gunning van een opdracht.
-
-Het verkrijgen van deze data is op dit moment een tijdrovend en kostbaar karwei.
-De data liggen bij een groot aantal partijen en is niet gestandaardiseerd en/of
-automatisch verkrijgbaar. Door uniforme afspraken faciliteert het DSGO het
-toegankelijk maken van alle gebouw gerelateerde data op een eenvoudige, veilige
-en gecontroleerde manier. Dit heeft een aantal voordelen:
-
-• Risico’s worden teruggedrongen
-
-• Besparing van tijd en kosten voor delen van data
-
-• Makkelijker om te voldoen aan WKB
-
-• Verhogen van kwaliteit
-
-• Verhogen van veiligheid
 
 **R2. (Meta)data worden vrijgegeven met een duidelijke en toegankelijke
 datagebruikslicentie**
@@ -542,6 +499,23 @@ verantwoordelijk is. Dat betekent ook dat de metadata zowel van de
 datasetleverancier is, als van de metadataredacteur.
 
 **R4. (Meta)data voldoen aan domein-relevante Standaarden**
+
+In het DSGO worden voor de beschrijving van de datasets (metadata) en de data
+van datasets zelf open standaarden gebruikt.
+
+In Nederland zet het [Forum
+Standaardisatie](https://forumstandaardisatie.nl/over-ons) zich in voor open
+ICT-standaarden. Standaarden ondersteunen gegevensuitwisseling tussen
+ICT-systemen. De openheid zorgt ervoor dat iedereen de standaard kan gebruiken.
+[Open
+standaarden](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/standaardisatie/open-standaarden/) dragen
+bij aan interoperabiliteit en leveranciersonafhankelijkheid. Het gebruik van
+open standaarden in ICT-systemen bespaart kosten en verlicht administratieve
+lasten.
+
+Het Forum Standaardisatie hanteert twee type [lijsten open
+standaarden](https://forumstandaardisatie.nl/open-standaarden): de verplichte
+(‘pas toe of leg uit’) en aanbevolen open standaarden voor de publieke sector.
 
 Standaarden zijn de afsprakenstelsels van domeinen die specificaties en eisen
 aan de (meta)data beschrijven. De standaarden voor (meta)data(sets) in het DSGO
