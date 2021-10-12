@@ -171,8 +171,26 @@ De ontwerpprincipes zijn:
     essentieel dat data juist, volledig en actueel zijn.
 
 Dataprincipes
---------------------------
+--------------
+De dataprincipes zijn:
 
+**Findable (vindbaar)** De eerste stap bij het (her)gebruiken van data is om de
+data te vinden. Metadata en data moeten gemakkelijk te vinden zijn voor zowel
+mensen als computers. Machine-readable metadata zijn essentieel voor het
+ontdekken van datasets en services.
+
+**Accessible (toegankelijkheid)** Zodra de gebruiker de benodigde gegevens heeft
+gevonden, moet hij/zij weten hoe deze kunnen worden geraadpleegd, inclusief
+authenticatie en autorisatie. Laagdrempelig in gebruik.
+
+**Interoperable (uitwisselbaar)** De gegevens moeten meestal worden geïntegreerd
+met andere gegevens. Bovendien moeten de gegevens samenwerken met applicaties of
+workflows voor analyse, opslag en verwerking.
+
+**Reusable (herbruikbaar)** Het uiteindelijke doel van FAIR is het hergebruik
+van data te optimaliseren. Om dit te bereiken moeten metadata en data goed
+worden beschreven, zodat ze in verschillende situaties kunnen worden
+gerepliceerd en/of gecombineerd.
 
 
 Gebruikte bronnen
