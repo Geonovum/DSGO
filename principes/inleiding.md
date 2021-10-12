@@ -12,17 +12,17 @@ inzetten op: deelbare, herbruikbare en toegankelijke informatie, nieuwe functies
 en geavanceerde werkwijzen en innovatie voor de gebouwde omgeving.
 
 Om waardevolle toepassingen van data mogelijk te maken, moet data beter
-beschikbaar en toegankelijk worden gemaakt. Er is behoefte aan een
+beschikbaar en toegankelijk worden gemaakt zodat data kan gaan stromen. Er is behoefte aan een
 afsprakenstelsel dat zorgt voor veilige, betrouwbare en gecontroleerde toegang
 tot data in de bouwsector, zodat alle ketenpartners die actief zijn in de
 verschillende fases van de levenscyclus van een bouwwerk met deze afspraken
 makkelijk en veilig gebruik van reeds beschikbare data kunnen maken. Dit vergt
 sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data.
-Dat is de reden dat digiGO het initiatief Digitaal Stelsel Gebouwde Omgeving
+Dat is de voornaamste reden dat digiGO het initiatief Digitaal Stelsel Gebouwde Omgeving
 (DSGO) is gestart, om te werken aan de toegankelijkheid van data in de gehele
 keten.
 
-Het DSGO is een programmalijn binnen digiGO. De sector heeft sterke behoefte aan
+Het DSGO is een programmalijn binnen digiGO. De bouwsector heeft sterke behoefte aan
 regie om samenhang te creëren binnen het DSGO. De behoeftes van publieke en
 private organisaties naar data-uitwisseling zijn samengevat in 34 use cases,
 gegroepeerd in zes thema’s. Stikstofreductie is daar onderdeel van, naast andere
@@ -33,7 +33,7 @@ adoptie van deze afspraken. Het DSGO helpt digitalisering in de bouw- en
 installatie sector, en draagt daarmee bij aan stikstofreductie.
 
 De overheid, in de rol van het ministerie van Binnenlandse Zaken en
-Koninkrijksrelaties (BZK), moet hier een rol als aanjager in nemen wil het DSGO
+Koninkrijksrelaties (BZK), wil hier een rol als aanjager in nemen wil het DSGO
 een kans van slagen hebben. Daarbij ligt de focus op het stimuleren van
 samenwerking binnen de sector, tussen verschillende onderdelen van de
 rijksoverheid en medeoverheden. Bovendien zal het ministerie aandacht hebben
@@ -48,7 +48,7 @@ Opdracht
 
 Geonovum is door het ministerie van Ministerie van Binnenlandse Zaken en Koninkrijksrelaties gevraagd om in samenwerking met het BIM Loket en CROW de richtinggevende principes te formuleren voor het ontwerp van een Digitaal Stelsel Gebouwde Omgeving (DSGO). 
 
-Dit adviesrapport met richtinggevende principes voor het DSGO, in aanvulling op 34 ‘use cases’, gegroepeerd in zes thema’s, geeft de uitdagingen aan op het gebied van publieke waarden en is voor het ministerie van BZK de start om het gesprek aan te gaan hoe publieke waarden en het DSGO zullen gaan samenwerken. De richtinggevende principes die bij het ontwerp en realisatie van het DSGO in acht genomen dienen te worden, borgen het publiek belang voor bijvoorbeeld publieke waarden rondom digitalisering, de fysieke leefomgeving en de economie. Maar ook robuustheid, toekomstvastheid en stapsgewijze groei van het DSGO. De richtinggevende principes van dit adviesrapport dragen bij aan sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data met als resultaat veilige, betrouwbare en gecontroleerde toegang tot data in de bouwsector: in verbinding en in samenhang.
+Dit adviesrapport met richtinggevende principes voor het DSGO, in aanvulling op 34 ‘use cases’, gegroepeerd in zes thema’s, geeft de uitdagingen aan op het gebied van publieke waarden en is voor het ministerie van BZK de start om het gesprek aan te gaan hoe publieke waarden en het DSGO zullen gaan samenwerken. De richtinggevende principes die bij het ontwerp en realisatie van het DSGO in acht genomen dienen te worden, borgen het publiek belang voor bijvoorbeeld publieke waarden rondom digitalisering, de fysieke leefomgeving en de economie, maar ook robuustheid, toekomstvastheid en stapsgewijze groei van het DSGO zijn belangrijke waarden. De richtinggevende principes van dit adviesrapport dragen bij aan sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data met als resultaat veilige, betrouwbare en gecontroleerde toegang tot data in de bouwsector: in verbinding en in samenhang.
 
 Doel en resultaat
 -----------------
@@ -64,9 +64,9 @@ adviesrapport stelt Geonovum op in samenwerking met BIM Loket en CROW.
 
 Om dit doel te bereiken duiden we ontwerpprincipes (publieke waarden) en dataprincipes en maken we onderscheid naar
 uitgangspunten, randvoorwaarden en eisen. Bij elk van de richtinggevende
-principes zorgen het publiek belang en de publieke waarden de basisprincipes
+principes zorgen het publiek belang en de publieke waarden samen met de basisprincipes
 voor sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van
-data: ze leiden tot verbinding en samenhang.
+data.
 
 Aanpak
 ------
@@ -120,4 +120,4 @@ Tijdens het schrijven heeft onder leiding van de opdrachtgever een informele con
 Afbakening
 ----------
 
-Met de richtinggevende principes in dit adviesrapport brengen we onder de aandacht waarom, hoe en wat nodig is om data te laten stromen vanuit het perspectief van het publiek belang. Voor het ministerie van BZK is dit de start om het gesprek aan te gaan hoe publieke waarden en het DSGO zullen gaan samenwerken. Dit adviesrapport is geen ontwerp, doelarchitectuur of globale architectuur schets van het Digitaal Stelsel Gebouwde Omgeving, het is geen aanzet tot het ontwikkelen of beheren van standaarden daarvoor. Voor de beheervraagstukken rondom het DSGO verwijzen we naar het programma-spoor governance& beheer van DSGO. 
+Met de richtinggevende principes in dit adviesrapport brengen we onder de aandacht waarom, hoe en wat nodig is om data te laten stromen vanuit het perspectief van het publiek belang. Voor het ministerie van BZK is dit de start van het gesprek hoe publieke waarden in het DSGO zullen worden geborgd. Dit adviesrapport is geen ontwerp, doelarchitectuur of globale architectuur schets van het Digitaal Stelsel Gebouwde Omgeving, het is geen aanzet tot het ontwikkelen of beheren van standaarden daarvoor. Voor de beheervraagstukken rondom het DSGO verwijzen we naar het programma-spoor governance& beheer van DSGO. 
