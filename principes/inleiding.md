@@ -37,7 +37,7 @@ Koninkrijksrelaties (BZK), moet hier een rol als aanjager in nemen wil het DSGO
 een kans van slagen hebben. Daarbij ligt de focus op het stimuleren van
 samenwerking binnen de sector, tussen verschillende onderdelen van de
 rijksoverheid en medeoverheden. Bovendien zal het ministerie aandacht hebben
-voor het borgen van publieke waarden in het stelsel.  Daarnaast zal de overheid,
+voor het borgen van publieke waarden in het stelsel. Daarnaast zal de overheid,
 in haar rol van opdrachtgever (o.a. Rijksvastgoedbedrijf, provincies), in haar
 rol van Bevoegd Gezag en vanuit haar verantwoordelijkheid voor verschillende
 beleidsthema’s zoals het klimaatakkoord en de basisregistraties hier zelf ook
