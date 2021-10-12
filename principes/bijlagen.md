@@ -130,6 +130,15 @@ het niet zozeer over de grootte van een dataset maar juist overover de
 vindbaarheid, toegankelijkheid, herbruikbaarheid en uitwisselbaarheid. Dat komt
 overeen met het maken van afspraken op basis van de FAIR-uitgangspunten.
 
+Ontwerpprincipes
+-----------------
+
+
+Dataprincipes
+--------------------------
+
+
+
 Gebruikte bronnen
 ------------------
 
