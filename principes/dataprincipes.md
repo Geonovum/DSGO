@@ -405,7 +405,9 @@ is, kan de knowledge graph direct benaderd worden via SPARQL.
 
 <https://geonovum.github.io/disgeo-demo/#api-versus-knowledge-graph>
 
-*Knowledge graphs*
+*Knowledge graphs –*
+
+>   Voorbeeld: IGO
 
 **I2. (Meta)data gebruiken vocabulaires die FAIR-principes volgen**
 
