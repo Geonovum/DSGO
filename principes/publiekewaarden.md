@@ -1,4 +1,4 @@
-Ontwerpprincipes: Publieke waarden
+Publieke waarden
 ================
 
 Het DSGO dient een publiek belang door data uit de gebouwde omgeving beschikbaar
