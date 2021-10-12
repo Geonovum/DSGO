@@ -198,5 +198,6 @@ Gebruikte bronnen
 
 -   Actieplan Digitaal Stelsel Gebouwde Omgeving - Afspraken over toegang tot data. Versie 1.0 mei 2021
 -   Op weg naar een health data infrastructuur en afsprakenstelsel - Adviesrapport van Nederlandse AI Coalitie, over de Health data infrastructuur en afsprakenstelsel in Nederland. Versie 1.0 juli 2020
+-   Opwaarderen - Borgen van publieke waarden in de digitale samenleving, Rathenau instituut 2017
 
 
