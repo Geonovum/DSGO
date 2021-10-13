@@ -1,11 +1,15 @@
-Samenvatting
+Conclusies en vervolg
 ============
 
 Het publiek belang en de publieke waarden zijn de basisprincipes voor
 sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data. Samen met de dataprincipes, resulteert dit in de volgende uitgangspunten, randvoorwaarden en eisen, zoals in voorgaande hoofdstukken beschreven.
 
-Uitgangspunten
+Conclusies
 --------------
+
+
+
+### Uitgangspunten
 
 -   Afsprakenstelsel DSGO: Samen met de sector co-creëren van een samenhangende set afspraken op business, functioneel, operationeel, juridisch en technisch gebied, om gemakkelijker gebruik te kunnen maken van elkaars data.
 
@@ -28,8 +32,7 @@ Uitgangspunt voor data-aanbieders zou eveneens moeten zijn dat de datasets zelf 
 Zo maken we mogelijk dat systemen direct op DSGO aansluiten.
 Ook voor data zelf geldt dat het schema ervan beschreven en vrij beschikbaar is. 
 
-Randvoorwaarden
----------------
+### Randvoorwaarden
 
 -   Mapping-table à la CB-NL om semantisch te linken voor gebruikers.
 
@@ -38,8 +41,7 @@ Randvoorwaarden
 -   Aangeboden datasets worden aangeleverd met een juiste, volledige en uitgebreide metadatabeschrijving.
 Die aanlevering en de toegang tot de dataset zijn via API-service geregeld. (Of is dit een eis?)
 
-Eisen
------
+### Eisen
 
 -   Afspraken over/voor Standaarden zijn slechts nodig op het grensvlak ten
     behoeve van uitwisselbaarheid en koppelbaarheid en hergebruik van data uit
@@ -72,3 +74,6 @@ Eisen
     en zorgt voor aanpassing van de geobasisregistraties, op basis van de
     informatie uit het digitaal bouwwerkdossier. Daarbij gebruiken alle partijen
     de voorzieningen van de Geobasisregistraties.
+    
+    Vervolg
+    ----------
