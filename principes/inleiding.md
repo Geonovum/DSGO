@@ -11,7 +11,7 @@ en de toeleverende industrie en kennisinstellingen afgesproken dat zij samen
 inzetten op: deelbare, herbruikbare en toegankelijke informatie, nieuwe functies
 en geavanceerde werkwijzen en innovatie voor de gebouwde omgeving.
 
-Om waardevolle toepassingen van data mogelijk te maken, moet data beter
+Om waardevolle toepassingen van [data](#data-datasets-en-metadata) mogelijk te maken, moet data beter
 beschikbaar en toegankelijk worden gemaakt zodat data kan gaan stromen. Er is behoefte aan een
 afsprakenstelsel dat zorgt voor veilige, betrouwbare en gecontroleerde toegang
 tot data in de bouwsector, zodat alle ketenpartners die actief zijn in de
