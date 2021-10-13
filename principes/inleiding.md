@@ -59,7 +59,7 @@ principes dragen bij aan sector brede afspraken over uitwisseling, eigenaarschap
 en organisatie van data met als resultaat veilige, betrouwbare en gecontroleerde
 toegang tot data in de bouwsector, zodat alle ketenpartners die actief zijn in
 de verschillende fases van de levenscyclus van een bouwwerk met deze afspraken
-makkelijk en veilig gebruik van reeds beschikbare data kunnen maken. Het
+makkelijk en veilig gebruik van reeds beschikbare data kunnen maken. Dit draagt vervolgens bij aan het realiseren van belangrijke maatschappelijke doelen als de energietransitie, circulair bouwen en stikstofreductie. Het DSGO draagt bij aan het beschikbaar stellen van de benodigde informatie om investeringen te doen en besluiten te nemen voor deze transities in de gebouwde omgeving. Het
 adviesrapport stelt Geonovum op in samenwerking met BIM Loket en CROW.
 
 Om dit doel te bereiken duiden we ontwerpprincipes (publieke waarden) en dataprincipes en maken we onderscheid naar
