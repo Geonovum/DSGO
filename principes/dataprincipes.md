@@ -25,7 +25,7 @@ beschreven aan de hand van de FAIR-principes: *Findable* (vindbaar),
 (herbruikbaar).
 
 We hanteren de term *(meta)data(sets)* omdat de dataprincipes van toepassing
-kunnen zijn op data, metadata, een dataset, en/of metadataset.
+kunnen zijn op [data, metadata, een dataset, en/of metadataset](#data-datasets-en-metadata).
 
 De FAIR principes zijn nader onderverdeeld in subprincipes; deze zijn geletterd
 en genummerd, aan de hand waarvan ze worden beschreven in de volgende
@@ -56,8 +56,7 @@ aanduiding, ofwel identificatie, van data of een dataset *uniek* en *persistent*
 (blijvend) is.
 
 Zodoende zijn datasets of informatie over datasets door de tijd heen vindbaar en
-*citeerbaar* , ongeacht de status, beschikbaarheid of het formaat van de data.
-(zie <https://www.w3.org/TR/dwbp/#UniqueIdentifiers>)
+*citeerbaar* , ongeacht de status, beschikbaarheid of het [formaat van de data](https://www.w3.org/TR/dwbp/#UniqueIdentifiers).
 
 In Nederland (en internationaal) wordt gewerkt aan het [Unieke Object
 Identificator
@@ -67,8 +66,7 @@ omgeving die in verschillende databases zijn opgeslagen. Het UOI dient als een
 digitale sleutel waarmee je op basis van je rol en toegangsrechten informatie
 over gebouwen en objecten in de gebouwde omgeving kunt raadplegen. Daarmee kan
 specifieke informatie over een gebouw, verdieping, kamer of raamkozijn worden
-geraadpleegd op basis van rollen en toegangsrechten
-(https://fibree.org/uoi-nl/).
+geraadpleegd op basis van [rollen en toegangsrechten](https://fibree.org/uoi-nl/).
 
 Het ‘systeem’ als gedachte is ontwikkeld binnen de bouw- en vastgoedsector. De
 gedachte achter een UOI-code is dat er domein-overstijgend verbindingen mee
@@ -180,9 +178,9 @@ het Nationaal Geo Register.
 >   Data.overheid.nl, echter toegespitst op datasets welke een toepassing hebben
 >   op de fysieke leef- cq. gebouwde omgeving.
 
+**Figuur: data.overheid.nl**
 ![](media/1baad1a873819844057d99d93f018065.png)
 
-Figuur data.overheid.nl
 
 >   **Voorbeeld:** Het [Nationaal Geo Register
 >   (NGR)](https://nationaalgeoregister.nl/) bevat metadata van geo-datasets
@@ -200,9 +198,10 @@ Figuur data.overheid.nl
 >   dataset, de beschikbare formaten en coördinaatreferentiesystemen en gegevens
 >   over de kwaliteit (o.m actualiteit).
 
+
+**Figuur: Het Nationaal Geo Register (NGR)**
 ![](media/36416e98132988ee2c688ba67671ba60.png)
 
-Figuur Nationaal Geo Register (NGR)
 
 We zien voor ons dat één van de functies van het DSGO deze catalogus-functie is.
 Deze catalogus-functie is een belangrijk voor de goede vindbaarheid van
@@ -456,9 +455,9 @@ van elke leverancier van een dataset kan worden verwacht dat die alle mogelijke
 koppelingen maakt.
 
 Daarom is in het DSGO de **metadataredacteur** verantwoordelijk voor aanmaken
-metadata van een dataset (o.b.v. aangeleverde metagegevens), en voert
+metadata van een dataset (op basis van aangeleverde metagegevens), en voert
 wijzigingen door in de metadata. De metadata voldoet aan de gestelde
-kwaliteitseisen (o.m. actueel, juist en volledig).
+kwaliteitseisen (onder meer actueel, juist en volledig).
 
 >   Eis: De eigenaar van de (meta)data(set) is zelf verantwoordelijk voor een
 >   goede kwaliteit van de (meta)data(set).
