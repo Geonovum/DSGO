@@ -86,11 +86,11 @@ ontwerpprincipes, om concreet te maken wat deze voor een use case betekenen. De
 keuzes die hieruit volgen worden vastgesteld en ingericht, bijgesteld en zo
 lerend ontwikkeld, zodat anderen daarop kunnen voortbouwen.
 
-### open en transparante uitkomsten
+### Open en transparante uitkomsten
 
 Data, algoritmen en technologie zijn navolgbaar, herleidbaar en begrijpelijk.
 Binnen de usecases worden data en datasets gevormd, gebruikt, bewerkt,
-doorgegeven. Data(sets) die uitgewisseld worden, daarvan is duidelijk hoe deze
+doorgegeven. [Data(sets)](#data-datasets-en-metadata) die uitgewisseld worden, daarvan is duidelijk hoe deze
 in de opeenvolgende processtappen zijn ontstaan zodat de oorsprong herleidbaar
 is.
 
