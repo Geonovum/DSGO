@@ -23,7 +23,7 @@ publieke en private organisaties naar data-uitwisseling die zijn samengevat in
 34 use cases, gegroepeerd in zes thema’s. Het DSGO regisseert samenhang door te
 komen tot een set van afspraken over het uitwisselen van data tussen
 organisaties. Het DSGO helpt digitalisering in de bouw- en installatie sector,
-en maakt onder andere stikstofreductie daarmee mogelijk.
+en draagt daarmee bij aan diverse maatschappelijke opgaven.
 
 Veel partijen uit de samenleving dragen bij om tot het gewenste resultaat te
 komen en wisselen daartoe data uit met elkaar. Datasets over een gebouw dienen een groot aantal partijen uit de samenleving. Daarmee dient deze data zowel een privé belang (bijvoorbeeld de data over het energiegebruik binnen een gebouw) als ook een publiek belang (bijvoorbeeld het
