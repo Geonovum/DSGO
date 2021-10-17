@@ -123,7 +123,7 @@ van de identificatie van de data(set) in de metadata(set).
 >   **Eis:** Bij de metadata(set) wordt de unieke identificatie (UOI) van de
 >   betreffende data(set) opgenomen.[^2]
 
-[^2]: D*e informatiekundige relatie is dus ‘Metadata(set) beschrijft 0..\*
+[^2]: *De informatiekundige relatie is dus ‘Metadata(set) beschrijft 0..\*
 data(set)’ en niet ‘Data(set) wordt beschreven in 0..\* Metadata(sets)’*
 
 **F4. (Meta)data worden geregistreerd of geïndexeerd in een doorzoekbare bron**
@@ -480,6 +480,9 @@ daarbij aan de basisregistraties en landelijke voorzieningen.
 
 **R1. (Meta)data zijn rijkelijk beschreven met groot aantal nauwkeurige en
 relevante attributen**
+
+Het platform heeft voor datasets een vast aantal attributen beschreven.
+Ook stelt de metadataredacteur gebruikelijke attributen vast, voor een bepaalde dataset. 
 
 **R2. (Meta)data worden vrijgegeven met een duidelijke en toegankelijke
 datagebruikslicentie**
