@@ -76,4 +76,5 @@ Die aanlevering en de toegang tot de dataset zijn via API-service geregeld. (Of 
     de voorzieningen van de Geobasisregistraties.
     
     Vervolg
-    ----------
+    -------
+    *nog in te vullen* 
