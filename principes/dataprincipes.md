@@ -341,7 +341,7 @@ gegevens.
 >   bedrijven, zodat bedrijven namens clienten aanvragen kunnen indienen bij de
 >   overheid met een hoog veiligheidsniveau.
 
->   Voorbeeld: Op basis van de [open standaard voor autorisatie (OAuth)](https://www.forumstandaardisatie.nl/open-standaarden/oauth) kunnen gebruikers of organisaties een programma of website toegang geven tot specifieke (privé)gegevens, die opgeslagen zijn op een ander systeem, zonder hun gebruikersnaam en wachtwoord uit handen te geven. 
+>   **Voorbeeld:** Op basis van de [open standaard voor autorisatie (OAuth)](https://www.forumstandaardisatie.nl/open-standaarden/oauth) kunnen gebruikers of organisaties een programma of website toegang geven tot specifieke (privé)gegevens, die opgeslagen zijn op een ander systeem, zonder hun gebruikersnaam en wachtwoord uit handen te geven. 
 
 
 **A2. Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn**
@@ -398,10 +398,10 @@ is, kan de knowledge graph direct benaderd worden via SPARQL.
 
 **I2. (Meta)data gebruiken vocabulaires die FAIR-principes volgen**
 
-*Bovendien gaat het in deze hele beweging niet alleen om laagdrempelige toegang
+Bovendien gaat het in deze hele beweging niet alleen om laagdrempelige toegang
 tot individuele databronnen, maar steeds vaker ook om het kunnen combineren van
 data uit verschillende bronnen. Hiermee neemt het belang van zowel semantische
-als technische interoperabiliteit steeds verder toe.*
+als technische interoperabiliteit steeds verder toe.
 
 Door expliciet te zijn over de gebruikte vocabulaires in metadata en
 gegevenssets, maken we het makkelijker aan te sluiten op DSGO. Een systeem dat
@@ -540,7 +540,7 @@ Standaarden zijn de afsprakenstelsels van domeinen die specificaties en eisen
 aan de (meta)data beschrijven. De standaarden voor (meta)data(sets) in het DSGO
 worden in de domeinen beheerd en doorontwikkeld.
 
->   **Voorbeeld geostandaarden:** In de [Beleidsvisie Samenhangende
+>   **Voorbeeld geo-standaarden:** In de [Beleidsvisie Samenhangende
 >   Objectenregistratie](https://www.geobasisregistraties.nl/documenten/beleidsnota/2019/11/29/beleidsvisie-samenhangende-objectenregistratie)
 >   van het ministerie van BZK is het uitgangspunt dat de modellering van
 >   (meta)data(sets) voor geo-informatie zal plaatsvinden conform afspraken
