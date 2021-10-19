@@ -6,7 +6,7 @@ te stellen voor alle belanghebbenden bij de data. Om het publieke belang te
 waarborgen worden 8 ontwerpprincipes gehanteerd voor het ontwerpproces van het
 DSGO. Deze 8 ontwerpprincipes zijn in dit hoofdstuk vertaalt in uitgangspunten,
 randvoorwaarden en eisen. Ze geven richting aan het proces om te komen tot
-sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data.
+sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data.
 
 Het DSGO ontwerpen op basis van publieke waarden die de samenleving reflecteren
 -------------------------------------------------------------------------------
@@ -149,7 +149,7 @@ Doelgerichtheid ziet toe op het doeltreffend en toepasbaar ontwerpen van het
 DSGO. Voor elke usecase worden data, algoritmen, voorzieningen en technologie
 doelgericht ingezet. De data die wordt vastgelegd en doorgegeven is nodig voor
 het doel en wordt daarom gericht vastgelegd en bewust gebruikt door een andere
-belanghebbende. Dit geldt extra voor privacy-gevoelige informatie.
+belanghebbende. Dit geldt extra voor privacy gevoelige informatie.
 
 In het kader van de energietransitie stimuleren is gebruik van gebruiksdata over
 energie mogelijk terug te voeren op het gedrag van de bewoner/ huurder en
