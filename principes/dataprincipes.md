@@ -393,20 +393,22 @@ wordt verkeerde data overgenomen.
 **I1. (Meta)data gebruiken een formele, toegankelijke, gedeelde en breed
 toepasbare taal voor kennisrepresentatie.**
 
-Samenhang in stelsel krijgen door
+Datasets worden in standaarden aangeboden die door [Forum Standaardisatie][forum] worden aanbevolen. 
+Zo waarborgen we de langdurige verwerkbaarheid van de gegevens.
 
-Beter zou het zijn om een infrastructuur te hebben van een of meerdere
-“knowledge graphs” waarin de data in samenhang beschikbaar en bevraagbaar is.
-Een knowledge graph is een kennispresentatie De samenhang is dan geregeld in de
-datalaag. APIs kunnen daarbovenop fungeren als eenvoudige toegang tot de data.
+Ook de metadata die het DSGO-platform zelf beheert, wordt volgens API’s en datastandaarden aangeboden.
+
+Voor grotere samenhang tussen de gegevensbronnen, heeft een [„knowledge graph”][kg]-opzet duidelijke voordelen.
+Zo'n kennisnetwerk combineert verschillende databronnen automatisch op basis van de toegang, die vervolgens in samenhang te bevragen zijn.
+API’s kunnen daarbovenop fungeren als eenvoudige toegang tot de data.
 Voor de geavanceerdere toepassingen en vragen waarbij de samenhang essentieel
 is, kan de knowledge graph direct benaderd worden via SPARQL.
 
-<https://geonovum.github.io/disgeo-demo/#api-versus-knowledge-graph>
+[kg]: https://geonovum.github.io/disgeo-demo/#api-versus-knowledge-graph
 
-*Knowledge graphs –*
-
->   Voorbeeld: IGO
+>   Voorbeeld: Integrale gebruiksoplossing (IGO)
+>
+>
 
 **I2. (Meta)data gebruiken vocabulaires die FAIR-principes volgen**
 
@@ -482,7 +484,18 @@ daarbij aan de basisregistraties en landelijke voorzieningen.
 relevante attributen**
 
 Het platform heeft voor datasets een vast aantal attributen beschreven.
-Ook stelt de metadataredacteur gebruikelijke attributen vast, voor een bepaalde dataset. 
+Ook stelt de metadataredacteur gebruikelijke attributen vast, voor bepaalde types datasets.
+
+De metadata dienen zich aan een nader te bepalen mate van nauwkeurigheid te houden.  
+Zo blijft de DSGO een betrouwbare bron van gegevens.
+Onjuistheden kunnen op meerdere wijzes bij DSGO aangegeven worden. 
+DSGO draagt zorg dat onjuistheden en onvolkomenheden van de data worden doorgegeven aan de aanbieders van data.
+
+> Voorbeeld: Het nationaal georegister informeert gebruikers over de contouren van de gegevens in een dataset.
+> Zo is de ruimtelijke dekking van een dataset in één oogopslag te zien.
+> 
+> Voor DSGO is voor te stellen dat de beschreven UOI's getoond worden; of de ruimtelijke resolutie van de dataset.
+
 
 **R2. (Meta)data worden vrijgegeven met een duidelijke en toegankelijke
 datagebruikslicentie**
@@ -497,11 +510,13 @@ beschikbaar stellen. In de bouwwereld wordt veel geïnvesteerd in
 objectenbibliotheek waar ontwikkelende marktpartijen het exclusieve
 gebruiksrecht op willen behouden.
 
+Het heeft de voorkeur dat metadata en ontologieën met een vrije licentie beschikbaar worden gesteld.
+
 >   Bijvoorbeeld Gebruikslicenties open data van de overheid. Open data is
 >   herkenbaar aan de publiek domein licentie, de creative commons zero (CC0) of
 >   creative commons - naamsvermelding verplicht (CC-BY) licentie.
-
->   <https://creativecommons.nl/publiek-domein/>
+> 
+>   https://creativecommons.nl/publiek-domein/
 
 **R3. (Meta)data worden geassocieerd met hun herkomst**
 
@@ -513,13 +528,17 @@ Zo houden we duidelijk waar gegevens vandaan komen en wie ervoor
 verantwoordelijk is. Dat betekent ook dat de metadata zowel van de
 datasetleverancier is, als van de metadataredacteur.
 
+> Voorbeeld: De landelijke dataset BGT wordt gepubliceerd door het Kadaster.
+> Er geldt ook een terugmeldingsplicht voor bepaalde gebruikers.
+> Een gebruiker constateert dat in de BGT-dataset een bepaald object niet is opgenomen.
+> Dankzij de heldere herkomstinformatie in DSGO komt zo'n melding bij het Kadaster.
+
 **R4. (Meta)data voldoen aan domein-relevante Standaarden**
 
 In het DSGO worden voor de beschrijving van de datasets (metadata) en de data
 van datasets zelf open standaarden gebruikt.
 
-In Nederland zet het [Forum
-Standaardisatie](https://forumstandaardisatie.nl/over-ons) zich in voor open
+In Nederland zet het [Forum Standaardisatie][forum] zich in voor open
 ICT-standaarden. Standaarden ondersteunen gegevensuitwisseling tussen
 ICT-systemen. De openheid zorgt ervoor dat iedereen de standaard kan gebruiken.
 [Open
@@ -546,3 +565,5 @@ worden in de domeinen beheerd en doorontwikkeld.
 >   (meta)data(sets), worden ook afgestemd met andere relevante nationale
 >   standaarden (zoals de in ontwikkeling zijnde standaard NEN-2660, en de
 >   doorontwikkeling van NEN-3610) en Europese standaarden.
+
+[forum]: https://forumstandaardisatie.nl/over-ons
