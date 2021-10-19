@@ -65,7 +65,7 @@ adviesrapport stelt Geonovum op in samenwerking met BIM Loket en CROW.
 Om dit doel te bereiken duiden we ontwerpprincipes (publieke waarden) en dataprincipes en maken we onderscheid naar
 uitgangspunten, randvoorwaarden en eisen. Bij elk van de richtinggevende
 principes zorgen het publiek belang en de publieke waarden samen met de basisprincipes
-voor sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van
+voor sector brede afspraken over uitwisseling, eigenaarschap en organisatie van
 data.
 
 Aanpak
