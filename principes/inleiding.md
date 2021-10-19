@@ -29,14 +29,14 @@ gegroepeerd in zes thema’s. Stikstofreductie is daar onderdeel van, naast ande
 thema’s als duurzaamheid en circulariteit. Het DSGO regisseert samenhang door te
 komen tot een set van afspraken over het uitwisselen van data tussen
 organisaties, om data voor de keten toegankelijk te maken én te zorgen voor de
-adoptie van deze afspraken. Het DSGO helpt digitalisering in de bouw- en
+adoptie van deze afspraken. Het DSGO helpt digitalisering van de gebouwde omgeving, in de bouw- en
 installatie sector, en draagt daarmee bij aan stikstofreductie.
 
 De overheid, in de rol van het ministerie van Binnenlandse Zaken en
-Koninkrijksrelaties (BZK), wil hier een rol als aanjager in nemen wil het DSGO
+Koninkrijksrelaties (BZK), wil hier een rol als aanjager in nemen, wil het DSGO
 een kans van slagen hebben. Daarbij ligt de focus op het stimuleren van
 samenwerking binnen de sector, tussen verschillende onderdelen van de
-rijksoverheid en medeoverheden. Bovendien zal het ministerie aandacht hebben
+rijksoverheid en medeoverheden. Publiek en privaat werken in de fysieke leefomgeving en in de digitale omgeving samen. Bovendien zal het ministerie aandacht hebben
 voor het borgen van publieke waarden in het stelsel. Daarnaast zal de overheid,
 in haar rol van opdrachtgever (o.a. Rijksvastgoedbedrijf, provincies), in haar
 rol van Bevoegd Gezag en vanuit haar verantwoordelijkheid voor verschillende
