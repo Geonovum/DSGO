@@ -33,8 +33,6 @@ paragrafen.
 
 ### Vindbaar
 
-**Samenvatting**
-
 De eerste stap bij het (her)gebruiken van data is om de data te vinden. Metadata
 en data moeten gemakkelijk te vinden zijn voor zowel mensen als computers.
 Machineleesbare metadata zijn essentieel voor het ontdekken van datasets en
@@ -170,12 +168,9 @@ geregistreerd of geïndexeerd, en welke mensen en systemen kunnen doorzoeken.
 Deze doorzoekbare bron fungeert als een soort van catalogus van (meta)data(sets)
 die in andere systemen zijn opgeslagen.
 
-Voorbeelden van reeds bestaande doorzoekbare bronnen zijn data.overheid.nl en
-het Nationaal Geo Register.
 
->   **Voorbeeld:** Op data.overheid.nl de catalogusfunctie van DSGO lijkt
->   daarmee op het open dataregister van de Nederlandse overheid, ofwel
->   Data.overheid.nl, echter toegespitst op datasets welke een toepassing hebben
+>   **Voorbeeld:** Het [Dataregister van de Nederlandse Overheid](https://data.overheid.nl/) ondersteunt het zoeken van datasets op diverse thema'.s 
+>   De catalogusfunctie van het DSGO lijkt hierop echter toegespitst op datasets welke een toepassing hebben
 >   op de fysieke leef- cq. gebouwde omgeving.
 
 **Figuur: data.overheid.nl**
@@ -228,7 +223,7 @@ en gebruik van de gegevens.
 **A1. (Meta)gegevens kunnen worden opgehaald door hun identifier met behulp van
 een gestandaardiseerd communicatieprotocol**
 
-In principe F1 hebben we beschreven dat elke (meta)data(set) een unieke en
+In [principe F1](https://geonovum.github.io/DSGO/principes/#vindbaar) hebben we beschreven dat elke (meta)data(set) een unieke en
 persistente identifier krijgt. Met deze identifier is elke (meta)data(set) uniek
 aan te duiden en te vinden. Om de gegevens vervolgens op te halen zijn
 technische en organisatorische afspraken nodig.
@@ -274,7 +269,7 @@ machine-leesbare generieke *wrapper* verpakt.
 >   worden uitgewisseld. Dit vraagt om een standaard uitwisselingsformaat of
 >   Generieke Download Service, Mutatie API of*
 
->   Voorbeeld: [Linked Data](#koppelen-van-heterogene-datasets-met-linked-data).
+>   **Voorbeeld:** [Linked Data](#koppelen-van-heterogene-datasets-met-linked-data).
 >   De overheid beschikt over veel verschillende datasets met gegevens die wel
 >   een relatie hebben, maar nu niet aan elkaar zijn gelinkt. Door bijvoorbeeld
 >   beleidsstukken, voorlichting, jurisprudentie en uitvoeringsaanwijzingen te
@@ -309,7 +304,7 @@ toegangscodes. Het verdient wel de voorkeur om van standaarden gebruik te maken,
 en wanneer die niet voorhanden zijn, een eigen API te beschrijven met een [Open
 API-specificatie](https://spec.openapis.org/oas/v3.1.0).
 
->   **Eis:** xx.
+>   **Eis:** De toegang tot het DSGO wordt geboden middels een open, gratis en universeel toepasbaar protocol. 
 
 >   **Voorbeeld:** [iSHARE](https://www.ishareworks.org/ishare) is een
 >   afsprakenstelsel of een set van afspraken waarmee partijen elkaar toegang
@@ -332,17 +327,17 @@ gegevens vastgesteld. In de *autorisatie*procedure wordt bepaald of de
 leverancier of afnemer recht heeft tot het wijzigen of gebruiken van de
 gegevens.
 
->   Uitgangspunt: In het DSGO verloopt de authenticatie van natuurlijke personen en
+>   **Uitgangspunt:** In het DSGO verloopt de authenticatie van natuurlijke personen en
 >   (overheids)organisaties met een publieke taak zich middels DigiD, van
 >   bedrijven middels eHerkenning.
 
->   Voorbeeld: [DigiD](https://www.logius.nl/diensten/digid) is een veilig en
+>   **Voorbeeld:** [DigiD](https://www.logius.nl/diensten/digid) is een veilig en
 >   betrouwbaar middel waarmee gebruikers zich digital kunnen identificeren.
 >   DigiD is voor overheidsorganisaties en organisaties met een publieke taak
 >   zoals ministeries, lokale overheden, organisaties in de zorg, onderwijs,
 >   pensioen en waterschappen.
 
->   Voorbeeld: [e-Herkenning](https://eherkenning.nl/) is de DigiD voor
+>   **Voorbeeld:** [e-Herkenning](https://eherkenning.nl/) is de DigiD voor
 >   bedrijven, zodat bedrijven namens clienten aanvragen kunnen indienen bij de
 >   overheid met een hoog veiligheidsniveau.
 
@@ -386,22 +381,20 @@ wordt verkeerde data overgenomen.
 **I1. (Meta)data gebruiken een formele, toegankelijke, gedeelde en breed
 toepasbare taal voor kennisrepresentatie.**
 
-Datasets worden in standaarden aangeboden die door [Forum Standaardisatie][forum] worden aanbevolen. 
+Datasets worden in standaarden aangeboden die door [Forum Standaardisatie](https://forumstandaardisatie.nl/open-standaarden) worden aanbevolen. 
 Zo waarborgen we de langdurige verwerkbaarheid van de gegevens.
 
 Ook de metadata die het DSGO-platform zelf beheert, wordt volgens API’s en datastandaarden aangeboden.
 
-Voor grotere samenhang tussen de gegevensbronnen, heeft een [„knowledge graph”][kg]-opzet duidelijke voordelen.
-Zo'n kennisnetwerk combineert verschillende databronnen automatisch op basis van de toegang, die vervolgens in samenhang te bevragen zijn.
+Voor grotere samenhang tussen de gegevensbronnen, heeft een [„knowledge graph”](https://geonovum.github.io/disgeo-demo/#api-versus-knowledge-graph)-opzet duidelijke voordelen. Zo'n kennisnetwerk combineert verschillende databronnen automatisch op basis van de toegang, die vervolgens in samenhang te bevragen zijn.
 API’s kunnen daarbovenop fungeren als eenvoudige toegang tot de data.
 Voor de geavanceerdere toepassingen en vragen waarbij de samenhang essentieel
 is, kan de knowledge graph direct benaderd worden via SPARQL.
 
-[kg]: https://geonovum.github.io/disgeo-demo/#api-versus-knowledge-graph
-
->   Voorbeeld: Integrale gebruiksoplossing (IGO)
->
->
+>   **Voorbeeld:** De [integrale gebruiksoplossing (IGO) van het Kadaster](https://labs.kadaster.nl/cases/integralegebruiksoplossing)
+>   maakt het mogelijk om geo-data uit verschillende geo-basisregistraties gecombineerd te bevragen en is ontworpen voor algemene gebruikers, 
+>   geo-professionals en ontwikkelaars. Middels een Knowledge Graph wordt data ontsloten uit de BAG, BGT, BRT, Kadastrale Percelen (DKK), 
+>   WKPB, CBS wijken en buurten en daarnaast kunnen eigen databestanden worden toegevoegd. 
 
 **I2. (Meta)data gebruiken vocabulaires die FAIR-principes volgen**
 
@@ -431,7 +424,7 @@ genoemd. Niet alle schema’s (vocabulaires, ontologiën, OTL’s,
 informatiemodellen) zijn als vijf-ster FAIR te kwalificeren. Toch dienen ze ten
 minste publiekelijk te raadplegen te zijn.
 
->   Bijvoorbeeld [CB-NL](https://public.cbnl.org/over-cb-nl): Verschillende
+>   **Voorbeeld [CB-NL](https://public.cbnl.org/over-cb-nl):** Verschillende
 >   definiëring, beschrijvingen en interpretaties door betrokken partijen leiden
 >   ertoe dat bouwpartijen in de sector een verschillende taal ‘spreken’.
 >   Hierdoor zijn objectgegevens niet efficiënt (geautomatiseerd) herbruikbaar.
@@ -454,10 +447,10 @@ metadata van een dataset (op basis van aangeleverde metagegevens), en voert
 wijzigingen door in de metadata. De metadata voldoet aan de gestelde
 kwaliteitseisen (onder meer actueel, juist en volledig).
 
->   Eis: De eigenaar van de (meta)data(set) is zelf verantwoordelijk voor een
+>   **Eis:** De eigenaar van de (meta)data(set) is zelf verantwoordelijk voor een
 >   goede kwaliteit van de (meta)data(set).
 
->   Voorbeeld: De Basisregistratie Adressen en Gebouwen (BAG) is de authentieke
+>   **Voorbeeld:** De [Basisregistratie Adressen en Gebouwen (BAG)](https://www.geobasisregistraties.nl/basisregistraties/adressen-en-gebouwen) is de authentieke
 >   bron voor officiële adressen en bouwjaren van panden. De ‘eigenaar’ van de
 >   BAG draagt gegevens aan over de dataset BAG aan het DSGO onder meer over de
 >   herkomst, kwaliteit (bijvoorbeeld actualiteit 4 dagen, geometrische
@@ -484,7 +477,7 @@ Zo blijft de DSGO een betrouwbare bron van gegevens.
 Onjuistheden kunnen op meerdere wijzes bij DSGO aangegeven worden. 
 DSGO draagt zorg dat onjuistheden en onvolkomenheden van de data worden doorgegeven aan de aanbieders van data.
 
-> Voorbeeld: Het nationaal georegister informeert gebruikers over de contouren van de gegevens in een dataset.
+> **Voorbeeld:** Het nationaal georegister informeert gebruikers over de contouren van de gegevens in een dataset.
 > Zo is de ruimtelijke dekking van een dataset in één oogopslag te zien.
 > Ook zijn contactgegevens van de leverancier opgenomen en worden datasets verbonden door middel van categorieën.
 > 
@@ -506,12 +499,10 @@ gebruiksrecht op willen behouden.
 
 Het heeft de voorkeur dat metadata en ontologieën met een vrije licentie beschikbaar worden gesteld.
 
->   Bijvoorbeeld Gebruikslicenties open data van de overheid. Open data is
->   herkenbaar aan de publiek domein licentie, de creative commons zero (CC0) of
+>   **Voorbeeld:** [Gebruikslicenties open data van de overheid](https://creativecommons.nl/publiek-domein/).
+>   Open data is herkenbaar aan de publiek domein licentie, de creative commons zero (CC0) of
 >   creative commons - naamsvermelding verplicht (CC-BY) licentie.
-> 
->   https://creativecommons.nl/publiek-domein/
-
+   
 **R3. (Meta)data worden geassocieerd met hun herkomst**
 
 Van elke dataset is bekend wie de leverancier is. Elke dataset houdt voor zich
@@ -522,7 +513,7 @@ Zo houden we duidelijk waar gegevens vandaan komen en wie ervoor
 verantwoordelijk is. Dat betekent ook dat de metadata zowel van de
 datasetleverancier is, als van de metadataredacteur.
 
-> Voorbeeld: De landelijke dataset BGT wordt gepubliceerd door het Kadaster.
+> **Voorbeeld:** De landelijke dataset BGT wordt gepubliceerd door het Kadaster.
 > Er geldt ook een terugmeldingsplicht voor bepaalde gebruikers.
 > Een gebruiker constateert dat in de BGT-dataset een bepaald object niet is opgenomen.
 > Dankzij de heldere herkomstinformatie in DSGO komt zo'n melding bij het Kadaster.
@@ -549,7 +540,7 @@ Standaarden zijn de afsprakenstelsels van domeinen die specificaties en eisen
 aan de (meta)data beschrijven. De standaarden voor (meta)data(sets) in het DSGO
 worden in de domeinen beheerd en doorontwikkeld.
 
->   Bijvoorbeeld geostandaarden: In de [Beleidsvisie Samenhangende
+>   **Voorbeeld geostandaarden:** In de [Beleidsvisie Samenhangende
 >   Objectenregistratie](https://www.geobasisregistraties.nl/documenten/beleidsnota/2019/11/29/beleidsvisie-samenhangende-objectenregistratie)
 >   van het ministerie van BZK is het uitgangspunt dat de modellering van
 >   (meta)data(sets) voor geo-informatie zal plaatsvinden conform afspraken
@@ -560,4 +551,3 @@ worden in de domeinen beheerd en doorontwikkeld.
 >   standaarden (zoals de in ontwikkeling zijnde standaard NEN-2660, en de
 >   doorontwikkeling van NEN-3610) en Europese standaarden.
 
-[forum]: https://forumstandaardisatie.nl/over-ons
