@@ -49,7 +49,7 @@ Die aanlevering en de toegang tot de dataset zijn via API-service geregeld. (Of 
     identificering van gegevens, historie en levensduur, uitwisselprotocol
     (techniek), metadata-standaarden.
 
--   API op (meta)data(set) services
+-   API op (meta)data(set) services en directe toegang tot de Linked Data waar mogelijk.
 
 -   Gebruik van open standaarden en richtlijnen in de sector die er al zijn,
     benutting van wat er al is inclusief bijbehorende kennis en expertise. Het

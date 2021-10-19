@@ -493,6 +493,7 @@ DSGO draagt zorg dat onjuistheden en onvolkomenheden van de data worden doorgege
 
 > Voorbeeld: Het nationaal georegister informeert gebruikers over de contouren van de gegevens in een dataset.
 > Zo is de ruimtelijke dekking van een dataset in één oogopslag te zien.
+> Ook zijn contactgegevens van de leverancier opgenomen en worden datasets verbonden door middel van categorieën.
 > 
 > Voor DSGO is voor te stellen dat de beschreven UOI's getoond worden; of de ruimtelijke resolutie van de dataset.
 
