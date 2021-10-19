@@ -269,7 +269,7 @@ machine-leesbare generieke *wrapper* verpakt.
 >   uitwisseling van (meta)data(sets) op de koppelvlakken, ofwel op de
 >   interfaces tussen de systemen, om de data te laten stromen.
 
->   **TODO: Voorbeeld:** *Een voorbeeld is de generieke API-service van het
+>   **Voorbeeld:** *Een voorbeeld is de generieke API-service van het
 >   Kadaster voor het geautomatiseerd downloaden / actualiseren van data uit de
 >   geobasisregistraties. Ofwel er is een communicatieprotocol à la API-Kadaster
 >   nodig waarin heterogene inhoud met een standaard communicatiewrapper kan
@@ -294,19 +294,11 @@ Iedereen die toe wil treden tot DSGO, moet kunnen toe treden tot het stelsel. Om
 dat te bereiken is het belangrijk dat toegang tot het stelsel wordt geboden
 middels een open, gratis en universeel toepasbaar protocol.
 
-Voorbeeld: Het [HyperText Transfer Protocol
-(HTTP)](http://www.wikidata.org/entity/Q8777) is een open communicatieprotocol
-voor gedistribueerde collaboratieve, hypermedia informatiesystemen. Andere open
-protocollen zijn bijvoorbeeld [File Tranfer
-Protocol](https://www.w3.org/Protocols/rfc959/) (FTP), [Simple Mail Transfer
-Protocol (SMTP](http://www.wikidata.org/entity/Q160453)), en Simple Object
-Access Protocol (SOAP). Een Teams-kanaal
-
-van een open protocollen zijn open standaarden en open formaten. Het protocol
-betekent in dezen bijv. [HTTP](http://www.wikidata.org/entity/Q8777),
-[FTP](https://www.w3.org/Protocols/rfc959/),
-[SMTP](http://www.wikidata.org/entity/Q160453) en sluit daarmee bijv.
-Teamskanalen uit. Meestal worden API’s over HTTP aangeboden.
+>   **Voorbeeld:** Het [HyperText Transfer Protocol (HTTP)](http://www.wikidata.org/entity/Q8777) is een open communicatieprotocol
+>   voor gedistribueerde collaboratieve, hypermedia informatiesystemen. Andere open
+>   protocollen zijn bijvoorbeeld [File Tranfer Protocol](https://www.w3.org/Protocols/rfc959/) (FTP), 
+>   [Simple Mail Transfer Protocol (SMTP](http://www.wikidata.org/entity/Q160453)), en Simple Object Access Protocol (SOAP) en sluit daarmee bijvoorbeeld
+>   Teamskanalen uit. Meestal worden API’s over HTTP aangeboden.
 
 Toepassing van een open protocol impliceert nog niet dat de data die wordt
 ontsloten zelf ook open is: via authenticatie en autorisatie kan gecontroleerde
@@ -318,6 +310,8 @@ tot de data kan nog steeds via een eigen API gaan, al dan niet met toegewezen
 toegangscodes. Het verdient wel de voorkeur om van standaarden gebruik te maken,
 en wanneer die niet voorhanden zijn, een eigen API te beschrijven met een [Open
 API-specificatie](https://spec.openapis.org/oas/v3.1.0).
+
+>   **Eis:** xx.
 
 >   **Voorbeeld:** [iSHARE](https://www.ishareworks.org/ishare) is een
 >   afsprakenstelsel of een set van afspraken waarmee partijen elkaar toegang
@@ -340,6 +334,10 @@ gegevens vastgesteld. In de *autorisatie*procedure wordt bepaald of de
 leverancier of afnemer recht heeft tot het wijzigen of gebruiken van de
 gegevens.
 
+>   Uitgangspunt: In het DSGO verloopt de authenticatie van natuurlijke personen en
+>   (overheids)organisaties met een publieke taak zich middels DigiD, van
+>   bedrijven middels eHerkenning.
+
 >   Voorbeeld: [DigiD](https://www.logius.nl/diensten/digid) is een veilig en
 >   betrouwbaar middel waarmee gebruikers zich digital kunnen identificeren.
 >   DigiD is voor overheidsorganisaties en organisaties met een publieke taak
@@ -350,11 +348,8 @@ gegevens.
 >   bedrijven, zodat bedrijven namens clienten aanvragen kunnen indienen bij de
 >   overheid met een hoog veiligheidsniveau.
 
->   Voorbeeld: OAuth
+>   Voorbeeld: Op basis van de [open standaard voor autorisatie (OAuth)](https://www.forumstandaardisatie.nl/open-standaarden/oauth) kunnen gebruikers of organisaties een programma of website toegang geven tot specifieke (privé)gegevens, die opgeslagen zijn op een ander systeem, zonder hun gebruikersnaam en wachtwoord uit handen te geven. 
 
->   Eis: In het DSGO verloopt de authenticatie van natuurlijke personen en
->   (overheids)organisaties met een publieke taak zich middels DigiD, van
->   bedrijven middels eHerkenning.
 
 **A2. Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn**
 
