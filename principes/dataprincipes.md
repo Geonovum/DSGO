@@ -198,10 +198,8 @@ het Nationaal Geo Register.
 >   dataset, de beschikbare formaten en coördinaatreferentiesystemen en gegevens
 >   over de kwaliteit (o.m actualiteit).
 
-
 **Figuur: Het Nationaal Geo Register (NGR)**
 ![](media/36416e98132988ee2c688ba67671ba60.png)
-
 
 We zien voor ons dat één van de functies van het DSGO deze catalogus-functie is.
 Deze catalogus-functie is een belangrijk voor de goede vindbaarheid van
