@@ -21,9 +21,8 @@ Die geven richting aan het ontwerpen, onderhouden en toepassen van de processen 
 Het is onmogelijk om al deze standaarden te harmoniseren op semantiek, 
 daarom stellen we de standaarden van Forum Standaardisatie als uitgangspunt vast.
 
--   Datasets laten we bij de bron.
-DSGO catalogiseert metadata die die datasets beschrijven, maar verzorgt niet de toegang zelf: 
-dat wordt bepaald bij de bron.
+-   Datasets bij de bron.
+DSGO beschrijft de afspraken waaronder de toegamg tot de bron wordt verleend, de toegang wordt bij de bron bepaald. Het DGSO catalogiseert metadata die de datasets beschrijven.
 
 -   Metadata van datasets is vrij opvraagbaar bij het digitaal stelsel.
 Uitgangspunt voor data-aanbieders zou eveneens moeten zijn dat de datasets zelf vrij beschikbaar zijn, tenzij zwaarwegende factoren dat onpraktisch of onmogelijk maken.
