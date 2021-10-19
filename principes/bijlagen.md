@@ -178,12 +178,13 @@ worden beschreven, zodat ze in verschillende situaties kunnen worden
 gerepliceerd en/of gecombineerd.
 
 
-Gebruikte bronnen
-------------------
+Geraadpleegde bronnen
+---------------------
 
--   Actieplan Digitaal Stelsel Gebouwde Omgeving - Afspraken over toegang tot data. Versie 1.0 mei 2021
--   Op weg naar een health data infrastructuur en afsprakenstelsel - Adviesrapport van Nederlandse AI Coalitie, over de Health data infrastructuur en afsprakenstelsel in Nederland. Versie 1.0 juli 2020
--   Opwaarderen - Borgen van publieke waarden in de digitale samenleving, Rathenau instituut 2017
--   Routekaart Digitale Toekomst, Waag technology&society. Versie 0.3 april 2020
+-   Actieplan Digitaal Stelsel Gebouwde Omgeving - Afspraken over toegang tot data. Versie 1.0 mei 2021;
+-   Op weg naar een health data infrastructuur en afsprakenstelsel - Adviesrapport van Nederlandse AI Coalitie, over de Health data infrastructuur en afsprakenstelsel in Nederland. Versie 1.0 juli 2020;
+-   Opwaarderen - Borgen van publieke waarden in de digitale samenleving, Rathenau instituut 2017;
+-   Routekaart Digitale Toekomst, Waag technology&society. Versie 0.3 april 2020;
+-   Afsprakenstelsels in de praktijk - Leerervaringen van afsprakenstelsels om te komen tot een uniforme set van eisen voor persoonlijk datamanagement. Programma Regie op Gegevens september 2018;
 
 
