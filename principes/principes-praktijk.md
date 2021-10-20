@@ -5,7 +5,7 @@ Dit hoofdstuk beschrijft de toepassing van de principes voor publieke waarden en
 data op de praktijk.
 
 Wet kwaliteitsborging voor het bouwen
--------------------------------------------
+--------------------------------------
 ### Nieuwe wet- en regelgeving
 
 De ‘preventieve toets’ door het bevoegd gezag voor het verlenen van een omgevingsvergunning voor het bouwen vervalt bij inwerkingtreden van de Wet kwaliteitsborging voor het bouwen (Wkb). De treedt naar verwachting vanaf 1 juli 2022 stapsgewijs inwerking. Dat hebben de minister van Binnenlandse Zaken en Koninkrijksrelaties en de Vereniging van Nederlandse Gemeenten aangegeven. De veranderingen uit de Wkb gelden (naar verwachting) tot en met 2024 alleen voor eenvoudige bouwwerken. Dit zijn bijvoorbeeld eengezinswoningen en kleinere bedrijfspanden. Vanaf 2025 volgen de andere bouwwerken. Hierdoor kunnen bouwbedrijven en gemeenten stap voor stap ervaring opdoen met het nieuwe toezicht in de bouw. 
@@ -39,8 +39,50 @@ Kortom: bij de introductie van de Wkb hebben alle betrokken partijen belang bij 
 Voor alle betrokken partijen is het– vanuit uiteenlopende belangen – essentieel dat projectinformatie vindbaar, toegankelijk, uitwisselbaar en herbruikbaar is. Het gaat in feite steeds om subsets van dezelfde data, die voor verschillende doeleinden en doelgroepen worden ingezet. Het is een gemeenschappelijk belang voor alle partijen om daar (in het kader van DSGO) gezamenlijk afspraken over te maken. Voor het bevoegd gezag is bovendien een uitgangspunt dat voor de samenstelling van het Digitaal Dossier Bevoegd Gezag gebruik moet worden gemaakt van systeemonafhankelijke, open standaarden. Ook voor ontwerpende en uitvoerende ketenpartners is systeemonafhankelijk uitwisseling van informatie van groot belang, opdat zij met hun eigen software kunnen blijven werken. 
 
 
-Asset management
+Assetmanagement
 ----------------
+
+### Inleiding
+
+Het Rijks Vastgoed Bedrijf (RVB) is de vastgoedorganisatie van en voor de Rijksoverheid en is onderdeel van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Het RVB is verantwoordelijk voor het beheer en de instandhouding van de grootste en meest diverse vastgoedportefeuille van Nederland.
+
+Voor het beheer van deze vastgoedportefeuille maakt het RVB gebruik van vele dienstverleners, zowel dienstverleners van het Rijk, als ook externe dienstverleners. Om in al het vastgoed deze dienstverlening goed te laten verlopen is een transparante uitwisseling van data essentieel. Deze uitwisseling begint al bij de oplevering van een object na realisatie aan het RVB als assetbeheerder. In deze casusbeschrijving assetmanagement geven we een inkijkje in de manier waarop het RVB deze problematiek te lijf gaat, wat daarin tot nu toe al bereikt is en welke uitdagingen nog voor haar liggen.
+
+### Aanvliegroute op basis van de registratie van de RVB 
+
+Het Binnenhof wordt de komende jaren grondig verbouwd. In deze verbouwing wordt in de ontwerpfase netjes gewerkt met BIM, zodat de realisatie conform BIM wordt uitgevoerd. De overdracht naar de assetbeheerders ligt echter niet zo eenvoudig. De benodigde informatie voor assetmanagement blijkt heel anders te zijn, dan beschikbaar komt uit de realisatiefase. Vandaar dat het RVB gestart is met pilots waarin specifiek gekeken wordt naar de uitwisseling van informatie in de beheerfase.  In totaal zijn er 10 pilots gedaan met een basisadministratie, Digitaal Vastgoed RVB, en waarin 3D modellen van alle betreffende gebouwen beschikbaar zijn gemaakt. In onderstaande figuur staat een voorbeeld van de basisadministratie van de rechtbank in Zutphen. 
+
+**Figuur: Basisadministratie rechtbank Zutphen**
+![](media/DSGO-6.2-vbrechtbankZ)
+
+In een 3D model zijn alle verdiepingen van een object te selecteren, evenals alle ruimten of onderhoudseenheden en specifieke objecten binnen deze ruimten, zoals brandmelders of WiFi-apparatuur. Aan elk van deze ruimten zitten gegevens gekoppeld, te beginnen met een ruimtenummering. 
+
+### Uitwisseling op basis van bij RVB bekende gegevens
+
+Hoe kom je nu tot een goede uitwisseling tussen het facilitymanagementsysteem van de dienstverlener en dit Rijksvastgoedsysteem? Het RVB heeft de bij haar bekende gegevens van ruimten en objecten ter beschikbaar gesteld en daarmee een koppelvlak gedefinieerd. Met deze eerste stap, waarin zo min mogelijk afspraken zijn gemaakt en een eenvoudig en generieke koppelvlak is gegenereerd, kan iedere dienstverlener zijn eigen gegevens bekend toevoegen. Zo worden in eerste instantie handmatig de gegevens geüpload in het RVB-systeem.
+
+Met VEOLIA heeft het RVB bijvoorbeeld een contract voor klimaattechniek en brandveiligheid. De gegevens worden echter beheerd door een onderaannemer en niet door  VEOLIA zelf. Vanuit het systeem van de onderaannemer worden nu de gegevens geëxporteerd naar het systeem van de RVB. Om deze gegevens aanlevering te bewerkstelligen is het van belang dat RVB niet alleen de export/import mogelijkheden ter beschikking stelt. Het is ook van belang dat in de onderhoudscontracten de verplichting tot aanlevering van deze gegevens wordt opgenomen, ook als onderaannemers worden ingeschakeld. 
+
+### Afspraken maken op basis van wederzijdse belangen
+
+Zo zijn er zeker 10 pilots met vergelijkbare uitkomsten gerealiseerd. De vervolgstap is dat deze systematiek wordt doorgevoerd voor alle interne en externe dienstverleners die het RVB heeft gecontracteerd en dat er in- en export-systematiek wordt geautomatiseerd, zodat iedere wijziging in het facilitymanagementsysteem van de dienstverlening ook terecht komt in het systeem van het RVB.
+
+Zo komt in beeld welke informatie er allemaal geregistreerd wordt voor het vastgoed van het RVB. Vanuit dit overzicht kunnen vervolgstappen worden genomen. Vanuit dit totaalbeeld kan het RVB haar informatiebehoefte bepalen voor de eigen bedrijfsvoering. Een slimmere en efficiënte bedrijfsvoering is het belang voor het RVB. De dienstverleners hebben eenzelfde belang: zo efficiënt mogelijke uitvoering van de opgedragen taken. Zo maakt het nogal uit voor VEOLIA als ze precies weet in welke ruimte de brandblusapparatuur staat. Als het overzicht van het RVB precies aangeeft waar ze te vinden zijn, dan is dat voor de keuring van brandblusapparaten wel zo efficiënt. Vanuit dit wederzijds belang is het zinvol om te investeren in duurzame uitwisseling van gegevens.
+
+### Mee te geven aan ontwikkeling DSGO
+
+**Maak bottom-up afspraken met alle betrokkenen**
+
+De volgende stap van het RVB is het standaardiseren van de te registreren informatie, zodat bijvoorbeeld de keuringen van brandblusapparaten door alle dienstverleners op dezelfde manier worden geregistreerd. Zo ontstaat een uitwisselingsstandaard vanuit de praktijk, gebaseerd op wederzijdse belangen die open op tafel zijn gelegd. Deze praktijkbenadering vanuit een open gesprek over het wederzijdse belang werkt voor het RVB beter dan het ontwikkelen van een nieuwe informatiestandaard achter het bureau. Deze bottom-up ontwikkeling van afspraken, met betrokkenheid van alle betrokken partijen bij use cases die in het kader van het DSGO worden uitgewerkt.
+
+**Sluit aan bij informatiemanagement conform de NEN-EN-ISO 19650-serie**
+
+De [NEN-EN-ISO 19650-serie](https://www.bimloket.nl/p/269/NEN-EN-ISO-19650) (Organization and digitization of information about buildings and civil engineering works, including building information modelling – Information management using building information modelling) is dé internationale standaard voor informatiemanagement in de digitale levenscyclus van bouwwerken (assets). Eerder is in deze casusbeschrijving opgemerkt dat de benodigde informatie voor assetmanagement heel anders blijkt te zijn dan doorgaans beschikbaar komt uit de realisatiefase. Om deze reden stelt de NEN-EN-ISO 19650 dat de opdrachtgever bij het sluiten van een contract voor nieuw of aan te passen vastgoed vooraf de inhoud en vorm van de informatie dient te specificeren die de opdrachtnemer dient te leveren ten behoeve van het assetmanagement. Deze “Informatie Leverings Specificatie” (ILS) is onderdeel van het contract. 
+
+Met zijn pilots en de vervolgstappen daarop vergaart het RVB, samen met de dienstverleners, gaandeweg de kennis die nodig is voor het opstellen van goede ILS’en voor toekomstige nieuwbouw-, renovatie-, verbouwings- en onderhoudscontracten. Het RVB deelt deze kennis met andere (semi-)overheidsopdrachtgevers in de Werkgroep BIM Opdrachtgevers B&U van het Opdrachtgeversforum. Einddoel is de ontwikkeling van een gezamenlijke, standaard ILS-systematiek, waardoor opdrachtnemers niet voor iedere opdrachtgever met een andere informatievraag worden geconfronteerd. Het BIM Loket faciliteert dit proces.  
+
+Op vergelijkbare wijze zijn veel organisaties en bedrijven in de sectoren bouw en infra bezig de NEN-EN-ISO 19650 normen te implementeren in hun werkwijzen. Voor het maken van afspraken in het kader van het DSGO is het zaak zo goed mogelijk aan te sluiten op deze normenserie, zodat ontwikkelingen elkaar kunnen versterken en tevens aansluiting op internationale ontwikkelingen wordt gerealiseerd.
+
 
 Landelijk Digitaal Platform
 ---------------------------
