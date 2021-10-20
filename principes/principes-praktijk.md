@@ -6,6 +6,38 @@ data op de praktijk.
 
 Wet kwaliteitsborging voor het bouwen (Wkb)
 -------------------------------------------
+### Nieuwe wet- en regelgeving
+
+De ‘preventieve toets’ door het bevoegd gezag voor het verlenen van een omgevingsvergunning voor het bouwen vervalt bij inwerkingtreden van de Wet kwaliteitsborging voor het bouwen (Wkb). De treedt naar verwachting vanaf 1 juli 2022 stapsgewijs inwerking. Dat hebben de minister van Binnenlandse Zaken en Koninkrijksrelaties en de Vereniging van Nederlandse Gemeenten aangegeven. De veranderingen uit de Wkb gelden (naar verwachting) tot en met 2024 alleen voor eenvoudige bouwwerken. Dit zijn bijvoorbeeld eengezinswoningen en kleinere bedrijfspanden. Vanaf 2025 volgen de andere bouwwerken. Hierdoor kunnen bouwbedrijven en gemeenten stap voor stap ervaring opdoen met het nieuwe toezicht in de bouw. 
+
+Omgevingsvergunning wordt onder de Wkb verleend op basis van toetsing van een bouwplan (schetsontwerpniveau) aan het bestemmingsplan en plaatselijk geldende welstandscriteria (conform Omgevingswet: het omgevingsplan). Aanvullend moet de aanvrager een risico-inventarisatie en een kwaliteitsborgingsplan overleggen aan het bevoegd gezag. 
+
+De vergunningaanvrager/houder moet een gecertificeerde kwaliteitsborger inschakelen die gedurende het hele proces van ontwerp, uitvoering en oplevering controleert of het ontwerp en het uitvoeringsresultaat minimaal aan het Bouwbesluit (onder de Omgevingswet: Besluit bouwwerken leefomgeving) voldoet. Een kwaliteitsborger is in dit verband een partij die veelal meerdere personen óf organisaties omvat die gezamenlijk de kwaliteitsborging o.b.v. een “toegelaten instrument” verzorgen. Na oplevering van het bouwwerk geeft de kwaliteitsborger een verklaring af dat er een “gerechtvaardigd vertrouwen” is dat het gerealiseerde bouwwerk voldoet aan het Besluit bouwwerken leefomgeving. De vergunninghouder dient deze verklaring in bij het bevoegd gezag. 
+
+Daarnaast dient de vergunninghouder een opleverdossier of “Digitaal Dossier Bevoegd Gezag” (DDBG) in bij het bevoegd gezag, c.q. de gemeente. Het Ministerie BZK stelt de minimaal vereiste inhoud van het DDBG vast. Die inhoud komt grofweg overeen met de informatie die tot nu toe conform de “Ministeriële regeling omgevingsrecht” (Mor) moet worden ingediend bij een aanvraag omgevingsvergunning voor het bouwen. Het dossier moet in principe het ‘bewijsmateriaal’ bevatten dat wordt voldaan aan het bouwbesluit. Vooralsnog is een uitgangspunt dat het DDBG bestaat uit een verzameling van pdf’s van tekeningen, berekeningen en documentatie; op termijn is de wens en de verwachting dat het DDBG de vorm krijgt van databestanden/computerinterpretabele informatiemodellen. 
+
+De bouwer moet aan consument-opdrachtgevers een ‘Consumentendossier’ leveren. In opdracht van BZK heeft de NEN de norm NPR 8092:2021 “Consumentendossier” ontwikkeld en gepubliceerd, waarin de vereiste inhoud van het dossier wordt beschreven. 
+
+Tegelijk met de introductie van de Wkb worden ook enkele bepalingen in het Burgerlijk Wetboek aangepast. De definitie van “verborgen gebrek” is uitgebreid: de bouwer is gedurende langere tijd aansprakelijk voor alle bouwfouten die bij de oplevering niet zijn ontdekt. Daarmee wordt de aansprakelijkheid van het bouwbedrijf aanzienlijk uitgebreid. Deze uitgebreide aansprakelijkheid gaat gelden voor álle bouwwerken, dus niet net als bij de Wbk in eerste instantie alleen voor bouwwerken van de laagste risicocategorie.
+
+
+### Transparante informatievoorziening en -uitwisseling
+
+De opdrachtgever/vergunninghouder heeft groot belang bij een correct “Digitaal Dossier Bevoegd Gezag” waaruit blijkt dat aan de regelgeving wordt voldaan. Is dat dossier niet op orde, dan loopt de opdrachtgever/vergunninghouder het risico dat het bevoegd gezag de gebruiksvergunning weigert. Daarnaast wil de opdrachtgever/vergunninghouder bewijs (of een verantwoording) dat aan zijn eigen vraagspecificatie is voldaan.
+
+De gecertificeerde kwaliteitscontroleur is afhankelijk van correcte en tijdige informatievoorziening over ontwerp en uitvoering. De vergunninghouder heeft hier een financieel belang bij: wanneer de informatie niet op orde is, noodzaakt dat de kwaliteitscontroleur tot een grotere inspanning om gefundeerde uitspraken te kunnen doen over de kwaliteit. De kwaliteitscontroleur loopt bovendien het risico zijn certificaat te verliezen wanneer hij op basis van onjuiste en/of onvolledige informatie een onjuiste verklaring afgeeft. 
+
+Voor de bouwer is verificatie en validatie van ontwerp en uitvoering / Systems Engineering van groot belang in verband met de verruimde aansprakelijkheid voor gebreken in het eindresultaat. (Dit is breder dan alleen het voldoen aan regelgeving, het gaat ook om het voldoen aan de vraagspecificatie van de opdrachtgever en het voorkomen van bouwfouten). 
+Het bevoegd gezag is voor de uitoefening van zijn handhavingstaak afhankelijk van een correct Digitaal Dossier Bevoegd Gezag, dat – zeker in de toekomst - bij voorkeur op een standaard wijze is opgebouwd op basis van open standaarden. 
+De consument-opdrachtgever is gebaat bij een goed toegankelijk, correct, compleet en gebruiksvriendelijke Consumentendossier, temeer daar de consument-opdrachtgever dit dossier na oplevering zelf up to date dient te houden.
+
+Kortom: bij de introductie van de Wkb hebben alle betrokken partijen belang bij een transparante informatievoorziening en -uitwisseling. 
+
+
+### Mee te geven aan ontwikkeling DSGO
+
+Voor alle betrokken partijen is het– vanuit uiteenlopende belangen – essentieel dat projectinformatie vindbaar, toegankelijk, uitwisselbaar en herbruikbaar is. Het gaat in feite steeds om subsets van dezelfde data, die voor verschillende doeleinden en doelgroepen worden ingezet. Het is een gemeenschappelijk belang voor alle partijen om daar (in het kader van DSGO) gezamenlijk afspraken over te maken. Voor het bevoegd gezag is bovendien een uitgangspunt dat voor de samenstelling van het Digitaal Dossier Bevoegd Gezag gebruik moet worden gemaakt van systeemonafhankelijke, open standaarden. Ook voor ontwerpende en uitvoerende ketenpartners is systeemonafhankelijk uitwisseling van informatie van groot belang, opdat zij met hun eigen software kunnen blijven werken. 
+
 
 Asset management
 ----------------
