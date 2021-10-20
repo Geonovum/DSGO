@@ -137,8 +137,8 @@ Het is dus nodig om te zorgen voor meer duidelijkheid in wat wel en niet
 **Zorg voor een overheidsbrede toolbox met standaard componenten.**
 
 We bedoelen hiermee dat een aantal basistools voor bijvoorbeeld authenticatie,
-autorisatie en machtigingen beschikbaar en bekend zijn. Voor het LDP is iShare
-als machtigingenmodule gekozen; voor een andere platform (welke?) wordt
+autorisatie en machtigingen beschikbaar en bekend zijn. Voor het Landelijk Digitaal PLatform is [iShare](https://www.ishareworks.org/ishare)
+als machtigingenmodule gekozen; voor een andere platform wordt
 [iDIN](https://www.idin.nl/over-idin/scheme/) als machtigingenmodule gekozen.
 Per project wordt nu eigen keuzes gemaakt, wat tijd, geld, doorlooptijd kost,
 maar ook ten koste gaat van standaardisatie en interoperabiliteit.
@@ -149,5 +149,5 @@ meest geschikt is. Dit kan de ontwikkeling van een stelsel/platform versnellen,
 en standaardisatie maakt eenvoudigere integratie met andere platforms/tools op
 later moment mogelijk.
 
->   *Voorbeeld: Pas-toe-of-leg-uit-lijst van Forum Standaardisatie of de
->   keuzewijzer Lichte formaten van Geonovum.*
+>   **Voorbeeld:** Pas-toe-of-leg-uit-lijst van Forum Standaardisatie of de
+>   keuzehulp Lichte formaten van Geonovum.
