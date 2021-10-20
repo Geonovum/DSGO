@@ -129,10 +129,9 @@ Het is dus nodig om te zorgen voor meer duidelijkheid in wat wel en niet
     Het scheelt veel uitzoekwerk, geeft houvast, en kan daarmee de ontwikkeling
     van dergelijke platforms en stelsels versnellen.
 
->   **Voorbeeld:** Is een adres nu een persoonsgegeven of een objectgegeven? Lees
+>   **Voorbeeld:** [Is een adres nu een persoonsgegeven of een objectgegeven?](https://ibestuur.nl/podium/avg-hoeft-open-bag-data-niet-in-de-weg-te-staan) Lees
 >   het artikel van experts op gebied van privacy en open (geo)data, Bastiaan
->   van Loenen en Marc de Vries:*
->   <https://ibestuur.nl/podium/avg-hoeft-open-bag-data-niet-in-de-weg-te-staan>
+>   van Loenen en Marc de Vries.
 
 **Zorg voor een overheidsbrede toolbox met standaard componenten.**
 
