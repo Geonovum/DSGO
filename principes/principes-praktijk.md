@@ -1,8 +1,12 @@
 Van principes naar praktijk
 ===========================
 
-Dit hoofdstuk beschrijft de toepassing van de principes voor publieke waarden en
-data op de praktijk.
+Met onwerpprincipes op basis van publieke waarden en dataprincipes, geven we in dit hoofdstuk een drietal voorbeelden uit de praktijk:
+-  Wet kwaliteitsborging voor het bouwen;
+-  Assetmanagement;
+- Landelijk Digitaal Platform
+
+
 
 Wet kwaliteitsborging voor het bouwen
 --------------------------------------
