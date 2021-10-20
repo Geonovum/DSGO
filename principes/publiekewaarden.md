@@ -81,10 +81,10 @@ tijdens het ontwerpproces doordenken en doorleven, zodat de juiste keuzes
 gemaakt worden. In het vervolg illustreren wij deze ontwerpprincipes op basis
 van de genoemde use cases.
 
-*Randvoorwaarde:* Alle betrokkenen bij een use case bespreken de
-ontwerpprincipes, om concreet te maken wat deze voor een use case betekenen. De
-keuzes die hieruit volgen worden vastgesteld en ingericht, bijgesteld en zo
-lerend ontwikkeld, zodat anderen daarop kunnen voortbouwen.
+>   **Randvoorwaarde:** Alle betrokkenen bij een use case bespreken de
+>   ontwerpprincipes, om concreet te maken wat deze voor een use case betekenen. De
+>   keuzes die hieruit volgen worden vastgesteld en ingericht, bijgesteld en zo
+>   lerend ontwikkeld, zodat anderen daarop kunnen voortbouwen.
 
 ### Open en transparante uitkomsten
 
@@ -101,9 +101,9 @@ kwaliteitscontroles goed zijn uitgevoerd. Mocht er ergens een probleem mee zijn,
 dan kan altijd teruggezocht worden naar de oorsprong van de kwaliteitscontrole
 en de onderliggende data.
 
-*Eis*: Usecases leggen voor elke data(set) die tussen partijen uitgewisseld wordt,
-vast wat de oorsprong van deze dataset is en welke bewerkingen deze heeft
-ondergaan.
+>   **Eis:** Usecases leggen voor elke data(set) die tussen partijen uitgewisseld wordt,
+>   vast wat de oorsprong van deze dataset is en welke bewerkingen deze heeft
+>   ondergaan.
 
 ### Inclusiviteit
 
@@ -121,9 +121,9 @@ hand. Op het moment dat er duidelijk problemen blijken te zijn met bepaalde
 materialen of producten, dan willen burgers graag weten of deze materialen of
 producten in hun woning verwerkt zijn.
 
-*Randvoorwaarde*: Maak de ontwikkeling van het DSGO inclusief, zodat de belangen
-van alle stakeholders zorgvuldig aan bod komen bij elke usecase. De inzet van
-een onafhankelijk voorzitter is daarbij een aanrader.
+>   **Randvoorwaarde:** Maak de ontwikkeling van het DSGO inclusief, zodat de belangen
+>   van alle stakeholders zorgvuldig aan bod komen bij elke usecase. De inzet van
+>   een onafhankelijk voorzitter is daarbij een aanrader.
 
 ### Rechtvaardigheid
 
@@ -140,8 +140,8 @@ afkeuringen eerder in de keten zijn ontstaan, zodat de oplevering van het
 bouwwerk goedgekeurd kan worden door de gemeente. Dit is van belang zowel voor
 de gemeente als voor de toekomstig eigenaar en beheerder.
 
-*Eis*: Ontwerp elke usecase binnen het DSGO rechtvaardig, zodat alle
-belanghebbenden een eerlijke en volledige weergave van de feiten kunnen inzien.
+>   **Eis:** Ontwerp elke usecase binnen het DSGO rechtvaardig, zodat alle
+>   belanghebbenden een eerlijke en volledige weergave van de feiten kunnen inzien.
 
 ### Doelgerichtheid
 
@@ -157,9 +157,9 @@ daarmee privacy gevoelig. Deze informatie mag daarom alleen gebruikt worden door
 de bewoner zelf, na zijn toestemming of voor een analyse waarin de gegevens voor
 een wijk verzameld worden, maar niet meer terug te voeren zijn op een adres.
 
-*Eis*: Ontwerp elke usecase binnen het DSGO doelgericht, zodat de uit te
-wisselen data geschikt en voldoende is voor het doel, waarvoor de informatie
-nodig is.
+>   **Eis:** Ontwerp elke usecase binnen het DSGO doelgericht, zodat de uit te
+>   wisselen data geschikt en voldoende is voor het doel, waarvoor de informatie
+>   nodig is.
 
 ### Betrokkenheid
 
@@ -178,10 +178,10 @@ zodat een compleet beeld wordt verkregen van een gebouw. Het gebouwdossier wordt
 daarmee compleet, waarop in de toekomst zinvolle besluiten mogelijk zijn over
 hergebruik van materialen na ontmanteling van het bouwwerk.
 
-*Randvoorwaarde*: Voor elke usecase worden de afspraken met alle betrokkenen
-gemaakt en vastgelegd. Onderdeel van de afspraak is duidelijkheid over het
-verplichtende karakter en de manier waarop toezicht wordt gehouden over de
-naleving ervan.
+>   **Randvoorwaarde:** Voor elke usecase worden de afspraken met alle betrokkenen
+>   gemaakt en vastgelegd. Onderdeel van de afspraak is duidelijkheid over het
+>   verplichtende karakter en de manier waarop toezicht wordt gehouden over de
+>   naleving ervan.
 
 ### Controleerbaarheid
 
@@ -199,8 +199,8 @@ noodzakelijk, zowel op de verstrekte gegevens, als op de manier waarop
 kwaliteitscontroles zijn uitgevoerd. Audits zijn een manier om de werking van
 het kwaliteitssysteem van betrokken partijen periodiek te controleren.
 
-*Eis*: ontwerp elke usecase zo dat er kan worden ingegrepen in de
-geautomatiseerde processen.
+>   **Eis:** ontwerp elke usecase zo dat er kan worden ingegrepen in de
+>   geautomatiseerde processen.
 
 ### Soevereiniteit
 
@@ -213,12 +213,12 @@ het delen, manipuleren en hergebruiken van data, standaarden, algoritmen en
 voorzieningen en de daaruit voortvloeiende nieuwe of aangepaste data die
 ontstaat.
 
-*Uitgangspunt*: binnen het DSGO wordt bepaald welke belanghebbende (in
-juridische termen natuurlijke persoon of rechtspersoon) eigenaar is en/of
-zeggenschap en controle uitoefent over en/of gebruik maakt van de data(set),
-standaard, algoritme of voorziening die van belang zijn binnen de usecases. Met
-deze belanghebbenden kunnen vervolgens afspraken worden gemaakt om de data(set),
-standaard, algoritme of voorziening FAIR te kunnen (her)gebruiken.
+>   **Uitgangspunt:** binnen het DSGO wordt bepaald welke belanghebbende (in
+>   juridische termen natuurlijke persoon of rechtspersoon) eigenaar is en/of
+>   zeggenschap en controle uitoefent over en/of gebruik maakt van de data(set),
+>   standaard, algoritme of voorziening die van belang zijn binnen de usecases. Met
+>   deze belanghebbenden kunnen vervolgens afspraken worden gemaakt om de data(set),
+>   standaard, algoritme of voorziening FAIR te kunnen (her)gebruiken.
 
 ### Informatieveiligheid
 
@@ -229,13 +229,13 @@ zorgen dat - gegevens niet gemanipuleerd zijn tussen bron en eindgebruiker
 gegevens betrouwbaar zijn en inzicht heeft of de bron de gegevens gewijzigd
 heeft (transparantie en provenance).
 
-Eis: Binnen het DSGO worden maatregelen getroffen om de integriteit te
-waarborgen.
+>   **Eis:** Binnen het DSGO worden maatregelen getroffen om de integriteit te
+>   waarborgen.
 
-Eis: Het DSGO voorziet in autorisatie en athenticatiemogelijkheden, zodat alleen
-de rechthebbenden inzage krijgen in de data(sets) die uitgewisseld worden.
+>   **Eis:** Het DSGO voorziet in autorisatie en athenticatiemogelijkheden, zodat alleen
+>   de rechthebbenden inzage krijgen in de data(sets) die uitgewisseld worden.
 
-Eis: Het DSGO geeft transparant weer wat de bron is van elke dataset en welke
-bewerkingen deze heeft ondergaan en/of aan welke kwaliteitseisen deze voldoet in
-termen van actualiteit, volledigheid en juistheid), zodat de eindgebruiker de
-betrouwbaarheid kan vaststellen.
+>   **Eis:** Het DSGO geeft transparant weer wat de bron is van elke dataset en welke
+>   bewerkingen deze heeft ondergaan en/of aan welke kwaliteitseisen deze voldoet in
+>   termen van actualiteit, volledigheid en juistheid), zodat de eindgebruiker de
+>   betrouwbaarheid kan vaststellen.
