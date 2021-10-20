@@ -52,7 +52,7 @@ Voor het beheer van deze vastgoedportefeuille maakt het RVB gebruik van vele die
 
 Het Binnenhof wordt de komende jaren grondig verbouwd. In deze verbouwing wordt in de ontwerpfase netjes gewerkt met BIM, zodat de realisatie conform BIM wordt uitgevoerd. De overdracht naar de assetbeheerders ligt echter niet zo eenvoudig. De benodigde informatie voor assetmanagement blijkt heel anders te zijn, dan beschikbaar komt uit de realisatiefase. Vandaar dat het RVB gestart is met pilots waarin specifiek gekeken wordt naar de uitwisseling van informatie in de beheerfase.  In totaal zijn er 10 pilots gedaan met een basisadministratie, Digitaal Vastgoed RVB, en waarin 3D modellen van alle betreffende gebouwen beschikbaar zijn gemaakt. In onderstaande figuur staat een voorbeeld van de basisadministratie van de rechtbank in Zutphen. 
 
-**Figuur: Basisadministratie rechtbank Zutphen**
+**Figuur: Voorbeeld uit de basisadministratie Digitaal Vastgoed RVB**
 
 ![](media/DSGO-6.2-vbrechtbankZ.png)
 
