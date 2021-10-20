@@ -4,7 +4,7 @@ Van principes naar praktijk
 Dit hoofdstuk beschrijft de toepassing van de principes voor publieke waarden en
 data op de praktijk.
 
-Wet kwaliteitsborging voor het bouwen (Wkb)
+Wet kwaliteitsborging voor het bouwen
 -------------------------------------------
 ### Nieuwe wet- en regelgeving
 
@@ -16,7 +16,7 @@ De vergunningaanvrager/houder moet een gecertificeerde kwaliteitsborger inschake
 
 Daarnaast dient de vergunninghouder een opleverdossier of “Digitaal Dossier Bevoegd Gezag” (DDBG) in bij het bevoegd gezag, c.q. de gemeente. Het Ministerie BZK stelt de minimaal vereiste inhoud van het DDBG vast. Die inhoud komt grofweg overeen met de informatie die tot nu toe conform de “Ministeriële regeling omgevingsrecht” (Mor) moet worden ingediend bij een aanvraag omgevingsvergunning voor het bouwen. Het dossier moet in principe het ‘bewijsmateriaal’ bevatten dat wordt voldaan aan het bouwbesluit. Vooralsnog is een uitgangspunt dat het DDBG bestaat uit een verzameling van pdf’s van tekeningen, berekeningen en documentatie; op termijn is de wens en de verwachting dat het DDBG de vorm krijgt van databestanden/computerinterpretabele informatiemodellen. 
 
-De bouwer moet aan consument-opdrachtgevers een ‘Consumentendossier’ leveren. In opdracht van BZK heeft de NEN de norm NPR 8092:2021 “Consumentendossier” ontwikkeld en gepubliceerd, waarin de vereiste inhoud van het dossier wordt beschreven. 
+De bouwer moet aan consument-opdrachtgevers een ‘Consumentendossier’ leveren. In opdracht van BZK heeft de NEN de norm [NPR 8092:2021 “Consumentendossier”](https://www.nen.nl/npr-8092-2021-nl-280630) ontwikkeld en gepubliceerd, waarin de vereiste inhoud van het dossier wordt beschreven. 
 
 Tegelijk met de introductie van de Wkb worden ook enkele bepalingen in het Burgerlijk Wetboek aangepast. De definitie van “verborgen gebrek” is uitgebreid: de bouwer is gedurende langere tijd aansprakelijk voor alle bouwfouten die bij de oplevering niet zijn ontdekt. Daarmee wordt de aansprakelijkheid van het bouwbedrijf aanzienlijk uitgebreid. Deze uitgebreide aansprakelijkheid gaat gelden voor álle bouwwerken, dus niet net als bij de Wbk in eerste instantie alleen voor bouwwerken van de laagste risicocategorie.
 
