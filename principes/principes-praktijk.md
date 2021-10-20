@@ -48,7 +48,7 @@ Het Rijks Vastgoed Bedrijf (RVB) is de vastgoedorganisatie van en voor de Rijkso
 
 Voor het beheer van deze vastgoedportefeuille maakt het RVB gebruik van vele dienstverleners, zowel dienstverleners van het Rijk, als ook externe dienstverleners. Om in al het vastgoed deze dienstverlening goed te laten verlopen is een transparante uitwisseling van data essentieel. Deze uitwisseling begint al bij de oplevering van een object na realisatie aan het RVB als assetbeheerder. In deze casusbeschrijving assetmanagement geven we een inkijkje in de manier waarop het RVB deze problematiek te lijf gaat, wat daarin tot nu toe al bereikt is en welke uitdagingen nog voor haar liggen.
 
-### Aanvliegroute op basis van de registratie van de RVB 
+### Aanvliegroute op basis van de registratie van het RVB 
 
 Het Binnenhof wordt de komende jaren grondig verbouwd. In deze verbouwing wordt in de ontwerpfase netjes gewerkt met BIM, zodat de realisatie conform BIM wordt uitgevoerd. De overdracht naar de assetbeheerders ligt echter niet zo eenvoudig. De benodigde informatie voor assetmanagement blijkt heel anders te zijn, dan beschikbaar komt uit de realisatiefase. Vandaar dat het RVB gestart is met pilots waarin specifiek gekeken wordt naar de uitwisseling van informatie in de beheerfase.  In totaal zijn er 10 pilots gedaan met een basisadministratie, Digitaal Vastgoed RVB, en waarin 3D modellen van alle betreffende gebouwen beschikbaar zijn gemaakt. In onderstaande figuur staat een voorbeeld van de basisadministratie van de rechtbank in Zutphen. 
 
@@ -63,7 +63,7 @@ In een 3D model zijn alle verdiepingen van een object te selecteren, evenals all
 
 Hoe kom je nu tot een goede uitwisseling tussen het facilitymanagementsysteem van de dienstverlener en dit Rijksvastgoedsysteem? Het RVB heeft de bij haar bekende gegevens van ruimten en objecten ter beschikbaar gesteld en daarmee een koppelvlak gedefinieerd. Met deze eerste stap, waarin zo min mogelijk afspraken zijn gemaakt en een eenvoudig en generieke koppelvlak is gegenereerd, kan iedere dienstverlener zijn eigen gegevens bekend toevoegen. Zo worden in eerste instantie handmatig de gegevens geüpload in het RVB-systeem.
 
-Met VEOLIA heeft het RVB bijvoorbeeld een contract voor klimaattechniek en brandveiligheid. De gegevens worden echter beheerd door een onderaannemer en niet door  VEOLIA zelf. Vanuit het systeem van de onderaannemer worden nu de gegevens geëxporteerd naar het systeem van de RVB. Om deze gegevens aanlevering te bewerkstelligen is het van belang dat RVB niet alleen de export/import mogelijkheden ter beschikking stelt. Het is ook van belang dat in de onderhoudscontracten de verplichting tot aanlevering van deze gegevens wordt opgenomen, ook als onderaannemers worden ingeschakeld. 
+Met VEOLIA heeft het RVB bijvoorbeeld een contract voor klimaattechniek en brandveiligheid. De gegevens worden echter beheerd door een onderaannemer en niet door  VEOLIA zelf. Vanuit het systeem van de onderaannemer worden nu de gegevens geëxporteerd naar het systeem van het RVB. Om deze gegevens aanlevering te bewerkstelligen is het van belang dat het RVB niet alleen de export/import mogelijkheden ter beschikking stelt. Het is ook van belang dat in de onderhoudscontracten de verplichting tot aanlevering van deze gegevens wordt opgenomen, ook als onderaannemers worden ingeschakeld. 
 
 ### Afspraken maken op basis van wederzijdse belangen
 
