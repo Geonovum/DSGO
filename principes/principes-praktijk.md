@@ -21,7 +21,7 @@ is dat woningeigenaren hun klantreis voor een groot deel met het digitaal
 platform kunnen afleggen.
 
 Het landelijk digitaal platform is gerealiseerd in het online platform
-‘verbeterjehuis.nl’. Een eerdere versie van het platform integreert
+[‘verbeterjehuis.nl’](https://www.verbeterjehuis.nl/). Een eerdere versie van het platform integreert
 energiebespaarinitiatieven als energiebesparendoejenu.nl,
 energiesubsidiewijzer.nl en ontsluiting van de Energiebesparingsverkenner van de
 Rijksdienst voor Ondernemend Nederland.
@@ -40,7 +40,7 @@ aanbieden op het platform. Zo komt vraag en aanbod bij elkaar op dit platform.
 
 ### Data 
 
-In het platform worden de gegevens van de Basisregistratie Adressen en Gebouwen
+In het platform worden de gegevens van de [Basisregistratie Adressen en Gebouwen](https://www.geobasisregistraties.nl/basisregistraties/adressen-en-gebouwen)
 als basis gebruikt, denk aan gebruiksoppervlakte, bouwjaar. Op basis van daarvan
 wordt een eerste profiel van de woning samengesteld.
 
@@ -60,6 +60,8 @@ Wetgeving werkt hierin belemmerend: zowel energielabel als
 energieverbruiksgegevens zijn aangeduid als persoongegevens en kunnen daarmee
 alleen na toestemming van woningeigenaar aan het platform beschikbaar worden
 gesteld. (machtiging)
+
+**Figuur: Energie besparen en je huis verduurzamen met verbeterjehuis.nl**
 
 ![](media/100f4c15bfe5ad15824f29605f300268.png)
 
