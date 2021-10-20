@@ -63,7 +63,7 @@ Ook Vanuit **Europa** is er een sterk sturende rol van de commissie op het handh
 Ontwerpprincipes
 ----------------
 
-### Radicaal open en transparant ontwerp proces
+### Open en transparant ontwerp proces
 
 Het DSGO ontwerpen we op basis van publieke waarden in samenwerking met alle
 betrokkenen bij de 34 benoemde use cases (zie figuur DSGO use cases, hieronder). Het DSGO
@@ -145,11 +145,10 @@ de gemeente als voor de toekomstig eigenaar en beheerder.
 
 ### Doelgerichtheid
 
-Doelgerichtheid ziet toe op het doeltreffend en toepasbaar ontwerpen van het
-DSGO. Voor elke usecase worden data, algoritmen, voorzieningen en technologie
-doelgericht ingezet. De data die wordt vastgelegd en doorgegeven is nodig voor
-het doel en wordt daarom gericht vastgelegd en bewust gebruikt door een andere
-belanghebbende. Dit geldt extra voor privacy gevoelige informatie.
+Data wordt uitgewisseld met een bepaald doel. De gebruikers mogen de data niet zondermeer voor een ander doel gebruiken. Er is sprake van doelbinding. Voor elke usecase worden data, algoritmen, voorzieningen en technologie
+met een specifiek doel gebruikt. De data die wordt vastgelegd en doorgegeven is nodig voor
+een specifiek doel en wordt daarom geregistreerd en bewust gebruikt ook door andere
+belanghebbenden. Dit geldt extra voor privacy gevoelige informatie.
 
 In het kader van de energietransitie stimuleren is gebruik van gebruiksdata over
 energie mogelijk terug te voeren op het gedrag van de bewoner/ huurder en
