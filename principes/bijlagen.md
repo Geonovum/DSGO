@@ -1,21 +1,6 @@
 Bijlagen
 ========
 
-Begrippen en afkortingen
-------------------------
-
-| Begrip | Toelichting                                                                                                                                                                                             |
-|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DiSGeo | Doorontwikkeling in Samenhang van de geo-basisregistraties.                                                                                                                                             |
-| DSGO   | Digitaal Stelsel Gebouwde Omgeving                                                                                                                                                                      |
-| FAIR   | De FAIR Principes staan voor Findable (vindbaarheid), Accessible (toegankelijkheid), Interoperable (uitwisselbaar/ interoperabiliteit), Reusable (herbruikbaar).                                        |
-| UOI    | Het Unieke Object Identificator (UOI) ‘systeem’ is een digitale sleutel waarmee je op basis van je rol en toegangsrechten informatie over gebouwen en objecten in de gebouwde omgeving kunt raadplegen. |
-|        |                                                                                                                                                                                                         |
-|        |                                                                                                                                                                                                         |
-|        |                                                                                                                                                                                                         |
-|        |                                                                                                                                                                                                         |
-|        |                                                                                                                                                                                                         |
-
 Data, datasets en metadata
 --------------------------
 
@@ -174,29 +159,32 @@ Dataprincipes
 --------------
 De dataprincipes zijn:
 
-**Findable (vindbaar)** De eerste stap bij het (her)gebruiken van data is om de
+*Findable (vindbaar)* De eerste stap bij het (her)gebruiken van data is om de
 data te vinden. Metadata en data moeten gemakkelijk te vinden zijn voor zowel
 mensen als computers. Machine-readable metadata zijn essentieel voor het
 ontdekken van datasets en services.
 
-**Accessible (toegankelijkheid)** Zodra de gebruiker de benodigde gegevens heeft
+*Accessible (toegankelijkheid)* Zodra de gebruiker de benodigde gegevens heeft
 gevonden, moet hij/zij weten hoe deze kunnen worden geraadpleegd, inclusief
 authenticatie en autorisatie. Laagdrempelig in gebruik.
 
-**Interoperable (uitwisselbaar)** De gegevens moeten meestal worden geïntegreerd
+*Interoperable (uitwisselbaar)* De gegevens moeten meestal worden geïntegreerd
 met andere gegevens. Bovendien moeten de gegevens samenwerken met applicaties of
 workflows voor analyse, opslag en verwerking.
 
-**Reusable (herbruikbaar)** Het uiteindelijke doel van FAIR is het hergebruik
+*Reusable (herbruikbaar)* Het uiteindelijke doel van FAIR is het hergebruik
 van data te optimaliseren. Om dit te bereiken moeten metadata en data goed
 worden beschreven, zodat ze in verschillende situaties kunnen worden
 gerepliceerd en/of gecombineerd.
 
 
-Gebruikte bronnen
-------------------
+Geraadpleegde bronnen
+---------------------
 
--   Actieplan Digitaal Stelsel Gebouwde Omgeving - Afspraken over toegang tot data. Versie 1.0 mei 2021
--   Op weg naar een health data infrastructuur en afsprakenstelsel - Adviesrapport van Nederlandse AI Coalitie, over de Health data infrastructuur en afsprakenstelsel in Nederland. Versie 1.0 juli 2020
+-   Actieplan Digitaal Stelsel Gebouwde Omgeving - Afspraken over toegang tot data. Versie 1.0 mei 2021;
+-   Op weg naar een health data infrastructuur en afsprakenstelsel - Adviesrapport van Nederlandse AI Coalitie, over de Health data infrastructuur en afsprakenstelsel in Nederland. Versie 1.0 juli 2020;
+-   Opwaarderen - Borgen van publieke waarden in de digitale samenleving, Rathenau instituut 2017;
+-   Routekaart Digitale Toekomst, Waag technology&society. Versie 0.3 april 2020;
+-   Afsprakenstelsels in de praktijk - Leerervaringen van afsprakenstelsels om te komen tot een uniforme set van eisen voor persoonlijk datamanagement. Programma Regie op Gegevens september 2018;
 
 

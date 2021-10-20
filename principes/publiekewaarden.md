@@ -1,12 +1,12 @@
-Ontwerpprincipes: Publieke waarden
+Publieke waarden
 ================
 
-Het DSGO dient een publiek belang door data uit de gebouwde omgeving beschikbaar
+Het DSGO dient het publiek belang door data uit de gebouwde omgeving beschikbaar
 te stellen voor alle belanghebbenden bij de data. Om het publieke belang te
 waarborgen worden 8 ontwerpprincipes gehanteerd voor het ontwerpproces van het
 DSGO. Deze 8 ontwerpprincipes zijn in dit hoofdstuk vertaalt in uitgangspunten,
 randvoorwaarden en eisen. Ze geven richting aan het proces om te komen tot
-sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data.
+sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data.
 
 Het DSGO ontwerpen op basis van publieke waarden die de samenleving reflecteren
 -------------------------------------------------------------------------------
@@ -23,7 +23,7 @@ publieke en private organisaties naar data-uitwisseling die zijn samengevat in
 34 use cases, gegroepeerd in zes thema’s. Het DSGO regisseert samenhang door te
 komen tot een set van afspraken over het uitwisselen van data tussen
 organisaties. Het DSGO helpt digitalisering in de bouw- en installatie sector,
-en maakt onder andere stikstofreductie daarmee mogelijk.
+en draagt daarmee bij aan diverse maatschappelijke opgaven.
 
 Veel partijen uit de samenleving dragen bij om tot het gewenste resultaat te
 komen en wisselen daartoe data uit met elkaar. Datasets over een gebouw dienen een groot aantal partijen uit de samenleving. Daarmee dient deze data zowel een privé belang (bijvoorbeeld de data over het energiegebruik binnen een gebouw) als ook een publiek belang (bijvoorbeeld het
@@ -44,16 +44,15 @@ en ontwerpen. Voor het DSGO doen we dat dus op basis van publieke waarden, de we
 concreet hebben gemaakt in de hierna uitgewerke 8 ontwerpprincipes.
 
 **Basisvoorwaarden publieke waarden**
-In 2017 heeft het Rathenau instituut met haar onderzoek 'Opwaarderen - Borgen van publieke waarden in de digitale samenleving' aandacht gevraagd voor dit onderwerp en gepleit voor een actieprogramma. Sinds dat moment heet het Ministerie van BZK deze handschoen opgepakt, als hoeder van de grondwet en grondrechten. Er zijn diverse actielijnen uitgezet vanuit de Agenda Digitale Overheid (zie https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nldigibeter/beschermen-van-grondrechten-en-publieke-waarden/ . Daarin wordt ook aangegeven wat tot nu toe bereikt is. 
-- Vanaf 2019 is de voorlichting gestart over dit onderwerp.  
-- er is onderzoek verricht naar de effecten van digitalisering op de maatschappij.
+
+In 2017 heeft het Rathenau instituut met haar onderzoek 'Opwaarderen - Borgen van publieke waarden in de digitale samenleving' aandacht gevraagd voor dit onderwerp en gepleit voor een actieprogramma. Sinds dat moment heet het Ministerie van BZK deze handschoen opgepakt, als hoeder van de grondwet en grondrechten. Er zijn diverse actielijnen uitgezet vanuit de [Agenda Digitale Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nldigibeter/beschermen-van-grondrechten-en-publieke-waarden/). Daarin wordt ook aangegeven wat tot nu toe bereikt is. Vanaf 2019 is de voorlichting gestart over dit onderwerp. Tevens is er onderzoek verricht naar de effecten van digitalisering op de maatschappij.
 
 Deze aandacht heeft er onder andere toe geleid dat er ook concrete handvatten zijn ontwikkeld:
-- er zijn diverse beleidsinstrumenten gerealiseerd zoals een toolbox om gemeenten te helpen verantwoord te innoveren, zoals de praktijkrichtlijn open urban platforms (https://www.nen.nl/nieuws/smartcities/nederlandse-praktijkrichtlijn-open-urban-platforms-beschikbaar/ 
-- Er is een handreiking ontwikkeld voor non-discriminatie bij de toepassing van AI (https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)
-- Er is in april 2021 een code ontwikkeld door de Universiteit Utrecht voor goed digitaal openbaar bestuur (https://www.rijksoverheid.nl/documenten/rapporten/2021/04/30/code-goed-digitaal-openbaar-bestuur). 
-- naast de Rijksoverheid heeft ook de VNG met de gemeenten nagedacht over principes voor de digitale samenleving https://vng.nl/sites/default/files/2019-11/09a-bijlage-principes-voor-de-digitale-samenleving.pdf
-- vanuit het locatiepact waarin een groep overheden, bedrijven en kennisinstellingen met elkaar samenwerken aan locatietechnologie, is een ethische referentie ontwikkeld (https://www.wijsmetlocatie.nl/wat-we-doen/ethiek). Deze is in de praktijk getoetst en vergeleken met diverse andere ethische referenties.
+- Er zijn diverse beleidsinstrumenten gerealiseerd zoals een toolbox om gemeenten te helpen verantwoord te innoveren, zoals de [praktijkrichtlijn open urban platforms](https://www.nen.nl/nieuws/smartcities/nederlandse-praktijkrichtlijn-open-urban-platforms-beschikbaar/); 
+- Er is een handreiking ontwikkeld voor [non-discriminatie bij de toepassing van AI](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design);
+- Er is in april 2021 een code ontwikkeld door de Universiteit Utrecht voor [goed digitaal openbaar bestuur](https://www.rijksoverheid.nl/documenten/rapporten/2021/04/30/code-goed-digitaal-openbaar-bestuur);
+- naast de Rijksoverheid heeft ook de VNG met de gemeenten nagedacht over [principes voor de digitale samenleving](https://vng.nl/sites/default/files/2019-11/09a-bijlage-principes-voor-de-digitale-samenleving.pdf);
+- vanuit het locatiepact waarin een groep overheden, bedrijven en kennisinstellingen met elkaar samenwerken aan locatietechnologie, is een [ethische referentie](https://www.wijsmetlocatie.nl/wat-we-doen/ethiek) ontwikkeld. Deze is in de praktijk getoetst en vergeleken met diverse andere ethische referenties.
 
 Ook Vanuit **Europa** is er een sterk sturende rol van de commissie op het handhaven van publieke waarden zoals blijkt uit de Europese digitale strategie. Bouwstenen in de Europese digitale strategie zijn:
 - De Verordening Digitale Markten (Digital Markets Act, DMA), die de digitale eenheidsmarkt reguleert, en een reeks eisen stelt t.a.v. interoperabiliteit, eerlijkheid en openheid, en de markpositie reguleert van grote online platformen die als gatekeepers functioneren. De DMA is als voorstel gepubliceerd eind 2020, met een beoogde implementatie uiterlijk begin 2022.
@@ -67,7 +66,7 @@ Ontwerpprincipes
 ### Radicaal open en transparant ontwerp proces
 
 Het DSGO ontwerpen we op basis van publieke waarden in samenwerking met alle
-betrokkenen bij de 34 benoemde use cases (zie figuur DSGO use cases). Het DSGO
+betrokkenen bij de 34 benoemde use cases (zie figuur DSGO use cases, hieronder). Het DSGO
 ondersteunt daarmee diverse publieke belangen van verschillende actoren. Het
 ontwerpproces is daarin bepalend. Centraal in dat proces staan het
 ‘burgerperspectief’ en participatie van betrokkenen. Deze participatie goed
@@ -87,11 +86,11 @@ ontwerpprincipes, om concreet te maken wat deze voor een use case betekenen. De
 keuzes die hieruit volgen worden vastgesteld en ingericht, bijgesteld en zo
 lerend ontwikkeld, zodat anderen daarop kunnen voortbouwen.
 
-### open en transparante uitkomsten
+### Open en transparante uitkomsten
 
 Data, algoritmen en technologie zijn navolgbaar, herleidbaar en begrijpelijk.
 Binnen de usecases worden data en datasets gevormd, gebruikt, bewerkt,
-doorgegeven. Data(sets) die uitgewisseld worden, daarvan is duidelijk hoe deze
+doorgegeven. [Data(sets)](#data-datasets-en-metadata) die uitgewisseld worden, daarvan is duidelijk hoe deze
 in de opeenvolgende processtappen zijn ontstaan zodat de oorsprong herleidbaar
 is.
 
@@ -150,7 +149,7 @@ Doelgerichtheid ziet toe op het doeltreffend en toepasbaar ontwerpen van het
 DSGO. Voor elke usecase worden data, algoritmen, voorzieningen en technologie
 doelgericht ingezet. De data die wordt vastgelegd en doorgegeven is nodig voor
 het doel en wordt daarom gericht vastgelegd en bewust gebruikt door een andere
-belanghebbende. Dit geldt extra voor privacy-gevoelige informatie.
+belanghebbende. Dit geldt extra voor privacy gevoelige informatie.
 
 In het kader van de energietransitie stimuleren is gebruik van gebruiksdata over
 energie mogelijk terug te voeren op het gedrag van de bewoner/ huurder en

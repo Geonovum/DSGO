@@ -1,13 +1,16 @@
-Samenvatting
+Conclusies en vervolg
 ============
 
 Het publiek belang en de publieke waarden zijn de basisprincipes voor
-sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data.
-De volgende uitgangspunten, randvoorwaarden en eisen komen voort uit de
-ontwerpprincipes en dataprincipes zoals in voorgaande hoofdstukken beschreven.
+sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data. Samen met de dataprincipes, resulteert dit in de volgende uitgangspunten, randvoorwaarden en eisen, zoals in voorgaande hoofdstukken beschreven.
 
-Uitgangspunten
+Conclusies
 --------------
+*nog in te vullen* 
+
+
+
+**Uitgangspunten**
 
 -   Afsprakenstelsel DSGO: Samen met de sector co-creëren van een samenhangende set afspraken op business, functioneel, operationeel, juridisch en technisch gebied, om gemakkelijker gebruik te kunnen maken van elkaars data.
 
@@ -19,9 +22,8 @@ Die geven richting aan het ontwerpen, onderhouden en toepassen van de processen 
 Het is onmogelijk om al deze standaarden te harmoniseren op semantiek, 
 daarom stellen we de standaarden van Forum Standaardisatie als uitgangspunt vast.
 
--   Datasets laten we bij de bron.
-DSGO catalogiseert metadata die die datasets beschrijven, maar verzorgt niet de toegang zelf: 
-dat wordt bepaald bij de bron.
+-   Datasets bij de bron.
+DSGO beschrijft de afspraken waaronder de toegamg tot de bron wordt verleend, de toegang wordt bij de bron bepaald. Het DGSO catalogiseert metadata die de datasets beschrijven.
 
 -   Metadata van datasets is vrij opvraagbaar bij het digitaal stelsel.
 Uitgangspunt voor data-aanbieders zou eveneens moeten zijn dat de datasets zelf vrij beschikbaar zijn, tenzij zwaarwegende factoren dat onpraktisch of onmogelijk maken.
@@ -30,8 +32,7 @@ Uitgangspunt voor data-aanbieders zou eveneens moeten zijn dat de datasets zelf 
 Zo maken we mogelijk dat systemen direct op DSGO aansluiten.
 Ook voor data zelf geldt dat het schema ervan beschreven en vrij beschikbaar is. 
 
-Randvoorwaarden
----------------
+**Randvoorwaarden**
 
 -   Mapping-table à la CB-NL om semantisch te linken voor gebruikers.
 
@@ -40,8 +41,7 @@ Randvoorwaarden
 -   Aangeboden datasets worden aangeleverd met een juiste, volledige en uitgebreide metadatabeschrijving.
 Die aanlevering en de toegang tot de dataset zijn via API-service geregeld. (Of is dit een eis?)
 
-Eisen
------
+**Eisen**
 
 -   Afspraken over/voor Standaarden zijn slechts nodig op het grensvlak ten
     behoeve van uitwisselbaarheid en koppelbaarheid en hergebruik van data uit
@@ -49,7 +49,7 @@ Eisen
     identificering van gegevens, historie en levensduur, uitwisselprotocol
     (techniek), metadata-standaarden.
 
--   API op (meta)data(set) services
+-   API op (meta)data(set) services en directe toegang tot de Linked Data waar mogelijk.
 
 -   Gebruik van open standaarden en richtlijnen in de sector die er al zijn,
     benutting van wat er al is inclusief bijbehorende kennis en expertise. Het
@@ -66,7 +66,7 @@ Eisen
     niet, dan worden processen opgestart om die bij te werken volgende de
     geldende regelgeving. Daarbij geldt dat:
 
--   architecten, ingenieursbureaus en bouwbedrijven en aannemers gebruiken de
+-   Architecten, ingenieursbureaus en bouwbedrijven en aannemers gebruiken de
     informatie uit de basisregistraties als uitgangspunt voor hun ontwerp en
     doen waar nodig meldingen waar de info niet juist is.
 
@@ -74,3 +74,7 @@ Eisen
     en zorgt voor aanpassing van de geobasisregistraties, op basis van de
     informatie uit het digitaal bouwwerkdossier. Daarbij gebruiken alle partijen
     de voorzieningen van de Geobasisregistraties.
+    
+    Vervolg
+    -------
+    *nog in te vullen* 
