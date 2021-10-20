@@ -41,12 +41,11 @@ aanbieden op het platform. Zo komt vraag en aanbod bij elkaar op dit platform.
 ### Data 
 
 In het platform worden de gegevens van de Basisregistratie Adressen en Gebouwen
-als basis gebruikt, denk aan gebruiksoppervlakte, bouwjaar.
-
-Op basis van daarvan wordt een eerste profiel van de woning samengesteld.
+als basis gebruikt, denk aan gebruiksoppervlakte, bouwjaar. Op basis van daarvan
+wordt een eerste profiel van de woning samengesteld.
 
 Woningeigenaren krijgen verder een aantal aanvullende vragen om hun woning
-verder te configureren: heeft de woning vloer/gevel, welke verwarmingstype etc.?
+verder te configureren: heeft de woning vloer/gevel, welke verwarmingstype etc.
 Deze aanvullende gegevens zijn niet landelijk in overheidsdata beschikbaar.
 
 Met de nog-te-ontwikkelen-functionaliteit van Woonconnect wordt het zelfs
@@ -70,8 +69,8 @@ Op basis van het gesprek over ervaringen bij de ontwikkeling van het Landelijk
 Digitaal Platform kunnen de volgende aandachtspunten, eisen, best practices,
 ofwel aanbevelingen worden meegegeven aan de ontwikkeling van het DSGO:
 
-1.  **Maak goede afspraken over wie eigenaar wordt van in het platform/stelsel
-    gegenereerde data.**
+**Maak goede afspraken over wie eigenaar wordt van in het platform/stelsel
+gegenereerde data.**
 
 In het LDP ontstaan extra gegevens over de betreffende woning door invoer van
 woningeigenaar middels de configuratietools.
@@ -94,8 +93,8 @@ functionaliteit van een systeem in een ander systeem niet 1:1 uitgevoerd kan
 worden, omdat er geen afspraken zijn gemaakt over wie eigenaar is van de
 broncode.
 
-1.  **Maak afspraken voor welke toepassingen hergebruik van in het
-    platform/stelsel gegenereerde data toegestaan is.**
+**Maak afspraken voor welke toepassingen hergebruik van in het platform/stelsel
+gegenereerde data toegestaan is.**
 
 De data in het LDP worden verzameld om energiebesparende maatregelen te
 berekenen en te kunnen realiseren. Er ontstaan veel gegevens die ook interessant
@@ -111,8 +110,8 @@ boetes op gaan leggen als later blijkt dat wet- en regelgeving (privacy) is
 geschonden. Regie op gegevens en doelbinding zijn dus cruciaal voor vertrouwen
 van tussen woningeigenaar en overheid, en overheden onderling.
 
-1.  **Stel best practices op voor de toepassing van wetgeving op een data
-    platform.**
+**Stel best practices op voor de toepassing van wetgeving op een data
+platform.**
 
 Wetgeving (AVG) blijkt belemmerend bij het realiseren van een stelsel/platform
 waarin ook persoonsgegevens worden toegepast.
@@ -133,7 +132,7 @@ boetes staan op het schenden van deze wet- en regelgeving.
 >   van Loenen en Marc de Vries:*
 >   <https://ibestuur.nl/podium/avg-hoeft-open-bag-data-niet-in-de-weg-te-staan>
 
-1.  **Zorg voor een overheidsbrede toolbox met standaard componenten.**
+**Zorg voor een overheidsbrede toolbox met standaard componenten.**
 
 We bedoelen hiermee dat een aantal basistools voor bijvoorbeeld authenticatie,
 autorisatie en machtigingen beschikbaar en bekend zijn. Voor het LDP is iShare
