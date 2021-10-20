@@ -21,7 +21,7 @@ De bouwer moet aan consument-opdrachtgevers een ‘Consumentendossier’ leveren
 Tegelijk met de introductie van de Wkb worden ook enkele bepalingen in het Burgerlijk Wetboek aangepast. De definitie van “verborgen gebrek” is uitgebreid: de bouwer is gedurende langere tijd aansprakelijk voor alle bouwfouten die bij de oplevering niet zijn ontdekt. Daarmee wordt de aansprakelijkheid van het bouwbedrijf aanzienlijk uitgebreid. Deze uitgebreide aansprakelijkheid gaat gelden voor álle bouwwerken, dus niet net als bij de Wbk in eerste instantie alleen voor bouwwerken van de laagste risicocategorie.
 
 
-### Transparante informatievoorziening en -uitwisseling
+### Transparantie
 
 De opdrachtgever/vergunninghouder heeft groot belang bij een correct “Digitaal Dossier Bevoegd Gezag” waaruit blijkt dat aan de regelgeving wordt voldaan. Is dat dossier niet op orde, dan loopt de opdrachtgever/vergunninghouder het risico dat het bevoegd gezag de gebruiksvergunning weigert. Daarnaast wil de opdrachtgever/vergunninghouder bewijs (of een verantwoording) dat aan zijn eigen vraagspecificatie is voldaan.
 
