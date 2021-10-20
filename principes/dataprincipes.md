@@ -174,6 +174,7 @@ die in andere systemen zijn opgeslagen.
 >   op de fysieke leef- cq. gebouwde omgeving.
 
 **Figuur: data.overheid.nl**
+
 ![](media/1baad1a873819844057d99d93f018065.png)
 
 
@@ -194,7 +195,9 @@ die in andere systemen zijn opgeslagen.
 >   over de kwaliteit (o.m actualiteit).
 
 **Figuur: Het Nationaal Geo Register (NGR)**
+
 ![](media/36416e98132988ee2c688ba67671ba60.png)
+
 
 We zien voor ons dat één van de functies van het DSGO deze catalogus-functie is.
 Deze catalogus-functie is een belangrijk voor de goede vindbaarheid van
