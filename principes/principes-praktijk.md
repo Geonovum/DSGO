@@ -61,7 +61,7 @@ energieverbruiksgegevens zijn aangeduid als persoongegevens en kunnen daarmee
 alleen na toestemming van woningeigenaar aan het platform beschikbaar worden
 gesteld. (machtiging)
 
-**Figuur: Energie besparen en je huis verduurzamen met verbeterjehuis.nl**
+**Figuur: Verbeterjehuis.nl voorbeeld van een landelijk digitaal platform**
 
 ![](media/100f4c15bfe5ad15824f29605f300268.png)
 
@@ -74,10 +74,10 @@ ofwel aanbevelingen worden meegegeven aan de ontwikkeling van het DSGO:
 **Maak goede afspraken over wie eigenaar wordt van in het platform/stelsel
 gegenereerde data.**
 
-In het LDP ontstaan extra gegevens over de betreffende woning door invoer van
+In het Landelijk Digitaal Platform ontstaan extra gegevens over de betreffende woning door invoer van
 woningeigenaar middels de configuratietools.
 
-Belangrijk is om goede afspraken te maken over
+Belangrijk is om goede afspraken te maken over:
 
 -   Waar de data wordt opgeslagen, en hoe deze wordt teruggeleverd. Wordt de
     data opgeslagen bij de marktpartij die de ICT van het platform/stelsel
@@ -87,7 +87,7 @@ Belangrijk is om goede afspraken te maken over
 
 -   Wie eigenaar wordt van de nieuw gegeneerde gegevens? Is dat de
     woningeigenaar, marktpartij die het systeem voor het platform/stelsel
-    ontwikkeld eo beheerd, of opdrachtgever BZK?
+    ontwikkeld en/ of beheerd, of is dat opdrachtgever BZK?
 
 N.B. Niet onbelangrijk is om ook afspraken te maken over de broncode van het
 systeem/platform zelf. Het zal niet de eerste keer zijn dat de integratie van de
@@ -98,7 +98,7 @@ broncode.
 **Maak afspraken voor welke toepassingen hergebruik van in het platform/stelsel
 gegenereerde data toegestaan is.**
 
-De data in het LDP worden verzameld om energiebesparende maatregelen te
+De data in het Landelijk Digitaal Platform worden verzameld om energiebesparende maatregelen te
 berekenen en te kunnen realiseren. Er ontstaan veel gegevens die ook interessant
 kunnen zijn voor andere toepassingen. Niet zonder meer mogen deze gegevens dan
 ook voor deze toepassing worden gebruikt. Het uitgangspunt van doelbinding is,
@@ -122,14 +122,14 @@ Er bestaat soms onduidelijkheid, en als gevolg daarvan zijn overheden
 terughoudend om een volgende stap te durven zetten. Te meer omdat er forse
 boetes staan op het schenden van deze wet- en regelgeving.
 
--   Het is dus nodig om te zorgen voor meer duidelijkheid in wat wel en niet
+Het is dus nodig om te zorgen voor meer duidelijkheid in wat wel en niet
     mag. Aanbeveling is om een aantal (overheidsbrede) best practices inzake
-    wet- en regelgeving gerelateerd aan o.m. AVG als leidraad te verzamelen of
+    wet- en regelgeving gerelateerd aan ondermeer AVG als leidraad te verzamelen of
     op te stellen voor de ontwikkeling van data platforms of digitale stelsel.
     Het scheelt veel uitzoekwerk, geeft houvast, en kan daarmee de ontwikkeling
     van dergelijke platforms en stelsels versnellen.
 
->   *Voorbeeld: Is een adres nu een persoonsgegeven of een objectgegeven? Lees
+>   **Voorbeeld:** Is een adres nu een persoonsgegeven of een objectgegeven? Lees
 >   het artikel van experts op gebied van privacy en open (geo)data, Bastiaan
 >   van Loenen en Marc de Vries:*
 >   <https://ibestuur.nl/podium/avg-hoeft-open-bag-data-niet-in-de-weg-te-staan>
