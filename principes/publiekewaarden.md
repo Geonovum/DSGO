@@ -107,27 +107,27 @@ en de onderliggende data.
 
 ### Inclusiviteit
 
-Inclusiviteit houdt in dat zorgvuldig omgegaan wordt met de belangen van alle
-belanghebbenden. Het zorgt ervoor dat alle belanghebbenden input kunnen geven.
+Er wordt zorgvuldig omgegaan wordt met de belangen van alle
+belanghebbenden. Dit houdt in dat de data waarover afspraken gemaakt worden de werkelijkheid weerspiegelen. Afspraken die gemaakt worden gaan soms over een kleine groep die niet aan tafel zit. Voorkomen moet worden dat groepen worden buitengesloten of dat data verkeerd wordt geinterpreteerd of dat verkeerde berekeningen worden toegepast.
+
 Een onafhankelijke voorzitter is daarin een pré. Die zorgt ervoor dat in het
 proces van belangenafweging eventuele tegengestelde belangen en
 minderheidsbelangen meegenomen worden. Voor elke usecase wordt bijvoorbeeld
-nagegaan of alle betrokkenen aan boord zijn of vertegenwoordigd zijn, voor het
+nagegaan of alle doelgroepen aan boord zijn of vertegenwoordigd zijn, voor het
 uitwerken van de usecase, met bijzondere aandacht voor de positie van burgers.
 
 In het kader van circulariteit en bouwkwaliteit is het bijvoorbeeld van belang
-burgers te betrekken. Zolang hun woning goed functioneert is er niets aan de
+burgers te betrekken. Zolang hun woning geen mankementen vertoont is er niets aan de
 hand. Op het moment dat er duidelijk problemen blijken te zijn met bepaalde
-materialen of producten, dan willen burgers graag weten of deze materialen of
-producten in hun woning verwerkt zijn.
+materialen of producten, zoals problemen met het beton (betonrot, constructiefouten in overhangende balkons), dan willen burgers graag weten of procesfouten of gebrekkige producten in hun woning verwerkt zijn. Zij behoren hierover actief geinformeerd te worden.
 
->   **Randvoorwaarde:** Maak de ontwikkeling van het DSGO inclusief, zodat de belangen
->   van alle stakeholders zorgvuldig aan bod komen bij elke usecase. De inzet van
+>   **Randvoorwaarde:** Maak de ontwikkeling van het DSGO inclusief, zodat er geen groepen worden buitengesloten door de manier waar op de afspraken gemaakt worden over het delen van data. De belangen
+>   van alle stakeholders zijn in beeld bij elke usecase. De inzet van
 >   een onafhankelijk voorzitter is daarbij een aanrader.
 
 ### Rechtvaardigheid
 
-Rechtvaardigheid ziet toe op het eerlijk behandelen van elke belanghebbende. Dat
+Alle belanghebbenden verlangen een eerlijke en gelijke behandeling. Dat
 houdt in dat de gemaakte afspraken en spelregels eerlijk worden toegepast in
 elke situatie zonder ‘aanziens des persoons’. In de context van het DSGO is
 daarbij een eerlijke en volledige weergave van feiten gebaseerd op data
@@ -162,14 +162,14 @@ een wijk verzameld worden, maar niet meer terug te voeren zijn op een adres.
 
 ### Betrokkenheid
 
-In aanvulling op inclusiviteit (iedereen die er toe doet is betrokken) ziet
+In aanvulling op inclusiviteit (iedereen die er toe doet is in beeld) ziet
 betrokkenheid erop toe dat alle belanghebbenden input geven op de inrichting van
 een usecase, en zijn er ‘checks en balances’ om toe te zien op de naleving van
-de afspraken. Voor het DSGO geldt specifiek dat voor elke afspraak waarin
+de afspraken. Laat partijen die data inbrengen, ook de burger, dan ook in cocreatie meedenken in het ontwerpen van de afspraken voor datauitwisseling. 
+Voor het DSGO geldt specifiek voor elke afspraak waarin
 informatie wordt vastgelegd en beschikbaar gemaakt, of dit verplicht of
 optioneel is en dat partijen individueel of via hun brancheorganisatie zich
-verplichten daaraan te houden. In deze afspraken kunnen ook overgangstermijnen
-worden vastgelegd.
+daaraan houden. Door betrokkenheid te creeren ontstaat ook het commitment om je aan de afspraken te houden.
 
 In het kader van het optimaleren van circulariteit is het bijvoorbeeld van
 belang dat alle toeleveranciers hun productinformatie ter beschikking stellen,
@@ -177,18 +177,15 @@ zodat een compleet beeld wordt verkregen van een gebouw. Het gebouwdossier wordt
 daarmee compleet, waarop in de toekomst zinvolle besluiten mogelijk zijn over
 hergebruik van materialen na ontmanteling van het bouwwerk.
 
->   **Randvoorwaarde:** Voor elke usecase worden de afspraken met alle betrokkenen
->   gemaakt en vastgelegd. Onderdeel van de afspraak is duidelijkheid over het
->   verplichtende karakter en de manier waarop toezicht wordt gehouden over de
->   naleving ervan.
+>   **Randvoorwaarde:** Voor elke usecase worden de afspraken met alle direct betrokkenen
+>   gemaakt en vastgelegd. Dat geldt in het bijzonder voor partijen die de data ter beschikking stellen. 
 
 ### Controleerbaarheid
 
-Dit principe ziet toe op het organiseren van menselijke controle en
-interventiemacht in geautomatiseerde beeld-, oordeels- en
-besluitvormingsprocessen. Naarmate meer en meer informatie geautomatiseerd
-beschikbaar is, kan de menselijke maat over het hoofd gezien worden, of
-belangrijke details vergeten worden.
+In de geautomatiseerde beeld-, oordeels- en
+besluitvormingsprocessen wordt menselijke controle en de mogelijkheid tot interventie georganiseerd.
+Zorgvuldigheid en de menselijke maat is een belangrijk criterium als we de werking van afspraken beoordelen. Naarmate meer en meer informatie geautomatiseerd beschikbaar is, kan de menselijke maat over het hoofd gezien worden, of
+belangrijke details vergeten worden. Vandaar dat menselijk ingrijpen altijd mogelijk moet zijn.
 
 In het kader van het optimaliseren van logistieke processen in de bouw is het
 bijvoorbeeld van belang om onverwachte gebeurtenissen, zoals vertragingen in
