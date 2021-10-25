@@ -211,7 +211,7 @@ opgevraagd.
 
 >   **Eis:** Het DSGO fungeert onder meer als een doorzoekbare catalogus c.q.
 >   register met gedistribueerde data(sets) over de gebouwde omgeving.
->   Bijvoorbeeld Gebouwdossier, Energielabels, en geobasisregistraties.
+>   Bijvoorbeeld Gebouwdossier, Energie labels, en geo-basisregistraties.
 
 *Bijkomend voordeel is dat je alleen afspraken maakt over de koppelvlakken
 (uitwisselbaarheid) en niet over de inhoud (gegevens) zelf.*
@@ -490,7 +490,7 @@ DSGO draagt zorg dat onjuistheden en onvolkomenheden van de data worden doorgege
 **R2. (Meta)data worden vrijgegeven met een duidelijke en toegankelijke
 datagebruikslicentie**
 
-In het DSGO worden met een datagebruikslicentie voorwaarden oplegd wie welke
+In het DSGO worden met een datagebruikslicentie voorwaarden opgelegd wie welke
 gegevens voor welke doel mag gebruiken.
 
 Wie (geo-)informatie van een ander gebruikt, moet weten of daarvoor voorwaarden
