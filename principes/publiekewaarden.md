@@ -216,6 +216,10 @@ ontstaat.
 >   deze belanghebbenden kunnen vervolgens afspraken worden gemaakt om de data(set),
 >   standaard, algoritme of voorziening FAIR te kunnen (her)gebruiken.
 
+>   **Uitgangspunt:** Samen met de sector co-creëren van een samenhangende set 
+>   afspraken op business, functioneel, operationeel, juridisch en technisch gebied, 
+>   om gemakkelijker gebruik te kunnen maken van elkaars data. 
+
 ### Informatieveiligheid
 
 Informatieveiligheid houdt in dat er maatregelen getroffen zijn om er voor te
