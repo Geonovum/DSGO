@@ -161,6 +161,10 @@ leveranciers, bronhouders, Kadaster, VNG-R, Ministerie van BZK).”*
 >   uitwisseling van gegevens over de gebouwde omgeving tussen organisaties, en
 >   geen landelijk registratiesysteem.
 
+>   **Uitgangspunt:** DSGO beschrijft de afspraken waaronder de toegang tot de datasets bij de bron 
+>   wordt verleend, de toegang wordt bij de bron bepaald. Het DGSO catalogiseert 
+>   metadata die de datasets beschrijven.
+
 Om het bevragen van ‘data bij de bron’ mogelijk te maken, moet er op een manier
 kenbaar gemaakt worden dat deze data bestaat. Ofwel: om (meta)data(sets) te
 kunnen vinden, moet er een bronsysteem zijn, waarin deze (meta)data(sets) zijn
