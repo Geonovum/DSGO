@@ -8,6 +8,8 @@ Conclusies
 --------------
 *nog in te vullen* 
 
+Het DSGO baseren we op publieke waarden die de samenleving reflecteren. Deze publieke waarden zijn concreet gemaakt in acht ontwerpprincipes. Die geven richting aan het ontwerpen, onderhouden en toepassen van de processen en afspraken die door het DSGO ondersteund worden.
+
 
 
 **Uitgangspunten**
