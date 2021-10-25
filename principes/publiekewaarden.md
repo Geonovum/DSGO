@@ -89,7 +89,7 @@ van de genoemde use cases.
 ### Open en transparante uitkomsten
 
 Data, algoritmen en technologie zijn navolgbaar, herleidbaar en begrijpelijk.
-Binnen de usecases worden data en datasets gevormd, gebruikt, bewerkt,
+Binnen de use cases worden data en datasets gevormd, gebruikt, bewerkt,
 doorgegeven. [Data(sets)](#data-datasets-en-metadata) die uitgewisseld worden, daarvan is duidelijk hoe deze
 in de opeenvolgende processtappen zijn ontstaan zodat de oorsprong herleidbaar
 is.
@@ -101,7 +101,7 @@ kwaliteitscontroles goed zijn uitgevoerd. Mocht er ergens een probleem mee zijn,
 dan kan altijd teruggezocht worden naar de oorsprong van de kwaliteitscontrole
 en de onderliggende data.
 
->   **Eis:** Usecases leggen voor elke data(set) die tussen partijen uitgewisseld wordt,
+>   **Eis:** Use cases leggen voor elke data(set) die tussen partijen uitgewisseld wordt,
 >   vast wat de oorsprong van deze dataset is en welke bewerkingen deze heeft
 >   ondergaan.
 
@@ -112,9 +112,9 @@ belanghebbenden. Dit houdt in dat de data waarover afspraken gemaakt worden de w
 
 Een onafhankelijke voorzitter is daarin een pré. Die zorgt ervoor dat in het
 proces van belangenafweging eventuele tegengestelde belangen en
-minderheidsbelangen meegenomen worden. Voor elke usecase wordt bijvoorbeeld
+minderheidsbelangen meegenomen worden. Voor elke use case wordt bijvoorbeeld
 nagegaan of alle doelgroepen aan boord zijn of vertegenwoordigd zijn, voor het
-uitwerken van de usecase, met bijzondere aandacht voor de positie van burgers.
+uitwerken van de use case, met bijzondere aandacht voor de positie van burgers.
 
 In het kader van circulariteit en bouwkwaliteit is het bijvoorbeeld van belang
 burgers te betrekken. Zolang hun woning geen mankementen vertoont is er niets aan de
@@ -122,7 +122,7 @@ hand. Op het moment dat er duidelijk problemen blijken te zijn met bepaalde
 materialen of producten, zoals problemen met het beton (betonrot, constructiefouten in overhangende balkons), dan willen burgers graag weten of procesfouten of gebrekkige producten in hun woning verwerkt zijn. Zij behoren hierover actief geinformeerd te worden.
 
 >   **Randvoorwaarde:** Maak de ontwikkeling van het DSGO inclusief, zodat er geen groepen worden buitengesloten door de manier waar op de afspraken gemaakt worden over het delen van data. De belangen
->   van alle stakeholders zijn in beeld bij elke usecase. De inzet van
+>   van alle stakeholders zijn in beeld bij elke use case. De inzet van
 >   een onafhankelijk voorzitter is daarbij een aanrader.
 
 ### Rechtvaardigheid
@@ -140,12 +140,12 @@ afkeuringen eerder in de keten zijn ontstaan, zodat de oplevering van het
 bouwwerk goedgekeurd kan worden door de gemeente. Dit is van belang zowel voor
 de gemeente als voor de toekomstig eigenaar en beheerder.
 
->   **Eis:** Ontwerp elke usecase binnen het DSGO rechtvaardig, zodat alle
+>   **Eis:** Ontwerp elke use case binnen het DSGO rechtvaardig, zodat alle
 >   belanghebbenden een eerlijke en volledige weergave van de feiten kunnen inzien.
 
 ### Doelgerichtheid
 
-Data wordt uitgewisseld met een bepaald doel. De gebruikers mogen de data niet zondermeer voor een ander doel gebruiken. Er is sprake van doelbinding. Voor elke usecase worden data, algoritmen, voorzieningen en technologie
+Data wordt uitgewisseld met een bepaald doel. De gebruikers mogen de data niet zondermeer voor een ander doel gebruiken. Er is sprake van doelbinding. Voor elke use case worden data, algoritmen, voorzieningen en technologie
 met een specifiek doel gebruikt. De data die wordt vastgelegd en doorgegeven is nodig voor
 een specifiek doel en wordt daarom geregistreerd en bewust gebruikt ook door andere
 belanghebbenden. Dit geldt extra voor privacy gevoelige informatie.
@@ -156,7 +156,7 @@ daarmee privacy gevoelig. Deze informatie mag daarom alleen gebruikt worden door
 de bewoner zelf, na zijn toestemming of voor een analyse waarin de gegevens voor
 een wijk verzameld worden, maar niet meer terug te voeren zijn op een adres.
 
->   **Eis:** Ontwerp elke usecase binnen het DSGO doelgericht, zodat de uit te
+>   **Eis:** Ontwerp elke use case binnen het DSGO doelgericht, zodat de uit te
 >   wisselen data geschikt en voldoende is voor het doel, waarvoor de informatie
 >   nodig is.
 
@@ -164,7 +164,7 @@ een wijk verzameld worden, maar niet meer terug te voeren zijn op een adres.
 
 In aanvulling op inclusiviteit (iedereen die er toe doet is in beeld) ziet
 betrokkenheid erop toe dat alle belanghebbenden input geven op de inrichting van
-een usecase, en zijn er ‘checks en balances’ om toe te zien op de naleving van
+een use case, en zijn er ‘checks en balances’ om toe te zien op de naleving van
 de afspraken. Laat partijen die data inbrengen, ook de burger, dan ook in cocreatie meedenken in het ontwerpen van de afspraken voor datauitwisseling. 
 Voor het DSGO geldt specifiek voor elke afspraak waarin
 informatie wordt vastgelegd en beschikbaar gemaakt, of dit verplicht of
@@ -177,7 +177,7 @@ zodat een compleet beeld wordt verkregen van een gebouw. Het gebouwdossier wordt
 daarmee compleet, waarop in de toekomst zinvolle besluiten mogelijk zijn over
 hergebruik van materialen na ontmanteling van het bouwwerk.
 
->   **Randvoorwaarde:** Voor elke usecase worden de afspraken met alle direct betrokkenen
+>   **Randvoorwaarde:** Voor elke use case worden de afspraken met alle direct betrokkenen
 >   gemaakt en vastgelegd. Dat geldt in het bijzonder voor partijen die de data ter beschikking stellen. 
 
 ### Controleerbaarheid
@@ -195,7 +195,7 @@ noodzakelijk, zowel op de verstrekte gegevens, als op de manier waarop
 kwaliteitscontroles zijn uitgevoerd. Audits zijn een manier om de werking van
 het kwaliteitssysteem van betrokken partijen periodiek te controleren.
 
->   **Eis:** ontwerp elke usecase zo dat er kan worden ingegrepen in de
+>   **Eis:** ontwerp elke use case zo dat er kan worden ingegrepen in de
 >   geautomatiseerde processen.
 
 ### Soevereiniteit
@@ -212,7 +212,7 @@ ontstaat.
 >   **Uitgangspunt:** binnen het DSGO wordt bepaald welke belanghebbende (in
 >   juridische termen natuurlijke persoon of rechtspersoon) eigenaar is en/of
 >   zeggenschap en controle uitoefent over en/of gebruik maakt van de data(set),
->   standaard, algoritme of voorziening die van belang zijn binnen de usecases. Met
+>   standaard, algoritme of voorziening die van belang zijn binnen de use cases. Met
 >   deze belanghebbenden kunnen vervolgens afspraken worden gemaakt om de data(set),
 >   standaard, algoritme of voorziening FAIR te kunnen (her)gebruiken.
 
@@ -228,7 +228,7 @@ heeft (transparantie en provenance).
 >   **Eis:** Binnen het DSGO worden maatregelen getroffen om de integriteit te
 >   waarborgen.
 
->   **Eis:** Het DSGO voorziet in autorisatie en athenticatiemogelijkheden, zodat alleen
+>   **Eis:** Het DSGO voorziet in autorisatie- en authenticatiemogelijkheden, zodat alleen
 >   de rechthebbenden inzage krijgen in de data(sets) die uitgewisseld worden.
 
 >   **Eis:** Het DSGO geeft transparant weer wat de bron is van elke dataset en welke
