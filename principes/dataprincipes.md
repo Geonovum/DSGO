@@ -11,7 +11,7 @@ Welke afspraken zijn nodig om databronnen over de gebouwde omgeving te
 ontsluiten? Welke principes pas je toe om gecontroleerde toegang tot deze
 bronnen te geven? Welke afspraken zijn er op technisch en organisatorisch vlak
 nodig om er voor te zorgen dat gegevens tussen verschillende organisaties die
-opereren in het stelsel uitgewisseld kunnen worden? Welke principes pas je toe
+opereren in het stelsel, uitgewisseld kunnen worden? Welke principes pas je toe
 om de veiligheid van de gegevens in het stelsel te waarborgen, ook met het oog
 op eigendom en privacy? En dat de gegevens (her)bruikbaar zijn: aansluiten bij
 de behoefte zowel vraag als aanbod van de verschillende organisaties?
@@ -59,11 +59,11 @@ Zodoende zijn datasets of informatie over datasets door de tijd heen vindbaar en
 In Nederland (en internationaal) wordt gewerkt aan het [Unieke Object
 Identificator
 (UOI)](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie) systeem
-voor toegang tot informatie over een nieuwe en bestaande gebouwen of de gebouwde
+voor toegang tot informatie over een nieuwe en bestaande bouwwerken of de gebouwde
 omgeving die in verschillende databases zijn opgeslagen. Het UOI dient als een
 digitale sleutel waarmee je op basis van je rol en toegangsrechten informatie
-over gebouwen en objecten in de gebouwde omgeving kunt raadplegen. Daarmee kan
-specifieke informatie over een gebouw, verdieping, kamer of raamkozijn worden
+over bouwwerken en objecten in de gebouwde omgeving kunt raadplegen. Daarmee kan
+bijvoorbeeld specifieke informatie over een gebouw, verdieping, kamer of raamkozijn worden
 geraadpleegd op basis van [rollen en toegangsrechten](https://fibree.org/uoi-nl/).
 
 Het ‘systeem’ als gedachte is ontwikkeld binnen de bouw- en vastgoedsector. De
@@ -87,7 +87,7 @@ standaarden in de bouw- en geo-sector en de ontwikkelingen rond
 objectidentificatie in de fysieke leefomgeving. Ten tijde van het schrijven dit
 rapport is er een concept onderzoeksrapport over UOI.
 
->   **Eis:** De data die het DSGO beschrijft zijn identificeerbaar aan de hand
+>   **Eis:** De data die het DSGO ontsluit, zijn identificeerbaar aan de hand
 >   van een
 >   [UOI](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie).
 >   Elke dataset verwijst/beschrijft naar één of meerdere UOI's -- en is zelf
@@ -103,10 +103,23 @@ contactgegevens van de organisatie die de gegevens beschikbaar stelt (herkomst),
 gegevens over hoe de informatie is ingewonnen en met welke kwaliteit, of
 gegevens over het intellectueel eigendom en toepassing om de data voor bepaalde
 toepassingen te gebruiken (licentie).
+In de NEN-EN-ISO 19650-serie, de internationale normenserie voor (digitaal) 
+informatiemanagement in de levenscyclus van bouwwerken, wordt ervan uitgegaan dat 
+projectpartners in een projectcontext data(sets) uitwisselen via een Common Data 
+Environment (CDE). De omschrijving van CDE in de normenserie is zodanig, dat het 
+kan gaan om zowel een centraal als een gedistribueerd systeem. In een situatie 
+waarin informatie over een bouwwerk in een itererend proces met verschillende 
+projectpartners wordt ontwikkeld, is accurate metadata over de status van data(sets) 
+die op de CDE worden geplaatst, essentieel. Volgens de NEN-EN-ISO 9001 moet daarbij
+onderscheid worden gemaakt naar:
+- werk in uitvoering;
+- informatie/data die is vrijgegeven om te delen met andere projectpartners;
+- informatie/data die is vrijgegeven voor gebruik in een volgende projectfase of voor asset management;
+- gearchiveerdee informatie/data. 
 
 >   **Eis:** Van elk gegeven in het DSGO is meta-informatie over onder meer de
->   herkomst, kwaliteit en gebruik (licentie + toepassing) beschikbaar. De wijze
->   van metadatering sluit aan bij vigerende (inter)nationale standaarden voor
+>   herkomst, kwaliteit, status en gebruik (licentie + toepassing) beschikbaar. De wijze
+>   van metadatering sluit aan bij vigerende (inter)nationale standaarden voor informatiemanagement en 
 >   metadata. Ook de wijze van toegang, de gebruikte gegevensformaten en
 >   schema’s worden beschreven in de metadata van een dataset.
 
@@ -140,8 +153,11 @@ veelvuldig kopiëren en opslaan van dezelfde gegevens op verschillende plekken.
 Bij het veelvuldig kopiëren en opslaan van dataset kunnen de kopieën in systemen
 in de tijd uit de pas gaan lopen (asynchroniteit) wat kan leiden tot
 verschillende resultaten (inconsistenties) bij het gebruik van deze gegevens.
+In een projectcontext kan het kopiëren en decentraal opslaan van datasets ertoe 
+leiden dat projectpartners voortborduren op inmiddels verouderde informatie (een
+veel voorkomende oorzaak van faalkosten in de bouw).
 
-Dit uitgangspunt van ‘data bij de bron’ wordt ook gehanteerd in de [Beleidsvisie
+Het uitgangspunt van ‘data bij de bron’ wordt ook gehanteerd in de [Beleidsvisie
 Samenhangende
 Objectenregistratie](https://www.geobasisregistraties.nl/documenten/beleidsnota/2019/11/29/beleidsvisie-samenhangende-objectenregistratie)[^3]
 van het ministerie van BZK en successievelijk de
@@ -154,7 +170,7 @@ mogelijk uit kan gaan van één loket. Een belangrijk aandachtspunt hierbij is h
 gebeurtenis georiënteerd werken (nader uit te werken). Of de bronhouders
 gedistribueerd en decentraal werken of direct inwinning en bijhouding in een (of
 meerdere) voorziening(en) uitvoeren via gestandaardiseerde services moet nader
-bepaald worden (nadere uitwerking in kader van DiS GEO/beleidsvisie:
+worden bepaald (nadere uitwerking in kader van DiS GEO/beleidsvisie:
 leveranciers, bronhouders, Kadaster, VNG-R, Ministerie van BZK).”*
 
 >   **Uitgangspunt:** het DSGO is een set uniforme afspraken voor de
@@ -166,16 +182,16 @@ leveranciers, bronhouders, Kadaster, VNG-R, Ministerie van BZK).”*
 >   metadata die de datasets beschrijven.
 
 Om het bevragen van ‘data bij de bron’ mogelijk te maken, moet er op een manier
-kenbaar gemaakt worden dat deze data bestaat. Ofwel: om (meta)data(sets) te
+kenbaar worden gemaakt dat deze data bestaat. Ofwel: om (meta)data(sets) te
 kunnen vinden, moet er een bronsysteem zijn, waarin deze (meta)data(sets) zijn
-geregistreerd of geïndexeerd, en welke mensen en systemen kunnen doorzoeken.
+geregistreerd of geïndexeerd en die mensen en systemen kunnen doorzoeken.
 Deze doorzoekbare bron fungeert als een soort van catalogus van (meta)data(sets)
 die in andere systemen zijn opgeslagen.
 
 
->   **Voorbeeld:** Het [Dataregister van de Nederlandse Overheid](https://data.overheid.nl/) ondersteunt het zoeken van datasets op diverse thema'.s 
->   De catalogusfunctie van het DSGO lijkt hierop echter toegespitst op datasets welke een toepassing hebben
->   op de fysieke leef- cq. gebouwde omgeving.
+>   **Voorbeeld:** Het [Dataregister van de Nederlandse Overheid](https://data.overheid.nl/) ondersteunt het zoeken van datasets op diverse thema's 
+>   De catalogusfunctie van het DSGO lijkt hierop, maar is toegespitst op datasets die een toepassing hebben
+>   in de fysieke leef- cq. gebouwde omgeving.
 
 **Figuur: data.overheid.nl**
 
@@ -185,8 +201,7 @@ die in andere systemen zijn opgeslagen.
 >   **Voorbeeld:** Het [Nationaal Geo Register
 >   (NGR)](https://nationaalgeoregister.nl/) bevat metadata van geo-datasets
 >   over thema’s als landbouw, economie, gezondheid en ruimtelijke planning. Met
->   de eenvoudige zoekopties en presentatie van resultaten kunnen professionele
->   en de datasets in de kaartviewer worden bekeken of worden gedownload. Het
+>   de eenvoudige zoekopties en presentatie van resultaten kunnen de datasets in de kaartviewer in samenhang worden bekeken of gedownload. Het
 >   NGR richt zich op verschillende gebruikers: van professionele Geo-ICT
 >   Specialisten op zoek naar datasets en services voor bijvoorbeeld een
 >   ruimtelijke analyse of website/applicatie tot beleidsmedewerkers die een
@@ -208,14 +223,14 @@ Deze catalogus-functie is een belangrijk voor de goede vindbaarheid van
 data(sets).[^4]
 
 [^4]: We maken geen keuze hoe deze catalogus-functie wordt geïmplementeerd: sla
-je alle metadatasets centraal op die verwijst naar de data, of maak je een
+je alle metadatasets centraal op die verwijzen naar de data, of maak je een
 koppeling naar een metadata-service van een gedistribueerd bronsysteem. Ofwel,
 een koppelvlak waarmee de indexen van andere bronsystemen kunnen worden
 opgevraagd.
 
 >   **Eis:** Het DSGO fungeert onder meer als een doorzoekbare catalogus c.q.
 >   register met gedistribueerde data(sets) over de gebouwde omgeving.
->   Bijvoorbeeld Gebouwdossier, Energie labels, en geo-basisregistraties.
+>   Bijvoorbeeld Gebouwdossier (Digitaal Dossier Bevoegd Gezag - DDBG), Energie labels, en geo-basisregistraties.
 
 *Bijkomend voordeel is dat je alleen afspraken maakt over de koppelvlakken
 (uitwisselbaarheid) en niet over de inhoud (gegevens) zelf.*
@@ -223,8 +238,8 @@ opgevraagd.
 ### Toegankelijk
 
 Zodra de gebruiker de benodigde gegevens heeft gevonden bij een of meerdere
-databronnen, moet hij/zij weten hoe deze kunnen worden geraadpleegd en kan
-worden toegepast. Verschillende gebruikers krijgen andere rechten voor toegang
+databronnen, moet hij/zij weten hoe deze kunnen worden geraadpleegd en toegepast. 
+Verschillende gebruikers krijgen andere rechten voor toegang
 en gebruik van de gegevens.
 
 **A1. (Meta)gegevens kunnen worden opgehaald door hun identifier met behulp van
@@ -241,7 +256,9 @@ DSGO worden dus geen afspraken gemaakt over één gemeenschappelijke
 taal/semantiek, vervat in één gemeenschappelijke standaard of informatiemodel.
 
 >   **Uitgangspunt:** Gegevens worden in het DSGO aangeboden op basis van de
->   bestaande (semantische) standaarden.
+>   bestaande (semantische) standaarden. Vanuit DSGO kan dit als randvoorwaarde 
+>   worden geformuleerd aan broneigenaren die hun data(sets) via DSGO wensen
+>   te ontsluiten.
 
 Met dit uitgangspunt zijn er alleen afspraken nodig over de manier van
 uitwisselen van data, *om de data te laten stromen*. Deze afspraken worden
@@ -339,7 +356,7 @@ gegevens.
 >   bedrijven middels eHerkenning.
 
 >   **Voorbeeld:** [DigiD](https://www.logius.nl/diensten/digid) is een veilig en
->   betrouwbaar middel waarmee gebruikers zich digital kunnen identificeren.
+>   betrouwbaar middel waarmee gebruikers zich digitaal kunnen identificeren.
 >   DigiD is voor overheidsorganisaties en organisaties met een publieke taak
 >   zoals ministeries, lokale overheden, organisaties in de zorg, onderwijs,
 >   pensioen en waterschappen.
@@ -361,7 +378,7 @@ geweest.
 
 Opeenvolgende versies van metadata kunnen mogelijk beschikbaar blijven, maar met
 verloop van tijd zullen meer en meer datasets onbeschikbaar geraken. Het is de
-verantwoordelijkheid van de gebruiker om gegevens te zeker te stellen, waar dat
+verantwoordelijkheid van de gebruiker om gegevens zeker te stellen, waar dat
 nodig is voor processen.
 
 DSGO kan afspraken maken over beschikbaarheid van gegevenssets met de aanbieders
@@ -419,7 +436,7 @@ In het DSGO vindt domein-overstijgende uitwisseling van data plaats. Als
 verschillende domeinen data willen uitwisselen, dan is er vaak sprake van
 verschil in definities en begrippen.
 
-Betekenisverwarring kan op twee wijzes overbrugd worden. Enerzijds door gebruik
+Betekenisverwarring kan op twee wijzes worden overbrugd. Enerzijds door gebruik
 te maken van een bovenliggende identifier die in beide domeinen wordt toegepast.
 De UOI biedt in dat geval uitkomst om data van het ene domein te combineren met
 data van het andere domein. Voorbeelden van overstijgende domeinen zijn: het
@@ -440,7 +457,8 @@ minste publiekelijk te raadplegen te zijn.
 >   digitale beschrijving van generieke, herbruikbare concepten (typen of
 >   soorten), die betrekking hebben op onder meer fysieke gebouwde objecten, de
 >   gebruiksruimten en –gebieden en ruimtelijke omgeving. De beschrijving geldt
->   bovendien gedurende de hele levenscyclus.
+>   bovendien gedurende de hele levenscyclus. Door andere standaarden of vocabulaires
+>   te 'mappen' aan de concepten uit de CB-NL, ontstaat interoperabiliteit.
 
 **I3. (Meta)data bevatten gekwalificeerde verwijzingen naar andere (meta)data**
 
@@ -462,16 +480,22 @@ kwaliteitseisen (onder meer actueel, juist en volledig).
 >   BAG draagt gegevens aan over de dataset BAG aan het DSGO onder meer over de
 >   herkomst, kwaliteit (bijvoorbeeld actualiteit 4 dagen, geometrische
 >   nauwkeurigheid van 30-60 cm, volledigheid 100%) en gebruik (wettelijk
->   verplicht voor overheden) van de data in de BAG. In het DSGO wordt
->   vastgelegd de herkomst (eigenaar BAG) en kwaliteit (wanneer metadata voor
->   het laatst is bijgewerkt) over de BAG vastgelegd.
+>   verplicht voor overheden) van de data in de BAG. In het DSGO worden
+>   de herkomst (eigenaar BAG) en kwaliteit (wanneer metadata voor
+>   het laatst is bijgewerkt) van de BAG-data vastgelegd.
 
 ### Herbruikbaar
 
 Het uiteindelijke doel van FAIR is het hergebruik van data te optimaliseren. Om
 dit te bereiken moeten metadata en data goed worden beschreven, zodat ze in
 verschillende situaties kunnen worden gerepliceerd en/of gecombineerd. Denk
-daarbij aan de basisregistraties en landelijke voorzieningen.
+daarbij aan de basisregistraties en landelijke voorzieningen. 
+Maar denk - in een projectcontext - bijvoorbeeld ook aan data die 
+een architect genereert met zijn ontwerp en die een bouwfysicus in zijn applicaties 
+wil hergebruiken voor het genereren van warmteverliesberekeningen, daglichtberekeningen, 
+brandveiligheidsvoorzieningen, enzovoort. Of aan een constructie-adviesbureau dat een
+3D model van een draagconstructie levert, dat de architect moet integreren in een
+integraal 3D gebouwontwerp.
 
 **R1. (Meta)data zijn rijkelijk beschreven met groot aantal nauwkeurige en
 relevante attributen**
@@ -501,8 +525,10 @@ Wie (geo-)informatie van een ander gebruikt, moet weten of daarvoor voorwaarden
 gelden en zo ja welke voorwaarden dat zijn. De Nederlandse overheid wil
 overheidsinformatie zoveel mogelijk gratis en zonder gebruiksvoorwaarden
 beschikbaar stellen. In de bouwwereld wordt veel geïnvesteerd in
-objectenbibliotheek waar ontwikkelende marktpartijen het exclusieve
-gebruiksrecht op willen behouden.
+objectenbibliotheken waar ontwikkelende marktpartijen het exclusieve
+gebruiksrecht op willen behouden. In een projectcontext belemmert dit het delen 
+en 'doorstromen van data', waardoor niet optimaal kan worden geprofiteerd van de
+digitalisering. Dit is mogelijk te ondervangen met datagebruikslicenties in het DSGO.
 
 Het heeft de voorkeur dat metadata en ontologieën met een vrije licentie beschikbaar worden gesteld.
 
@@ -561,6 +587,8 @@ worden in de domeinen beheerd en doorontwikkeld. Samenwerken in een taal in de g
 >   De ontwikkeling van de onderliggende Standaarden voor de realisatie van de
 >   (meta)data(sets), worden ook afgestemd met andere relevante nationale
 >   standaarden (zoals de in ontwikkeling zijnde standaard NEN-2660, en de
->   doorontwikkeling van NEN-3610) en Europese standaarden.
+>   doorontwikkeling van NEN-3610) en internationale standaarden (zoals de 
+>   prEN 17632 Semantic Modelling & Linking, een Europese norm die 
+>   parallel aan en in wisselwerking met de NEN 2660 is ontwikkeld).
 
 
