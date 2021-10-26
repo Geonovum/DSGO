@@ -559,3 +559,6 @@ worden in de domeinen beheerd en doorontwikkeld.
 >   standaarden (zoals de in ontwikkeling zijnde standaard NEN-2660, en de
 >   doorontwikkeling van NEN-3610) en Europese standaarden.
 
+>  **Uitgangspunt:** In het DSGO worden Standaarden uit verschillende domeinen toegepast. 
+>  Het is onmogelijk om al deze standaarden te harmoniseren op semantiek. 
+>  Daarom stellen we de open standaarden van het BIM Loket en het Forum Standaardisatie als uitgangspunt.
