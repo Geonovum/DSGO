@@ -225,5 +225,6 @@ meest geschikt is. Dit kan de ontwikkeling van een stelsel/platform versnellen,
 en standaardisatie maakt eenvoudigere integratie met andere platforms/tools op
 later moment mogelijk.
 
->   **Voorbeeld:** Pas-toe-of-leg-uit-lijst van Forum Standaardisatie of de
->   keuzehulp Lichte formaten van Geonovum.
+>   **Voorbeeld:** De [pas toe of leg uit-lijst](https://forumstandaardisatie.nl/open-standaarden/verplicht) 
+>   van open standaarden van het Forum Standaardisatie, het [palet aan open standaarden](https://www.bimloket.nl/p/17/Ons-palet-van-open-standaarden)
+>   en [richtlijnen](https://www.bimloket.nl/p/115/BIM-Protocol-en-BIM-Uitvoeringsplan) van het BIM Loket, en de keuzehulp Lichte formaten van Geonovum.
