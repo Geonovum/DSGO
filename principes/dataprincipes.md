@@ -531,7 +531,7 @@ In het DSGO worden voor de beschrijving van de datasets (metadata) en de data
 van datasets zelf open standaarden gebruikt.
 
 In Nederland zet het [Forum Standaardisatie](https://forumstandaardisatie.nl/over-ons) zich in voor open
-ICT-standaarden. Het BIM Loket](https://www.bimloket.nl/main.php) zet zich in voor open standaarden met als resultaat efficiënte, snelle, goedkope én innovatieve Nederlandse bouwsector. 
+ICT-standaarden. Het [BIM Loket](https://www.bimloket.nl/p/195/Waarom-open-standaarden) zet zich in voor open standaarden met als resultaat efficiënte, snelle, goedkope én innovatieve Nederlandse bouwsector. 
 Standaarden ondersteunen gegevensuitwisseling tussen
 ICT-systemen. De openheid zorgt ervoor dat iedereen de standaard kan gebruiken.
 [Open
@@ -540,9 +540,9 @@ bij aan interoperabiliteit en leveranciersonafhankelijkheid. Het gebruik van
 open standaarden in ICT-systemen bespaart kosten en verlicht administratieve
 lasten.
 
-Het Forum Standaardisatie hanteert twee type [lijsten open
-standaarden](https://forumstandaardisatie.nl/open-standaarden): de verplichte
-(‘pas toe of leg uit’) en aanbevolen open standaarden voor de publieke sector.
+Het Forum Standaardisatie hanteert twee type lijsten: open
+standaarden de [verplichte ‘pas toe of leg uit’](https://forumstandaardisatie.nl/open-standaarden/verplicht) en [aanbevolen open standaarden](https://forumstandaardisatie.nl/open-standaarden/aanbevolen) voor de publieke sector.
+Het BIM Loket heeft een [palet aan open standaarden](https://www.bimloket.nl/p/17/Ons-palet-van-open-standaarden) en [richtlijnen](https://www.bimloket.nl/p/115/BIM-Protocol-en-BIM-Uitvoeringsplan). 
 
 Standaarden zijn de afsprakenstelsels van domeinen die specificaties en eisen
 aan de (meta)data beschrijven. De standaarden voor (meta)data(sets) in het DSGO
