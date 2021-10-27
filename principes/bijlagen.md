@@ -232,7 +232,6 @@ Open en transparante uitkomsten
 
 *Uitwisselbaar*
 - Uitgangspunt: Elke dataset beschrijft het informatiemodel of ontologie waarmee de data is beschreven. Als die niet aanbevolen is door Forum Standaardisatie of het BIM Loket, moet het uitgangspunt zijn dat ze publiekelijk te raadplegen zijn.
-- Uitgangspunt: Gebruikte vocabulaires in metadata en gegevenssets zijn expliciet.
 - Randvoorwaarde: Het DSGO helpt koppelingen te realiseren tussen datasets, belegd bij de metadataredacteur. 
 - Eis: Datasets worden aangeboden in standaarden die zijn aanbevolen door Forum Standaardisatie of door het BIM Loket. 
 - Eis: De eigenaar van de (meta)data(set) is zelf verantwoordelijk voor een goede kwaliteit van de (meta)data(set).
