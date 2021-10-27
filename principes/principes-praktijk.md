@@ -305,7 +305,8 @@ Belangrijk is om goede afspraken te maken over:
     woningeigenaar, marktpartij die het systeem voor het platform/stelsel
     ontwikkeld en/ of beheerd, of is dat opdrachtgever BZK?
 
-N.B. Niet onbelangrijk is om ook afspraken te maken over de broncode van het
+<details class='note'> 
+Niet onbelangrijk is om ook afspraken te maken over de broncode van het
 systeem/platform zelf. Het zal niet de eerste keer zijn dat de integratie van de
 functionaliteit van een systeem in een ander systeem niet 1:1 uitgevoerd kan
 worden, omdat er geen afspraken zijn gemaakt over wie eigenaar is van de
