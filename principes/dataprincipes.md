@@ -184,11 +184,11 @@ leveranciers, bronhouders, Kadaster, VNG-R, Ministerie van BZK).”
 
 </details>
 
->   **Uitgangspunt:** het DSGO is een set uniforme afspraken voor de
+>   **Uitgangspunt:** Het DSGO is een set uniforme afspraken voor de
 >   uitwisseling van gegevens over de gebouwde omgeving tussen organisaties, en
 >   geen landelijk registratiesysteem.
 
->   **Uitgangspunt:** DSGO beschrijft de afspraken waaronder de toegang tot de datasets bij de bron 
+>   **Uitgangspunt:** Het DSGO beschrijft de afspraken waaronder de toegang tot de datasets bij de bron 
 >   wordt verleend, de toegang wordt bij de bron bepaald. Het DGSO catalogiseert 
 >   metadata die de datasets beschrijven.
 
