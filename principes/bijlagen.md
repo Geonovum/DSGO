@@ -229,17 +229,19 @@ Uitgangspunt: Het DSGO is een set uniforme afspraken voor de uitwisseling van ge
 Uitgangspunt: In het DSGO verloopt de authenticatie van natuurlijke personen en (overheids)organisaties met een publieke taak zich middels DigiD, van bedrijven middels eHerkenning. 
 
 *Uitwisselbaar*
-- Eis: Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn
-- Uitgangspunt: Datasets worden in standaarden aangeboden die door Forum Standaardisatie en/ of BIM Loket worden aanbevolen. Zo waarborgen we de langdurige verwerkbaarheid van de gegevens.
+- Uitgangspunt: Datasets worden in standaarden aangeboden die door Forum Standaardisatie en/ of BIM Loket worden aanbevolen. 
+- Zo waarborgen we de langdurige verwerkbaarheid van de gegevens.
 - Uitgangspunt: Gebruikte vocabulaires in metadata en gegevenssets zijn expliciet.
+- Eis: Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn
 - Eis: De eigenaar van de (meta)data(set) is zelf verantwoordelijk voor een goede kwaliteit van de (meta)data(set).
 
 *Herbruikbaar*
 - Uitgangspunt: Het platform heeft voor datasets een vast aantal attributen beschreven. De metadata dienen zich aan een nader te bepalen mate van nauwkeurigheid te houden.
+- Uitgangspunt: In het DSGO worden Standaarden uit verschillende domeinen toegepast. Het is onmogelijk om al deze standaarden te harmoniseren op semantiek. Daarom stellen we de open standaarden van het BIM Loket en het Forum Standaardisatie als uitgangspunt.
 - Randvoorwaarde: In het DSGO worden met een datagebruikslicentie voorwaarden opgelegd wie welke gegevens voor welke doel mag gebruiken.
 Het heeft de voorkeur dat metadata en ontologieën met een vrije licentie beschikbaar worden gesteld.
 - Eis: Van elke dataset is bekend wie de leverancier is. Elke dataset houdt voor zich ook bij (en levert dat, indien mogelijk, uit) waar welk gegevenspunt vandaan komt.
-- Uitgangspunt: In het DSGO worden Standaarden uit verschillende domeinen toegepast. Het is onmogelijk om al deze standaarden te harmoniseren op semantiek. Daarom stellen we de open standaarden van het BIM Loket en het Forum Standaardisatie als uitgangspunt.
+
 
 
 
