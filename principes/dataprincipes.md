@@ -78,7 +78,7 @@ standaarden) en de [principes die DiSGeo
 hanteert](https://docs.geostandaarden.nl/disgeo/emso/#identificatie-van-objecten) voor
 de Samenhangende Objecten Registratie (SOR). Ook is gekeken naar de instrumenten
 van de Wet kwaliteitsborging Bouw (Wkb) en het ontwerp Digitaal Stelsel Gebouwde
-Omgeving DSGO (binnen DigiGo).[^1]
+Omgeving DSGO (binnen digiGO).[^1]
 
 [^1]: Noot van de schrijvers: Tussen november 2020 en april 2021 heeft het
 ministerie van BZK onderzoek laten doen naar het ontwerp van een Unieke Object
