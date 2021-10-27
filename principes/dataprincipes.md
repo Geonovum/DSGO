@@ -405,15 +405,18 @@ wordt verkeerde data overgenomen.
 **I1. (Meta)data gebruiken een formele, toegankelijke, gedeelde en breed
 toepasbare taal voor kennisrepresentatie.**
 
-Datasets worden in standaarden aangeboden die door [Forum Standaardisatie](https://forumstandaardisatie.nl/open-standaarden) en/ of [BIM Loket](https://www.bimloket.nl/main.php) worden aanbevolen. 
+Datasets worden in standaarden aangeboden die door [Forum Standaardisatie](https://forumstandaardisatie.nl/open-standaarden) en/ of [BIM Loket](https://www.bimloket.nl/) worden aanbevolen. 
 Zo waarborgen we de langdurige verwerkbaarheid van de gegevens.
 
 Ook de metadata die het DSGO-platform zelf beheert, wordt volgens API’s en datastandaarden aangeboden.
+Datasetaanbieders en -gebruikers kunnen zo hun eigen publicatiesystemen afstemmen op DSGO.
 
 Voor grotere samenhang tussen de gegevensbronnen, heeft een ['knowledge graph'](https://geonovum.github.io/disgeo-demo/#api-versus-knowledge-graph)-opzet duidelijke voordelen. Zo'n kennisnetwerk combineert verschillende databronnen automatisch op basis van de toegang, die vervolgens in samenhang te bevragen zijn.
 API’s kunnen daarbovenop fungeren als eenvoudige toegang tot de data.
 Voor de geavanceerdere toepassingen en vragen waarbij de samenhang essentieel
 is, kan de knowledge graph direct benaderd worden via SPARQL.
+
+> **Eis:** Datasets worden aangeboden in standaarden die zijn aanbevolen door Forum Standaardisatie of door het BIM Loket.
 
 >   **Voorbeeld:** De [integrale gebruiksoplossing (IGO) van het Kadaster](https://labs.kadaster.nl/cases/integralegebruiksoplossing)
 >   maakt het mogelijk om geo-data uit verschillende geo-basisregistraties gecombineerd te bevragen en is ontworpen voor algemene gebruikers, 
@@ -422,31 +425,25 @@ is, kan de knowledge graph direct benaderd worden via SPARQL.
 
 **I2. (Meta)data gebruiken vocabulaires die FAIR-principes volgen**
 
-Bovendien gaat het in deze hele beweging niet alleen om laagdrempelige toegang
-tot individuele databronnen, maar steeds vaker ook om het kunnen combineren van
-data uit verschillende bronnen. Hiermee neemt het belang van zowel semantische
-als technische interoperabiliteit steeds verder toe.
-
-Door expliciet te zijn over de gebruikte vocabulaires in metadata en
-gegevenssets, maken we het makkelijker aan te sluiten op DSGO. Een systeem dat
-gegevens verwerkt (of de programmeur ervan), kan zien hoe gegevens
-geïnterpreteerd moeten worden.
-
-In het DSGO vindt domein-overstijgende uitwisseling van data plaats. Als
-verschillende domeinen data willen uitwisselen, dan is er vaak sprake van
+Zowel de datasets als de metadatabeschrijvingen zijn opgesteld in vocabulaires die zelf de FAIR-principes volgen.
+Dat dient twee doelen:
+enerzijds is explicitering van de gebruikte waarden/kolommen/relaties (etc.) nodig voor een juiste technische aansluiting op DSGO.
+Voor het kunnen combineren van data uit verschillende bronnen neemt het belang van semantische en technische interoperabiliteit toe.
+Anderzijds voorkomt het ook betekenisverwarring: omdat in het DSGO domein-overstijgende uitwisseling van data plaatsvindt, is er vaak sprake van
 verschil in definities en begrippen.
 
-Betekenisverwarring kan op twee wijzes worden overbrugd. Enerzijds door gebruik
-te maken van een bovenliggende identifier die in beide domeinen wordt toegepast.
-De UOI biedt in dat geval uitkomst om data van het ene domein te combineren met
-data van het andere domein. Voorbeelden van overstijgende domeinen zijn: het
-geodomein waaronder de geo-basisregistraties, het energiedomein, ....
-
-Anderzijds door de wijze waarop de gegevens zijn opgeslagen, te beschrijven.
 Zulke beschrijven worden ook wel OTL’s, ontologieën of informatiemodellen
 genoemd. Niet alle schema’s (vocabulaires, ontologiën, OTL’s,
-informatiemodellen) zijn als vijf-ster FAIR te kwalificeren. Toch dienen ze ten
-minste publiekelijk te raadplegen te zijn.
+informatiemodellen) zijn als vijf-ster FAIR te kwalificeren. 
+Toch is het uitangspunt van publieke toegankelijkheid leidend.
+
+Principe I2 borgt de toegang tot de beschrijving van de dataset.
+Daarbij moet het uitgangspunt zijn dat dat 
+óf met aanbevolen standaarden gaat (aanbevolen door Forum Standaardisatie of BIM Loket)
+óf publiekelijk te raadplegen is.
+
+> **Uitgangspunt:** Elke dataset beschrijft het informatiemodel of ontologie waarmee de data is beschreven.
+> Als die niet aanbevolen is door Forum Standaardisatie of het BIM Loket, moet het uitgangspunt zijn dat ze publiekelijk te raadplegen zijn.
 
 >   **Voorbeeld [CB-NL](https://public.cbnl.org/over-cb-nl):** Verschillende
 >   definiëring, beschrijvingen en interpretaties door betrokken partijen leiden
@@ -543,8 +540,8 @@ ook bij (en levert dat, indien mogelijk, uit) waar welk gegevenspunt vandaan
 komt.
 
 Zo houden we duidelijk waar gegevens vandaan komen en wie ervoor
-verantwoordelijk is. Dat betekent ook dat de metadata zowel van de
-datasetleverancier is, als van de metadataredacteur.
+verantwoordelijk is.
+Voor metadata betekent dat de datasetleverancier, die ondersteund wordt door de metadataredacteur.
 
 > **Voorbeeld:** De landelijke dataset BGT wordt gepubliceerd door het Kadaster.
 > Er geldt ook een terugmeldingsplicht voor bepaalde gebruikers.

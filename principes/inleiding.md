@@ -117,7 +117,7 @@ lijn met het doel van dit adviesrapport nemen we de FAIR principes als basis
 voor het formuleren van de principes voor het DSGO.
 
 Tijdens het schrijven heeft onder leiding van de opdrachtgever, heeft een informele 
-consultatie plaats gevonden van het concept rapport. Aan Geonovum, BIM Loket en CROW 
+consultatie plaats gevonden van het conceptrapport. Aan Geonovum, BIM Loket en CROW 
 de taak om deze waardevolle ervaringen en kennis te wegen en mee te nemen in dit 
 voorliggende document. 
 
@@ -130,4 +130,4 @@ Voor het ministerie van BZK is dit de start van het gesprek hoe publieke waarden
 zullen worden geborgd. Dit adviesrapport is geen ontwerp, doelarchitectuur of globale architectuur 
 schets van het Digitaal Stelsel Gebouwde Omgeving, het is geen aanzet tot het ontwikkelen of beheren 
 van standaarden daarvoor. Voor de beheervraagstukken rondom het DSGO verwijzen we naar het 
-programma-spoor governance& beheer van het DSGO. 
+programma-spoor governance & beheer van het DSGO. 
