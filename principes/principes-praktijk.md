@@ -3,7 +3,7 @@ Van principes naar praktijk
 
 Met ontwerpprincipes op basis van publieke waarden en dataprincipes uit de
 voorgaande hoofdstukken, geven we in dit hoofdstuk een drietal voorbeelden uit
-de praktijk: - Wet kwaliteitsborging voor het bouwen; - Assetmanagement; -
+de praktijk: Wet kwaliteitsborging voor het bouwen, Assetmanagement en het
 Landelijk Digitaal Platform.
 
 Wet kwaliteitsborging voor het bouwen
