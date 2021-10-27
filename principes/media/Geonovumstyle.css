@@ -28,6 +28,8 @@ img#Geonovum
 
 .logo img {
 	height: 67px !important;
+	float: right;
+	margin-left: 10px;
 }
 
 /*-- Definite van BlockQuotes (uitgelichte tekstblokken) ----------------------------*/
