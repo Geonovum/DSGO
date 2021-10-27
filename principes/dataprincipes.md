@@ -539,7 +539,10 @@ gebruiksrecht op willen behouden. In een projectcontext belemmert dit het delen
 en 'doorstromen van data', waardoor niet optimaal kan worden geprofiteerd van de
 digitalisering. Dit is mogelijk te ondervangen met datagebruikslicenties in het DSGO.
 
-Het heeft de voorkeur dat metadata en ontologieën met een vrije licentie beschikbaar worden gesteld.
+Het heeft de voorkeur dat metadata en ontologieën met een vrije licentie beschikbaar worden gesteld (cf. <a href="#uitwisselbaar"></a>, I2).
+
+> **Eis:**: Elke gegevensset beschrijft de gebruikslicentie ervan.
+> Minstens op een voor mensen leesbare wijze, bij voorkeur met (een link naar) een machineleesbare representatie.
 
 >   **Voorbeeld:** [Gebruikslicenties open data van de overheid](https://creativecommons.nl/publiek-domein/).
 >   Open data is herkenbaar aan de publiek domein licentie, de creative commons zero (CC0) of
@@ -555,10 +558,15 @@ Zo houden we duidelijk waar gegevens vandaan komen en wie ervoor
 verantwoordelijk is.
 Voor metadata betekent dat de datasetleverancier, die ondersteund wordt door de metadataredacteur.
 
+Voor gegevenssets waarbij geen garanties over (een niet onaanzienlijk deel van) de herkomst van de gegevenspunten gegeven kunnen worden,
+moet overwogen worden het platform zulke gegevenssets op een bepaalde wijze te markeren.
+
+> **Eis:** Het platform en de datasetaanbieders houden zorgvuldig bij waar welk gegevenspunt vandaan komt.
+
 > **Voorbeeld:** De landelijke dataset BGT wordt gepubliceerd door het Kadaster.
 > Er geldt ook een terugmeldingsplicht voor bepaalde gebruikers.
 > Een gebruiker constateert dat in de BGT-dataset een bepaald object niet is opgenomen.
-> Dankzij de heldere herkomstinformatie in DSGO komt zo'n melding bij het Kadaster.
+> Dankzij de heldere herkomstinformatie in DSGO, alsook de gebruiksvriendelijke rapportagefuncties van DSGO, komt zo'n melding spoedig bij het Kadaster.
 
 **R4. (Meta)data voldoen aan domein-relevante Standaarden**
 
