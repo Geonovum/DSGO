@@ -297,8 +297,8 @@ Belangrijk is om goede afspraken te maken over:
 
 -   Waar de data wordt opgeslagen, en hoe deze wordt teruggeleverd. Wordt de
     data opgeslagen bij de marktpartij die de ICT van het platform/stelsel
-    ontwikkeld eo beheerd opgeslagen, of bij een (semi-)overheidspartij à la RVO
-    of Kadaster. Wordt de data per object/adres of geaggregeerd teruggeleverd
+    ontwikkeld eo beheerd opgeslagen, of bij een (semi-)overheidspartij zoals Rijksdienst voor Ondernemend Nederland
+    of het Kadaster. Wordt de data per object/adres of geaggregeerd teruggeleverd
     aan opdrachtgever?
 
 -   Wie eigenaar wordt van de nieuw gegeneerde gegevens? Is dat de
