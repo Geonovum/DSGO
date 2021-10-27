@@ -382,6 +382,9 @@ gegevens.
 
 >   **Voorbeeld:** Op basis van de [open standaard voor autorisatie (OAuth)](https://www.forumstandaardisatie.nl/open-standaarden/oauth) kunnen gebruikers of organisaties een programma of website toegang geven tot specifieke (privé)gegevens, die opgeslagen zijn op een ander systeem, zonder hun gebruikersnaam en wachtwoord uit handen te geven. 
 
+De Baseline informatieveiligheid overheid (BIO)[https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/informatieveiligheid/kaders-voor-informatieveiligheid/baseline-informatiebeveiliging-overheid/]
+en de wet Digitale overheid (WDO)[https://www.digitaleoverheid.nl/dossiers/wet-digitale-overheid/] bevat ook kaders voor authenticatie en authorisatie.
+Het is verstandig de grote kaders over te nemen voor de authenticatie- en authorisatieprocedure van DSGO, omdat een deel van de datasets ook van organisaties komt die zich reeds aan deze kaders houden.
 
 **A2. Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn**
 
