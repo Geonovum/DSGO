@@ -32,12 +32,14 @@ adoptie van deze afspraken. Het DSGO helpt digitalisering van de gebouwde omgevi
 installatie sector, en draagt daarmee bij aan stikstofreductie.
 
 Opdracht
------------------
+--------
 
-Geonovum is door het ministerie van Ministerie van Binnenlandse Zaken en Koninkrijksrelaties gevraagd om in samenwerking met het BIM Loket en CROW de richtinggevende principes te formuleren in de vorm van een adviesrapport voor het ontwerp van een Digitaal Stelsel Gebouwde Omgeving (DSGO). 
-
-Dit adviesrapport, in aanvulling op 34 ‘use cases’, gegroepeerd in zes thema’s, geeft de uitdagingen aan op het gebied van publieke waarden en is voor het ministerie van BZK de start om het gesprek aan te gaan hoe publieke waarden en het DSGO zullen gaan samenwerken. 
-
+Geonovum is door het ministerie van Ministerie van Binnenlandse Zaken en Koninkrijksrelaties 
+gevraagd om in samenwerking met het BIM Loket en CROW de richtinggevende principes te formuleren 
+in de vorm van een adviesrapport voor het ontwerp van een Digitaal Stelsel Gebouwde Omgeving (DSGO). 
+Dit adviesrapport, in aanvulling op 34 ‘use cases’, gegroepeerd in zes thema’s, geeft de uitdagingen 
+aan op het gebied van publieke waarden en is voor het ministerie van BZK de start om het gesprek 
+aan te gaan hoe publieke waarden en het DSGO zullen gaan samenwerken. 
 
 Doel en resultaat
 -----------------
@@ -55,7 +57,6 @@ beschikbaar stellen van de benodigde informatie om investeringen te doen en besl
 te nemen voor deze transities in de gebouwde omgeving. Het
 adviesrapport stelt Geonovum op in samenwerking met BIM Loket en CROW.
 
-
 Aanpak
 ------
 
@@ -64,9 +65,18 @@ uitgangspunten, randvoorwaarden en eisen. Bij elk van de richtinggevende
 principes zorgen het publiek belang en de publieke waarden samen met de basisprincipes
 voor sector brede afspraken over uitwisseling, eigenaarschap en organisatie van
 data.
-Voor de totstandkoming van dit adviesrapport hebben we verkend in hoeverre afspraken over uitwisseling, eigenaarschap en organisatie van data noodzaak zijn voor veilige, betrouwbare en gecontroleerde toegang tot data in de bouwsector, en kunnen worden geduid in de vorm van richtinggevende principes. Hiervoor zijn eerst uitgangspunten, randvoorwaarden en eisen van belang die de richtinggevende principes dienen, waarna de uitwerking in bijvoorbeeld een doelarchitectuur voor het DSGO kan plaats vinden. 
-Geonovum maakt hiervoor hergebruik van ervaringen uit eerdere adviestrajecten voor (doorontwikkeling van) digitale stelsels voor onder meer  Digitaal Stelsel Omgevingswet (DSO), Objectidentificering (UOI) en samenhang geo(basis)registraties. CROW zet kennis en ervaring met dataprincipes in als kennisinstituut voor infrastructuur, openbare ruimte, verkeer en vervoer, en werk en veiligheid. Digitaal samenwerken in de gebouwde omgeving op basis van standaarden en richtlijnen is de basis voor het BIM Loket. 
-Voor het laten stromen van data, data die het publiek belang dient, zijn de volgende uitgangspunten de rode draad geworden van dit adviesrapport.
+Voor de totstandkoming van dit adviesrapport hebben we verkend in hoeverre afspraken over uitwisseling, 
+eigenaarschap en organisatie van data noodzaak zijn voor veilige, betrouwbare en gecontroleerde toegang 
+tot data in de bouwsector, en kunnen worden geduid in de vorm van richtinggevende principes. Hiervoor 
+zijn eerst uitgangspunten, randvoorwaarden en eisen van belang die de richtinggevende principes dienen, 
+waarna de uitwerking in bijvoorbeeld een doelarchitectuur voor het DSGO kan plaats vinden. 
+Geonovum maakt hiervoor hergebruik van ervaringen uit eerdere adviestrajecten voor (doorontwikkeling van) 
+digitale stelsels voor onder meer  Digitaal Stelsel Omgevingswet (DSO), Objectidentificering (UOI) en 
+samenhang geo(basis)registraties. CROW zet kennis en ervaring met dataprincipes in als kennisinstituut 
+voor infrastructuur, openbare ruimte, verkeer en vervoer, en werk en veiligheid. Digitaal samenwerken 
+in de gebouwde omgeving op basis van standaarden en richtlijnen is de basis voor het BIM Loket. 
+Voor het laten stromen van data, data die het publiek belang dient, zijn de volgende uitgangspunten 
+de rode draad geworden van dit adviesrapport.
 
 **Participatie en publieke waarden**
 
@@ -94,7 +104,6 @@ autonomie en veiligheid. We vertalen deze waarden in een aantal ontwerpprincipes
 die leidend zullen zijn voor het DSGO, zowel voor het ontwikkelen van het DSGO,
 als ook voor het gebruik, onderhoud en de governance van het DSGO.
 
-
 **FAIR principes**
 
 Op eenduidige manieren samenwerken om informatie zo beter te kunnen beveiligen,
@@ -107,10 +116,18 @@ en diensten vindbaar, toegankelijk, uitwisselbaar en herbruikbaar te maken. In
 lijn met het doel van dit adviesrapport nemen we de FAIR principes als basis
 voor het formuleren van de principes voor het DSGO.
 
-Tijdens het schrijven heeft onder leiding van de opdrachtgever, heeft een informele consultatie plaats gevonden van het concept rapport. Aan Geonovum, BIM Loket en CROW de taak om deze waardevolle ervaringen en kennis te wegen en mee te nemen in dit voorliggende document. 
-
+Tijdens het schrijven heeft onder leiding van de opdrachtgever, heeft een informele 
+consultatie plaats gevonden van het concept rapport. Aan Geonovum, BIM Loket en CROW 
+de taak om deze waardevolle ervaringen en kennis te wegen en mee te nemen in dit 
+voorliggende document. 
 
 Afbakening
 ----------
 
-Met de richtinggevende principes in dit adviesrapport brengen we onder de aandacht waarom, hoe en wat nodig is om data te laten stromen vanuit het perspectief van het publiek belang. Voor het ministerie van BZK is dit de start van het gesprek hoe publieke waarden in het DSGO zullen worden geborgd. Dit adviesrapport is geen ontwerp, doelarchitectuur of globale architectuur schets van het Digitaal Stelsel Gebouwde Omgeving, het is geen aanzet tot het ontwikkelen of beheren van standaarden daarvoor. Voor de beheervraagstukken rondom het DSGO verwijzen we naar het programma-spoor governance& beheer van het DSGO. 
+Met de richtinggevende principes in dit adviesrapport brengen we onder de aandacht waarom, 
+hoe en wat nodig is om data te laten stromen vanuit het perspectief van het publiek belang. 
+Voor het ministerie van BZK is dit de start van het gesprek hoe publieke waarden in het DSGO 
+zullen worden geborgd. Dit adviesrapport is geen ontwerp, doelarchitectuur of globale architectuur 
+schets van het Digitaal Stelsel Gebouwde Omgeving, het is geen aanzet tot het ontwikkelen of beheren 
+van standaarden daarvoor. Voor de beheervraagstukken rondom het DSGO verwijzen we naar het 
+programma-spoor governance& beheer van het DSGO. 
