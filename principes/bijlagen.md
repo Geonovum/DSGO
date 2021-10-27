@@ -238,10 +238,8 @@ Open en transparante uitkomsten
 
 *Herbruikbaar*
 - Uitgangspunt: Het DSGO geeft gerapporteerde onjuistheden en onvolkomenheden door aan de eigenaars. DSGO biedt API's en formulieren aan voor eindgebruikers om rapportages zo eenvoudig mogelijk te maken.
-- Uitgangspunt: Het platform heeft voor datasets een vast aantal attributen beschreven. De metadata dienen zich aan een nader te bepalen mate van nauwkeurigheid te houden.
 - Uitgangspunt: In het DSGO worden Standaarden uit verschillende domeinen toegepast. Het is onmogelijk om al deze standaarden te harmoniseren op semantiek. Daarom stellen we de open standaarden van het BIM Loket en het Forum Standaardisatie als uitgangspunt.
 - Randvoorwaarde: De leveranciers en de metadataredacteur zetten zich in voor een hoge kwaliteit data. Het platform kan statistieken gebruiken om de metadataredacteur te ondersteunen in haar/zijn werk. 
-- Randvoorwaarde: In het DSGO worden met een datagebruikslicentie voorwaarden opgelegd wie welke gegevens voor welke doel mag gebruiken. Het heeft de voorkeur dat metadata en ontologieën met een vrije licentie beschikbaar worden gesteld.
 - Eis: De data en de metadata dienen van hoge kwaliteit te zijn en voldoen aan een hoge mate van nauwkeurigheid. 
 - Eis: Elke gegevensset beschrijft de gebruikslicentie ervan. Minstens op een voor mensen leesbare wijze, bij voorkeur met (een link naar) een machineleesbare representatie.
 - Eis: Het platform en de datasetaanbieders houden zorgvuldig bij waar welk gegevenspunt vandaan komt.
