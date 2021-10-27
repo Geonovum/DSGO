@@ -34,7 +34,7 @@ het DSGO stimuleren en aanjagen. Deze rollen kunnen als volgt samengevat worden:
 
 4. *Opdrachtgever* voor het vastgoed van het Rijk (uitgevoerd door het Rijksvastgoedbedrijf) om het assetmanagement te optimaliseren. In deze rol is BZK ook *gebruiker* van het DSGO;
 
-5. *Gebruiker* van het DSGO BZk maakt op allerlei manieren gebruik van het DSGO, zie daarvoor de rol van opdrachtgever en beleidsmaker, maar denk ook aan het beantwoorden van Kamervragen;
+5. *Gebruiker* van het DSGO BZK maakt op allerlei manieren gebruik van het DSGO, zie daarvoor de rol van opdrachtgever en beleidsmaker, maar denk ook aan het beantwoorden van Kamervragen;
 
 6. *Subsidiegever* voor het DSGO en ter stimulering van diverse beleidsdoelen.
 
