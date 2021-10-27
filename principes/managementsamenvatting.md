@@ -22,7 +22,7 @@ het delen van gegevens in de geo- én bouwsector.
 
 Het resultaat is dit adviesrapport met richtinggevende principes. De principes zijn
 onder te verdelen in principes geënt op de samenwerking van partijen in het
-stelsel (publieke waarden) en het delen van gegevens (FAIR data-principes) over
+stelsel (publieke waarden, <a href='#publiekewaarden'></a>) en het delen van gegevens (FAIR data-principes, <a href='#dataprincipes'></a>) over
 de gebouwde omgeving.
 
 Het uitgangspunt is om het DSGO te ontwerpen op basis van *publieke waarden* die
@@ -41,7 +41,7 @@ autorisatie en authenticatie, en de toepassing van (open) standaarden voor de
 geo- en bouwinformatie in de publieke sector.
 
 Deze principes zijn vervolgens toegepast op drietal *voorbeelden uit de praktijk*: de
-Wet kwaliteitsborging voor het bouwen, assetmanagement en het Landelijk Digitaal Platform.
+Wet kwaliteitsborging voor het bouwen (<a href="#wet-kwaliteitsborging-voor-het-bouwen"></a>), assetmanagement (<a href='#assetmanagement'></a>) en het Landelijk Digitaal Platform (<a href='#landelijk-digitaal-platform'></a>).
 
 Vanuit de ontwikkelingen in deze voorbeelden uit de praktijk, gecombineerd met de principes voor
 samenwerking en data, worden een *aantal aanbevelingen meegegeven aan de
