@@ -467,10 +467,13 @@ koppelingen maakt.
 Daarom is in het DSGO de **metadataredacteur** verantwoordelijk voor aanmaken
 metadata van een dataset (op basis van aangeleverde metagegevens), en voert
 wijzigingen door in de metadata. De metadata voldoet aan de gestelde
-kwaliteitseisen (onder meer actueel, juist en volledig).
+kwaliteitseisen (onder meer actueel, juist en volledig). 
 
 >   **Eis:** De eigenaar van de (meta)data(set) is zelf verantwoordelijk voor een
 >   goede kwaliteit van de (meta)data(set).
+
+> **Randvoorwaarde:** Het DSGO helpt koppelingen te realiseren tussen datasets,
+> belegd bij de metadataredacteur. 
 
 >   **Voorbeeld:** De [Basisregistratie Adressen en Gebouwen (BAG)](https://www.geobasisregistraties.nl/basisregistraties/adressen-en-gebouwen) is de authentieke
 >   bron voor officiële adressen en bouwjaren van panden. De ‘eigenaar’ van de
@@ -497,13 +500,22 @@ integraal 3D gebouwontwerp.
 **R1. (Meta)data zijn rijkelijk beschreven met groot aantal nauwkeurige en
 relevante attributen**
 
-Het platform heeft voor datasets een vast aantal attributen beschreven.
+Het platform heeft voor datasets een vast aantal attributen beschreven, zoals naam, beschreven gebied of onderwerpen, contactpersonen.
 Ook stelt de metadataredacteur gebruikelijke attributen vast, voor bepaalde types datasets.
+Bijvoorbeeld bij landelijke datasets met een terugmeldvoorziening, een link naar de terugmeldvoorziening.
 
-De metadata dienen zich aan een nader te bepalen mate van nauwkeurigheid te houden.  
+De metadata dienen zich aan een nader te bepalen mate van nauwkeurigheid te houden. 
 Zo blijft de DSGO een betrouwbare bron van gegevens.
-Onjuistheden kunnen op meerdere wijzes bij DSGO aangegeven worden. 
-DSGO draagt zorg dat onjuistheden en onvolkomenheden van de data worden doorgegeven aan de aanbieders van data.
+Wanneer er onjuistheden worden aangetroffen, dan biedt het DSGO eindgebruikersvriendelijke manieren om deze door te geven.
+DSGO draagt zorg dat rapportages over onjuistheden en onvolkomenheden worden doorgegeven aan de aanbieders van data.
+
+> **Eis:** De data en de metadata dienen van hoge kwaliteit te zijn en voldoen aan een hoge mate van nauwkeurigheid. 
+
+> **Uitgangspunt:** DSGO geeft gerapporteerde onjuistheden en onvolkomenheden door aan de eigenaars.
+> DSGO biedt API's en formulieren aan voor eindgebruikers om rapportages zo eenvoudig mogelijk te maken.
+
+> **Randvoorwaarde:** De leveranciers en de metadataredacteur zetten zich in voor een hoge kwaliteit data.
+> Het platform kan statistieken gebruiken om de metadataredacteur te ondersteunen in haar/zijn werk. 
 
 > **Voorbeeld:** Het nationaal georegister informeert gebruikers over de contouren van de gegevens in een dataset.
 > Zo is de ruimtelijke dekking van een dataset in één oogopslag te zien.
