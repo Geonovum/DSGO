@@ -178,6 +178,71 @@ worden beschreven, zodat ze in verschillende situaties kunnen worden
 gerepliceerd en/of gecombineerd.
 
 
+Uitgangspunten, randvoorwaarden en eisen
+----------------------------------------
+De in hoofdstukken vier en vijf benoemde uitgangspunten, randvoorwaarden en eisen zijn hier op een rij gezet. 
+
+**Publiek waarden**
+
+*Open en transparant ontwerp proces*
+- Randvoorwaarde: Alle betrokkenen bij een use case bespreken de ontwerpprincipes, om concreet te maken wat deze voor een use case betekenen. De keuzes die hieruit volgen worden vastgesteld en ingericht, bijgesteld en zo lerend ontwikkeld, zodat anderen daarop kunnen voortbouwen. 
+Open en transparante uitkomsten
+- Eis: Usecases leggen voor elke data(set) die tussen partijen uitgewisseld wordt, vast wat de oorsprong van deze dataset is en welke bewerkingen deze heeft ondergaan.
+
+*Inclusiviteit*
+- Randvoorwaarde: Maak de ontwikkeling van het DSGO inclusief, zodat er geen groepen worden buitengesloten door de manier waar op de afspraken gemaakt worden over het delen van data. De belangen van alle stakeholders zijn in beeld bij elke use case. De inzet van een onafhankelijk voorzitter is daarbij een aanrader.
+
+*Rechtvaardigheid*
+- Eis: Ontwerp elke use case binnen het DSGO rechtvaardig, zodat alle belanghebbenden een eerlijke en volledige weergave van de feiten kunnen inzien. 
+Doelgerichtheid
+- Eis: Ontwerp elke use case binnen het DSGO doelgericht, zodat de uit te wisselen data geschikt en voldoende is voor het doel, waarvoor de informatie nodig is. 
+
+*Betrokkenheid*
+- Randvoorwaarde: Voor elke use case worden de afspraken met alle direct betrokkenen gemaakt en vastgelegd. Dat geldt in het bijzonder voor partijen die de data ter beschikking stellen.
+
+*Controleerbaarheid*
+- Eis: Ontwerp elke use case zo dat er kan worden ingegrepen in de geautomatiseerde processen. 
+
+*Soevereiniteit*
+- Uitgangspunt: Binnen het DSGO wordt bepaald welke belanghebbende (in juridische termen natuurlijke persoon of rechtspersoon) eigenaar is en/of zeggenschap en controle uitoefent over en/of gebruik maakt van de data(set), standaard, algoritme of voorziening die van belang zijn binnen de use cases. Met deze belanghebbenden kunnen vervolgens afspraken worden gemaakt om de data(set), standaard, algoritme of voorziening FAIR te kunnen (her)gebruiken.
+- Uitgangspunt: Samen met de sector co-creëren van een samenhangende set afspraken op business, functioneel, operationeel, juridisch en technisch gebied, om gemakkelijker gebruik te kunnen maken van elkaars data.
+
+*Informatieveiligheid*
+- Eis: Binnen het DSGO worden maatregelen getroffen om de integriteit te waarborgen.
+- Eis: Het DSGO voorziet in autorisatie- en authenticatiemogelijkheden, zodat alleen de rechthebbenden inzage krijgen in de data(sets) die uitgewisseld worden. 
+- Eis: Het DSGO geeft transparant weer wat de bron is van elke dataset en welke bewerkingen deze heeft ondergaan en/of aan welke kwaliteitseisen deze voldoet in termen van actualiteit, volledigheid en juistheid), zodat de eindgebruiker de betrouwbaarheid kan vaststellen.
+
+**Dataprincipes**
+
+*Vindbaar*
+- Eis: De data die het DSGO ontsluit, zijn identificeerbaar aan de hand van een UOI. Elke dataset verwijst/beschrijft naar één of meerdere UOI's -- en is zelf ook uniek identificeerbaar aan de hand van een persistente identifier. Ook metadata krijgt zo'n unieke en persistente identifier. Persistent betekent dat maar één ding zo'n identifier krijgt en dat een ding die identifier z'n hele levensloop behoudt.
+- Eis: Van elk gegeven in het DSGO is meta-informatie over onder meer de herkomst, kwaliteit, status en gebruik (licentie + toepassing) beschikbaar. De wijze van metadatering sluit aan bij vigerende (inter)nationale standaarden voor informatiemanagement en metadata. Ook de wijze van toegang, de gebruikte gegevensformaten en schema’s worden beschreven in de metadata van een dataset.
+- Eis: Bij de metadata(set) wordt de unieke identificatie (UOI) van de betreffende data(set) opgenomen.
+Uitgangspunt: Het DSGO is een set uniforme afspraken voor de uitwisseling van gegevens over de gebouwde omgeving tussen organisaties, en geen landelijk registratiesysteem.
+- Eis: DSGO beschrijft de afspraken waaronder de toegang tot de datasets bij de bron wordt verleend, de toegang wordt bij de bron bepaald. Het DGSO catalogiseert metadata die de datasets beschrijven.
+- Eis: Het DSGO fungeert onder meer als een doorzoekbare catalogus c.q. register met gedistribueerde data(sets) over de gebouwde omgeving. Bijvoorbeeld Gebouwdossier (Digitaal Dossier Bevoegd Gezag - DDBG), Energie labels, en geo-basisregistraties.
+
+*Toegankelijk*
+- Uitgangspunt: Gegevens worden in het DSGO aangeboden op basis van de bestaande (semantische) standaarden. Vanuit DSGO kan dit als randvoorwaarde worden geformuleerd aan broneigenaren die hun data(sets) via DSGO wensen te ontsluiten.
+- Eis: Voor het DSGO zijn (vooral) afspraken nodig over de technische uitwisseling van (meta)data(sets) op de koppelvlakken, ofwel op de interfaces tussen de systemen, om de data te laten stromen.
+- Eis: De toegang tot het DSGO wordt geboden middels een open, gratis en universeel toepasbaar protocol.
+Uitgangspunt: In het DSGO verloopt de authenticatie van natuurlijke personen en (overheids)organisaties met een publieke taak zich middels DigiD, van bedrijven middels eHerkenning. 
+
+*Uitwisselbaar*
+- Eis: Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn
+- Uitgangspunt: Datasets worden in standaarden aangeboden die door Forum Standaardisatie en/ of BIM Loket worden aanbevolen. Zo waarborgen we de langdurige verwerkbaarheid van de gegevens.
+- Uitgangspunt: Gebruikte vocabulaires in metadata en gegevenssets zijn expliciet.
+- Eis: De eigenaar van de (meta)data(set) is zelf verantwoordelijk voor een goede kwaliteit van de (meta)data(set).
+
+*Herbruikbaar*
+- Uitgangspunt: Het platform heeft voor datasets een vast aantal attributen beschreven. De metadata dienen zich aan een nader te bepalen mate van nauwkeurigheid te houden.
+- Randvoorwaarde: In het DSGO worden met een datagebruikslicentie voorwaarden opgelegd wie welke gegevens voor welke doel mag gebruiken.
+Het heeft de voorkeur dat metadata en ontologieën met een vrije licentie beschikbaar worden gesteld.
+- Eis: Van elke dataset is bekend wie de leverancier is. Elke dataset houdt voor zich ook bij (en levert dat, indien mogelijk, uit) waar welk gegevenspunt vandaan komt.
+- Uitgangspunt: In het DSGO worden Standaarden uit verschillende domeinen toegepast. Het is onmogelijk om al deze standaarden te harmoniseren op semantiek. Daarom stellen we de open standaarden van het BIM Loket en het Forum Standaardisatie als uitgangspunt.
+
+
+
 Geraadpleegde bronnen
 ---------------------
 
