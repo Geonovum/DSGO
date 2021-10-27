@@ -78,14 +78,16 @@ standaarden) en de [principes die DiSGeo
 hanteert](https://docs.geostandaarden.nl/disgeo/emso/#identificatie-van-objecten) voor
 de Samenhangende Objecten Registratie (SOR). Ook is gekeken naar de instrumenten
 van de Wet kwaliteitsborging Bouw (Wkb) en het ontwerp Digitaal Stelsel Gebouwde
-Omgeving DSGO (binnen digiGO).[^1]
+Omgeving DSGO (binnen digiGO).
 
-[^1]: Noot van de schrijvers: Tussen november 2020 en april 2021 heeft het
+<details class='note'>
+Noot van de schrijvers: Tussen november 2020 en april 2021 heeft het
 ministerie van BZK onderzoek laten doen naar het ontwerp van een Unieke Object
 Identificatie (UOI). Vraag aan Geonovum was de UOI te verkennen in relatie tot
 standaarden in de bouw- en geo-sector en de ontwikkelingen rond
 objectidentificatie in de fysieke leefomgeving. Ten tijde van het schrijven dit
 rapport is er een concept onderzoeksrapport over UOI.
+</details>
 
 >   **Eis:** De data die het DSGO ontsluit, zijn identificeerbaar aan de hand
 >   van een
@@ -131,11 +133,15 @@ weten welke metadata(set) hoort welke data(set) moet een expliciete relatie
 vastgelegd worden tussen de metadata(set) en data(set). Dit kan door het opnemen
 van de identificatie van de data(set) in de metadata(set).
 
->   **Eis:** Bij de metadata(set) wordt de unieke identificatie (UOI) van de
->   betreffende data(set) opgenomen.[^2]
-
-[^2]: *De informatiekundige relatie is dus ‘Metadata(set) beschrijft 0..\*
-data(set)’ en niet ‘Data(set) wordt beschreven in 0..\* Metadata(sets)’*
+>   **Eis:** Bij de metadata wordt de unieke identificatie (UOI) van de
+>   betreffende data(set) opgenomen.
+>
+> <details>
+> 
+> De informatiekundige relatie is dus ‘Metadata(set) beschrijft 0..\*
+> data(set)’ en niet ‘Data(set) wordt beschreven in 0..\* Metadata(sets)’
+> 
+> </details>
 
 **F4. (Meta)data worden geregistreerd of geïndexeerd in een doorzoekbare bron**
 
@@ -159,19 +165,24 @@ veel voorkomende oorzaak van faalkosten in de bouw).
 
 Het uitgangspunt van ‘data bij de bron’ wordt ook gehanteerd in de [Beleidsvisie
 Samenhangende
-Objectenregistratie](https://www.geobasisregistraties.nl/documenten/beleidsnota/2019/11/29/beleidsvisie-samenhangende-objectenregistratie)[^3]
+Objectenregistratie](https://www.geobasisregistraties.nl/documenten/beleidsnota/2019/11/29/beleidsvisie-samenhangende-objectenregistratie) 
 van het ministerie van BZK en successievelijk de
 [architectuurprincipes](https://docs.geostandaarden.nl/disgeo/arch/) voor de
 Nederlandse Geo-Informatie Infrastructuur (NGII).
 
-[^3]: *“Er wordt in de eindsituatie zoveel mogelijk uitgegaan van ‘bevragen bij
+<details class="note" title="Beleidsvisie Samenhangende
+Objectenregistratie">
+
+“Er wordt in de eindsituatie zoveel mogelijk uitgegaan van ‘bevragen bij
 de bron’. Hierbij is van belang dat de gebruiker voor verstrekkingen zoveel
 mogelijk uit kan gaan van één loket. Een belangrijk aandachtspunt hierbij is het
 gebeurtenis georiënteerd werken (nader uit te werken). Of de bronhouders
 gedistribueerd en decentraal werken of direct inwinning en bijhouding in een (of
 meerdere) voorziening(en) uitvoeren via gestandaardiseerde services moet nader
 worden bepaald (nadere uitwerking in kader van DiS GEO/beleidsvisie:
-leveranciers, bronhouders, Kadaster, VNG-R, Ministerie van BZK).”*
+leveranciers, bronhouders, Kadaster, VNG-R, Ministerie van BZK).”
+
+</details>
 
 >   **Uitgangspunt:** het DSGO is een set uniforme afspraken voor de
 >   uitwisseling van gegevens over de gebouwde omgeving tussen organisaties, en
@@ -220,13 +231,17 @@ die in andere systemen zijn opgeslagen.
 
 We zien voor ons dat één van de functies van het DSGO deze catalogus-functie is.
 Deze catalogus-functie is een belangrijk voor de goede vindbaarheid van
-data(sets).[^4]
+data(sets).
 
-[^4]: We maken geen keuze hoe deze catalogus-functie wordt geïmplementeerd: sla
+<details class='note small' title='catalogus-functie'>
+
+We maken geen keuze hoe deze catalogus-functie wordt geïmplementeerd: sla
 je alle metadatasets centraal op die verwijzen naar de data, of maak je een
 koppeling naar een metadata-service van een gedistribueerd bronsysteem. Ofwel,
 een koppelvlak waarmee de indexen van andere bronsystemen kunnen worden
 opgevraagd.
+
+</details>
 
 >   **Eis:** Het DSGO fungeert onder meer als een doorzoekbare catalogus c.q.
 >   register met gedistribueerde data(sets) over de gebouwde omgeving.
@@ -385,6 +400,9 @@ DSGO kan afspraken maken over beschikbaarheid van gegevenssets met de aanbieders
 daarvan. Dankzij de autorisatie/authenticatie-functie van DSGO kan het mogelijk
 gemaakt worden dat veranderingen aan datasets aangekondigd worden.
 
+> **Eis**: DSGO houdt een duurzame metadataregistratie bij, waarbij metadata langdurig bewaard en toegankelijk blijft.
+> De datasets zelf worden niet noodzakelijk door DSGO bewaard.
+
 ### Uitwisselbaar
 
 Interoperabiliteit betekent het kunnen uitwisselen van digitale gegevens tussen
@@ -500,9 +518,9 @@ integraal 3D gebouwontwerp.
 **R1. (Meta)data zijn rijkelijk beschreven met groot aantal nauwkeurige en
 relevante attributen**
 
-Het platform heeft voor datasets een vast aantal attributen beschreven, zoals naam, beschreven gebied of onderwerpen, contactpersonen.
+Het platform heeft voor datasets een vast aantal attributen beschreven, zoals naam of toegangspunt (etc.).
 Ook stelt de metadataredacteur gebruikelijke attributen vast, voor bepaalde types datasets.
-Bijvoorbeeld bij landelijke datasets met een terugmeldvoorziening, een link naar de terugmeldvoorziening.
+Bijvoorbeeld bij datasets met een eigen terugmeldvoorziening, een link naar de terugmeldvoorziening.
 
 De metadata dienen zich aan een nader te bepalen mate van nauwkeurigheid te houden. 
 Zo blijft de DSGO een betrouwbare bron van gegevens.
