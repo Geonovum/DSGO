@@ -180,7 +180,7 @@ gerepliceerd en/of gecombineerd.
 
 Uitgangspunten, randvoorwaarden en eisen
 ----------------------------------------
-De in hoofdstukken vier en vijf benoemde uitgangspunten, randvoorwaarden en eisen zijn hier op een rij gezet. 
+De in hoofdstukken vier en vijf benoemde uitgangspunten, randvoorwaarden en eisen zijn in deze paragraaf samengevat. 
 
 **Publiek waarden**
 
