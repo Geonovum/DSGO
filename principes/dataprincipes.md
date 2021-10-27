@@ -601,8 +601,8 @@ bij aan interoperabiliteit en leveranciersonafhankelijkheid. Het gebruik van
 open standaarden in ICT-systemen bespaart kosten en verlicht administratieve
 lasten.
 
-Het Forum Standaardisatie hanteert twee type lijsten: de open [verplichte ‘pas toe of leg uit’] 
-standaarden (https://forumstandaardisatie.nl/open-standaarden/verplicht) en [aanbevolen open standaarden](https://forumstandaardisatie.nl/open-standaarden/aanbevolen) voor de publieke sector.
+Het Forum Standaardisatie hanteert twee type lijsten: de open [verplichte ‘pas toe of leg uit’](https://forumstandaardisatie.nl/open-standaarden/verplicht)
+standaarden  en [aanbevolen open standaarden](https://forumstandaardisatie.nl/open-standaarden/aanbevolen) voor de publieke sector.
 Het BIM Loket heeft een [palet aan open standaarden](https://www.bimloket.nl/p/17/Ons-palet-van-open-standaarden) en [richtlijnen](https://www.bimloket.nl/p/115/BIM-Protocol-en-BIM-Uitvoeringsplan). 
 
 Standaarden zijn de afsprakenstelsels van domeinen die specificaties en eisen
