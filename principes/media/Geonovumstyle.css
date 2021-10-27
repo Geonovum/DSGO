@@ -26,6 +26,10 @@ img#Geonovum
   height: 67px;
 }
 
+.logo {
+	height: 67px !important;
+}
+
 /*-- Definite van BlockQuotes (uitgelichte tekstblokken) ----------------------------*/
 blockquote 
 {
