@@ -490,11 +490,12 @@ metadata van een dataset (op basis van aangeleverde metagegevens), en voert
 wijzigingen door in de metadata. De metadata voldoet aan de gestelde
 kwaliteitseisen (onder meer actueel, juist en volledig). 
 
+>  **Randvoorwaarde:** Het DSGO helpt koppelingen te realiseren tussen datasets,
+>  belegd bij de metadataredacteur. 
+
 >   **Eis:** De eigenaar van de (meta)data(set) is zelf verantwoordelijk voor een
 >   goede kwaliteit van de (meta)data(set).
 
-> **Randvoorwaarde:** Het DSGO helpt koppelingen te realiseren tussen datasets,
-> belegd bij de metadataredacteur. 
 
 >   **Voorbeeld:** De [Basisregistratie Adressen en Gebouwen (BAG)](https://www.geobasisregistraties.nl/basisregistraties/adressen-en-gebouwen) is de authentieke
 >   bron voor officiële adressen en bouwjaren van panden. De ‘eigenaar’ van de
@@ -530,18 +531,17 @@ Zo blijft de DSGO een betrouwbare bron van gegevens.
 Wanneer er onjuistheden worden aangetroffen, dan biedt het DSGO eindgebruikersvriendelijke manieren om deze door te geven.
 DSGO draagt zorg dat rapportages over onjuistheden en onvolkomenheden worden doorgegeven aan de aanbieders van data.
 
-> **Eis:** De data en de metadata dienen van hoge kwaliteit te zijn en voldoen aan een hoge mate van nauwkeurigheid. 
-
 > **Uitgangspunt:** Het DSGO geeft gerapporteerde onjuistheden en onvolkomenheden door aan de eigenaars.
 > DSGO biedt API's en formulieren aan voor eindgebruikers om rapportages zo eenvoudig mogelijk te maken.
 
 > **Randvoorwaarde:** De leveranciers en de metadataredacteur zetten zich in voor een hoge kwaliteit data.
 > Het platform kan statistieken gebruiken om de metadataredacteur te ondersteunen in haar/zijn werk. 
 
+> **Eis:** De data en de metadata dienen van hoge kwaliteit te zijn en voldoen aan een hoge mate van nauwkeurigheid. 
+
 > **Voorbeeld:** Het nationaal georegister informeert gebruikers over de contouren van de gegevens in een dataset.
 > Zo is de ruimtelijke dekking van een dataset in één oogopslag te zien.
 > Ook zijn contactgegevens van de leverancier opgenomen en worden datasets verbonden door middel van categorieën.
-> 
 > Voor DSGO is voor te stellen dat de beschreven UOI's getoond worden; of de ruimtelijke resolutie van de dataset.
 
 
