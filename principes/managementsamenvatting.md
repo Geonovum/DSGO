@@ -65,5 +65,5 @@ ontwikkeling van het DSGO*, welke kort samengevat zijn:
     toepassing in het DSGO en andere stelsel.
 
 De *uitgangspunten, randvoorwaarden en eisen* die tijdens het traject zijn
-verzameld zijn samengevat als richtinggevende principes, die opdrachtgever het ministerie van BZK
+verzameld zijn samengevat (<a href="##uitgangspunten-randvoorwaarden-en-eisen"></a>)als richtinggevende principes, die opdrachtgever het ministerie van BZK
 ‘onder de arm mee kan nemen’ bij de verdere uitwerking van het DSGO.
