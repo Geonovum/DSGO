@@ -14,8 +14,8 @@ Het DSGO baseren we op publieke waarden die de samenleving reflecteren. Deze pub
 
 
     
-    Vervolg
-    -------
+Vervolg
+-------
     
     In de afgelopen twee decennia  is het nog niet gelukt om de data te laten stromen in de bouwwerk levenscyclus. 
     Er is dus een radicaal vernieuwende aanpak nodig in de sector (overheid en bouw) om beweging in deze 
