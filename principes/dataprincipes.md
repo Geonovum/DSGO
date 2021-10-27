@@ -297,7 +297,7 @@ DSGO zijn aangesloten geautomatiseerd de gegevens kunnen doorzoeken en opvragen.
 De (meta)data(sets) worden dan in hun bestaande structuur/standaard in een
 machine-leesbare generieke *wrapper* verpakt.
 
->   **Eis:** voor het DSGO zijn (vooral) afspraken nodig over de technische
+>   **Eis:** Voor het DSGO zijn (vooral) afspraken nodig over de technische
 >   uitwisseling van (meta)data(sets) op de koppelvlakken, ofwel op de
 >   interfaces tussen de systemen, om de data te laten stromen.
 
@@ -403,7 +403,7 @@ DSGO kan afspraken maken over beschikbaarheid van gegevenssets met de aanbieders
 daarvan. Dankzij de autorisatie/authenticatie-functie van DSGO kan het mogelijk
 gemaakt worden dat veranderingen aan datasets aangekondigd worden.
 
-> **Eis**: DSGO houdt een duurzame metadataregistratie bij, waarbij metadata langdurig bewaard en toegankelijk blijft.
+> **Eis**: Het DSGO houdt een duurzame metadataregistratie bij, waarbij metadata langdurig bewaard en toegankelijk blijft.
 > De datasets zelf worden niet noodzakelijk door DSGO bewaard.
 
 ### Uitwisselbaar
