@@ -7,7 +7,7 @@ toegang tot data in de bouwsector*. Voor het realiseren van de maatschappelijke
 opgaven energietransitie en woningbouw is het van essentieel belang om
 toegang te hebben tot accurate gegevens over de gebouwde omgeving. ‘Data moet
 stromen’ tussen de private en publieke partijen in de bouw- en
-installatiesector, maar ook inwoners c.q. woningeigenaren om deze doelen te
+installatiesector, maar ook naar inwoners en woningeigenaren om deze doelen te
 bereiken.
 
 Voor het ministerie van BZK is het als opdrachtgever van belang om een aantal *richtinggevende
@@ -22,17 +22,17 @@ het delen van gegevens in de geo- én bouwsector.
 
 Het resultaat is dit adviesrapport met richtinggevende principes. De principes zijn
 onder te verdelen in principes geënt op de samenwerking van partijen in het
-stelsel (publieke waarden) en het delen van gegevens (FAIR data principes) over
+stelsel (publieke waarden) en het delen van gegevens (FAIR data-principes) over
 de gebouwde omgeving.
 
 Het uitgangspunt is om het DSGO te ontwerpen op basis van *publieke waarden* die
 de samenleving reflecteren. Deze publieke waarden bevatten onder meer een open
-en transparent ontwerp proces en het open transparant delen van uitkomsten. Maar
+en transparent ontwerpproces en het open en transparant delen van uitkomsten. Maar
 over ook het betrekken van alle belanghebbenden (inclusiviteit), over eigenaar-
 en zeggenschap over en gebruik van gebruik data, standaarden, algoritmen en
 voorzieningen (soevereniteit).
 
-De *data principes* zijn beschreven aan de hand van de FAIR-kernbegrippen
+De *data-principes* zijn beschreven aan de hand van de FAIR-kernbegrippen
 vindbaarheid, toegankelijkheid, interoperabiliteit en herbruikbaarheid van gegevens.
 Hierbij wordt onder meer ingegaan op de eenduidige vindplaats en identificering
 van gegevens in het stelsel, de beschrijving (metadatering) van de herkomst,
