@@ -45,7 +45,7 @@ Assetmanagement
 
 ### Inleiding
 
-Het Rijks Vastgoed Bedrijf (RVB) is de vastgoedorganisatie van en voor de Rijksoverheid en is onderdeel van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Het RVB is verantwoordelijk voor het beheer en de instandhouding van de grootste en meest diverse vastgoedportefeuille van Nederland.
+Het Rijksvastgoedbedrijf (RVB) is de vastgoedorganisatie van en voor de Rijksoverheid en is onderdeel van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Het RVB is verantwoordelijk voor het beheer en de instandhouding van de grootste en meest diverse vastgoedportefeuille van Nederland.
 
 Voor het beheer van deze vastgoedportefeuille maakt het RVB gebruik van vele dienstverleners, zowel dienstverleners van het Rijk, als ook externe dienstverleners. Om in al het vastgoed deze dienstverlening goed te laten verlopen is een transparante uitwisseling van data essentieel. Deze uitwisseling begint al bij de oplevering van een object na realisatie aan het RVB als assetbeheerder. In deze casusbeschrijving assetmanagement geven we een inkijkje in de manier waarop het RVB deze problematiek te lijf gaat, wat daarin tot nu toe al bereikt is en welke uitdagingen nog voor haar liggen.
 
