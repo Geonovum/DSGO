@@ -2,6 +2,22 @@ var respecConfig = {
   format: "markdown",
   specStatus: "GN-WV",
   specType: "HR", 
+  logos: [ {
+    src: 'https://www.bimloket.nl/images/bimlogo.png',
+    href: "https://www.bimloket.nl/",
+    alt: "BIM Loket",
+    width: 301,
+    height: 140,
+    id: 'logo_bimloket',
+  },
+  {
+    src: 'http://crow.nl/medialibrary/CROW/img/CROW-logo.svg',
+    href: "https://www.crow.nl/",
+    alt: "CROW",
+    width: 528,
+    height: 161,
+    id: 'logo_bimloket',
+  }]  ,  
   //publishDate: "2020-09-06",
   authors: [
     { name: "Arnoud de Boer",
