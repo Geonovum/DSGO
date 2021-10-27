@@ -48,8 +48,8 @@ In hoofdstuk vier worden de ontwerpprincipes voor het ontwikkelingsproces gepres
 waarop de samenwerking tot stand komt. Deze principes zijn gebaseerd op publieke waarden, om de publieke belang 
 weerspiegeld te zien. Ze zijn richtinggevend voor het ontwerpproces voor elk thema.
 
-In hoofdstuk 5 worden de principes gepresenteerd voor het maken van afspraken voor het uitwisselen van data. Daarbij wordt uitgegaan van: 
-•	Een minimale set op basis van wat noodzakelijk is voor de usecase. Niet meer en niet minder. 
-•	Gebruik van reeds bestaande standaarden in plaats van het ontwikkelen van nieuwe. 
-•	De ontwikkeling van koppelvlakken, zodat elke partij heeft te dealen met zijn eigen legacy, maar dit geen hypotheek legt op de voortgang binnen de sector.  
+In hoofdstuk 5 worden de principes gepresenteerd voor het maken van afspraken voor het uitwisselen van data. Daarbij wordt uitgegaan van:
+- Een minimale set op basis van wat noodzakelijk is voor de usecase. Niet meer en niet minder.
+- Gebruik van reeds bestaande standaarden in plaats van het ontwikkelen van nieuwe.
+- De ontwikkeling van koppelvlakken, zodat elke partij heeft te dealen met zijn eigen legacy, maar dit geen hypotheek legt op de voortgang binnen de sector.  
 
