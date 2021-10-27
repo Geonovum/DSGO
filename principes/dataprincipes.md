@@ -191,7 +191,7 @@ die in andere systemen zijn opgeslagen.
 
 >   **Voorbeeld:** Het [Dataregister van de Nederlandse Overheid](https://data.overheid.nl/) ondersteunt het zoeken van datasets op diverse thema's 
 >   De catalogusfunctie van het DSGO lijkt hierop, maar is toegespitst op datasets die een toepassing hebben
->   in de fysieke leef- cq. gebouwde omgeving.
+>   in de fysieke leef- c.q. gebouwde omgeving.
 
 **Figuur: data.overheid.nl**
 
@@ -211,7 +211,7 @@ die in andere systemen zijn opgeslagen.
 >   eigenschappen (metadata) waaronder de naam en contactgegevens van de
 >   organisatie die verantwoordelijk is voor de gegevens, het doel van de
 >   dataset, de beschikbare formaten en coördinaatreferentiesystemen en gegevens
->   over de kwaliteit (o.m actualiteit).
+>   over de kwaliteit (ondermeer actualiteit).
 
 **Figuur: Het Nationaal Geo Register (NGR)**
 
