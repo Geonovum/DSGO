@@ -32,6 +32,11 @@ img#Geonovum
 	margin-left: 10px;
 }
 
+.logo a::after{
+	content: "\a";
+    white-space: pre; 
+}
+
 /*-- Definite van BlockQuotes (uitgelichte tekstblokken) ----------------------------*/
 blockquote 
 {
