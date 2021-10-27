@@ -33,7 +33,7 @@ en zeggenschap over en gebruik van gebruik data, standaarden, algoritmen en
 voorzieningen (soevereniteit).
 
 De *data-principes* zijn beschreven aan de hand van de FAIR-kernbegrippen
-vindbaarheid, toegankelijkheid, interoperabiliteit en herbruikbaarheid van gegevens.
+vindbaar, toegankelijk, uitwisselbaar en herbruikbaar van gegevens.
 Hierbij wordt onder meer ingegaan op de eenduidige vindplaats en identificering
 van gegevens in het stelsel, de beschrijving (metadatering) van de herkomst,
 kwaliteit en betekenis van de gegevens, de gecontroleerde toegang middels
