@@ -26,16 +26,37 @@ img#Geonovum
   height: 67px;
 }
 
-.logo img {
-	height: 67px !important;
+a.logo {
 	float: right;
-	margin-left: 10px;
+	display: block;
 }
 
-.logo a::after{
-	content: "\a";
-    white-space: pre; 
+.title {
+
 }
+.logo img {
+	/*height: 67px !important;*/
+	/*float: right;*/
+	/*margin-left: 10px;*/
+	width: 132px !important;
+	position: absolute;
+	top: 20px;
+	display: block;
+}
+
+img#logo_bimloket {
+	float: right;	
+	width: 132px !important;
+	top: 100px
+}
+
+img#logo_crow {
+	float: right;
+	width: 132px !important;	
+	top: 180px;
+}
+
+
 
 /*-- Definite van BlockQuotes (uitgelichte tekstblokken) ----------------------------*/
 blockquote 
