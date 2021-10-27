@@ -532,7 +532,7 @@ DSGO draagt zorg dat rapportages over onjuistheden en onvolkomenheden worden doo
 
 > **Eis:** De data en de metadata dienen van hoge kwaliteit te zijn en voldoen aan een hoge mate van nauwkeurigheid. 
 
-> **Uitgangspunt:** DSGO geeft gerapporteerde onjuistheden en onvolkomenheden door aan de eigenaars.
+> **Uitgangspunt:** Het DSGO geeft gerapporteerde onjuistheden en onvolkomenheden door aan de eigenaars.
 > DSGO biedt API's en formulieren aan voor eindgebruikers om rapportages zo eenvoudig mogelijk te maken.
 
 > **Randvoorwaarde:** De leveranciers en de metadataredacteur zetten zich in voor een hoge kwaliteit data.
