@@ -224,9 +224,10 @@ Doelgerichtheid
 
 *Toegankelijk*
 - Uitgangspunt: Gegevens worden in het DSGO aangeboden op basis van de bestaande (semantische) standaarden. Vanuit DSGO kan dit als randvoorwaarde worden geformuleerd aan broneigenaren die hun data(sets) via DSGO wensen te ontsluiten.
+- Uitgangspunt: In het DSGO verloopt de authenticatie van natuurlijke personen en (overheids)organisaties met een publieke taak zich middels DigiD, van bedrijven middels eHerkenning. 
 - Eis: Voor het DSGO zijn (vooral) afspraken nodig over de technische uitwisseling van (meta)data(sets) op de koppelvlakken, ofwel op de interfaces tussen de systemen, om de data te laten stromen.
 - Eis: De toegang tot het DSGO wordt geboden middels een open, gratis en universeel toepasbaar protocol.
-Uitgangspunt: In het DSGO verloopt de authenticatie van natuurlijke personen en (overheids)organisaties met een publieke taak zich middels DigiD, van bedrijven middels eHerkenning. 
+- Eis: Het DSGO houdt een duurzame metadataregistratie bij, waarbij metadata langdurig bewaard en toegankelijk blijft. De datasets zelf worden niet noodzakelijk door DSGO bewaard.
 
 *Uitwisselbaar*
 - Uitgangspunt: Datasets worden in standaarden aangeboden die door Forum Standaardisatie en/ of BIM Loket worden aanbevolen. 
