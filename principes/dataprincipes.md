@@ -562,7 +562,7 @@ digitalisering. Dit is mogelijk te ondervangen met datagebruikslicenties in het 
 
 Het heeft de voorkeur dat metadata en ontologieën met een vrije licentie beschikbaar worden gesteld (cf. <a href="#uitwisselbaar"></a>, I2).
 
-> **Eis:**: Elke gegevensset beschrijft de gebruikslicentie ervan.
+> **Eis:** Elke gegevensset beschrijft de gebruikslicentie ervan.
 > Minstens op een voor mensen leesbare wijze, bij voorkeur met (een link naar) een machineleesbare representatie.
 
 >   **Voorbeeld:** [Gebruikslicenties open data van de overheid](https://creativecommons.nl/publiek-domein/).
