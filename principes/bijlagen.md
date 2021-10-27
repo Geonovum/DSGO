@@ -230,20 +230,21 @@ Doelgerichtheid
 - Eis: Het DSGO houdt een duurzame metadataregistratie bij, waarbij metadata langdurig bewaard en toegankelijk blijft. De datasets zelf worden niet noodzakelijk door DSGO bewaard.
 
 *Uitwisselbaar*
-- Uitgangspunt: Datasets worden in standaarden aangeboden die door Forum Standaardisatie en/ of BIM Loket worden aanbevolen. 
-- Zo waarborgen we de langdurige verwerkbaarheid van de gegevens.
+- Uitgangspunt: Elke dataset beschrijft het informatiemodel of ontologie waarmee de data is beschreven. Als die niet aanbevolen is door Forum Standaardisatie of het BIM Loket, moet het uitgangspunt zijn dat ze publiekelijk te raadplegen zijn.
 - Uitgangspunt: Gebruikte vocabulaires in metadata en gegevenssets zijn expliciet.
-- Eis: Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn
+- Ranvoorwaarde: Het DSGO helpt koppelingen te realiseren tussen datasets, belegd bij de metadataredacteur. 
+- Eis: Datasets worden aangeboden in standaarden die zijn aanbevolen door Forum Standaardisatie of door het BIM Loket. 
 - Eis: De eigenaar van de (meta)data(set) is zelf verantwoordelijk voor een goede kwaliteit van de (meta)data(set).
 
 *Herbruikbaar*
+- Uitgangspunt: Het DSGO geeft gerapporteerde onjuistheden en onvolkomenheden door aan de eigenaars. DSGO biedt API's en formulieren aan voor eindgebruikers om rapportages zo eenvoudig mogelijk te maken.
 - Uitgangspunt: Het platform heeft voor datasets een vast aantal attributen beschreven. De metadata dienen zich aan een nader te bepalen mate van nauwkeurigheid te houden.
 - Uitgangspunt: In het DSGO worden Standaarden uit verschillende domeinen toegepast. Het is onmogelijk om al deze standaarden te harmoniseren op semantiek. Daarom stellen we de open standaarden van het BIM Loket en het Forum Standaardisatie als uitgangspunt.
-- Randvoorwaarde: In het DSGO worden met een datagebruikslicentie voorwaarden opgelegd wie welke gegevens voor welke doel mag gebruiken.
-Het heeft de voorkeur dat metadata en ontologieën met een vrije licentie beschikbaar worden gesteld.
-- Eis: Van elke dataset is bekend wie de leverancier is. Elke dataset houdt voor zich ook bij (en levert dat, indien mogelijk, uit) waar welk gegevenspunt vandaan komt.
-
-
+- Randvoorwaarde: De leveranciers en de metadataredacteur zetten zich in voor een hoge kwaliteit data. Het platform kan statistieken gebruiken om de metadataredacteur te ondersteunen in haar/zijn werk. 
+- Randvoorwaarde: In het DSGO worden met een datagebruikslicentie voorwaarden opgelegd wie welke gegevens voor welke doel mag gebruiken. Het heeft de voorkeur dat metadata en ontologieën met een vrije licentie beschikbaar worden gesteld.
+- Eis: De data en de metadata dienen van hoge kwaliteit te zijn en voldoen aan een hoge mate van nauwkeurigheid. 
+- Eis: Elke gegevensset beschrijft de gebruikslicentie ervan. Minstens op een voor mensen leesbare wijze, bij voorkeur met (een link naar) een machineleesbare representatie.
+- Eis: Het platform en de datasetaanbieders houden zorgvuldig bij waar welk gegevenspunt vandaan komt.
 
 
 Geraadpleegde bronnen
