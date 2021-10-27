@@ -78,14 +78,16 @@ standaarden) en de [principes die DiSGeo
 hanteert](https://docs.geostandaarden.nl/disgeo/emso/#identificatie-van-objecten) voor
 de Samenhangende Objecten Registratie (SOR). Ook is gekeken naar de instrumenten
 van de Wet kwaliteitsborging Bouw (Wkb) en het ontwerp Digitaal Stelsel Gebouwde
-Omgeving DSGO (binnen digiGO).[^1]
+Omgeving DSGO (binnen digiGO).
 
-[^1]: Noot van de schrijvers: Tussen november 2020 en april 2021 heeft het
+<details class='note'>
+Noot van de schrijvers: Tussen november 2020 en april 2021 heeft het
 ministerie van BZK onderzoek laten doen naar het ontwerp van een Unieke Object
 Identificatie (UOI). Vraag aan Geonovum was de UOI te verkennen in relatie tot
 standaarden in de bouw- en geo-sector en de ontwikkelingen rond
 objectidentificatie in de fysieke leefomgeving. Ten tijde van het schrijven dit
 rapport is er een concept onderzoeksrapport over UOI.
+</details>
 
 >   **Eis:** De data die het DSGO ontsluit, zijn identificeerbaar aan de hand
 >   van een
@@ -131,11 +133,15 @@ weten welke metadata(set) hoort welke data(set) moet een expliciete relatie
 vastgelegd worden tussen de metadata(set) en data(set). Dit kan door het opnemen
 van de identificatie van de data(set) in de metadata(set).
 
->   **Eis:** Bij de metadata(set) wordt de unieke identificatie (UOI) van de
->   betreffende data(set) opgenomen.[^2]
-
-[^2]: *De informatiekundige relatie is dus ‘Metadata(set) beschrijft 0..\*
-data(set)’ en niet ‘Data(set) wordt beschreven in 0..\* Metadata(sets)’*
+>   **Eis:** Bij de metadata wordt de unieke identificatie (UOI) van de
+>   betreffende data(set) opgenomen.
+>
+> <details>
+> 
+> De informatiekundige relatie is dus ‘Metadata(set) beschrijft 0..\*
+> data(set)’ en niet ‘Data(set) wordt beschreven in 0..\* Metadata(sets)’
+> 
+> </details>
 
 **F4. (Meta)data worden geregistreerd of geïndexeerd in een doorzoekbare bron**
 
@@ -159,19 +165,24 @@ veel voorkomende oorzaak van faalkosten in de bouw).
 
 Het uitgangspunt van ‘data bij de bron’ wordt ook gehanteerd in de [Beleidsvisie
 Samenhangende
-Objectenregistratie](https://www.geobasisregistraties.nl/documenten/beleidsnota/2019/11/29/beleidsvisie-samenhangende-objectenregistratie)[^3]
+Objectenregistratie](https://www.geobasisregistraties.nl/documenten/beleidsnota/2019/11/29/beleidsvisie-samenhangende-objectenregistratie) 
 van het ministerie van BZK en successievelijk de
 [architectuurprincipes](https://docs.geostandaarden.nl/disgeo/arch/) voor de
 Nederlandse Geo-Informatie Infrastructuur (NGII).
 
-[^3]: *“Er wordt in de eindsituatie zoveel mogelijk uitgegaan van ‘bevragen bij
+<details class="note" title="Beleidsvisie Samenhangende
+Objectenregistratie">
+
+“Er wordt in de eindsituatie zoveel mogelijk uitgegaan van ‘bevragen bij
 de bron’. Hierbij is van belang dat de gebruiker voor verstrekkingen zoveel
 mogelijk uit kan gaan van één loket. Een belangrijk aandachtspunt hierbij is het
 gebeurtenis georiënteerd werken (nader uit te werken). Of de bronhouders
 gedistribueerd en decentraal werken of direct inwinning en bijhouding in een (of
 meerdere) voorziening(en) uitvoeren via gestandaardiseerde services moet nader
 worden bepaald (nadere uitwerking in kader van DiS GEO/beleidsvisie:
-leveranciers, bronhouders, Kadaster, VNG-R, Ministerie van BZK).”*
+leveranciers, bronhouders, Kadaster, VNG-R, Ministerie van BZK).”
+
+</details>
 
 >   **Uitgangspunt:** het DSGO is een set uniforme afspraken voor de
 >   uitwisseling van gegevens over de gebouwde omgeving tussen organisaties, en
@@ -220,13 +231,17 @@ die in andere systemen zijn opgeslagen.
 
 We zien voor ons dat één van de functies van het DSGO deze catalogus-functie is.
 Deze catalogus-functie is een belangrijk voor de goede vindbaarheid van
-data(sets).[^4]
+data(sets).
 
-[^4]: We maken geen keuze hoe deze catalogus-functie wordt geïmplementeerd: sla
+<details class='note small' title='catalogus-functie'>
+
+We maken geen keuze hoe deze catalogus-functie wordt geïmplementeerd: sla
 je alle metadatasets centraal op die verwijzen naar de data, of maak je een
 koppeling naar een metadata-service van een gedistribueerd bronsysteem. Ofwel,
 een koppelvlak waarmee de indexen van andere bronsystemen kunnen worden
 opgevraagd.
+
+</details>
 
 >   **Eis:** Het DSGO fungeert onder meer als een doorzoekbare catalogus c.q.
 >   register met gedistribueerde data(sets) over de gebouwde omgeving.
@@ -367,6 +382,9 @@ gegevens.
 
 >   **Voorbeeld:** Op basis van de [open standaard voor autorisatie (OAuth)](https://www.forumstandaardisatie.nl/open-standaarden/oauth) kunnen gebruikers of organisaties een programma of website toegang geven tot specifieke (privé)gegevens, die opgeslagen zijn op een ander systeem, zonder hun gebruikersnaam en wachtwoord uit handen te geven. 
 
+De Baseline informatieveiligheid overheid (BIO)[https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/informatieveiligheid/kaders-voor-informatieveiligheid/baseline-informatiebeveiliging-overheid/]
+en de wet Digitale overheid (WDO)[https://www.digitaleoverheid.nl/dossiers/wet-digitale-overheid/] bevat ook kaders voor authenticatie en authorisatie.
+Het is verstandig de grote kaders over te nemen voor de authenticatie- en authorisatieprocedure van DSGO, omdat een deel van de datasets ook van organisaties komt die zich reeds aan deze kaders houden.
 
 **A2. Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn**
 
@@ -384,6 +402,9 @@ nodig is voor processen.
 DSGO kan afspraken maken over beschikbaarheid van gegevenssets met de aanbieders
 daarvan. Dankzij de autorisatie/authenticatie-functie van DSGO kan het mogelijk
 gemaakt worden dat veranderingen aan datasets aangekondigd worden.
+
+> **Eis**: DSGO houdt een duurzame metadataregistratie bij, waarbij metadata langdurig bewaard en toegankelijk blijft.
+> De datasets zelf worden niet noodzakelijk door DSGO bewaard.
 
 ### Uitwisselbaar
 
@@ -405,15 +426,18 @@ wordt verkeerde data overgenomen.
 **I1. (Meta)data gebruiken een formele, toegankelijke, gedeelde en breed
 toepasbare taal voor kennisrepresentatie.**
 
-Datasets worden in standaarden aangeboden die door [Forum Standaardisatie](https://forumstandaardisatie.nl/open-standaarden) en/ of [BIM Loket](https://www.bimloket.nl/main.php) worden aanbevolen. 
+Datasets worden in standaarden aangeboden die door [Forum Standaardisatie](https://forumstandaardisatie.nl/open-standaarden) en/ of [BIM Loket](https://www.bimloket.nl/) worden aanbevolen. 
 Zo waarborgen we de langdurige verwerkbaarheid van de gegevens.
 
 Ook de metadata die het DSGO-platform zelf beheert, wordt volgens API’s en datastandaarden aangeboden.
+Datasetaanbieders en -gebruikers kunnen zo hun eigen publicatiesystemen afstemmen op DSGO.
 
 Voor grotere samenhang tussen de gegevensbronnen, heeft een ['knowledge graph'](https://geonovum.github.io/disgeo-demo/#api-versus-knowledge-graph)-opzet duidelijke voordelen. Zo'n kennisnetwerk combineert verschillende databronnen automatisch op basis van de toegang, die vervolgens in samenhang te bevragen zijn.
 API’s kunnen daarbovenop fungeren als eenvoudige toegang tot de data.
 Voor de geavanceerdere toepassingen en vragen waarbij de samenhang essentieel
 is, kan de knowledge graph direct benaderd worden via SPARQL.
+
+> **Eis:** Datasets worden aangeboden in standaarden die zijn aanbevolen door Forum Standaardisatie of door het BIM Loket.
 
 >   **Voorbeeld:** De [integrale gebruiksoplossing (IGO) van het Kadaster](https://labs.kadaster.nl/cases/integralegebruiksoplossing)
 >   maakt het mogelijk om geo-data uit verschillende geo-basisregistraties gecombineerd te bevragen en is ontworpen voor algemene gebruikers, 
@@ -422,31 +446,25 @@ is, kan de knowledge graph direct benaderd worden via SPARQL.
 
 **I2. (Meta)data gebruiken vocabulaires die FAIR-principes volgen**
 
-Bovendien gaat het in deze hele beweging niet alleen om laagdrempelige toegang
-tot individuele databronnen, maar steeds vaker ook om het kunnen combineren van
-data uit verschillende bronnen. Hiermee neemt het belang van zowel semantische
-als technische interoperabiliteit steeds verder toe.
-
-Door expliciet te zijn over de gebruikte vocabulaires in metadata en
-gegevenssets, maken we het makkelijker aan te sluiten op DSGO. Een systeem dat
-gegevens verwerkt (of de programmeur ervan), kan zien hoe gegevens
-geïnterpreteerd moeten worden.
-
-In het DSGO vindt domein-overstijgende uitwisseling van data plaats. Als
-verschillende domeinen data willen uitwisselen, dan is er vaak sprake van
+Zowel de datasets als de metadatabeschrijvingen zijn opgesteld in vocabulaires die zelf de FAIR-principes volgen.
+Dat dient twee doelen:
+enerzijds is explicitering van de gebruikte waarden/kolommen/relaties (etc.) nodig voor een juiste technische aansluiting op DSGO.
+Voor het kunnen combineren van data uit verschillende bronnen neemt het belang van semantische en technische interoperabiliteit toe.
+Anderzijds voorkomt het ook betekenisverwarring: omdat in het DSGO domein-overstijgende uitwisseling van data plaatsvindt, is er vaak sprake van
 verschil in definities en begrippen.
 
-Betekenisverwarring kan op twee wijzes worden overbrugd. Enerzijds door gebruik
-te maken van een bovenliggende identifier die in beide domeinen wordt toegepast.
-De UOI biedt in dat geval uitkomst om data van het ene domein te combineren met
-data van het andere domein. Voorbeelden van overstijgende domeinen zijn: het
-geodomein waaronder de geo-basisregistraties, het energiedomein, ....
-
-Anderzijds door de wijze waarop de gegevens zijn opgeslagen, te beschrijven.
 Zulke beschrijven worden ook wel OTL’s, ontologieën of informatiemodellen
 genoemd. Niet alle schema’s (vocabulaires, ontologiën, OTL’s,
-informatiemodellen) zijn als vijf-ster FAIR te kwalificeren. Toch dienen ze ten
-minste publiekelijk te raadplegen te zijn.
+informatiemodellen) zijn als vijf-ster FAIR te kwalificeren. 
+Toch is het uitangspunt van publieke toegankelijkheid leidend.
+
+Principe I2 borgt de toegang tot de beschrijving van de dataset.
+Daarbij moet het uitgangspunt zijn dat dat 
+óf met aanbevolen standaarden gaat (aanbevolen door Forum Standaardisatie of BIM Loket)
+óf publiekelijk te raadplegen is.
+
+> **Uitgangspunt:** Elke dataset beschrijft het informatiemodel of ontologie waarmee de data is beschreven.
+> Als die niet aanbevolen is door Forum Standaardisatie of het BIM Loket, moet het uitgangspunt zijn dat ze publiekelijk te raadplegen zijn.
 
 >   **Voorbeeld [CB-NL](https://public.cbnl.org/over-cb-nl):** Verschillende
 >   definiëring, beschrijvingen en interpretaties door betrokken partijen leiden
@@ -470,10 +488,13 @@ koppelingen maakt.
 Daarom is in het DSGO de **metadataredacteur** verantwoordelijk voor aanmaken
 metadata van een dataset (op basis van aangeleverde metagegevens), en voert
 wijzigingen door in de metadata. De metadata voldoet aan de gestelde
-kwaliteitseisen (onder meer actueel, juist en volledig).
+kwaliteitseisen (onder meer actueel, juist en volledig). 
 
 >   **Eis:** De eigenaar van de (meta)data(set) is zelf verantwoordelijk voor een
 >   goede kwaliteit van de (meta)data(set).
+
+> **Randvoorwaarde:** Het DSGO helpt koppelingen te realiseren tussen datasets,
+> belegd bij de metadataredacteur. 
 
 >   **Voorbeeld:** De [Basisregistratie Adressen en Gebouwen (BAG)](https://www.geobasisregistraties.nl/basisregistraties/adressen-en-gebouwen) is de authentieke
 >   bron voor officiële adressen en bouwjaren van panden. De ‘eigenaar’ van de
@@ -500,13 +521,22 @@ integraal 3D gebouwontwerp.
 **R1. (Meta)data zijn rijkelijk beschreven met groot aantal nauwkeurige en
 relevante attributen**
 
-Het platform heeft voor datasets een vast aantal attributen beschreven.
+Het platform heeft voor datasets een vast aantal attributen beschreven, zoals naam of toegangspunt (etc.).
 Ook stelt de metadataredacteur gebruikelijke attributen vast, voor bepaalde types datasets.
+Bijvoorbeeld bij datasets met een eigen terugmeldvoorziening, een link naar de terugmeldvoorziening.
 
-De metadata dienen zich aan een nader te bepalen mate van nauwkeurigheid te houden.  
+De metadata dienen zich aan een nader te bepalen mate van nauwkeurigheid te houden. 
 Zo blijft de DSGO een betrouwbare bron van gegevens.
-Onjuistheden kunnen op meerdere wijzes bij DSGO aangegeven worden. 
-DSGO draagt zorg dat onjuistheden en onvolkomenheden van de data worden doorgegeven aan de aanbieders van data.
+Wanneer er onjuistheden worden aangetroffen, dan biedt het DSGO eindgebruikersvriendelijke manieren om deze door te geven.
+DSGO draagt zorg dat rapportages over onjuistheden en onvolkomenheden worden doorgegeven aan de aanbieders van data.
+
+> **Eis:** De data en de metadata dienen van hoge kwaliteit te zijn en voldoen aan een hoge mate van nauwkeurigheid. 
+
+> **Uitgangspunt:** DSGO geeft gerapporteerde onjuistheden en onvolkomenheden door aan de eigenaars.
+> DSGO biedt API's en formulieren aan voor eindgebruikers om rapportages zo eenvoudig mogelijk te maken.
+
+> **Randvoorwaarde:** De leveranciers en de metadataredacteur zetten zich in voor een hoge kwaliteit data.
+> Het platform kan statistieken gebruiken om de metadataredacteur te ondersteunen in haar/zijn werk. 
 
 > **Voorbeeld:** Het nationaal georegister informeert gebruikers over de contouren van de gegevens in een dataset.
 > Zo is de ruimtelijke dekking van een dataset in één oogopslag te zien.
@@ -530,7 +560,10 @@ gebruiksrecht op willen behouden. In een projectcontext belemmert dit het delen
 en 'doorstromen van data', waardoor niet optimaal kan worden geprofiteerd van de
 digitalisering. Dit is mogelijk te ondervangen met datagebruikslicenties in het DSGO.
 
-Het heeft de voorkeur dat metadata en ontologieën met een vrije licentie beschikbaar worden gesteld.
+Het heeft de voorkeur dat metadata en ontologieën met een vrije licentie beschikbaar worden gesteld (cf. <a href="#uitwisselbaar"></a>, I2).
+
+> **Eis:**: Elke gegevensset beschrijft de gebruikslicentie ervan.
+> Minstens op een voor mensen leesbare wijze, bij voorkeur met (een link naar) een machineleesbare representatie.
 
 >   **Voorbeeld:** [Gebruikslicenties open data van de overheid](https://creativecommons.nl/publiek-domein/).
 >   Open data is herkenbaar aan de publiek domein licentie, de creative commons zero (CC0) of
@@ -543,13 +576,18 @@ ook bij (en levert dat, indien mogelijk, uit) waar welk gegevenspunt vandaan
 komt.
 
 Zo houden we duidelijk waar gegevens vandaan komen en wie ervoor
-verantwoordelijk is. Dat betekent ook dat de metadata zowel van de
-datasetleverancier is, als van de metadataredacteur.
+verantwoordelijk is.
+Voor metadata betekent dat de datasetleverancier, die ondersteund wordt door de metadataredacteur.
+
+Voor gegevenssets waarbij geen garanties over (een niet onaanzienlijk deel van) de herkomst van de gegevenspunten gegeven kunnen worden,
+moet overwogen worden het platform zulke gegevenssets op een bepaalde wijze te markeren.
+
+> **Eis:** Het platform en de datasetaanbieders houden zorgvuldig bij waar welk gegevenspunt vandaan komt.
 
 > **Voorbeeld:** De landelijke dataset BGT wordt gepubliceerd door het Kadaster.
 > Er geldt ook een terugmeldingsplicht voor bepaalde gebruikers.
 > Een gebruiker constateert dat in de BGT-dataset een bepaald object niet is opgenomen.
-> Dankzij de heldere herkomstinformatie in DSGO komt zo'n melding bij het Kadaster.
+> Dankzij de heldere herkomstinformatie in DSGO, alsook de gebruiksvriendelijke rapportagefuncties van DSGO, komt zo'n melding spoedig bij het Kadaster.
 
 **R4. (Meta)data voldoen aan domein-relevante Standaarden**
 
@@ -566,8 +604,8 @@ bij aan interoperabiliteit en leveranciersonafhankelijkheid. Het gebruik van
 open standaarden in ICT-systemen bespaart kosten en verlicht administratieve
 lasten.
 
-Het Forum Standaardisatie hanteert twee type lijsten: de open [verplichte ‘pas toe of leg uit’] 
-standaarden (https://forumstandaardisatie.nl/open-standaarden/verplicht) en [aanbevolen open standaarden](https://forumstandaardisatie.nl/open-standaarden/aanbevolen) voor de publieke sector.
+Het Forum Standaardisatie hanteert twee type lijsten: de open [verplichte ‘pas toe of leg uit’](https://forumstandaardisatie.nl/open-standaarden/verplicht)
+standaarden  en [aanbevolen open standaarden](https://forumstandaardisatie.nl/open-standaarden/aanbevolen) voor de publieke sector.
 Het BIM Loket heeft een [palet aan open standaarden](https://www.bimloket.nl/p/17/Ons-palet-van-open-standaarden) en [richtlijnen](https://www.bimloket.nl/p/115/BIM-Protocol-en-BIM-Uitvoeringsplan). 
 
 Standaarden zijn de afsprakenstelsels van domeinen die specificaties en eisen

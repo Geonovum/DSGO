@@ -104,20 +104,20 @@ autonomie en veiligheid. We vertalen deze waarden in een aantal ontwerpprincipes
 die leidend zullen zijn voor het DSGO, zowel voor het ontwikkelen van het DSGO,
 als ook voor het gebruik, onderhoud en de governance van het DSGO.
 
-**FAIR principes**
+**FAIR-principes**
 
 Op eenduidige manieren samenwerken om informatie zo beter te kunnen beveiligen,
 makkelijker uit te wisselen en toegankelijker te maken voor iedereen. Dat is hoe
 open standaarden de samenwerking bevorderen tussen de overheid, burger en het
-bedrijfsleven. De FAIR Principes zijn een hulpmiddel daarin: het doel van de
-principes is het hergebruik van waardevolle data mogelijk maken. De FAIR
-Principes dwingen geen standaarden af, maar moedigen communities aan om data
+bedrijfsleven. De FAIR-principes zijn een hulpmiddel daarin: het doel van de
+principes is het hergebruik van waardevolle data mogelijk maken. De FAIR-principes
+dwingen geen standaarden af, maar moedigen communities aan om data
 en diensten vindbaar, toegankelijk, uitwisselbaar en herbruikbaar te maken. In
-lijn met het doel van dit adviesrapport nemen we de FAIR principes als basis
+lijn met het doel van dit adviesrapport nemen we de FAIR-principes als basis
 voor het formuleren van de principes voor het DSGO.
 
-Tijdens het schrijven heeft onder leiding van de opdrachtgever, heeft een informele 
-consultatie plaats gevonden van het concept rapport. Aan Geonovum, BIM Loket en CROW 
+Tijdens het schrijven heeft, onder leiding van de opdrachtgever, een informele 
+consultatie plaats gevonden van het conceptrapport. Aan Geonovum, BIM Loket en CROW 
 de taak om deze waardevolle ervaringen en kennis te wegen en mee te nemen in dit 
 voorliggende document. 
 
@@ -127,7 +127,7 @@ Afbakening
 Met de richtinggevende principes in dit adviesrapport brengen we onder de aandacht waarom, 
 hoe en wat nodig is om data te laten stromen vanuit het perspectief van het publiek belang. 
 Voor het ministerie van BZK is dit de start van het gesprek hoe publieke waarden in het DSGO 
-zullen worden geborgd. Dit adviesrapport is geen ontwerp, doelarchitectuur of globale architectuur 
-schets van het Digitaal Stelsel Gebouwde Omgeving, het is geen aanzet tot het ontwikkelen of beheren 
+zullen worden geborgd. Dit adviesrapport is geen ontwerp, doelarchitectuur of globale architectuurschets
+van het Digitaal Stelsel Gebouwde Omgeving, het is geen aanzet tot het ontwikkelen of beheren 
 van standaarden daarvoor. Voor de beheervraagstukken rondom het DSGO verwijzen we naar het 
-programma-spoor governance& beheer van het DSGO. 
+programma-spoor governance & beheer van het DSGO. 

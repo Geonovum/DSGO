@@ -195,7 +195,7 @@ noodzakelijk, zowel op de verstrekte gegevens, als op de manier waarop
 kwaliteitscontroles zijn uitgevoerd. Audits zijn een manier om de werking van
 het kwaliteitssysteem van betrokken partijen periodiek te controleren.
 
->   **Eis:** ontwerp elke use case zo dat er kan worden ingegrepen in de
+>   **Eis:** Ontwerp elke use case zo dat er kan worden ingegrepen in de
 >   geautomatiseerde processen.
 
 ### Soevereiniteit
@@ -209,7 +209,7 @@ het delen, manipuleren en hergebruiken van data, standaarden, algoritmen en
 voorzieningen en de daaruit voortvloeiende nieuwe of aangepaste data die
 ontstaat.
 
->   **Uitgangspunt:** binnen het DSGO wordt bepaald welke belanghebbende (in
+>   **Uitgangspunt:** Binnen het DSGO wordt bepaald welke belanghebbende (in
 >   juridische termen natuurlijke persoon of rechtspersoon) eigenaar is en/of
 >   zeggenschap en controle uitoefent over en/of gebruik maakt van de data(set),
 >   standaard, algoritme of voorziening die van belang zijn binnen de use cases. Met
