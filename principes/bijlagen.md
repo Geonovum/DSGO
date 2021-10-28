@@ -120,9 +120,9 @@ Ontwerpprincipes
 De ontwerpprincipes zijn:
 
 1.  *Open en transparant*: dit principe slaat zowel op de ontwikkeling
-    van het DSGO als de uitkomst ervan. Ontwerpproces: namelijk dat dit in een
+    van het DSGO als de uitkomst ervan. *Ontwerpproces*: namelijk dat dit in een
     open en transparant proces ontwikkeld wordt, waarbij alle belanghebbenden
-    inzicht krijgen en invloed hebben op de ontwikkeling. Uitkomsten: Data,
+    inzicht krijgen en invloed hebben op de ontwikkeling. *Uitkomsten*: Data,
     algoritmen en technologie zijn navolgbaar, herleidbaar en begrijpelijk. Voor
     de onderliggende ingrediënten geldt dat ze openbaar, vindbaar, toegankelijk,
     uitwisselbaar, herbruikbaar en controleerbaar moeten zijn (FAIR ).
@@ -147,7 +147,7 @@ De ontwerpprincipes zijn:
     besluitvormingsprocessen.
 
 7.  *Soevereiniteit*: Alloceren van eigenaarschap, zeggenschap en controle over
-    gebruikte data en algoritmen (soevereiniteit).
+    gebruikte data en algoritmen.
 
 8.  *Informatieveiligheid*: Voor het DSGO is het belangrijk dat traceerbaar is
     van wie gegevens afkomstig zijn, of de bron ze gewijzigd of verrijkt heeft
@@ -161,7 +161,7 @@ De dataprincipes zijn:
 
 - *Findable (vindbaar)* De eerste stap bij het (her)gebruiken van data is om de
 data te vinden. Metadata en data moeten gemakkelijk te vinden zijn voor zowel
-mensen als computers. Machine-readable metadata zijn essentieel voor het
+mensen als computers. Machineleesbare metadata zijn essentieel voor het
 ontdekken van datasets en services.
 
 - *Accessible (toegankelijkheid)* Zodra de gebruiker de benodigde gegevens heeft
