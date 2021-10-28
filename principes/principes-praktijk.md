@@ -22,9 +22,9 @@ bedrijfspanden. Vanaf 2025 volgen de andere bouwwerken. Hierdoor kunnen
 bouwbedrijven en gemeenten stap voor stap ervaring opdoen met het nieuwe
 toezicht in de bouw.
 
-Omgevingsvergunning wordt onder de Wkb verleend op basis van toetsing van een
-bouwplan (schetsontwerpniveau) aan het bestemmingsplan en plaatselijk geldende
-criteria (conform de Omgevingswet: het omgevingsplan). Aanvullend moet de
+De omgevingsvergunning wordt onder de Wkb verleend op basis van toetsing van een
+bouwplan (schetsontwerpniveau) aan het bestemmingsplan (onder de Omgevingswet: het omgevingsplan) en plaatselijk geldende
+criteria. Aanvullend moet de
 aanvrager een risico-inventarisatie en een kwaliteitsborgingsplan overleggen aan
 het bevoegd gezag.
 
@@ -34,7 +34,7 @@ controleert of het ontwerp en het uitvoeringsresultaat minimaal aan het
 Bouwbesluit (onder de Omgevingswet: Besluit bouwwerken leefomgeving) voldoet. Na
 oplevering van het bouwwerk geeft de kwaliteitsborger een verklaring af dat er
 een “gerechtvaardigd vertrouwen” is dat het gerealiseerde bouwwerk voldoet aan
-het Besluit bouwwerken leefomgeving. De vergunninghouder dient deze verklaring
+het Besluit bouwwerken leefomgeving (Bbl). De vergunninghouder dient deze verklaring
 in bij het bevoegd gezag.
 
 De Wkb is erop gericht om bouwkwaliteit te verbeteren, door de bewijslast van geleverde kwaliteit bij de bouwer te beleggen. Deze dient dat vast te leggen in het dossier bevoegd gezag, waarbij de data die voor dit dossier benodigd is, door alle ketenpartners moet worden aangeleverd. Dit digitale bouwdossier bevat informatie over het gerealiseerde bouwwerk. Het op orde hebben van dit dossier, gaat op termijn een voorwaarde worden voor gunning van een opdracht. 
