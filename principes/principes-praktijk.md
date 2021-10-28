@@ -245,12 +245,12 @@ Energiebesparingsverkenner van de Rijksdienst voor Ondernemend Nederland.
 ### Samenwerking
 
 Vanaf augustus 2021 werken Woonconnect en Greenhome in samenwerking met Milieu
-Centraal en in opdracht van ministerie van BZK aan de doorontwikkeling van het
+Centraal en in opdracht van het ministerie van BZK aan de doorontwikkeling van het
 platform. Woonconnect en Greenhome zijn geselecteerd met een openbare Europese
 aanbestedingsprocedure.
 
 Woningeigenaren kunnen gevalideerde energie-bespaarmaatregelen en
-financieringsmogelijkheden op zoeken op basis van woningkenmerkeno opvragen.
+financieringsmogelijkheden op zoeken op basis van woningkenmerken opvragen.
 Uitvoerders in de bouw- en installatiesector kunnen hun diensten en producten
 aanbieden op het platform. Zo komt vraag en aanbod bij elkaar op dit platform.
 
@@ -258,11 +258,11 @@ aanbieden op het platform. Zo komt vraag en aanbod bij elkaar op dit platform.
 
 In het platform worden de gegevens van de [Basisregistratie Adressen en
 Gebouwen](https://www.geobasisregistraties.nl/basisregistraties/adressen-en-gebouwen)
-als basis gebruikt, denk aan gebruiksoppervlakte, bouwjaar. Op basis van daarvan
+als basis gebruikt, denk aan gebruiksoppervlakte en bouwjaar. Op basis van daarvan
 wordt een eerste profiel van de woning samengesteld.
 
 Woningeigenaren krijgen verder een aantal aanvullende vragen om hun woning
-verder te configureren: heeft de woning vloer/gevel, welke verwarmingstype etc.
+verder te configureren: heeft de woning vloer/gevel, welke verwarmingstype etc..
 Deze aanvullende gegevens zijn niet landelijk in overheidsdata beschikbaar.
 
 Met de nog-te-ontwikkelen-functionaliteit van Woonconnect wordt het zelfs
@@ -270,15 +270,15 @@ mogelijk om met een paar simpele vragen een zeer goede benadering van een 3D
 model te maken van het huis, waarbij ramen en deuren op de goede plek zitten.
 
 Er wordt onderzocht of ook gegevens van het energielabel en
-energieverbruiksgegevens aan het landelijk digitaal platform. Zo kan een nog
+energieverbruiksgegevens aan het landelijk digitaal platform kunnen worden toegevoegd. Zo kan een nog
 beter advies voor besparingsmaatregelen worden opgesteld.
 
 Wetgeving werkt hierin belemmerend: zowel energielabel als
 energieverbruiksgegevens zijn aangeduid als persoongegevens en kunnen daarmee
-alleen na toestemming van woningeigenaar aan het platform beschikbaar worden
-gesteld. (machtiging)
+alleen na toestemming (machtiging) van woningeigenaar aan het platform beschikbaar worden
+gesteld. 
 
-**Figuur: Verbeterjehuis.nl voorbeeld van een landelijk digitaal platform**
+**Figuur: Landelijk digitaal platform Verbeterjehuis.nl**
 
 ![](media/100f4c15bfe5ad15824f29605f300268.png)
 
@@ -298,13 +298,13 @@ Belangrijk is om goede afspraken te maken over:
 
 -   Waar de data wordt opgeslagen, en hoe deze wordt teruggeleverd. Wordt de
     data opgeslagen bij de marktpartij die de ICT van het platform/stelsel
-    ontwikkeld eo beheerd opgeslagen, of bij een (semi-)overheidspartij zoals Rijksdienst voor Ondernemend Nederland
+    ontwikkelt en/of beheert opgeslagen, of bij een (semi-)overheidspartij zoals Rijksdienst voor Ondernemend Nederland
     of het Kadaster. Wordt de data per object/adres of geaggregeerd teruggeleverd
     aan opdrachtgever?
 
--   Wie eigenaar wordt van de nieuw gegeneerde gegevens? Is dat de
+-   Wie eigenaar wordt van de nieuw gegeneerde gegevens. Is dat de
     woningeigenaar, marktpartij die het systeem voor het platform/stelsel
-    ontwikkeld en/ of beheerd, of is dat opdrachtgever BZK?
+    ontwikkelt en/ of beheert, of is dat opdrachtgever BZK?
 
 <details class='note'> 
 Niet onbelangrijk is om ook afspraken te maken over de broncode van het
@@ -312,6 +312,7 @@ systeem/platform zelf. Het zal niet de eerste keer zijn dat de integratie van de
 functionaliteit van een systeem in een ander systeem niet 1:1 uitgevoerd kan
 worden, omdat er geen afspraken zijn gemaakt over wie eigenaar is van de
 broncode.
+</details>
 
 **Maak afspraken voor welke toepassingen hergebruik van in het platform/stelsel
 gegenereerde data toegestaan is.**

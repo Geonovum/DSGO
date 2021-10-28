@@ -595,7 +595,7 @@ In het DSGO worden voor de beschrijving van de datasets (metadata) en de data
 van datasets zelf [Open standaarden](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/standaardisatie/open-standaarden/) gebruikt.
 
 In Nederland zet het [Forum Standaardisatie](https://forumstandaardisatie.nl/over-ons) zich in voor open
-ICT-standaarden. Het [BIM Loket](https://www.bimloket.nl/p/195/Waarom-open-standaarden) zet zich in voor open standaarden met als resultaat efficiënte, snelle, goedkope én innovatieve Nederlandse bouwsector. 
+ICT-standaarden. Het [BIM Loket](https://www.bimloket.nl/p/195/Waarom-open-standaarden) zet zich in voor open standaarden met als resultaat efficiënte, snelle, economisch voordelige, duurzame én innovatieve Nederlandse bouwsector. 
 Standaarden ondersteunen gegevensuitwisseling tussen
 ICT-systemen. De openheid zorgt ervoor dat iedereen de standaard kan gebruiken. Open standaarden  dragen
 bij aan interoperabiliteit en leveranciersonafhankelijkheid. Het gebruik van
