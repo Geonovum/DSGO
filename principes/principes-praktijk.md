@@ -39,11 +39,11 @@ in bij het bevoegd gezag.
 
 De Wkb is erop gericht om bouwkwaliteit te verbeteren, door de bewijslast van geleverde kwaliteit bij de bouwer te beleggen. Deze dient dat vast te leggen in het dossier bevoegd gezag, waarbij de data die voor dit dossier benodigd is, door alle ketenpartners moet worden aangeleverd. Dit digitale bouwdossier bevat informatie over het gerealiseerde bouwwerk. Het op orde hebben van dit dossier, gaat op termijn een voorwaarde worden voor gunning van een opdracht. 
 Het verkrijgen van deze data is op dit moment een tijdrovend en kostbaar karwei. De data(sets) liggen bij een groot aantal partijen en is zijn niet gestandaardiseerd en/of automatisch verkrijgbaar. Door uniforme afspraken faciliteert het DSGO het toegankelijk maken van alle gebouwgerelateerde data op een eenvoudige, veilige en gecontroleerde manier. Dit heeft een aantal voordelen:
-• Risico’s worden teruggedrongen;
-• Besparing van tijd en kosten door het delen van data;
-• Makkelijker om te voldoen aan Wkb;
-• Verhogen van kwaliteit;
-• Verhogen van veiligheid".
+-   Risico’s worden teruggedrongen;
+-   Besparing van tijd en kosten door het delen van data;
+-   Makkelijker om te voldoen aan Wkb;
+-   Verhogen van kwaliteit;
+-   Verhogen van veiligheid".
 
 De bouwer moet aan consument-opdrachtgevers een ‘Consumentendossier’ leveren. In
 opdracht van BZK heeft de NEN de norm [NPR 8092:2021
