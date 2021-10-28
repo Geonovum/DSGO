@@ -523,13 +523,13 @@ integraal 3D gebouwontwerp.
 relevante attributen**
 
 Het platform heeft voor datasets een vast aantal attributen beschreven, zoals naam of toegangspunt (etc.).
-Ook stelt de metadataredacteur gebruikelijke attributen vast, voor bepaalde types datasets.
+Ook stelt de metadata redacteur gebruikelijke attributen vast, voor bepaalde types datasets.
 Bijvoorbeeld bij datasets met een eigen terugmeldvoorziening, een link naar de terugmeldvoorziening.
 
 De metadata dienen zich aan een nader te bepalen mate van nauwkeurigheid te houden. 
-Zo blijft de DSGO een betrouwbare bron van gegevens.
+Zo blijft het DSGO een betrouwbare bron van gegevens.
 Wanneer er onjuistheden worden aangetroffen, dan biedt het DSGO eindgebruikersvriendelijke manieren om deze door te geven.
-DSGO draagt zorg dat rapportages over onjuistheden en onvolkomenheden worden doorgegeven aan de aanbieders van data.
+Het DSGO draagt zorg dat rapportages over onjuistheden en onvolkomenheden worden doorgegeven aan de aanbieders van data.
 
 > **Uitgangspunt:** Het DSGO geeft gerapporteerde onjuistheden en onvolkomenheden door aan de eigenaars.
 > DSGO biedt API's en formulieren aan voor eindgebruikers om rapportages zo eenvoudig mogelijk te maken.
@@ -542,7 +542,7 @@ DSGO draagt zorg dat rapportages over onjuistheden en onvolkomenheden worden doo
 > **Voorbeeld:** Het nationaal georegister informeert gebruikers over de contouren van de gegevens in een dataset.
 > Zo is de ruimtelijke dekking van een dataset in één oogopslag te zien.
 > Ook zijn contactgegevens van de leverancier opgenomen en worden datasets verbonden door middel van categorieën.
-> Voor DSGO is voor te stellen dat de beschreven UOI's getoond worden; of de ruimtelijke resolutie van de dataset.
+> Voor het DSGO is voor te stellen dat de beschreven UOI's getoond worden; of de ruimtelijke resolutie van de dataset.
 
 
 **R2. (Meta)data worden vrijgegeven met een duidelijke en toegankelijke
@@ -587,19 +587,17 @@ moet overwogen worden het platform zulke gegevenssets op een bepaalde wijze te m
 > **Voorbeeld:** De landelijke dataset BGT wordt gepubliceerd door het Kadaster.
 > Er geldt ook een terugmeldingsplicht voor bepaalde gebruikers.
 > Een gebruiker constateert dat in de BGT-dataset een bepaald object niet is opgenomen.
-> Dankzij de heldere herkomstinformatie in DSGO, alsook de gebruiksvriendelijke rapportagefuncties van DSGO, komt zo'n melding spoedig bij het Kadaster.
+> Dankzij de heldere herkomstinformatie in het DSGO, alsook de gebruiksvriendelijke rapportagefuncties van het DSGO, komt zo'n melding spoedig bij het Kadaster.
 
 **R4. (Meta)data voldoen aan domein-relevante Standaarden**
 
 In het DSGO worden voor de beschrijving van de datasets (metadata) en de data
-van datasets zelf open standaarden gebruikt.
+van datasets zelf [Open standaarden](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/standaardisatie/open-standaarden/) gebruikt.
 
 In Nederland zet het [Forum Standaardisatie](https://forumstandaardisatie.nl/over-ons) zich in voor open
 ICT-standaarden. Het [BIM Loket](https://www.bimloket.nl/p/195/Waarom-open-standaarden) zet zich in voor open standaarden met als resultaat efficiënte, snelle, goedkope én innovatieve Nederlandse bouwsector. 
 Standaarden ondersteunen gegevensuitwisseling tussen
-ICT-systemen. De openheid zorgt ervoor dat iedereen de standaard kan gebruiken.
-[Open
-standaarden](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/standaardisatie/open-standaarden/) dragen
+ICT-systemen. De openheid zorgt ervoor dat iedereen de standaard kan gebruiken. Open standaarden  dragen
 bij aan interoperabiliteit en leveranciersonafhankelijkheid. Het gebruik van
 open standaarden in ICT-systemen bespaart kosten en verlicht administratieve
 lasten.
@@ -612,7 +610,7 @@ Standaarden zijn de afsprakenstelsels van domeinen die specificaties en eisen
 aan de (meta)data beschrijven. De standaarden voor (meta)data(sets) in het DSGO
 worden in de domeinen beheerd en doorontwikkeld. Samenwerken in een taal in de gebouwde omgeving zoals met de [objectenbibliotheken ven mappingtabellen](https://viewer.cbnl.org) van [CB-NL](https://public.cbnl.org/over-cb-nl) helpen daarbij. 
 
->  **Uitgangspunt:** In het DSGO worden Standaarden uit verschillende domeinen toegepast. 
+>  **Uitgangspunt:** In het DSGO worden standaarden uit verschillende domeinen toegepast. 
 >  Het is onmogelijk om al deze standaarden te harmoniseren op semantiek. 
 >  Daarom stellen we de open standaarden van het BIM Loket en het Forum Standaardisatie als uitgangspunt.
 
@@ -625,7 +623,7 @@ worden in de domeinen beheerd en doorontwikkeld. Samenwerken in een taal in de g
 >   De ontwikkeling van de onderliggende Standaarden voor de realisatie van de
 >   (meta)data(sets), worden ook afgestemd met andere relevante nationale
 >   standaarden (zoals de in ontwikkeling zijnde standaard NEN-2660, en de
->   doorontwikkeling van NEN-3610) en internationale standaarden (zoals de 
+>   doorontwikkeling van NEN 3610) en internationale standaarden (zoals de 
 >   prEN 17632 Semantic Modelling & Linking, een Europese norm die 
 >   parallel aan en in wisselwerking met de NEN 2660 is ontwikkeld).
 
