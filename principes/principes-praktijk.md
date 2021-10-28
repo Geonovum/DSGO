@@ -54,8 +54,8 @@ gepubliceerd, waarin de vereiste inhoud van het dossier wordt beschreven.
 
 Bij de introductie van de Wkb hebben alle betrokken partijen belang bij een
 transparante informatievoorziening en -uitwisseling. De
-opdrachtgever/vergunninghouder heeft groot belang bij een correct “Digitaal
-Dossier Bevoegd Gezag” waaruit blijkt dat aan de regelgeving wordt voldaan. Is
+opdrachtgever/vergunninghouder heeft groot belang bij een correct Digitaal
+Dossier Bevoegd Gezag waaruit blijkt dat aan de regelgeving wordt voldaan. Is
 dat dossier niet op orde, dan loopt de opdrachtgever/vergunninghouder het risico
 dat het bevoegd gezag de gebruiksvergunning weigert. Daarnaast wil de
 opdrachtgever/vergunninghouder bewijs (of een verantwoording) dat aan zijn eigen
@@ -92,7 +92,7 @@ Voor alle betrokken partijen is het– vanuit uiteenlopende belangen – essenti
 dat projectinformatie vindbaar, toegankelijk, uitwisselbaar en herbruikbaar is.
 Het gaat in feite steeds om subsets van dezelfde data, die voor verschillende
 doeleinden en doelgroepen worden ingezet. Het is een gemeenschappelijk belang
-voor alle partijen om daar (in het kader van DSGO) gezamenlijk afspraken over te
+voor alle partijen om daar (in het kader van het DSGO) gezamenlijk afspraken over te
 maken. Voor het bevoegd gezag is bovendien een uitgangspunt dat voor de
 samenstelling van het Digitaal Dossier Bevoegd Gezag gebruik moet worden gemaakt
 van systeemonafhankelijke, open standaarden. Ook voor ontwerpende en uitvoerende
@@ -128,7 +128,7 @@ De benodigde informatie voor assetmanagement blijkt heel anders te zijn, dan
 beschikbaar komt uit de realisatiefase. Vandaar dat het RVB gestart is met
 pilots waarin specifiek gekeken wordt naar de uitwisseling van informatie in de
 beheerfase. In totaal zijn er 10 pilots gedaan met een basisadministratie,
-Digitaal Vastgoed RVB, en waarin 3D modellen van alle betreffende gebouwen
+Digitaal Vastgoed RVB, waarin 3D modellen van alle betreffende gebouwen
 beschikbaar zijn gemaakt. In onderstaande figuur staat een voorbeeld van de
 basisadministratie van de rechtbank in Zutphen.
 
@@ -165,7 +165,7 @@ opgenomen, ook als onderaannemers worden ingeschakeld.
 Zo zijn er zeker 10 pilots met vergelijkbare uitkomsten gerealiseerd. De
 vervolgstap is dat deze systematiek wordt doorgevoerd voor alle interne en
 externe dienstverleners die het RVB heeft gecontracteerd en dat er in- en
-export-systematiek wordt geautomatiseerd, zodat iedere wijziging in het
+export systematiek wordt geautomatiseerd, zodat iedere wijziging in het
 facilitymanagementsysteem van de dienstverlening ook terecht komt in het systeem
 van het RVB.
 
