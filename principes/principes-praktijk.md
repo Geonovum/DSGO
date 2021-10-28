@@ -312,6 +312,7 @@ systeem/platform zelf. Het zal niet de eerste keer zijn dat de integratie van de
 functionaliteit van een systeem in een ander systeem niet 1:1 uitgevoerd kan
 worden, omdat er geen afspraken zijn gemaakt over wie eigenaar is van de
 broncode.
+</details>
 
 **Maak afspraken voor welke toepassingen hergebruik van in het platform/stelsel
 gegenereerde data toegestaan is.**
