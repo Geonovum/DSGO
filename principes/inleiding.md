@@ -7,12 +7,12 @@ Digitaal Stelsel Gebouwde Omgeving
 In 2019 hebben 37 organisaties, waaronder Geonovum, zich met de ondertekening
 achter de digitaliseringsdeal (digiGO) geschaard. Hiermee hebben overheid,
 opdrachtgevers, de brancheverenigingen van de bouwsector, de installatiesector
-en de toeleverende industrie en kennisinstellingen afgesproken dat zij samen
+en de toeleverende industrie en kennisinstellingen, afgesproken dat zij samen
 inzetten op: deelbare, herbruikbare en toegankelijke informatie, nieuwe functies
 en geavanceerde werkwijzen en innovatie voor de gebouwde omgeving.
 
 Om waardevolle toepassingen van [data](#data-datasets-en-metadata) mogelijk te maken, moet data beter
-beschikbaar en toegankelijk worden gemaakt zodat data kan gaan stromen. Er is behoefte aan een
+beschikbaar en toegankelijk worden gemaakt, zodat data kan gaan stromen. Er is behoefte aan een
 afsprakenstelsel dat zorgt voor veilige, betrouwbare en gecontroleerde toegang
 tot data in de bouwsector, zodat alle ketenpartners die actief zijn in de
 verschillende fases van de levenscyclus van een bouwwerk met deze afspraken
@@ -36,7 +36,7 @@ Opdracht
 
 Geonovum is door het ministerie van Ministerie van Binnenlandse Zaken en Koninkrijksrelaties 
 gevraagd om in samenwerking met het BIM Loket en CROW de richtinggevende principes te formuleren 
-in de vorm van een adviesrapport voor het ontwerp van een Digitaal Stelsel Gebouwde Omgeving (DSGO). 
+in de vorm van een adviesrapport voor het ontwerp van een Digitaal Stelsel Gebouwde Omgeving (DSGO).
 Dit adviesrapport, in aanvulling op 34 ‘use cases’, gegroepeerd in zes thema’s, geeft de uitdagingen 
 aan op het gebied van publieke waarden en is voor het ministerie van BZK de start om het gesprek 
 aan te gaan hoe publieke waarden en het DSGO zullen gaan samenwerken. 
@@ -92,17 +92,17 @@ staat.
 
 **Ontwerpprincipes**
 
-Het DSGO staat in de bredere context van de digitalisering & dataficering van de
+Het DSGO staat in de bredere context van de digitalisering en dataficering van de
 samenleving en vertegenwoordigt alle data over de gebouwde omgeving. De digitale
 en fysieke wereld raken elkaar steeds meer ook ten aanzien van de gebouwde
 omgeving. In Europa en Nederland leggen we daarbij de nadruk op publieke
-waarden, die concreet gemaakt zijn of worden in EU-wetgeving rondom het gebruik
+waarden, die concreet gemaakt zijn, of worden, in EU-wetgeving rondom het gebruik
 van data en technologie. Publieke waarden zijn dus randvoorwaardelijk voor het
 verantwoord organiseren en inzetten van het DSGO. Deze waarden komen voort uit
 universele mensenrechten. Denk aan gelijkheid, vrijheid, menselijke waardigheid,
 autonomie en veiligheid. We vertalen deze waarden in een aantal ontwerpprincipes
 die leidend zullen zijn voor het DSGO, zowel voor het ontwikkelen van het DSGO,
-als ook voor het gebruik, onderhoud en de governance van het DSGO.
+als ook voor het gebruik, onderhoud, beheer en de governance van het DSGO.
 
 **FAIR-principes**
 
@@ -127,7 +127,7 @@ Afbakening
 Met de richtinggevende principes in dit adviesrapport brengen we onder de aandacht waarom, 
 hoe en wat nodig is om data te laten stromen vanuit het perspectief van het publiek belang. 
 Voor het ministerie van BZK is dit de start van het gesprek hoe publieke waarden in het DSGO 
-zullen worden geborgd. Dit adviesrapport is geen ontwerp, doelarchitectuur of globale architectuurschets
+zullen worden geborgd. Dit adviesrapport is geen ontwerp, geen doelarchitectuur of globale architectuurschets
 van het Digitaal Stelsel Gebouwde Omgeving, het is geen aanzet tot het ontwikkelen of beheren 
 van standaarden daarvoor. Voor de beheervraagstukken rondom het DSGO verwijzen we naar het 
 programma-spoor governance & beheer van het DSGO. 
