@@ -3,7 +3,7 @@ Van principes naar praktijk
 
 Met ontwerpprincipes op basis van publieke waarden en dataprincipes uit de
 voorgaande hoofdstukken, geven we in dit hoofdstuk een drietal voorbeelden uit
-de praktijk: - Wet kwaliteitsborging voor het bouwen; - Assetmanagement; -
+de praktijk: Wet kwaliteitsborging voor het bouwen, Assetmanagement en het
 Landelijk Digitaal Platform.
 
 Wet kwaliteitsborging voor het bouwen
@@ -13,7 +13,7 @@ Wet kwaliteitsborging voor het bouwen
 
 De ‘preventieve toets’ door het bevoegd gezag voor het verlenen van een
 omgevingsvergunning voor het bouwen vervalt bij inwerkingtreden van de Wet
-kwaliteitsborging voor het bouwen (Wkb). De treedt naar verwachting vanaf 1 juli
+kwaliteitsborging voor het bouwen (Wkb). Deze wet treedt naar verwachting vanaf 1 juli
 2022 stapsgewijs inwerking. Dat hebben de minister van Binnenlandse Zaken en
 Koninkrijksrelaties en de Vereniging van Nederlandse Gemeenten aangegeven. De
 veranderingen uit de Wkb gelden (naar verwachting) tot en met 2024 alleen voor
@@ -22,9 +22,9 @@ bedrijfspanden. Vanaf 2025 volgen de andere bouwwerken. Hierdoor kunnen
 bouwbedrijven en gemeenten stap voor stap ervaring opdoen met het nieuwe
 toezicht in de bouw.
 
-Omgevingsvergunning wordt onder de Wkb verleend op basis van toetsing van een
-bouwplan (schetsontwerpniveau) aan het bestemmingsplan en plaatselijk geldende
-criteria (conform de Omgevingswet: het omgevingsplan). Aanvullend moet de
+De omgevingsvergunning wordt onder de Wkb verleend op basis van toetsing van een
+bouwplan (schetsontwerpniveau) aan het bestemmingsplan (onder de Omgevingswet: het omgevingsplan) en plaatselijk geldende
+criteria. Aanvullend moet de
 aanvrager een risico-inventarisatie en een kwaliteitsborgingsplan overleggen aan
 het bevoegd gezag.
 
@@ -34,16 +34,16 @@ controleert of het ontwerp en het uitvoeringsresultaat minimaal aan het
 Bouwbesluit (onder de Omgevingswet: Besluit bouwwerken leefomgeving) voldoet. Na
 oplevering van het bouwwerk geeft de kwaliteitsborger een verklaring af dat er
 een “gerechtvaardigd vertrouwen” is dat het gerealiseerde bouwwerk voldoet aan
-het Besluit bouwwerken leefomgeving. De vergunninghouder dient deze verklaring
+het Besluit bouwwerken leefomgeving (Bbl). De vergunninghouder dient deze verklaring
 in bij het bevoegd gezag.
 
-Daarnaast dient de vergunninghouder een opleverdossier of “Digitaal Dossier
-Bevoegd Gezag” (DDBG) in bij het bevoegd gezag, c.q. de gemeente. Het dossier
-moet in principe het ‘bewijsmateriaal’ bevatten dat wordt voldaan aan het
-bouwbesluit. Vooralsnog is een uitgangspunt dat het DDBG bestaat uit een
-verzameling van pdf’s van tekeningen, berekeningen en documentatie; op termijn
-is de wens en de verwachting dat het DDBG de vorm krijgt van
-databestanden/computerinterpretabele informatiemodellen.
+De Wkb is erop gericht om bouwkwaliteit te verbeteren, door de bewijslast van geleverde kwaliteit bij de bouwer te beleggen. Deze dient dat vast te leggen in het dossier bevoegd gezag, waarbij de data die voor dit dossier benodigd is, door alle ketenpartners moet worden aangeleverd. Dit digitale bouwdossier bevat informatie over het gerealiseerde bouwwerk. Het op orde hebben van dit dossier, gaat op termijn een voorwaarde worden voor gunning van een opdracht. 
+Het verkrijgen van deze data is op dit moment een tijdrovend en kostbaar karwei. De data(sets) liggen bij een groot aantal partijen en is zijn niet gestandaardiseerd en/of automatisch verkrijgbaar. Door uniforme afspraken faciliteert het DSGO het toegankelijk maken van alle gebouwgerelateerde data op een eenvoudige, veilige en gecontroleerde manier. Dit heeft een aantal voordelen:
+-   Risico’s worden teruggedrongen;
+-   Besparing van tijd en kosten door het delen van data;
+-   Makkelijker om te voldoen aan Wkb;
+-   Verhogen van kwaliteit;
+-   Verhogen van veiligheid".
 
 De bouwer moet aan consument-opdrachtgevers een ‘Consumentendossier’ leveren. In
 opdracht van BZK heeft de NEN de norm [NPR 8092:2021
@@ -54,8 +54,8 @@ gepubliceerd, waarin de vereiste inhoud van het dossier wordt beschreven.
 
 Bij de introductie van de Wkb hebben alle betrokken partijen belang bij een
 transparante informatievoorziening en -uitwisseling. De
-opdrachtgever/vergunninghouder heeft groot belang bij een correct “Digitaal
-Dossier Bevoegd Gezag” waaruit blijkt dat aan de regelgeving wordt voldaan. Is
+opdrachtgever/vergunninghouder heeft groot belang bij een correct Digitaal
+Dossier Bevoegd Gezag waaruit blijkt dat aan de regelgeving wordt voldaan. Is
 dat dossier niet op orde, dan loopt de opdrachtgever/vergunninghouder het risico
 dat het bevoegd gezag de gebruiksvergunning weigert. Daarnaast wil de
 opdrachtgever/vergunninghouder bewijs (of een verantwoording) dat aan zijn eigen
@@ -73,7 +73,8 @@ verband met de verruimde aansprakelijkheid voor gebreken in het eindresultaat.
 Hij zal bij evntuele tekortkomingen willen bewijzen dat dat niet aan het ontwerp
 of de uitvoering heeft gelegen. (Dit is breder dan alleen het voldoen aan
 regelgeving, het gaat ook om het voldoen aan de vraagspecificatie van de
-opdrachtgever en het voorkomen van bouwfouten). Het bevoegd gezag is voor de
+opdrachtgever en het voorkomen van bouwfouten). Voor de bouwer is het bovendien essentieel dat het Digitaal Dossier Bevoegd Gezag op snelle, transparante en consistente wijze kan samenstellen op basis van bijdragen van verschillende proejctparners. 
+Het bevoegd gezag is voor de
 uitoefening van zijn handhavingstaak afhankelijk van een correct Digitaal
 Dossier Bevoegd Gezag, dat – zeker in de toekomst - bij voorkeur op een
 standaard wijze is opgebouwd op basis van open standaarden. De
@@ -91,7 +92,7 @@ Voor alle betrokken partijen is het– vanuit uiteenlopende belangen – essenti
 dat projectinformatie vindbaar, toegankelijk, uitwisselbaar en herbruikbaar is.
 Het gaat in feite steeds om subsets van dezelfde data, die voor verschillende
 doeleinden en doelgroepen worden ingezet. Het is een gemeenschappelijk belang
-voor alle partijen om daar (in het kader van DSGO) gezamenlijk afspraken over te
+voor alle partijen om daar (in het kader van het DSGO) gezamenlijk afspraken over te
 maken. Voor het bevoegd gezag is bovendien een uitgangspunt dat voor de
 samenstelling van het Digitaal Dossier Bevoegd Gezag gebruik moet worden gemaakt
 van systeemonafhankelijke, open standaarden. Ook voor ontwerpende en uitvoerende
@@ -127,7 +128,7 @@ De benodigde informatie voor assetmanagement blijkt heel anders te zijn, dan
 beschikbaar komt uit de realisatiefase. Vandaar dat het RVB gestart is met
 pilots waarin specifiek gekeken wordt naar de uitwisseling van informatie in de
 beheerfase. In totaal zijn er 10 pilots gedaan met een basisadministratie,
-Digitaal Vastgoed RVB, en waarin 3D modellen van alle betreffende gebouwen
+Digitaal Vastgoed RVB, waarin 3D modellen van alle betreffende gebouwen
 beschikbaar zijn gemaakt. In onderstaande figuur staat een voorbeeld van de
 basisadministratie van de rechtbank in Zutphen.
 
@@ -164,7 +165,7 @@ opgenomen, ook als onderaannemers worden ingeschakeld.
 Zo zijn er zeker 10 pilots met vergelijkbare uitkomsten gerealiseerd. De
 vervolgstap is dat deze systematiek wordt doorgevoerd voor alle interne en
 externe dienstverleners die het RVB heeft gecontracteerd en dat er in- en
-export-systematiek wordt geautomatiseerd, zodat iedere wijziging in het
+export systematiek wordt geautomatiseerd, zodat iedere wijziging in het
 facilitymanagementsysteem van de dienstverlening ook terecht komt in het systeem
 van het RVB.
 
@@ -297,15 +298,16 @@ Belangrijk is om goede afspraken te maken over:
 
 -   Waar de data wordt opgeslagen, en hoe deze wordt teruggeleverd. Wordt de
     data opgeslagen bij de marktpartij die de ICT van het platform/stelsel
-    ontwikkeld eo beheerd opgeslagen, of bij een (semi-)overheidspartij à la RVO
-    of Kadaster. Wordt de data per object/adres of geaggregeerd teruggeleverd
+    ontwikkeld eo beheerd opgeslagen, of bij een (semi-)overheidspartij zoals Rijksdienst voor Ondernemend Nederland
+    of het Kadaster. Wordt de data per object/adres of geaggregeerd teruggeleverd
     aan opdrachtgever?
 
 -   Wie eigenaar wordt van de nieuw gegeneerde gegevens? Is dat de
     woningeigenaar, marktpartij die het systeem voor het platform/stelsel
     ontwikkeld en/ of beheerd, of is dat opdrachtgever BZK?
 
-N.B. Niet onbelangrijk is om ook afspraken te maken over de broncode van het
+<details class='note'> 
+Niet onbelangrijk is om ook afspraken te maken over de broncode van het
 systeem/platform zelf. Het zal niet de eerste keer zijn dat de integratie van de
 functionaliteit van een systeem in een ander systeem niet 1:1 uitgevoerd kan
 worden, omdat er geen afspraken zijn gemaakt over wie eigenaar is van de
