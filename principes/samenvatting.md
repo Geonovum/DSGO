@@ -57,5 +57,6 @@ de zes DSGO thema’s) vergt een *strategische dialoog* met alle partijen om mee
 Wij stellen ons voor dat deze gesprekken in het kader van het DSGO worden georganiseerd en BZK zal aanschuiven in de rol die van haar wordt verwacht. Vanuit die dialoog ontstaat samenwerking en vertrouwen om met elkaar aan de slag te gaan en het Digitaal Stelsel Gebouwde Omgeving verder vorm te geven. 
 
 **Beheer en onderhoud**
+
 Een afsprakenstelsel vraagt om onderhoud. Als afspraken tot stand zijn gekomen zijn er altijd omstandigheden die aanpassing en/of uitbreiding vragen. Vanuit onze ervaring bij de tot standkoming van standaarden adviseren we om het aspect beheer en onderhoud van de afspraken steeds mee te nemen en de gevolgen die dit heeft voor de financiering van het afsprakenstelsel dat gaat ontstaan.
   
