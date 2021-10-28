@@ -112,7 +112,7 @@ en de onderliggende data.
 Er wordt zorgvuldig omgegaan wordt met de belangen van alle
 belanghebbenden. Dit houdt in dat de data waarover afspraken gemaakt worden, de werkelijkheid weerspiegelen. Afspraken die gemaakt worden gaan soms over een kleine groep die niet aan tafel zit. Voorkomen moet worden dat groepen worden buitengesloten of dat data verkeerd wordt geïnterpreteerd of dat verkeerde berekeningen worden toegepast.
 
-Een onafhankelijke voorzitter is daarin een pré. Die zorgt ervoor dat in het
+Een onafhankelijke voorzitter is daarin een eis. Die zorgt ervoor dat in het
 proces van belangenafweging eventuele tegengestelde belangen en
 minderheidsbelangen meegenomen worden. Voor elke use case wordt bijvoorbeeld
 nagegaan of alle doelgroepen aan boord zijn of vertegenwoordigd zijn, voor het
