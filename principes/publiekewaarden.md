@@ -63,7 +63,9 @@ Ook Vanuit **Europa** is er een sterk sturende rol van de commissie op het handh
 Ontwerpprincipes
 ----------------
 
-### Open en transparant ontwerp proces
+### Open en transparant
+
+**Open en transparant ontwerp proces**
 
 Het DSGO ontwerpen we op basis van publieke waarden in samenwerking met alle
 betrokkenen bij de 34 benoemde use cases (zie figuur DSGO use cases, hieronder). Het DSGO
@@ -86,7 +88,7 @@ van de genoemde use cases.
 >   keuzes die hieruit volgen worden vastgesteld en ingericht, bijgesteld en zo
 >   lerend ontwikkeld, zodat anderen daarop kunnen voortbouwen.
 
-### Open en transparante uitkomsten
+**Open en transparante uitkomsten**
 
 Data, algoritmen en technologie zijn navolgbaar, herleidbaar en begrijpelijk.
 Binnen de use cases worden data en datasets gevormd, gebruikt, bewerkt,
