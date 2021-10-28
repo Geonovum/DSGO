@@ -189,7 +189,7 @@ besluitvormingsprocessen wordt menselijke controle en de mogelijkheid tot interv
 Zorgvuldigheid en de menselijke maat is een belangrijk criterium als we de werking van afspraken beoordelen. Naarmate meer en meer informatie geautomatiseerd beschikbaar is, kan de menselijke maat over het hoofd gezien worden, of
 belangrijke details vergeten worden. Vandaar dat menselijk ingrijpen altijd mogelijk moet zijn.
 
-In het kader van het optimaliseren van logistieke processen in de bouw is het
+In het kader van het optimaliseren van logistieke processen in de bouw, is het
 bijvoorbeeld van belang om onverwachte gebeurtenissen, zoals vertragingen in
 productleveringen, op te vangen en daarom de inzet van specifieke kraan uit te
 stellen. Voor het checken van de bouwkwaliteit zijn menselijke controles
@@ -204,9 +204,9 @@ het kwaliteitssysteem van betrokken partijen periodiek te controleren.
 
 Soevereiniteit betekent het recht hebben om te beschikken over iets zonder
 verantwoording aan een ander te hoeven afleggen. Dit principe ziet toe op het
-alloceren van eigenaarschap, zeggenschap controle over en gebruik van data,
+alloceren van eigenaarschap, zeggenschap en controle over en gebruik van data,
 standaarden, algoritmen en voorzieningen. In de context van het DSGO is dan
-duidelijk met welke natuurlijke of rechtspersoon je afspraken moet maken voor
+duidelijk met welke natuurlijke persoon of rechtspersoon je afspraken moet maken voor
 het delen, manipuleren en hergebruiken van data, standaarden, algoritmen en
 voorzieningen en de daaruit voortvloeiende nieuwe of aangepaste data die
 ontstaat.
@@ -225,11 +225,10 @@ ontstaat.
 ### Informatieveiligheid
 
 Informatieveiligheid houdt in dat er maatregelen getroffen zijn om er voor te
-zorgen dat - gegevens niet gemanipuleerd zijn tussen bron en eindgebruiker
-(integriteit); - alleen de rechthebbende inzage krijgt in de gegevens
-(autorisatie en autenticatie). - de eindgebruiker kan vaststellen dat de
-gegevens betrouwbaar zijn en inzicht heeft of de bron de gegevens gewijzigd
-heeft (transparantie en provenance).
+zorgen dat:
+-   gegevens niet gemanipuleerd zijn tussen bron en eindgebruiker (integriteit);
+-   alleen de rechthebbende inzage krijgt in de gegevens (autorisatie en autenticatie);
+-   de eindgebruiker kan vaststellen dat de gegevens betrouwbaar zijn en inzicht heeft of de bron de gegevens gewijzigd heeft (transparantie en provenance).
 
 >   **Eis:** Binnen het DSGO worden maatregelen getroffen om de integriteit te
 >   waarborgen.
