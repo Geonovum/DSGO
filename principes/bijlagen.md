@@ -67,30 +67,30 @@ een identificeerbare verzameling van data die als een geheel kan worden
 verwerkt, bewerkt en gepubliceerd door een enkel subject. Een verzameling van
 datasets kan ook op zich weer een dataset zijn. Bijvoorbeeld de verzamelde
 gegevens vanuit de verschillende disciplines die opgenomen worden in een
-*dossier bevoegd gezag* zijn elk een dataset. Het dossier bevoegd gezag, wordt
+*Digitaal Dossier Bevoegd Gezag* zijn elk een dataset. Het dossier bevoegd gezag, wordt
 gevormd door de verzameling van deze datasets en is zelf ook een dataset.
 
 Data en datasets ontstaan niet zomaar. Ze kennen een **levenscyclus**. Deze
 levenscyclus van de dataset is samen te vatten in vier fasen, geillustreerd door
 figuur ‘Levenscyclus van de dataset’:
 
-1.  Definitie: in deze fase is de dataset gedefinieerd en krijgt ze betekenis.
+1.  Definitiefase: in deze fase is de dataset gedefinieerd en krijgt ze betekenis.
     Van belang is dat het algoritme de juiste data voortbrengt zodat de inhoud
     van de dataset overeenkomst met zoals deze vooraf gedefinieerd was. De
     ontwikkelaar van een dataset is daarmee verantwoordelijk voor de juistheid
     van de inhoud.
 
-2.  Productie: in deze fase wordt de dataset geproduceerd. In deze fase is
+2.  Productiefase: in deze fase wordt de dataset geproduceerd. In deze fase is
     bepalend dat de dataset volledig en in het juiste formaat wordt vrijgegeven.
     De producent van de dataset is verantwoordelijkheid voor de volledigheid van
     de dataset.
 
-3.  Beheer: in deze fase wordt de dataset beheerd. In deze fase is bepalend hoe
+3.  Beheerfase: in deze fase wordt de dataset beheerd. In deze fase is bepalend hoe
     goed de dataset wordt bewaard, voorzien van metadata en toegankelijk
     gemaakt. De beheerder van de dataset is verantwoordelijk voor de metadata
     van de dataset.
 
-4.  Gebruik: in deze fase wordt de data gebruikt. In deze fase is bepalend hoe
+4.  Gebruiksfase: in deze fase wordt de data gebruikt. In deze fase is bepalend hoe
     goed de dataset als service ter beschikking wordt gesteld en ondersteund en
     herbruikbaar is. De exploitant van de dataset is verantwoordelijk voor het
     ondersteunen van het gebruik van de dataset.
@@ -254,7 +254,5 @@ Geraadpleegde bronnen
 -   _Afsprakenstelsels in de praktijk - Leerervaringen van afsprakenstelsels om te komen tot een uniforme set van eisen voor persoonlijk datamanagement_. Programma Regie op Gegevens, september 2018;
 -   _Opwaarderen - Borgen van publieke waarden in de digitale samenleving_, Rathenau instituut 2017;
 -   _Op weg naar een health data infrastructuur en afsprakenstelsel_ - Adviesrapport van Nederlandse AI Coalitie, over de Health data infrastructuur en afsprakenstelsel in Nederland. Versie 1.0 juli 2020;
--   _Routekaart Digitale Toekomst_, Waag technology&society. Versie 0.3 april 2020;
-
-
+-   _Routekaart Digitale Toekomst_, Waag technology&society. Versie 0.3 april 2020.
 
