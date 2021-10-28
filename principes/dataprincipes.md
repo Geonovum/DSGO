@@ -262,7 +262,7 @@ en gebruik van de gegevens.
 **A1. (Meta)gegevens kunnen worden opgehaald door hun identifier met behulp van
 een gestandaardiseerd communicatieprotocol**
 
-In [principe F1](https://geonovum.github.io/DSGO/principes/#vindbaar) hebben we beschreven dat elke (meta)data(set) een unieke en
+In de paragraaf [vindbaar](#vindbaar) hebben we beschreven dat elke (meta)data(set) een unieke en
 persistente identifier krijgt. Met deze identifier is elke (meta)data(set) uniek
 aan te duiden en te vinden. Om de gegevens vervolgens op te halen zijn
 technische en organisatorische afspraken nodig.
@@ -289,9 +289,9 @@ geautomatiseerd de (meta)data(sets) op te halen.
 
 De aanbeveling is om simpel te beginnen door het samenbrengen/-vatten van de
 beschikbare data in de huidige vorm van bijvoorbeeld PDF’s, waarbij handmatig de
-documenten kunnen worden doorgezocht en geraadpleegd. (Dit sluit aan bij het
-één-ster model van Linked Data: De informatie is beschikbaar op het internet, in
-welk formaat dan ook (b.v. PDF).)
+documenten kunnen worden doorgezocht en geraadpleegd. Dit sluit aan bij het
+één-ster model van Linked Data: de informatie is beschikbaar op het internet, in
+welk formaat dan ook, zoals PDF.
 
 Op een wat hoger technisch niveau ligt de mogelijkheid dat systemen die op het
 DSGO zijn aangesloten geautomatiseerd de gegevens kunnen doorzoeken en opvragen.
@@ -324,15 +324,14 @@ machine-leesbare generieke *wrapper* verpakt.
 
 **A1.1 Het protocol is open, gratis en universeel toepasbaar**
 
-Iedereen die toe wil treden tot DSGO, moet kunnen toe treden tot het stelsel. Om
+Iedereen die toe wil treden tot het DSGO, moet kunnen toe treden tot het stelsel. Om
 dat te bereiken is het belangrijk dat toegang tot het stelsel wordt geboden
 middels een open, gratis en universeel toepasbaar protocol.
 
 >   **Voorbeeld:** Het [HyperText Transfer Protocol (HTTP)](http://www.wikidata.org/entity/Q8777) is een open communicatieprotocol
 >   voor gedistribueerde collaboratieve, hypermedia informatiesystemen. Andere open
 >   protocollen zijn bijvoorbeeld [File Tranfer Protocol](https://www.w3.org/Protocols/rfc959/) (FTP), 
->   [Simple Mail Transfer Protocol (SMTP](http://www.wikidata.org/entity/Q160453)), en Simple Object Access Protocol (SOAP) en sluit daarmee bijvoorbeeld
->   Teamskanalen uit. Meestal worden API’s over HTTP aangeboden.
+>   [Simple Mail Transfer Protocol (SMTP](http://www.wikidata.org/entity/Q160453)), en [Simple Object Access Protocol](https://wiki.dsplatform.nl/index.php/Het_Simple_Object_Access_Protocol) (SOAP) en sluit daarmee bijvoorbeeld Teamskanalen uit. Meestal worden API’s over HTTP aangeboden.
 
 Toepassing van een open protocol impliceert nog niet dat de data die wordt
 ontsloten zelf ook open is: via authenticatie en autorisatie kan gecontroleerde
@@ -378,14 +377,13 @@ gegevens.
 >   zoals ministeries, lokale overheden, organisaties in de zorg, onderwijs,
 >   pensioen en waterschappen.
 
->   **Voorbeeld:** [e-Herkenning](https://eherkenning.nl/) is de DigiD voor
+>   **Voorbeeld:** [eHerkenning](https://eherkenning.nl/) is de DigiD voor
 >   bedrijven, zodat bedrijven namens clienten aanvragen kunnen indienen bij de
 >   overheid met een hoog veiligheidsniveau.
 
 >   **Voorbeeld:** Op basis van de [open standaard voor autorisatie (OAuth)](https://www.forumstandaardisatie.nl/open-standaarden/oauth) kunnen gebruikers of organisaties een programma of website toegang geven tot specifieke (privé)gegevens, die opgeslagen zijn op een ander systeem, zonder hun gebruikersnaam en wachtwoord uit handen te geven. 
 
-De Baseline informatieveiligheid overheid (BIO)[https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/informatieveiligheid/kaders-voor-informatieveiligheid/baseline-informatiebeveiliging-overheid/]
-en de wet Digitale overheid (WDO)[https://www.digitaleoverheid.nl/dossiers/wet-digitale-overheid/] bevat ook kaders voor authenticatie en authorisatie.
+De [Baseline informatieveiligheid overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/informatieveiligheid/kaders-voor-informatieveiligheid/baseline-informatiebeveiliging-overheid/) (BIO) en de [Wet Digitale overheid](https://www.digitaleoverheid.nl/dossiers/wet-digitale-overheid/) (WDO) bevat ook kaders voor authenticatie en authorisatie.
 Het is verstandig de grote kaders over te nemen voor de authenticatie- en authorisatieprocedure van DSGO, omdat een deel van de datasets ook van organisaties komt die zich reeds aan deze kaders houden.
 
 **A2. Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn**
@@ -401,7 +399,7 @@ verloop van tijd zullen meer en meer datasets onbeschikbaar geraken. Het is de
 verantwoordelijkheid van de gebruiker om gegevens zeker te stellen, waar dat
 nodig is voor processen.
 
-DSGO kan afspraken maken over beschikbaarheid van gegevenssets met de aanbieders
+Het DSGO kan afspraken maken over beschikbaarheid van gegevenssets met de aanbieders
 daarvan. Dankzij de autorisatie/authenticatie-functie van DSGO kan het mogelijk
 gemaakt worden dat veranderingen aan datasets aangekondigd worden.
 
