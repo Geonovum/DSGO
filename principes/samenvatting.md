@@ -7,6 +7,18 @@ sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data. 
 Conclusies
 --------------
 
+Het ministerie van BZK heeft vanuit haar systeemverantwoordelijkheid een set richtinggevende principes nodig 
+om de ontwikkeling van het DSGO vaart geven. Daarbij ligt de focus op het stimuleren van samenwerking binnen 
+de sector, tussen verschillende onderdelen van de rijksoverheid en medeoverheden. Bovendien zal de overheid, 
+in haar rol van opdrachtgever (onder andere Rijksvastgoedbedrijf, provincies), in haar rol van bevoegd gezag 
+en vanuit haar verantwoordelijkheid voor verschillende beleidsthema’s zoals het klimaatakkoord en de basisregistraties hier zelf ook profijt van hebben.
+
+In dit adviesrapport zijn richtinggevende principes geformuleerd voor het ontwerp van het DSGO. Het DSGO komt tot stand door het creëren van samenwerking en de inzet van technologie ten behoeve van het delen van data. De principes volgen deze indeling ook. We onderscheiden principes gericht op de samenwerking van partijen in het stelsel (publieke waarden, <a href='#publiekewaarden'></a>) en principes met betrekking tot het delen van gegevens (FAIR dataprincipes, <a href='#dataprincipes'></a>).
+
+Het DSGO dient de samenleving in heel veel processen. Publieke waarden die de samenleving reflecteren vormen daarom het uitgangspunt. Deze zijn vertaald in acht ontwerpprincipes die leidend zijn in het vorm geven van de samenwerking in het ontwerpproces en hun doorwerking hebben in de resulterende afspraken. 
+
+We stellen een samenwerking voor gebaseerd op ++openheid en transparantie++ en leggen daarmee de basis voor participatie van alle belanghebbenden en open en transparante uitkomsten. Daarnaast noemen we Inclusiviteit, zodat geen doelgroepen worden buitengesloten; Rechtvaardigheid zodat alle belanghebbenden eerlijk behandeld worden; Doelgerichtheid, om de uitwisseling beperkt te houden tot het doel waarvoor het bedoeld was; Betrokkenheid, opdat alle direct betrokken belanghebbenden hun input kunnen geven tijdens het ontwerp; Controleerbaarheid, om menselijke controle en interventie in te bouwen; Soevereiniteit om helderheid te scheppen in eigenaarschap van en gebruik van gebruik data, standaarden, algoritmen en voorzieningen en tenslotte informatieveiligheid om de integriteit van gegevens te waarborgen en te zorgen voor adequate autorisatie en authenticatie. 
+
 
     
 Vervolg
