@@ -1,11 +1,11 @@
 Dataprincipes
 =============
 
-Centraal in de definitie van het Digitaal Stelsel Gebouwde Omgeving (DSGO) staat
+Centraal in de definitie van het DSGO staat
 de veilige, betrouwbare en gecontroleerde toegang tot data in de bouwsector. Om
 deze toegang tot data te realiseren is een set van uniforme afspraken nodig. In
 dit hoofdstuk gaan we in op welke afspraken (‘wat’) vanuit publiek belang
-minimaal nodig zijn om data voor de bouwsector *te laten stromen*.
+minimaal nodig zijn om *data voor de bouwsector te laten stromen*, met de volgende achterliggende vragen.
 
 Welke afspraken zijn nodig om databronnen over de gebouwde omgeving te
 ontsluiten? Welke principes pas je toe om gecontroleerde toegang tot deze
@@ -19,7 +19,7 @@ de behoefte zowel vraag als aanbod van de verschillende organisaties?
 Ontwerpprincipes
 ----------------
 
-In dit hoofdstuk worden de ontwerpprincipes voor (meta)data(sets) in het DSGO
+De ontwerpprincipes voor (meta)data(sets) in het DSGO worden 
 beschreven aan de hand van de FAIR-principes: *Findable* (vindbaar),
 *Accessible* (toegankelijk), *Interoperable* (uitwisselbaar) en *Reusable*
 (herbruikbaar).
@@ -45,16 +45,16 @@ identifier**
 
 De vindbaarheid van data wordt vergroot als deze altijd op dezelfde plek is
 terug te vinden. Bijvoorbeeld een dataset is altijd te downloaden vanaf dezelfde
-weblocatie of een app stuurt altijd een HTTP-request naar een API of webservice
+weblocatie, of een app stuurt altijd een HTTP-request naar een API of webservice
 met dezelfde basis-URL.
 
 Bij uitwisseling van data tussen systemen op verschillende fysieke plekken,
-ofwel gedistribueerde systemen is het dus van belangrijk dat de technische
-aanduiding, ofwel identificatie, van data of een dataset *uniek* en *persistent*
+ofwel gedistribueerde systemen, is het dus van belangrijk dat de technische
+aanduiding, ofwel identificatie van data of een dataset *uniek* en *persistent*
 (blijvend) is.
 
-Zodoende zijn datasets of informatie over datasets door de tijd heen vindbaar en
-*citeerbaar* , ongeacht de status, beschikbaarheid of het [formaat van de data](https://www.w3.org/TR/dwbp/#UniqueIdentifiers).
+Zodoende zijn datasets of informatie over datasets door de tijd heen *vindbaar* en
+*citeerbaar*, ongeacht de status, beschikbaarheid of het [formaat van de data](https://www.w3.org/TR/dwbp/#UniqueIdentifiers).
 
 In Nederland (en internationaal) wordt gewerkt aan het [Unieke Object
 Identificator
@@ -67,7 +67,7 @@ bijvoorbeeld specifieke informatie over een gebouw, verdieping, kamer of raamkoz
 geraadpleegd op basis van [rollen en toegangsrechten](https://fibree.org/uoi-nl/).
 
 Het ‘systeem’ als gedachte is ontwikkeld binnen de bouw- en vastgoedsector. De
-gedachte achter een UOI-code is dat er domein-overstijgend verbindingen mee
+gedachte achter een UOI-code is dat er domeinoverstijgend verbindingen mee
 gelegd kunnen worden die het beantwoorden van vragen over objecten in de
 gebouwde omgeving vereenvoudigen. De UOI-code wordt ook genoemd in de lopende
 consultatie van de [Samenhangende Objecten Registratie
@@ -92,7 +92,7 @@ rapport is er een concept onderzoeksrapport over UOI.
 >   **Eis:** De data die het DSGO ontsluit, zijn identificeerbaar aan de hand
 >   van een
 >   [UOI](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie).
->   Elke dataset verwijst/beschrijft naar één of meerdere UOI's -- en is zelf
+>   Elke dataset verwijst/beschrijft naar één of meerdere UOI's en is zelf
 >   ook uniek identificeerbaar aan de hand van een persistente identifier. Ook
 >   metadata krijgt zo'n unieke en persistente identifier. Persistent betekent
 >   dat maar één ding zo'n identifier krijgt en dat een ding die identifier z'n
@@ -105,14 +105,15 @@ contactgegevens van de organisatie die de gegevens beschikbaar stelt (herkomst),
 gegevens over hoe de informatie is ingewonnen en met welke kwaliteit, of
 gegevens over het intellectueel eigendom en toepassing om de data voor bepaalde
 toepassingen te gebruiken (licentie).
-In de NEN-EN-ISO 19650-serie, de internationale normenserie voor (digitaal) 
+In de [NEN-EN-ISO 19650-serie](https://www.bimloket.nl/p/269/NEN-EN-ISO-19650), de internationale normenserie voor (digitaal) 
 informatiemanagement in de levenscyclus van bouwwerken, wordt ervan uitgegaan dat 
 projectpartners in een projectcontext data(sets) uitwisselen via een Common Data 
-Environment (CDE). De omschrijving van CDE in de normenserie is zodanig, dat het 
+Environment (CDE). 
+De omschrijving van CDE in de normenserie is zodanig, dat het 
 kan gaan om zowel een centraal als een gedistribueerd systeem. In een situatie 
 waarin informatie over een bouwwerk in een itererend proces met verschillende 
 projectpartners wordt ontwikkeld, is accurate metadata over de status van data(sets) 
-die op de CDE worden geplaatst, essentieel. Volgens de NEN-EN-ISO 9001 moet daarbij
+die op de CDE worden geplaatst, essentieel. Volgens de [NEN-EN-ISO 9001](https://www.nen.nl/managementsystemen/kwaliteitsmanagement-iso-9001) moet daarbij
 onderscheid worden gemaakt naar:
 - werk in uitvoering;
 - informatie/data die is vrijgegeven om te delen met andere projectpartners;
@@ -120,15 +121,16 @@ onderscheid worden gemaakt naar:
 - gearchiveerdee informatie/data. 
 
 >   **Eis:** Van elk gegeven in het DSGO is meta-informatie over onder meer de
->   herkomst, kwaliteit, status en gebruik (licentie + toepassing) beschikbaar. De wijze
+>   herkomst, kwaliteit, status en gebruik (licentie en toepassing) beschikbaar. De wijze
 >   van metadatering sluit aan bij vigerende (inter)nationale standaarden voor informatiemanagement en 
 >   metadata. Ook de wijze van toegang, de gebruikte gegevensformaten en
 >   schema’s worden beschreven in de metadata van een dataset.
 
+
 **F3. Metadata bevatten duidelijk en expliciet de identifier van de gegevens die
 ze beschrijven**
 
-Metadata zijn gegevens over de data zelf. Metadata beschrijft dus dataset. Om te
+Metadata zijn gegevens over de data zelf. Metadata beschrijft dus de dataset. Om te
 weten welke metadata(set) hoort welke data(set) moet een expliciete relatie
 vastgelegd worden tussen de metadata(set) en data(set). Dit kan door het opnemen
 van de identificatie van de data(set) in de metadata(set).
