@@ -74,7 +74,7 @@ Geonovum maakt hiervoor hergebruik van ervaringen uit eerdere adviestrajecten vo
 digitale stelsels voor onder meer  Digitaal Stelsel Omgevingswet (DSO), Objectidentificering (UOI) en 
 samenhang geo(basis)registraties. CROW zet kennis en ervaring met dataprincipes in als kennisinstituut 
 voor infrastructuur, openbare ruimte, verkeer en vervoer, en werk en veiligheid. Digitaal samenwerken 
-in de gebouwde omgeving op basis van standaarden en richtlijnen is de basis voor het BIM Loket. 
+in de gebouwde omgeving op basis van open standaarden en richtlijnen is de basis voor het BIM Loket. 
 Voor het laten stromen van data, data die het publiek belang dient, zijn de volgende uitgangspunten 
 de rode draad geworden van dit adviesrapport.
 
