@@ -13,7 +13,7 @@ Wet kwaliteitsborging voor het bouwen
 
 De ‘preventieve toets’ door het bevoegd gezag voor het verlenen van een
 omgevingsvergunning voor het bouwen vervalt bij inwerkingtreden van de Wet
-kwaliteitsborging voor het bouwen (Wkb). De treedt naar verwachting vanaf 1 juli
+kwaliteitsborging voor het bouwen (Wkb). Deze wet treedt naar verwachting vanaf 1 juli
 2022 stapsgewijs inwerking. Dat hebben de minister van Binnenlandse Zaken en
 Koninkrijksrelaties en de Vereniging van Nederlandse Gemeenten aangegeven. De
 veranderingen uit de Wkb gelden (naar verwachting) tot en met 2024 alleen voor
@@ -37,13 +37,13 @@ een “gerechtvaardigd vertrouwen” is dat het gerealiseerde bouwwerk voldoet a
 het Besluit bouwwerken leefomgeving. De vergunninghouder dient deze verklaring
 in bij het bevoegd gezag.
 
-Daarnaast dient de vergunninghouder een opleverdossier of “Digitaal Dossier
-Bevoegd Gezag” (DDBG) in bij het bevoegd gezag, c.q. de gemeente. Het dossier
-moet in principe het ‘bewijsmateriaal’ bevatten dat wordt voldaan aan het
-bouwbesluit. Vooralsnog is een uitgangspunt dat het DDBG bestaat uit een
-verzameling van pdf’s van tekeningen, berekeningen en documentatie; op termijn
-is de wens en de verwachting dat het DDBG de vorm krijgt van
-databestanden/computerinterpretabele informatiemodellen.
+De Wkb is erop gericht om bouwkwaliteit te verbeteren, door de bewijslast van geleverde kwaliteit bij de bouwer te beleggen. Deze dient dat vast te leggen in het dossier bevoegd gezag, waarbij de data die voor dit dossier benodigd is, door alle ketenpartners moet worden aangeleverd. Dit digitale bouwdossier bevat informatie over het gerealiseerde bouwwerk. Het op orde hebben van dit dossier, gaat op termijn een voorwaarde worden voor gunning van een opdracht. 
+Het verkrijgen van deze data is op dit moment een tijdrovend en kostbaar karwei. De data(sets) liggen bij een groot aantal partijen en is zijn niet gestandaardiseerd en/of automatisch verkrijgbaar. Door uniforme afspraken faciliteert het DSGO het toegankelijk maken van alle gebouwgerelateerde data op een eenvoudige, veilige en gecontroleerde manier. Dit heeft een aantal voordelen:
+• Risico’s worden teruggedrongen;
+• Besparing van tijd en kosten door het delen van data;
+• Makkelijker om te voldoen aan Wkb;
+• Verhogen van kwaliteit;
+• Verhogen van veiligheid".
 
 De bouwer moet aan consument-opdrachtgevers een ‘Consumentendossier’ leveren. In
 opdracht van BZK heeft de NEN de norm [NPR 8092:2021
@@ -73,7 +73,8 @@ verband met de verruimde aansprakelijkheid voor gebreken in het eindresultaat.
 Hij zal bij evntuele tekortkomingen willen bewijzen dat dat niet aan het ontwerp
 of de uitvoering heeft gelegen. (Dit is breder dan alleen het voldoen aan
 regelgeving, het gaat ook om het voldoen aan de vraagspecificatie van de
-opdrachtgever en het voorkomen van bouwfouten). Het bevoegd gezag is voor de
+opdrachtgever en het voorkomen van bouwfouten). Voor de bouwer is het bovendien essentieel dat het Digitaal Dossier Bevoegd Gezag op snelle, transparante en consistente wijze kan samenstellen op basis van bijdragen van verschillende proejctparners. 
+Het bevoegd gezag is voor de
 uitoefening van zijn handhavingstaak afhankelijk van een correct Digitaal
 Dossier Bevoegd Gezag, dat – zeker in de toekomst - bij voorkeur op een
 standaard wijze is opgebouwd op basis van open standaarden. De
