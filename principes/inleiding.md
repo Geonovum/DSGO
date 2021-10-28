@@ -7,19 +7,19 @@ Digitaal Stelsel Gebouwde Omgeving
 In 2019 hebben 37 organisaties, waaronder Geonovum, zich met de ondertekening
 achter de digitaliseringsdeal (digiGO) geschaard. Hiermee hebben overheid,
 opdrachtgevers, de brancheverenigingen van de bouwsector, de installatiesector
-en de toeleverende industrie en kennisinstellingen afgesproken dat zij samen
+en de toeleverende industrie en kennisinstellingen, afgesproken dat zij samen
 inzetten op: deelbare, herbruikbare en toegankelijke informatie, nieuwe functies
 en geavanceerde werkwijzen en innovatie voor de gebouwde omgeving.
 
 Om waardevolle toepassingen van [data](#data-datasets-en-metadata) mogelijk te maken, moet data beter
-beschikbaar en toegankelijk worden gemaakt zodat data kan gaan stromen. Er is behoefte aan een
+beschikbaar en toegankelijk worden gemaakt, zodat data kan gaan stromen. Er is behoefte aan een
 afsprakenstelsel dat zorgt voor veilige, betrouwbare en gecontroleerde toegang
 tot data in de bouwsector, zodat alle ketenpartners die actief zijn in de
 verschillende fases van de levenscyclus van een bouwwerk met deze afspraken
 makkelijk en veilig gebruik van reeds beschikbare data kunnen maken. Dit vergt
 sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data.
 Dat is de voornaamste reden dat [digiGO het initiatief Digitaal Stelsel Gebouwde Omgeving
-(DSGO) is gestart](https://digigo.nu/over+digigo/wat+is+digigo/default.aspx), om te werken aan de toegankelijkheid van data in de gehele
+(DSGO) is gestart](https://digigo.nu/over+digigo/wat+is+digigo/default.aspx target=_blank), om te werken aan de toegankelijkheid van data in de gehele
 keten.
 
 De bouwsector heeft sterke behoefte aan regie om samenhang te creëren binnen het DSGO. De behoeftes van publieke en
