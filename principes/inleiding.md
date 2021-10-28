@@ -19,7 +19,7 @@ verschillende fases van de levenscyclus van een bouwwerk met deze afspraken
 makkelijk en veilig gebruik van reeds beschikbare data kunnen maken. Dit vergt
 sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data.
 Dat is de voornaamste reden dat [digiGO het initiatief Digitaal Stelsel Gebouwde Omgeving
-(DSGO) is gestart](https://digigo.nu/over+digigo/wat+is+digigo/default.aspx target=_blank), om te werken aan de toegankelijkheid van data in de gehele
+(DSGO) is gestart](https://digigo.nu/over+digigo/wat+is+digigo/default.aspx), om te werken aan de toegankelijkheid van data in de gehele
 keten.
 
 De bouwsector heeft sterke behoefte aan regie om samenhang te creëren binnen het DSGO. De behoeftes van publieke en
