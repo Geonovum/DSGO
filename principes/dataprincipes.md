@@ -430,12 +430,12 @@ Datasets worden in standaarden aangeboden die door [Forum Standaardisatie](https
 Zo waarborgen we de langdurige verwerkbaarheid van de gegevens.
 
 Ook de metadata die het DSGO-platform zelf beheert, wordt volgens API’s en datastandaarden aangeboden.
-Datasetaanbieders en -gebruikers kunnen zo hun eigen publicatiesystemen afstemmen op DSGO.
+Datasetaanbieders en -gebruikers kunnen zo hun eigen publicatiesystemen afstemmen op het DSGO.
 
 Voor grotere samenhang tussen de gegevensbronnen, heeft een ['knowledge graph'](https://geonovum.github.io/disgeo-demo/#api-versus-knowledge-graph)-opzet duidelijke voordelen. Zo'n kennisnetwerk combineert verschillende databronnen automatisch op basis van de toegang, die vervolgens in samenhang te bevragen zijn.
 API’s kunnen daarbovenop fungeren als eenvoudige toegang tot de data.
 Voor de geavanceerdere toepassingen en vragen waarbij de samenhang essentieel
-is, kan de knowledge graph direct benaderd worden via SPARQL.
+is, kan de knowledge graph direct benaderd worden via [SPARQL](https://www.w3.org/TR/rdf-sparql-query/).
 
 > **Eis:** Datasets worden aangeboden in standaarden die zijn aanbevolen door Forum Standaardisatie of door het BIM Loket.
 
@@ -446,11 +446,11 @@ is, kan de knowledge graph direct benaderd worden via SPARQL.
 
 **I2. (Meta)data gebruiken vocabulaires die FAIR-principes volgen**
 
-Zowel de datasets als de metadatabeschrijvingen zijn opgesteld in vocabulaires die zelf de FAIR-principes volgen.
+Zowel de datasets als de metadata beschrijvingen zijn opgesteld in vocabulaires die zelf de FAIR-principes volgen.
 Dat dient twee doelen:
 enerzijds is explicitering van de gebruikte waarden/kolommen/relaties (etc.) nodig voor een juiste technische aansluiting op DSGO.
 Voor het kunnen combineren van data uit verschillende bronnen neemt het belang van semantische en technische interoperabiliteit toe.
-Anderzijds voorkomt het ook betekenisverwarring: omdat in het DSGO domein-overstijgende uitwisseling van data plaatsvindt, is er vaak sprake van
+Anderzijds voorkomt het ook betekenisverwarring: omdat in het DSGO domeinoverstijgende uitwisseling van data plaatsvindt, is er vaak sprake van
 verschil in definities en begrippen.
 
 Zulke beschrijven worden ook wel OTL’s, ontologieën of informatiemodellen
@@ -458,7 +458,7 @@ genoemd. Niet alle schema’s (vocabulaires, ontologiën, OTL’s,
 informatiemodellen) zijn als vijf-ster FAIR te kwalificeren. 
 Toch is het uitangspunt van publieke toegankelijkheid leidend.
 
-Principe I2 borgt de toegang tot de beschrijving van de dataset.
+Dit principe I2 borgt de toegang tot de beschrijving van de dataset.
 Daarbij moet het uitgangspunt zijn dat dat 
 óf met aanbevolen standaarden gaat (aanbevolen door Forum Standaardisatie of BIM Loket)
 óf publiekelijk te raadplegen is.
@@ -485,7 +485,7 @@ koppelingen over datasets mogelijk. Meer koppelingen zijn mogelijk, maar niet
 van elke leverancier van een dataset kan worden verwacht dat die alle mogelijke
 koppelingen maakt.
 
-Daarom is in het DSGO de **metadataredacteur** verantwoordelijk voor aanmaken
+Daarom is in het DSGO de *metadata redacteur* verantwoordelijk voor aanmaken
 metadata van een dataset (op basis van aangeleverde metagegevens), en voert
 wijzigingen door in de metadata. De metadata voldoet aan de gestelde
 kwaliteitseisen (onder meer actueel, juist en volledig). 
