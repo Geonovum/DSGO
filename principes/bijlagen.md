@@ -119,7 +119,7 @@ Ontwerpprincipes
 -----------------
 De ontwerpprincipes zijn:
 
-1.  *Radicaal open en transparant*: dit principe slaat zowel op de ontwikkeling
+1.  *Open en transparant*: dit principe slaat zowel op de ontwikkeling
     van het DSGO als de uitkomst ervan. Ontwerpproces: namelijk dat dit in een
     open en transparant proces ontwikkeld wordt, waarbij alle belanghebbenden
     inzicht krijgen en invloed hebben op de ontwikkeling. Uitkomsten: Data,
@@ -184,7 +184,7 @@ De in hoofdstukken vier en vijf benoemde uitgangspunten, randvoorwaarden en eise
 
 **Publiek waarden**
 
-*Open en transparant ontwerp proces*
+*Open en transparant*
 - Randvoorwaarde: Alle betrokkenen bij een use case bespreken de ontwerpprincipes, om concreet te maken wat deze voor een use case betekenen. De keuzes die hieruit volgen worden vastgesteld en ingericht, bijgesteld en zo lerend ontwikkeld, zodat anderen daarop kunnen voortbouwen. 
 Open en transparante uitkomsten
 - Eis: Usecases leggen voor elke data(set) die tussen partijen uitgewisseld wordt, vast wat de oorsprong van deze dataset is en welke bewerkingen deze heeft ondergaan.
