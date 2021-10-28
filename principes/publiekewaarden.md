@@ -110,7 +110,7 @@ en de onderliggende data.
 ### Inclusiviteit
 
 Er wordt zorgvuldig omgegaan wordt met de belangen van alle
-belanghebbenden. Dit houdt in dat de data waarover afspraken gemaakt worden de werkelijkheid weerspiegelen. Afspraken die gemaakt worden gaan soms over een kleine groep die niet aan tafel zit. Voorkomen moet worden dat groepen worden buitengesloten of dat data verkeerd wordt geinterpreteerd of dat verkeerde berekeningen worden toegepast.
+belanghebbenden. Dit houdt in dat de data waarover afspraken gemaakt worden, de werkelijkheid weerspiegelen. Afspraken die gemaakt worden gaan soms over een kleine groep die niet aan tafel zit. Voorkomen moet worden dat groepen worden buitengesloten of dat data verkeerd wordt geïnterpreteerd of dat verkeerde berekeningen worden toegepast.
 
 Een onafhankelijke voorzitter is daarin een pré. Die zorgt ervoor dat in het
 proces van belangenafweging eventuele tegengestelde belangen en
@@ -137,7 +137,7 @@ essentieel. Op basis van data worden immers besluiten genomen zoals het
 toekennen van een vergunning.
 
 In het kader van bouwkwaliteit is het van belang dat alle kwaliteitsinformatie
-over het bouwwerk bekend is en eerlijk wordt weergegeven ook als eventuele
+over het bouwwerk bekend is en eerlijk wordt weergegeven, ook als eventuele
 afkeuringen eerder in de keten zijn ontstaan, zodat de oplevering van het
 bouwwerk goedgekeurd kan worden door de gemeente. Dit is van belang zowel voor
 de gemeente als voor de toekomstig eigenaar en beheerder.
@@ -152,8 +152,8 @@ met een specifiek doel gebruikt. De data die wordt vastgelegd en doorgegeven is 
 een specifiek doel en wordt daarom geregistreerd en bewust gebruikt ook door andere
 belanghebbenden. Dit geldt extra voor privacy gevoelige informatie.
 
-In het kader van de energietransitie stimuleren is gebruik van gebruiksdata over
-energie mogelijk terug te voeren op het gedrag van de bewoner/ huurder en
+In het kader van de energietransitie is het gebruik stimuleren van gebruiksdata over
+energie, mogelijk terug te voeren op het gedrag van de bewoner/ huurder en
 daarmee privacy gevoelig. Deze informatie mag daarom alleen gebruikt worden door
 de bewoner zelf, na zijn toestemming of voor een analyse waarin de gegevens voor
 een wijk verzameld worden, maar niet meer terug te voeren zijn op een adres.
@@ -164,14 +164,14 @@ een wijk verzameld worden, maar niet meer terug te voeren zijn op een adres.
 
 ### Betrokkenheid
 
-In aanvulling op inclusiviteit (iedereen die er toe doet is in beeld) ziet
+In aanvulling op [inclusiviteit](#Inclusiviteit) (iedereen die er toe doet is in beeld), ziet
 betrokkenheid erop toe dat alle belanghebbenden input geven op de inrichting van
 een use case, en zijn er ‘checks en balances’ om toe te zien op de naleving van
-de afspraken. Laat partijen die data inbrengen, ook de burger, dan ook in cocreatie meedenken in het ontwerpen van de afspraken voor datauitwisseling. 
+de afspraken. Laat partijen die data inbrengen, ook de burger, dan ook in co-creatie meedenken in het ontwerpen van de afspraken voor datauitwisseling. 
 Voor het DSGO geldt specifiek voor elke afspraak waarin
 informatie wordt vastgelegd en beschikbaar gemaakt, of dit verplicht of
 optioneel is en dat partijen individueel of via hun brancheorganisatie zich
-daaraan houden. Door betrokkenheid te creeren ontstaat ook het commitment om je aan de afspraken te houden.
+daaraan houden. Door betrokkenheid te creëren ontstaat ook het commitment om je aan de afspraken te houden.
 
 In het kader van het optimaleren van circulariteit is het bijvoorbeeld van
 belang dat alle toeleveranciers hun productinformatie ter beschikking stellen,
