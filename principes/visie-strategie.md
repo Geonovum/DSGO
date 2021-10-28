@@ -46,7 +46,7 @@ inhoudelijke uitwerking van de afspraken.
 In [hoofdstuk vier](#publiekewaarden) worden de ontwerpprincipes voor het ontwikkelingsproces gepresenteerd. Deze gaan dus over de manier 
 waarop de samenwerking tot stand komt. Deze principes zijn gebaseerd op publieke waarden, om het publieke belang 
 weerspiegeld te zien. Ze zijn richtinggevend voor het ontwerpproces voor elk van de zes thema's.
-In [hoofdstuk 5](#dataprincipes) worden de principes gepresenteerd voor het maken van afspraken voor het uitwisselen van data. Daarbij wordt uitgegaan van:
+In [hoofdstuk vijf](#dataprincipes) worden de principes gepresenteerd voor het maken van afspraken voor het uitwisselen van data. Daarbij wordt uitgegaan van:
 - Een minimale set op basis van wat noodzakelijk is voor de use case. Niet meer en niet minder.
 - Gebruik van reeds bestaande standaarden in plaats van het ontwikkelen van nieuwe standaarden.
 - De ontwikkeling van koppelvlakken, zodat elke partij heeft te dealen met zijn eigen legacy, maar dit geen hypotheek legt op de voortgang binnen de sector.  
