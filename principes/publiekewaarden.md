@@ -43,7 +43,7 @@ moeten niet alleen kijken naar het topje, maar met elkaar de hele ijsberg zien
 en ontwerpen. Voor het DSGO doen we dat dus op basis van publieke waarden, die we
 concreet hebben gemaakt in de hierna uitgewerke 8 ontwerpprincipes.
 
-Basisvoorwaarden publieke waarden
+Beleidscontex publieke waarden
 ---------------------------------
 
 In 2017 heeft het Rathenau instituut met haar onderzoek ['Opwaarderen - Borgen van publieke waarden in de digitale samenleving'](https://www.rathenau.nl/sites/default/files/2018-02/Opwaarderen_FINAL.pdf) aandacht gevraagd voor dit onderwerp en gepleit voor een actieprogramma. Sinds dat moment heeft het ministerie van BZK deze handschoen opgepakt, als hoeder van de Nederlandse Grondwet en grondrechten. Er zijn diverse actielijnen uitgezet vanuit de [Agenda Digitale Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nldigibeter/beschermen-van-grondrechten-en-publieke-waarden/). Daarin wordt ook aangegeven wat tot nu toe bereikt is. Vanaf 2019 is de voorlichting gestart over dit onderwerp. Tevens is er onderzoek verricht naar de effecten van digitalisering op de maatschappij.
@@ -121,9 +121,13 @@ burgers te betrekken. Zolang hun woning geen mankementen vertoont is er niets aa
 hand. Op het moment dat er duidelijk problemen blijken te zijn met bepaalde
 materialen of producten, zoals problemen met het beton (betonrot, constructiefouten in overhangende balkons), dan willen burgers graag weten of procesfouten of gebrekkige producten in hun woning verwerkt zijn. Zij behoren hierover actief geinformeerd te worden.
 
->   **Randvoorwaarde:** Maak de ontwikkeling van het DSGO inclusief, zodat er geen groepen worden buitengesloten door de manier waar op de afspraken gemaakt worden over het delen van data. De belangen
+>   **Randvoorwaarde:** Maak de ontwikkeling van het DSGO inclusief, zodat er geen groepen worden 
+>   buitengesloten door de manier waar op de afspraken gemaakt worden over het delen van data. De belangen
 >   van alle stakeholders zijn in beeld bij elke use case. De inzet van
 >   een onafhankelijk voorzitter is daarbij een aanrader.
+
+>   **Eis:** Om te voorkomen dat  groepen worden buitengesloten of dat data verkeerd wordt geïnterpreteerd of dat verkeerde berekeningen worden toegepast,
+>   is een onafhankelijke voorzitter vereist.
 
 ### Rechtvaardigheid
 
