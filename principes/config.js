@@ -65,19 +65,7 @@ var respecConfig = {
       companyURL: "http://www.geonovum.nl/",
       mailto: "info@geonovum.nl",
       note: ""    
-    },
-{
-      name: "CROW",
-      companyURL: "http://www.crow.nl/",
-      mailto: "info@crow.nl",
-      note: ""    
-    }   ,
-{
-      name: "BIM Loket",
-      companyURL: "http://www.bimloket.nl/",
-      mailto: "info@bimloket.nl",
-      note: ""    
-    }       
+    }  
   ],
   //shortName: "shortname",
   pubDomain: "DSGO",
