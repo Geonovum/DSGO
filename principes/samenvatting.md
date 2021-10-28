@@ -6,28 +6,7 @@ sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data. 
 
 Conclusies
 --------------
-In dit rapport zijn richtinggevende principes geformuleerd voor het ontwerp van het DSGO. Deze principes zijn onder te verdelen in 
-r in nemen, om het DSGO een kans van slagen te laten hebben. Daarbij ligt 
-de focus op het stimuleren van samenwerking binnen de sector, tussen verschillende onderdelen van 
-de rijksoverheid en medeoverheden. Publiek en privaat werken in de fysieke leefomgeving en in de 
-digitale omgeving samen. 
 
-Bovendien zal het ministerie aandacht hebben voor het borgen van publieke 
-waarden in het stelsel. Daarnaast zal de overheid, in haar rol van opdrachtgever (onder andere 
-Rijksvastgoedbedrijf, provincies), in haar rol van bevoegd gezag en vanuit haar verantwoordelijkheid 
-voor verschillende beleidsthema’s zoals het klimaatakkoord en de basisregistraties hier zelf ook 
-profijt van hebben.
-
-De richtinggevende principes uit dit adviesrapport die bij het ontwerp en realisatie van het DSGO 
-in acht genomen dienen te worden, borgen het publiek belang voor bijvoorbeeld publieke waarden rondom 
-digitalisering, de fysieke leefomgeving en de economie, maar ook robuustheid, toekomstvastheid en 
-stapsgewijze groei van het DSGO zijn belangrijke waarden. Ze geven richting aan het ontwerpen, 
-onderhouden en toepassen van de processen en afspraken die door het DSGO ondersteund worden.
-
-Bij elk van de richtinggevende principes zorgen het publiek belang en de publieke waarden samen met 
-de basisprincipes voor sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data 
-met als resultaat veilige, betrouwbare en gecontroleerde toegang tot data in de bouwsector: in 
-verbinding en in samenhang.
 
     
 Vervolg
