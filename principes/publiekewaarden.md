@@ -6,7 +6,7 @@ te stellen voor alle belanghebbenden bij de data. Om het publieke belang te
 waarborgen worden 8 ontwerpprincipes gehanteerd voor het ontwerpproces van het
 DSGO. Deze 8 ontwerpprincipes zijn in dit hoofdstuk vertaalt in uitgangspunten,
 randvoorwaarden en eisen. Ze geven richting aan het proces om te komen tot
-sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data.
+sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data.
 
 Het DSGO ontwerpen op basis van publieke waarden die de samenleving reflecteren
 -------------------------------------------------------------------------------
@@ -19,14 +19,14 @@ een bouwwerk.
 
 Het DSGO gaat over de totale gebouwde omgeving en dient daarmee de samenleving
 in heel veel processen. Voorbeelden daarvan zien we terug in de behoeftes van
-publieke en private organisaties naar data-uitwisseling die zijn samengevat in
+publieke en private organisaties naar data uitwisseling die zijn samengevat in
 34 use cases, gegroepeerd in zes thema’s. Het DSGO regisseert samenhang door te
 komen tot een set van afspraken over het uitwisselen van data tussen
 organisaties. Het DSGO helpt digitalisering in de bouw- en installatie sector,
 en draagt daarmee bij aan diverse maatschappelijke opgaven.
 
 Veel partijen uit de samenleving dragen bij om tot het gewenste resultaat te
-komen en wisselen daartoe data uit met elkaar. Datasets over een gebouw dienen een groot aantal partijen uit de samenleving. Daarmee dient deze data zowel een privé belang (bijvoorbeeld de data over het energiegebruik binnen een gebouw) als ook een publiek belang (bijvoorbeeld het
+komen en wisselen daartoe data uit met elkaar. Datasets over een gebouw dienen een groot aantal partijen uit de samenleving. Daarmee dient deze data zowel een privé belang (bijvoorbeeld de data over het energiegebruik binnen een gebouw) alsook een publiek belang (bijvoorbeeld het
 voldoen aan de brandveiligheidsvoorschriften of de voorschriften uit de bouwvergunning). Het is daarom van belang dat het DSGO de publieke waarden van de samenleving reflecteert, en dat alle betrokkenen zich kunnen vinden in de afspraken. Het effect van deze benadering zou kunnen zijn dat de  adoptie van het DSGO versneld wordt.
 
 De gemaakte afspraken borgen als het goed is de belangen van elke betrokken
@@ -40,24 +40,24 @@ veranderen. Technologie is niet neutraal, maar het product van talloze
 beslissingen, die gebaseerd zijn op de waarden die de ontwerper hanteert. Daar
 ligt ook de sleutel tot het verkrijgen van meer grip op deze ontwikkelingen: we
 moeten niet alleen kijken naar het topje, maar met elkaar de hele ijsberg zien
-en ontwerpen. Voor het DSGO doen we dat dus op basis van publieke waarden, de we
+en ontwerpen. Voor het DSGO doen we dat dus op basis van publieke waarden, die we
 concreet hebben gemaakt in de hierna uitgewerke 8 ontwerpprincipes.
 
-**Basisvoorwaarden publieke waarden**
+Basisvoorwaarden publieke waarden
+---------------------------------
 
-In 2017 heeft het Rathenau instituut met haar onderzoek 'Opwaarderen - Borgen van publieke waarden in de digitale samenleving' aandacht gevraagd voor dit onderwerp en gepleit voor een actieprogramma. Sinds dat moment heet het Ministerie van BZK deze handschoen opgepakt, als hoeder van de grondwet en grondrechten. Er zijn diverse actielijnen uitgezet vanuit de [Agenda Digitale Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nldigibeter/beschermen-van-grondrechten-en-publieke-waarden/). Daarin wordt ook aangegeven wat tot nu toe bereikt is. Vanaf 2019 is de voorlichting gestart over dit onderwerp. Tevens is er onderzoek verricht naar de effecten van digitalisering op de maatschappij.
+In 2017 heeft het Rathenau instituut met haar onderzoek ['Opwaarderen - Borgen van publieke waarden in de digitale samenleving'](https://www.rathenau.nl/sites/default/files/2018-02/Opwaarderen_FINAL.pdf) aandacht gevraagd voor dit onderwerp en gepleit voor een actieprogramma. Sinds dat moment heeft het ministerie van BZK deze handschoen opgepakt, als hoeder van de Nederlandse Grondwet en grondrechten. Er zijn diverse actielijnen uitgezet vanuit de [Agenda Digitale Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nldigibeter/beschermen-van-grondrechten-en-publieke-waarden/). Daarin wordt ook aangegeven wat tot nu toe bereikt is. Vanaf 2019 is de voorlichting gestart over dit onderwerp. Tevens is er onderzoek verricht naar de effecten van digitalisering op de maatschappij.
 
 Deze aandacht heeft er onder andere toe geleid dat er ook concrete handvatten zijn ontwikkeld:
 - Er zijn diverse beleidsinstrumenten gerealiseerd zoals een toolbox om gemeenten te helpen verantwoord te innoveren, zoals de [praktijkrichtlijn open urban platforms](https://www.nen.nl/nieuws/smartcities/nederlandse-praktijkrichtlijn-open-urban-platforms-beschikbaar/); 
 - Er is een handreiking ontwikkeld voor [non-discriminatie bij de toepassing van AI](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design);
 - Er is in april 2021 een code ontwikkeld door de Universiteit Utrecht voor [goed digitaal openbaar bestuur](https://www.rijksoverheid.nl/documenten/rapporten/2021/04/30/code-goed-digitaal-openbaar-bestuur);
-- naast de Rijksoverheid heeft ook de VNG met de gemeenten nagedacht over [principes voor de digitale samenleving](https://vng.nl/sites/default/files/2019-11/09a-bijlage-principes-voor-de-digitale-samenleving.pdf);
-- vanuit het locatiepact waarin een groep overheden, bedrijven en kennisinstellingen met elkaar samenwerken aan locatietechnologie, is een [ethische referentie](https://www.wijsmetlocatie.nl/wat-we-doen/ethiek) ontwikkeld. Deze is in de praktijk getoetst en vergeleken met diverse andere ethische referenties.
+- Naast de Rijksoverheid heeft ook de VNG met de gemeenten nagedacht over [principes voor de digitale samenleving](https://vng.nl/sites/default/files/2019-11/09a-bijlage-principes-voor-de-digitale-samenleving.pdf);
+- Vanuit het [locatiepact](https://www.wijsmetlocatie.nl/) waarin een groep overheden, bedrijven en kennisinstellingen met elkaar samenwerken aan locatietechnologie, is een [ethische referentie](https://www.wijsmetlocatie.nl/wat-we-doen/ethiek) ontwikkeld. Deze is in de praktijk getoetst en vergeleken met diverse andere ethische referenties.
 
-Ook Vanuit **Europa** is er een sterk sturende rol van de commissie op het handhaven van publieke waarden zoals blijkt uit de Europese digitale strategie. Bouwstenen in de Europese digitale strategie zijn:
+Ook Vanuit **Europa** is er een sterk sturende rol van de commissie op het handhaven van publieke waarden zoals blijkt uit de [Europese digitale strategie](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/shaping-europe-digital-future_nl). Bouwstenen in de Europese digitale strategie zijn:
 - De Verordening Digitale Markten (Digital Markets Act, DMA), die de digitale eenheidsmarkt reguleert, en een reeks eisen stelt ten aanzien van interoperabiliteit, eerlijkheid en openheid, en de markpositie reguleert van grote online platformen die als gatekeepers functioneren. De DMA is als voorstel gepubliceerd eind 2020, met een beoogde implementatie uiterlijk begin 2022.
 - De Verordening Digitale Diensten (Digital Services Act, DSA), die de digitale eenheidsmarkt als gelijk speelveld inricht voor innovatie, groei, en concurrentie, en waar de grondrechten van alle gebruikers van digitale diensten actief gewaarborgd zijn, onder meer door vereisten ten aanzien van transparantie en een verantwoordingsraamwerk voor dienstverleners. De DSA is als voorstel gepubliceerd eind 2020, met een beoogde implementatie uiterlijk begin 2022.
-
 
 
 Ontwerpprincipes
