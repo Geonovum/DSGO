@@ -37,26 +37,10 @@ geo- en bouwinformatie in de publieke sector.
 Deze principes zijn vervolgens toegepast op een drietal *voorbeelden uit de praktijk*: de
 Wet kwaliteitsborging voor het bouwen (<a href="#wet-kwaliteitsborging-voor-het-bouwen"></a>), assetmanagement (<a href='#assetmanagement'></a>) en het Landelijk Digitaal Platform (<a href='#landelijk-digitaal-platform'></a>).
 
-Vanuit de ontwikkelingen in deze voorbeelden uit de praktijk, gecombineerd met de principes voor
-samenwerking en data, worden een *aantal handreikingen meegegeven aan de
-ontwikkeling van het DSGO*, die voortkomen uit de principes die in dit rapport genoemd zijn. Deze handreikingen komen kort samengevat op het volgende neer:
-
--   Maak projectinformatie vindbaar, toegankelijk, uitwisselbaar en herbruikbaar;
-
--   Pas systeemonafhankelijke, open standaarden toe in het DSGO;
-
--   Maak bottom-up afspraken met alle betrokkenen;
-
--   Sluit aan de internationale standaard voor informatiemanagement in de digitale levenscyclus van bouwwerken: de NEN-EN-ISO 19650-serie;
-
--   Maak goede afspraken over wie eigenaar wordt van in het DSGO gegenereerde
-    data, en voor welke toepassing hergebruik toegestaan is;
-
--   Stel best practices op voor de toepassing van vigerende wet- en regelgeving
-    op data platforms en digitale stelsels;
-
--   Zorg voor een overheidsbrede toolbox met standaard componenten voor
-    toepassing in het DSGO en andere stelsels.
+Vanuit de praktijk zijn een drietal voorbeelden uit de praktijk uitgewerkt, waarin het delen van data centraal staat: Wet kwaliteitsborging voor het bouwen, Informatieoverdracht bij assetmanagement en het Landelijk Digitaal Platform. Deze voorbeelden hebben tot een aantal *extra handreikingen geleid, die gebaseerd zijn op de uitgewerkte principes*:
+- Maak gebruik van open standaarden en overheidsdata (zoals de basisregistraties) die beschikbaar is, begin niet zomaar met het ontwikkelen van een nieuwe standaard en sluit aan bij wat er al is.
+- Maak bottom-up afspraken die werken in de uitvoering en gelijk hun waarde bewijzen voor de gebruikers.
+- Nieuwe data die ontstaat moet die ook beschikbaar gemaakt worden. Maak goede afspraken over het eigenaarschap en beheer van deze data. 
 
 De *uitgangspunten, randvoorwaarden en eisen* die tijdens het traject zijn
 verzameld zijn samengevat (<a href='#uitgangspunten-randvoorwaarden-en-eisen'></a>) als richtinggevende principes, die opdrachtgever het ministerie van BZK
