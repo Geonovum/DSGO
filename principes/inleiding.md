@@ -61,7 +61,14 @@ Aanpak
 ------
 
 Om dit doel te bereiken duiden we ontwerpprincipes (publieke waarden) en dataprincipes en maken we onderscheid naar
-uitgangspunten, randvoorwaarden en eisen. Bij elk van de richtinggevende
+uitgangspunten, randvoorwaarden en eisen. 
+
+> **Uitgangspunten** zijn die zaken die door het project als basis moeten worden meegenomen. Een uitgangspunt is iets waar het project niet omheen kan, 
+> zoals wet- en regelgeving. 
+> **Randvoorwaarden** zijn zijdelingse beperkingen aan het project. Randvoorwaarden stellen eisen aan het project die vanuit het project niet kunnen worden beïnvloed.
+> **Eisen** zijn criteria waar het eindresultaat aan moet voldoen.
+
+Bij elk van de richtinggevende
 principes zorgen het publiek belang en de publieke waarden samen met de basisprincipes
 voor sector brede afspraken over uitwisseling, eigenaarschap en organisatie van
 data.
