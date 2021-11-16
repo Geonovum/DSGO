@@ -109,7 +109,7 @@ en de onderliggende data.
 
 ### Inclusiviteit
 
-Er wordt zorgvuldig omgegaan wordt met de belangen van alle
+Er wordt zorgvuldig omgegaan met de belangen van alle
 belanghebbenden. Dit houdt in dat de data waarover afspraken gemaakt wordt, de werkelijkheid weerspiegelen. Afspraken die gemaakt worden gaan soms over een kleine groep die niet aan tafel zit. Voorkomen moet worden dat groepen worden buitengesloten of dat data verkeerd wordt geïnterpreteerd of dat verkeerde berekeningen worden toegepast. Een onafhankelijke voorzitter is daarin een eis. Die zorgt ervoor dat in het
 proces van belangenafweging eventuele tegengestelde belangen en
 minderheidsbelangen meegenomen worden. Voor elke use case wordt bijvoorbeeld
@@ -139,8 +139,7 @@ essentieel. Op basis van data worden immers besluiten genomen zoals het
 toekennen van een vergunning.
 
 In het kader van bouwkwaliteit is het van belang dat alle kwaliteitsinformatie
-over het bouwwerk bekend is en eerlijk wordt weergegeven, ook als eventuele
-afkeuringen eerder in de keten zijn ontstaan, zodat de oplevering van het
+over het bouwwerk bekend is en eerlijk wordt weergegeven, zodat de oplevering van het
 bouwwerk goedgekeurd kan worden door de gemeente. Dit is van belang zowel voor
 de gemeente als voor de toekomstig eigenaar en beheerder.
 
@@ -193,7 +192,7 @@ belangrijke details vergeten worden. Vandaar dat menselijk ingrijpen altijd moge
 
 In het kader van het optimaliseren van logistieke processen in de bouw, is het
 bijvoorbeeld van belang om onverwachte gebeurtenissen, zoals vertragingen in
-productleveringen, op te vangen en daarom de inzet van specifieke kraan uit te
+productleveringen, op te vangen en daarom de inzet van een specifieke kraan uit te
 stellen. Voor het checken van de bouwkwaliteit zijn menselijke controles
 noodzakelijk, zowel op de verstrekte gegevens, als op de manier waarop
 kwaliteitscontroles zijn uitgevoerd. Audits zijn een manier om de werking van
