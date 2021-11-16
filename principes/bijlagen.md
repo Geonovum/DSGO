@@ -198,7 +198,7 @@ Open en transparante uitkomsten
 - Eis: Ontwerp elke use case binnen het DSGO rechtvaardig, zodat alle belanghebbenden een eerlijke en volledige weergave van de feiten kunnen inzien. 
 
 *Doelgerichtheid*
-- Eis: Ontwerp elke use case binnen het DSGO doelgericht, zodat de uit te wisselen data geschikt en voldoende is voor het doel, waarvoor de informatie nodig is. 
+- Eis: Ontwerp elke use case binnen het DSGO doelgericht, zodat de uit te wisselen data die privacygevoelige is, geschikt en voldoende is voor het doel waarvoor de informatie nodig is. 
 
 *Betrokkenheid*
 - Randvoorwaarde: Voor elke use case worden de afspraken met alle direct betrokkenen gemaakt en vastgelegd. Dat geldt in het bijzonder voor partijen die de data ter beschikking stellen.
