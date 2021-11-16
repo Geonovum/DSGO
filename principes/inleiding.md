@@ -100,7 +100,7 @@ staat.
 **Ontwerpprincipes**
 
 Het DSGO staat in de bredere context van de digitalisering en dataficering van de
-samenleving en vertegenwoordigt alle data over de gebouwde omgeving. De digitale
+samenleving en vertegenwoordigt een groot deel data over de gebouwde omgeving. De digitale
 en fysieke wereld raken elkaar steeds meer ook ten aanzien van de gebouwde
 omgeving. In Europa en Nederland leggen we daarbij de nadruk op publieke
 waarden, die concreet gemaakt zijn, of worden, in EU-wetgeving rondom het gebruik
@@ -108,7 +108,7 @@ van data en technologie. Publieke waarden zijn dus randvoorwaardelijk voor het
 verantwoord organiseren en inzetten van het DSGO. Deze waarden komen voort uit
 universele mensenrechten. Denk aan gelijkheid, vrijheid, menselijke waardigheid,
 autonomie en veiligheid. We vertalen deze waarden in een aantal ontwerpprincipes
-die leidend zullen zijn voor het DSGO, zowel voor het ontwikkelen van het DSGO,
+dat leidend zal zijn voor het DSGO, zowel voor het ontwikkelen van het DSGO,
 als ook voor het gebruik, onderhoud, beheer en de governance van het DSGO.
 
 **FAIR-principes**
@@ -123,10 +123,9 @@ en diensten vindbaar, toegankelijk, uitwisselbaar en herbruikbaar te maken. In
 lijn met het doel van dit adviesrapport nemen we de FAIR-principes als basis
 voor het formuleren van de principes voor het DSGO.
 
-Tijdens het schrijven heeft, onder leiding van de opdrachtgever, een informele 
-consultatie plaats gevonden van het conceptrapport. Aan Geonovum, BIM Loket en CROW 
-de taak om deze waardevolle ervaringen en kennis te wegen en mee te nemen in dit 
-voorliggende document. 
+Tijdens het schrijven heeft, onder leiding van de opdrachtgever het ministerie van BZK, een informele 
+consultatie plaatsgevonden van de conceptversie van dit adviesrapport. De schrijvers 
+hebben deze waardevolle ervaringen en kennis gewogen en meegenomen in het voorliggende document. 
 
 Afbakening
 ----------
