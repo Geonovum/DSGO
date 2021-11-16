@@ -180,7 +180,7 @@ gerepliceerd en/of gecombineerd.
 
 Uitgangspunten, randvoorwaarden en eisen
 ----------------------------------------
-Uitgangspunten zijn die zaken die door het project als basis moeten worden meegenomen. Een uitgangspunt is iets waar het project niet omheen kan. Randvoorwaarden zijn zijdelingse beperkingen aan het project. Randvoorwaarden stellen eisen aan het project die vanuit het project niet kunnen worden beïnvloed.
+Uitgangspunten zijn die zaken die door het project als basis moeten worden meegenomen. Een uitgangspunt is iets waar het project niet omheen kan, zoals wet- en regelgeving. Randvoorwaarden zijn zijdelingse beperkingen aan het project. Randvoorwaarden stellen eisen aan het project die vanuit het project niet kunnen worden beïnvloed. Eisen zijn criteria waar het eindresultaat aan moet voldoen. 
 De in hoofdstukken vier en vijf benoemde uitgangspunten, randvoorwaarden en eisen zijn in deze paragraaf samengevat.
 
 **Publiek waarden**
