@@ -27,7 +27,7 @@ het DSGO stimuleren en aanjagen. Deze rollen kunnen als volgt samengevat worden:
 
 1. *Systeemverantwoordelijk* voor een goed functionerende bouwsector en het integreren van de digitalisering in de bouwsector. BZK stimuleert daarom de samenwerking binnen de sector, tussen verschillende onderdelen van de rijksoverheid en medeoverheden; 
 
-2. *Beleidsmaker* vanuit haar verantwoordelijkheid voor verschillende beleidsthema’s zoals weergegeven in bovenstaande beleidscontext. Als beleidsmaker zal BZK monitoren in hoeverre het beleid en de regelgeving effectief zijn. Voor deze monitoring zal BZK *gebruiker* zijn van het DSGO om de juiste data te verzamelen;
+2. *Beleidsmaker* vanuit haar verantwoordelijkheid voor verschillende beleidsthema’s zoals weergegeven in bovenstaande beleidscontext. De beleidsmaker heeft los van  systeemverantwoordelijkheid voor de hele sector, ook een belang om het beste beleid te maken. Dat kan het beste data gedreven en daarmee is BZK belanghebbende van het DSGO;
 
 3. *Behartiger* van publieke belangen; borgen van publieke waarden in het maken van het afsprakenstelsel DSGO;
 
