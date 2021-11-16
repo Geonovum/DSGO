@@ -4,12 +4,12 @@ Managementsamenvatting
 Het Digitaal Stelsel Gebouwde Omgeving (DSGO) staat voor de uitdaging om te komen tot een set van
 uniforme afspraken die zorgen voor *veilige, betrouwbare en gecontroleerde
 toegang tot data in de bouwsector*. Voor het realiseren van de maatschappelijke
-opgaven energietransitie en woningbouw is het van essentieel belang om
+opgaven als energietransitie en woningbouw is het van essentieel belang om
 toegang te hebben tot accurate gegevens over de gebouwde omgeving. ‘Data moet
 stromen’ tussen de private en publieke partijen in de bouw- en
 installatiesector, maar ook naar inwoners en woningeigenaren.
 
-Het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) is in diverse rollen betrokken bij de bouwsector en heeft als opdrachtgever en systeemverantwoordelijke er een groot belang bij dat de ontwikkeling van het DSGO op gang komt. Een aantal *richtinggevende principes* vanuit publiek belang helpen om vaart en richting te geven aan de ontwikkeling van het DSGO en zijn behulpzaam, bijvoorbeeld bij de uitwerking van de globale architectuurschets
+Het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) is in diverse rollen betrokken bij de bouwsector en heeft als opdrachtgever en systeemverantwoordelijke er een groot belang bij dat de ontwikkeling van het DSGO op gang komt. Een aantal *richtinggevende principes* vanuit publiek belang helpt om vaart en richting te geven aan de ontwikkeling van het DSGO en is behulpzaam bij bijvoorbeeld de uitwerking van de globale architectuurschets
 (GAS). Aan Geonovum, BIM Loket en CROW is gevraagd deze richtinggevende
 principes op te stellen en onder een aantal belangrijke stakeholders (ondermeer
 MedMij, Rijksvastgoedbedrijf, Innopay, Aedes) informeel te consulteren.
@@ -37,8 +37,8 @@ geo- en bouwinformatie in de publieke sector.
 Deze principes zijn vervolgens toegepast op een drietal *voorbeelden uit de praktijk*: de
 Wet kwaliteitsborging voor het bouwen (<a href="#wet-kwaliteitsborging-voor-het-bouwen"></a>), assetmanagement (<a href='#assetmanagement'></a>) en het Landelijk Digitaal Platform (<a href='#landelijk-digitaal-platform'></a>).
 
-Vanuit de praktijk zijn een drietal voorbeelden uit de praktijk uitgewerkt, waarin het delen van data centraal staat: Wet kwaliteitsborging voor het bouwen, Informatieoverdracht bij assetmanagement en het Landelijk Digitaal Platform. Deze voorbeelden hebben tot een aantal *extra handreikingen geleid, die gebaseerd zijn op de uitgewerkte principes*:
-- Maak gebruik van open standaarden en overheidsdata (zoals de basisregistraties) die beschikbaar is, begin niet zomaar met het ontwikkelen van een nieuwe standaard en sluit aan bij wat er al is.
+Vanuit de praktijk is een drietal voorbeelden uit de praktijk uitgewerkt, waarin het delen van data centraal staat: Wet kwaliteitsborging voor het bouwen, Informatieoverdracht bij assetmanagement en het Landelijk Digitaal Platform. Deze voorbeelden hebben tot een aantal *extra handreikingen geleid, die gebaseerd zijn op de uitgewerkte principes*:
+- Maak gebruik van open standaarden en overheidsdata (zoals de basisregistraties) die beschikbaar zijn. Begin niet zomaar met het ontwikkelen van een nieuwe standaard en sluit aan bij wat er al is.
 - Maak bottom-up afspraken die werken in de uitvoering en gelijk hun waarde bewijzen voor de gebruikers.
 - Nieuwe data die ontstaat moet die ook beschikbaar gemaakt worden. Maak goede afspraken over het eigenaarschap en beheer van deze data. 
 
