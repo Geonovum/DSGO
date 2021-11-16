@@ -161,7 +161,7 @@ de bewoner zelf, na zijn toestemming of voor een analyse waarin de gegevens voor
 een wijk verzameld worden, maar niet meer terug te voeren zijn op een adres.
 
 >   **Eis:** Ontwerp elke use case binnen het DSGO doelgericht, zodat de uit te
->   wisselen data geschikt en voldoende is voor het doel, waarvoor de informatie
+>   wisselen data die privacygevoelige is, geschikt en voldoende is voor het doel waarvoor de informatie
 >   nodig is.
 
 ### Betrokkenheid
