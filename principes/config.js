@@ -1,6 +1,6 @@
 var respecConfig = {
   format: "markdown",
-  specStatus: "GN-DEF",
+  specStatus: "GN-WV",
   specType: "HR", 
   logos: [ {
     src: ' https://tools.geostandaarden.nl/respec/style/logos/Geonovum.svg',
@@ -38,6 +38,11 @@ var respecConfig = {
  companyURL: "https://www.bimloket.nl", 
  // mailto: "dik.spekkink@bimloket.nl" 
 },
+{ name: "Jan Bruijn",
+     company: "Geonovum",
+     companyURL: "https://www.geonovum.nl", 
+    // mailto: "j.bruijn@geonovum.nl" 
+    },
 { name: "Jacueline Meerkerk", 
      company: "BIM Loket",
  companyURL: "https://www.bimloket.nl", 
@@ -70,8 +75,8 @@ var respecConfig = {
   //shortName: "shortname",
   pubDomain: "DSGO",
   github: "https://github.com/Geonovum/DSGO/",
-  previousPublishDate: "2021-10-28",
-  previousStatus: "GN-VV",
+  previousPublishDate: "2021-11-17",
+  previousStatus: "GN-DEF",
   //localBiblio: {
   //  "ISO19136": {
   //    "href": "https://www.iso.org/standard/32554.html",
