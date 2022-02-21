@@ -39,7 +39,7 @@ Wet kwaliteitsborging voor het bouwen (<a href="#wet-kwaliteitsborging-voor-het-
 
 Vanuit de praktijk is een drietal voorbeelden uit de praktijk uitgewerkt, waarin het delen van data centraal staat: Wet kwaliteitsborging voor het bouwen, Informatieoverdracht bij assetmanagement en het Landelijk Digitaal Platform. Deze voorbeelden hebben tot een aantal *extra handreikingen geleid, die gebaseerd zijn op de uitgewerkte principes*:
 - Maak gebruik van open standaarden en overheidsdata (zoals de basisregistraties) die beschikbaar zijn. Begin niet zomaar met het ontwikkelen van een nieuwe standaard en sluit aan bij wat er al is.
-- Maak bottom-up afspraken die werken in de uitvoering en gelijk hun waarde bewijzen voor de gebruikers.
+- Maak zowel bottom-up als top-down afspraken die werken in de uitvoering en gelijk hun waarde bewijzen voor de gebruikers.
 - Nieuwe data die ontstaat moet die ook beschikbaar gemaakt worden. Maak goede afspraken over het eigenaarschap en beheer van deze data. 
 
 De *uitgangspunten, randvoorwaarden en eisen* die tijdens het traject zijn
