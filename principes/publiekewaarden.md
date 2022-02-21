@@ -60,8 +60,8 @@ Ook Vanuit **Europa** is er een sterk sturende rol van de commissie op het handh
 - De Verordening Digitale Diensten (Digital Services Act, DSA), die de digitale eenheidsmarkt als gelijk speelveld inricht voor innovatie, groei, en concurrentie, en waar de grondrechten van alle gebruikers van digitale diensten actief gewaarborgd zijn, onder meer door vereisten ten aanzien van transparantie en een verantwoordingsraamwerk voor dienstverleners. De DSA is als voorstel gepubliceerd eind 2020, met een beoogde implementatie uiterlijk begin 2022.
 
 
-Ontwerpprincipes
-----------------
+Ontwerpprincipes DSGO
+---------------------
 
 ### Open en transparant
 
@@ -228,13 +228,13 @@ ontstaat.
 Informatieveiligheid houdt in dat er maatregelen getroffen zijn om er voor te
 zorgen dat:
 -   gegevens niet gemanipuleerd zijn tussen bron en eindgebruiker (integriteit);
--   alleen de rechthebbende inzage krijgt in de gegevens (autorisatie en autenticatie);
--   de eindgebruiker kan vaststellen dat de gegevens betrouwbaar zijn en inzicht heeft of de bron de gegevens gewijzigd heeft (transparantie en provenance).
+-   alleen de rechthebbende inzage krijgt in de gegevens (identificatie, authenticatie en autorisatie);
+-   de eindgebruiker kan vaststellen dat de gegevens betrouwbaar zijn en heeft inzicht  of de bron de gegevens heeft gewijzigd (transparantie en provenance).
 
 >   **Eis:** Binnen het DSGO worden maatregelen getroffen om de integriteit te
 >   waarborgen.
 
->   **Eis:** Het DSGO voorziet in autorisatie- en authenticatiemogelijkheden, zodat alleen
+>   **Eis:** Het DSGO voorziet in identificatie-, authenticatie- en autorisatiemogelijkheden, zodat alleen
 >   de rechthebbenden inzage krijgen in de data(sets) die uitgewisseld worden.
 
 >   **Eis:** Het DSGO geeft transparant weer wat de bron is van elke dataset en welke
