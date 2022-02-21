@@ -14,9 +14,9 @@ en geavanceerde werkwijzen en innovatie voor de gebouwde omgeving.
 Om waardevolle toepassingen van [data](#data-datasets-en-metadata) mogelijk te maken, moet data beter
 beschikbaar en toegankelijk worden gemaakt, zodat data kan gaan stromen. Er is behoefte aan een
 afsprakenstelsel dat zorgt voor veilige, betrouwbare en gecontroleerde toegang
-tot data in de bouwsector, zodat alle ketenpartners die actief zijn in de
-verschillende fases van de levenscyclus van een bouwwerk met deze afspraken
-makkelijk en veilig gebruik van reeds beschikbare data kunnen maken. Dit vergt
+tot data in de bouwsector. Alle ketenpartners die actief zijn in de toeleverketen en/ of in de 
+verschillende fases van de levenscyclus van een bouwwerk kunnen met deze afspraken
+makkelijk en veilig gebruikmaken van reeds beschikbare data. Dit vergt
 sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data.
 Dat is de voornaamste reden dat [digiGO het initiatief Digitaal Stelsel Gebouwde Omgeving
 (DSGO) is gestart](https://digigo.nu/over+digigo/wat+is+digigo/default.aspx), om te werken aan de toegankelijkheid van data in de gehele
@@ -99,7 +99,7 @@ staat.
 
 **Ontwerpprincipes**
 
-Het DSGO staat in de bredere context van de digitalisering en dataficering van de
+Het DSGO staat in de bredere context van de digitalisering en [dataficering](https://www.digitaleoverheid.nl/nieuws/dataficering-is-een-gamechanger/) van de
 samenleving en vertegenwoordigt een groot deel data over de gebouwde omgeving. De digitale
 en fysieke wereld raken elkaar steeds meer ook ten aanzien van de gebouwde
 omgeving. In Europa en Nederland leggen we daarbij de nadruk op publieke
@@ -113,7 +113,7 @@ als ook voor het gebruik, onderhoud, beheer en de governance van het DSGO.
 
 **FAIR-principes**
 
-Op eenduidige manieren samenwerken om informatie zo beter te kunnen beveiligen,
+FAIR zorgt voor een betere samenwerking om informatie zo beter te kunnen beveiligen,
 makkelijker uit te wisselen en toegankelijker te maken voor iedereen. Dat is hoe
 open standaarden de samenwerking bevorderen tussen de overheid, burger en het
 bedrijfsleven. De FAIR-principes zijn een hulpmiddel daarin: het doel van de
