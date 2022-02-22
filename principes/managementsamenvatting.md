@@ -9,9 +9,7 @@ toegang te hebben tot accurate gegevens over de gebouwde omgeving. ‘Data moet
 stromen’ tussen de private en publieke partijen in de bouw- en
 installatiesector, maar ook naar inwoners en woningeigenaren.
 
-Het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) is in diverse rollen betrokken bij de bouwsector en heeft als opdrachtgever en systeemverantwoordelijke er een groot belang bij dat de ontwikkeling van het DSGO op gang komt. Een aantal *richtinggevende principes* vanuit publiek belang helpt om vaart en richting te geven aan de ontwikkeling van het DSGO en is behulpzaam bij bijvoorbeeld de uitwerking van de globale architectuurschets
-(GAS). Aan Geonovum, BIM Loket en CROW is gevraagd deze richtinggevende
-principes op te stellen en onder een aantal belangrijke stakeholders (ondermeer
+Het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) is in diverse rollen betrokken bij de bouwsector en heeft als opdrachtgever en systeemverantwoordelijke er een groot belang bij dat de ontwikkeling van het DSGO op gang komt. Een aantal *richtinggevende principes* vanuit publiek belang helpt om vaart en richting te geven aan de [ontwikkeling van het DSGO](https://www.digigo.nu/nieuws/2157352.aspx) en is behulpzaam bij bijvoorbeeld doelarchitectuur of de  verdere uitwerking in een Project StartArchitectuur (PSA) of Stelselarchitectuur (SA) van het programma. Aan Geonovum, BIM Loket en CROW is gevraagd dit rapoprt met  richtinggevende principes op te stellen en onder een aantal belangrijke stakeholders (ondermeer
 MedMij, Rijksvastgoedbedrijf, Innopay, Aedes) informeel te consulteren.
 Geonovum, BIM Loket en CROW beschrijven deze principes op basis van hun ervaringen
 met de ontwikkeling en het beheer van afsprakenstelsels voor de vastlegging en
