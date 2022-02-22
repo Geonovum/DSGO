@@ -300,8 +300,9 @@ De (meta)data(sets) worden dan in hun bestaande structuur/standaard in een
 machine-leesbare generieke *wrapper* verpakt.
 
 >   **Eis:** Voor het DSGO zijn (vooral) afspraken nodig over de technische
->   uitwisseling van (meta)data(sets) op de koppelvlakken, ofwel op de
->   interfaces tussen de systemen, om de data te laten stromen.
+>   uitwisseling van (meta)data(sets) op de koppelvlakken, zodat bestaande 
+>   systemen en datastructuren zo min mogelijk hoeven te worden aangepast, 
+>   om de data te laten stromen.
 
 >   **Voorbeeld:** *Een voorbeeld is de generieke API-service van het
 >   Kadaster voor het geautomatiseerd downloaden / actualiseren van data uit de
