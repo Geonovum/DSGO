@@ -355,16 +355,11 @@ platforms en stelsels versnellen.
 
 **Zorg voor een overheidsbrede toolbox met standaard componenten.**
 
-We bedoelen hiermee dat een aantal basistools voor bijvoorbeeld authenticatie,
-autorisatie en machtigingen beschikbaar en bekend zijn. Voor het [datastelsel
+We bedoelen hiermee dat een aantal basistools voor bijvoorbeeld identificatie, authenticatie, autorisatie 
+en machtigingen beschikbaar en bekend zijn. Voor het [datastelsel
 utiliteitsbouw](https://www.klimaatakkoord.nl/binaries/klimaatakkoord/documenten/publicaties/2019/01/08/achtergrondnotitie-gebouwde-omgeving-verduurzaming-bestaande-utiliteitsbouw/Gebouwde+omgeving+-+Verduurzaming+bestaande+utiliteitsbouw.pdf)
-wordt nagedacht over de toepassing van
-[iDIN](https://www.idin.nl/over-idin/scheme/) als machtigingenmodule voor het
-ontsluiten van energiegebruiksgegevens; voor andere
-[data-deelomgevingen](https://www.geonovum.nl/uploads/documents/20210716%20SWOT%20analyse%20UOI-code%20stelsel%20v041%20definitief.pdf)
-wordt [iShare](https://www.ishareworks.org/ishare) als afsprakenstelsel genoemd.
-Per project wordt nu eigen keuzes gemaakt, wat tijd, geld, doorlooptijd kost,
-maar ook ten koste gaat van standaardisatie en interoperabiliteit.
+gaat gebruik maken van e-herkenning als machtigingenmodule voor het ontsluiten van energiegebruiksgegevens en zoekt daarmee aansluiting bij [iSHARE](https://www.ishareworks.org/ishare) als afsprakenstelsel. In andere gevallen kan dan juist worden gekozen voor bijvoorbeeld [iDIN](https://www.idin.nl/over-idin/scheme/) als machtigingenmodule voor het ontsluiten van gebruiksgegevens. Per project wordt nu eigen keuzes gemaakt, wat tijd, geld, doorlooptijd kost,
+maar ook ten koste gaat van standaardisatie en interoperabiliteit. 
 
 Het kan de ontwikkeling van een platform of stelsel versnellen als er een
 toolbox beschikbaar is, met een keuzewijzer welke tool voor welke toepassing het
