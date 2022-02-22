@@ -206,6 +206,8 @@ duidelijk met welke natuurlijke persoon of rechtspersoon je afspraken moet maken
 het delen, manipuleren en hergebruiken van data, standaarden, algoritmen en
 voorzieningen en de daaruit voortvloeiende nieuwe of aangepaste data die
 ontstaat.
+Wet- en regelgeving, al dan niet vanwege de aanwijzing van data als open data, 
+kan er voor zorgen dat soevereiniteit begrensd wordt en dat data beschikbaar moet worden gesteld . 
 
 >   **Uitgangspunt:** Binnen het DSGO wordt bepaald welke belanghebbende (in
 >   juridische termen natuurlijke persoon of rechtspersoon) eigenaar is en/of
