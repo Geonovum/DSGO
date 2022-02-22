@@ -603,7 +603,7 @@ Het BIM Loket heeft een [palet aan open standaarden](https://www.bimloket.nl/p/1
 
 Standaarden zijn de afsprakenstelsels van domeinen die specificaties en eisen
 aan de (meta)data beschrijven. De standaarden voor (meta)data(sets) in het DSGO
-worden in de domeinen beheerd en doorontwikkeld. Samenwerken in een taal in de gebouwde omgeving zoals met de [objectenbibliotheken ven mappingtabellen](https://viewer.cbnl.org) van [CB-NL](https://public.cbnl.org/over-cb-nl) helpen daarbij. 
+worden in de domeinen beheerd en doorontwikkeld. Samenwerken in een taal in de gebouwde omgeving zoals met de [objectenbibliotheken en mappingtabellen](https://viewer.cbnl.org) van [CB-NL](https://public.cbnl.org/over-cb-nl) helpen daarbij. 
 
 >  **Uitgangspunt:** In het DSGO worden standaarden uit verschillende domeinen toegepast. 
 >  Het is onmogelijk om al deze standaarden te harmoniseren op semantiek. 
