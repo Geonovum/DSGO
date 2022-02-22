@@ -191,7 +191,7 @@ leveranciers, bronhouders, Kadaster, VNG-R, Ministerie van BZK).”
 >   geen landelijk registratiesysteem.
 
 >   **Uitgangspunt:** Het DSGO beschrijft de afspraken waaronder de toegang tot de datasets bij de bron 
->   wordt verleend, de toegang wordt bij de bron bepaald. Het DGSO catalogiseert 
+>   wordt verleend, de toegang wordt bij de bron bepaald tenzij wet- en regelgeving anders bepaalt. Het DGSO catalogiseert 
 >   metadata die de datasets beschrijven.
 
 Om het bevragen van ‘data bij de bron’ mogelijk te maken, moet er op een manier
