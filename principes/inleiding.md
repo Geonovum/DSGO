@@ -37,7 +37,7 @@ Opdracht
 Geonovum is door het ministerie van Ministerie van Binnenlandse Zaken en Koninkrijksrelaties 
 gevraagd om in samenwerking met het BIM Loket en CROW de richtinggevende principes te formuleren 
 in de vorm van een adviesrapport voor het ontwerp van een Digitaal Stelsel Gebouwde Omgeving (DSGO).
-Dit adviesrapport, in aanvulling op 34 ‘use cases’, gegroepeerd in zes thema’s, geeft de uitdagingen 
+Dit adviesrapport, in aanvulling op 34 ‘use cases’ (als concept bouwstenen voor het DSGO), gegroepeerd in zes thema’s, geeft de uitdagingen 
 aan op het gebied van publieke waarden en is voor het ministerie van BZK de start om het gesprek 
 aan te gaan hoe publieke waarden en het DSGO zullen gaan samenwerken. 
 
