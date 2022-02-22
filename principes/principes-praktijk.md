@@ -99,8 +99,8 @@ van systeemonafhankelijke, open standaarden. Ook voor ontwerpende en uitvoerende
 ketenpartners is systeemonafhankelijk uitwisseling van informatie van groot
 belang, opdat zij met hun eigen software kunnen blijven werken.
 
-Assetmanagement
----------------
+Assetmanagement bij het Rijksvastgoedbedrijf
+--------------------------------------------
 
 ### Inleiding
 
@@ -226,8 +226,8 @@ mogelijk aan te sluiten op deze normenserie, zodat ontwikkelingen elkaar kunnen
 versterken en tevens aansluiting op internationale ontwikkelingen wordt
 gerealiseerd.
 
-Landelijk Digitaal Platform
----------------------------
+Landelijk Digitaal Platform Klimaatakkoord 
+------------------------------------------
 
 ### Aanleiding
 
