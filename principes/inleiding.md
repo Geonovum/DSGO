@@ -76,7 +76,7 @@ Voor de totstandkoming van dit adviesrapport hebben we verkend in hoeverre afspr
 eigenaarschap en organisatie van data noodzaak zijn voor veilige, betrouwbare en gecontroleerde toegang 
 tot data in de bouwsector en kunnen worden geduid in de vorm van richtinggevende principes. Hiervoor 
 zijn eerst uitgangspunten, randvoorwaarden en eisen van belang die de richtinggevende principes dienen, 
-waarna de uitwerking in bijvoorbeeld een doelarchitectuur voor het DSGO kan plaats vinden. 
+waarna de uitwerking in bijvoorbeeld een doelarchitectuur of  verdere uitwerking in een Project StartArchitectuur (PSA) of Stelselarchitectuur (SA) door het [programma](https://www.digigo.nu/nieuws/2157352.aspx) voor het DSGO kan plaats vinden. 
 Geonovum maakt hiervoor hergebruik van ervaringen uit eerdere adviestrajecten voor (doorontwikkeling van) 
 digitale stelsels voor onder meer  Digitaal Stelsel Omgevingswet (DSO), Objectidentificering (UOI) en 
 samenhang geo(basis)registraties. CROW zet kennis en ervaring met dataprincipes in als kennisinstituut 
