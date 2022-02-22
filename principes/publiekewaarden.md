@@ -214,7 +214,7 @@ kan er voor zorgen dat soevereiniteit begrensd wordt en dat data beschikbaar moe
 >   zeggenschap en controle uitoefent over en/of gebruik maakt van de data(set),
 >   standaard, algoritme of voorziening die van belang zijn binnen de use cases. Met
 >   deze belanghebbenden kunnen vervolgens afspraken worden gemaakt om de data(set),
->   standaard, algoritme of voorziening FAIR te kunnen (her)gebruiken.
+>   standaard, algoritme of voorziening FAIR te kunnen (her)gebruiken, tenzij wet- en regelgeving anders bepaalt.
 
 >   **Uitgangspunt:** Samen met de sector co-creëren van een samenhangende set 
 >   afspraken op business, functioneel, operationeel, juridisch en technisch gebied, 
