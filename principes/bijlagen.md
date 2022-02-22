@@ -256,3 +256,10 @@ Geraadpleegde bronnen
 -   _Op weg naar een health data infrastructuur en afsprakenstelsel_ - Adviesrapport van Nederlandse AI Coalitie, over de Health data infrastructuur en afsprakenstelsel in Nederland. Versie 1.0 juli 2020;
 -   _Routekaart Digitale Toekomst_, Waag technology&society. Versie 0.3 april 2020.
 
+Met dank aan
+------------
+
+Bij de totstandkoming van dit adviesrapport hebben de schrijvers  zeer waardevolle input en feedback mogen ontvangen van
+onderstaande experts, die we hierbij hartelijk willen danken voor hun inbreng.
+
+
