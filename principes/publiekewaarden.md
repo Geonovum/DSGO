@@ -67,13 +67,8 @@ Ontwerpprincipes DSGO
 
 **Open en transparant ontwerp proces**
 
-Het DSGO ontwerpen we op basis van publieke waarden in samenwerking met alle
-betrokkenen bij de 34 benoemde use cases (zie figuur DSGO use cases, hieronder). Het DSGO
-ondersteunt daarmee diverse publieke belangen van verschillende actoren. Het
-ontwerpproces is daarin bepalend. Centraal in dat proces staan het
-‘burgerperspectief’ en participatie van betrokkenen. Deze participatie goed
-vormgeven en begeleiden is fundamenteel randvoorwaardelijk en tegelijkertijd de
-grootste uitdaging bij de ontwikkeling van het DSGO.
+Het DSGO ontwerpen we op basis van publieke waarden. Het ontwerpproces van het DSGO richt zich voornamelijk op het uitwerken van generieke afspraken die in de verschillende 34 benoemde use cases (zie figuur DSGO use cases, hieronder) toepasbaar zijn. Deze afspraken kunnen vervolgens door de stakeholders van de verschillende use cases worden gebruikt om het uitvoeren van de specifieke use case te faciliteren. Gedurende het co-creatieproces voor het uitwerken van de afspraken wordt een representatie van deze stakeholders intensief betrokken.
+Het DSGO ondersteunt daarmee diverse publieke belangen van verschillende actoren. Het ontwerpproces is daarin bepalend. Centraal in dat proces staan het ‘burgerperspectief’ en participatie van betrokkenen uit de bouwsector. Deze participatie goed vormgeven en begeleiden is fundamenteel randvoorwaardelijk en tegelijkertijd de grootste uitdaging bij de ontwikkeling van het DSGO.
 
 **Figuur: De DSGO use cases**
 ![](media/DSGO-use_cases.png)
