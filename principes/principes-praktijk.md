@@ -356,9 +356,9 @@ platforms en stelsels versnellen.
 **Zorg voor een overheidsbrede toolbox met standaard componenten.**
 
 We bedoelen hiermee dat een aantal basistools voor bijvoorbeeld identificatie, authenticatie, autorisatie 
-en machtigingen beschikbaar en bekend zijn. Voor het [datastelsel
+en machtigingen beschikbaar en bekend zijn. Het [datastelsel
 utiliteitsbouw](https://www.klimaatakkoord.nl/binaries/klimaatakkoord/documenten/publicaties/2019/01/08/achtergrondnotitie-gebouwde-omgeving-verduurzaming-bestaande-utiliteitsbouw/Gebouwde+omgeving+-+Verduurzaming+bestaande+utiliteitsbouw.pdf)
-gaat gebruik maken van e-herkenning als machtigingenmodule voor het ontsluiten van energiegebruiksgegevens en zoekt daarmee aansluiting bij [iSHARE](https://www.ishareworks.org/ishare) als afsprakenstelsel. In andere gevallen kan dan juist worden gekozen voor bijvoorbeeld [iDIN](https://www.idin.nl/over-idin/scheme/) als machtigingenmodule voor het ontsluiten van gebruiksgegevens. Per project wordt nu eigen keuzes gemaakt, wat tijd, geld, doorlooptijd kost,
+gaat gebruik maken van e-herkenning als machtigingenmodule voor het ontsluiten van energiegebruiksgegevens en zoekt daarmee aansluiting bij [iSHARE](https://www.ishareworks.org/ishare) als afsprakenstelsel. In andere gevallen kan juist worden gekozen voor bijvoorbeeld [iDIN](https://www.idin.nl/over-idin/scheme/) als machtigingenmodule voor het ontsluiten van gebruiksgegevens. Per project wordt nu eigen keuzes gemaakt, wat tijd, geld, doorlooptijd kost,
 maar ook ten koste gaat van standaardisatie en interoperabiliteit. 
 
 Het kan de ontwikkeling van een platform of stelsel versnellen als er een
