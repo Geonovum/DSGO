@@ -288,10 +288,10 @@ De (technische) ambitie voor het DSGO bepaalt in hoeverre het mogelijk wordt om
 geautomatiseerd de (meta)data(sets) op te halen.
 
 De aanbeveling is om simpel te beginnen door het samenbrengen/-vatten van de
-beschikbare data in de huidige vorm van bijvoorbeeld PDF’s, waarbij handmatig de
+beschikbare data in de huidige vorm waarbij handmatig de
 documenten kunnen worden doorgezocht en geraadpleegd. Dit sluit aan bij het
 één-ster model van Linked Data: de informatie is beschikbaar op het internet, in
-welk formaat dan ook, zoals PDF.
+welk formaat dan ook. Om vervolgens door te pakken op het beschikbaar maken van gestructureerde data die machine-leesbaar en -interpreteerbaar is.  
 
 Op een wat hoger technisch niveau ligt de mogelijkheid dat systemen die op het
 DSGO zijn aangesloten geautomatiseerd de gegevens kunnen doorzoeken en opvragen.
@@ -361,11 +361,10 @@ API-specificatie](https://spec.openapis.org/oas/v3.1.0).
 **A1.2 Het protocol maakt een authenticatie- en autorisatieprocedure mogelijk,
 waar nodig**
 
-Het DSGO geeft gecontroleerde toegang tot data over de gebouwde omgeving. In de
-*authenticatie*procedure wordt de identiteit van de leverancier of afnemer van
-gegevens vastgesteld. In de *autorisatie*procedure wordt bepaald of de
-leverancier of afnemer recht heeft tot het wijzigen of gebruiken van de
-gegevens.
+Het DSGO geeft gecontroleerde toegang tot data over de gebouwde omgeving door middel van identificatie, 
+authenticatie en autorisatie. In deze procedure wordt de identiteit van de leverancier of afnemer van 
+gegevens vastgesteld. Authenticatie is het middel om te kunnen identificeren, waarna met de autorisatie 
+kan worden bepaald of de leverancier of afnemer recht heeft tot het wijzigen of gebruiken van de gegevens.
 
 >   **Uitgangspunt:** In het DSGO verloopt de authenticatie van natuurlijke personen en
 >   (overheids)organisaties met een publieke taak zich middels DigiD, van
@@ -406,13 +405,14 @@ gemaakt worden dat veranderingen aan datasets aangekondigd worden.
 > **Eis**: Het DSGO houdt een duurzame metadataregistratie bij, waarbij metadata langdurig bewaard en toegankelijk blijft.
 > De datasets zelf worden niet noodzakelijk door DSGO bewaard.
 
-### Uitwisselbaar
+### Interoperabel
 
-Interoperabiliteit betekent het kunnen uitwisselen van digitale gegevens tussen
-overheden onderling en tussen de overheid, bedrijven en burgers. Door uit te
-wisselen kunnen gegevens geïntegreerd worden met andere gegevens. Bovendien
-moeten de gegevens samenwerken met applicaties of workflows voor analyse, opslag
-en verwerking.
+Interoperabiliteit is het vermogen van organisaties (en hun processen en systemen) om 
+effectief en efficiënt informatie te delen met hun [omgeving](https://www.noraonline.nl/wiki/Interoperabiliteit), 
+zoals het delen van informatie tussen overheden onderling en tussen de overheid, bedrijven en burgers. 
+Producten, systemen of organisaties zijn interoperabel als ze zonder beperkingen samen kunnen werken: 
+gegevens kunnen geïntegreerd worden met andere gegevens. Interoperabiliteit gaat over informatieverwerking, 
+maar raakt evengoed aan de bedrijfsprocessen en de technische voorzieningen voor analyse, opslag en verwerking. 
 
 Op eenduidige manieren samenwerken om zo informatie beter te kunnen beveiligen
 en makkelijker en toegankelijker te maken voor iedereen: dat is hoe open
@@ -446,17 +446,12 @@ is, kan de knowledge graph direct benaderd worden via [SPARQL](https://www.w3.or
 
 **I2. (Meta)data gebruiken vocabulaires die FAIR-principes volgen**
 
-Zowel de datasets als de metadata beschrijvingen zijn opgesteld in vocabulaires die zelf de FAIR-principes volgen.
-Dat dient twee doelen:
-enerzijds is explicitering van de gebruikte waarden/kolommen/relaties (etc.) nodig voor een juiste technische aansluiting op DSGO.
-Voor het kunnen combineren van data uit verschillende bronnen neemt het belang van semantische en technische interoperabiliteit toe.
-Anderzijds voorkomt het ook betekenisverwarring: omdat in het DSGO domeinoverstijgende uitwisseling van data plaatsvindt, is er vaak sprake van
-verschil in definities en begrippen.
+De betekenis van een woord (semantiek) is cruciaal bij de toegankelijkheid van data. Betekenis is echter vaak een obstakel om data met elkaar te kunnen combineren. Vocabulaires, woordenboeken en thesauri, alsook gestructureerde gegevensverzamelingen en ontologieën zijn middelen om data wel met de elkaar te verbinden ([Linked Data]( https://www.noraonline.nl/wiki/Linked_Data)) en samenwerken op het gebied van data mogelijk maakt. 
+Vanuit deze achtergrond wordt gesteld dat zowel de datasets als de metadata beschrijvingen zijn,  opgesteld in vocabulaires die zelf de FAIR-principes volgen. Dat dient twee doelen:
+enerzijds is explicitering van de gebruikte waarden/kolommen/relaties (etc.) nodig voor een juiste technische aansluiting op DSGO. Voor het kunnen combineren van data uit verschillende bronnen neemt het belang van semantische en technische interoperabiliteit toe.
+Anderzijds voorkomt het ook betekenisverwarring: omdat in het DSGO domein overstijgende uitwisseling van data plaatsvindt, is er vaak sprake van verschil in definities en begrippen.
 
-Zulke beschrijven worden ook wel OTL’s, ontologieën of informatiemodellen
-genoemd. Niet alle schema’s (vocabulaires, ontologiën, OTL’s,
-informatiemodellen) zijn als vijf-ster FAIR te kwalificeren. 
-Toch is het uitangspunt van publieke toegankelijkheid leidend.
+Zulke beschrijven worden ook wel OTL’s, ontologieën of informatiemodellen genoemd. Niet alle schema’s (vocabulaires, ontologiën, OTL’s, informatiemodellen) zijn als vijf-ster FAIR te kwalificeren. Toch is het uitgangspunt van publieke toegankelijkheid leidend.
 
 Dit principe I2 borgt de toegang tot de beschrijving van de dataset.
 Daarbij moet het uitgangspunt zijn dat dat 
