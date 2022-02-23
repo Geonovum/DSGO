@@ -59,4 +59,17 @@ Wij stellen ons voor dat deze gesprekken in het kader van het DSGO worden georga
 **Beheer en onderhoud**
 
 Een afsprakenstelsel vraagt om onderhoud. Als afspraken tot stand zijn gekomen zijn er altijd omstandigheden die aanpassing en/of uitbreiding vragen. Vanuit onze ervaring bij de tot standkoming van standaarden adviseren we om het aspect beheer en onderhoud van de afspraken steeds mee te nemen en de gevolgen die dit heeft voor de financiering van het afsprakenstelsel dat gaat ontstaan.
+
+## Aandachtspunten
+De volgende aandachtspunten geven we mee om nader te onderzoekn:
+
+*NL-datafederatie*
+•	Hoe sluit DSGO straks als stelsel aan op de NL-datafederatie (het “stelsel der stelsels”)?
+
+*Experimenteerruimte*
+
+*Duurzame ... en archivering
+
+
+
   
