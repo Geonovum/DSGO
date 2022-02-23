@@ -482,7 +482,7 @@ Daarbij moet het uitgangspunt zijn dat dat
 
 **I3. (Meta)data bevatten gekwalificeerde verwijzingen naar andere (meta)data**
 
-Door gebruik te maken van UOI’s bij verwijzingen naar objecten, maken we
+Door gebruik te maken van unieke en persistente identifiers bij verwijzingen naar objecten, maken we
 koppelingen over datasets mogelijk. Meer koppelingen zijn mogelijk, maar niet
 van elke leverancier van een dataset kan worden verwacht dat die alle mogelijke
 koppelingen maakt.
