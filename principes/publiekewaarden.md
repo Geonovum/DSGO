@@ -141,6 +141,9 @@ de gemeente als voor de toekomstig eigenaar en beheerder.
 >   **Eis:** Ontwerp elke use case binnen het DSGO rechtvaardig, zodat alle
 >   belanghebbenden een eerlijke en volledige weergave van de feiten kunnen inzien.
 
+Om te kunnen beoordelen of de feiten, die worden ingezien, volledig en eerlijk zijn, 
+is het noodzakelijk dat er wordt voldaan aan de eisen uit [informatieveiligheid](#informatieveiligheid).
+
 ### Doelgerichtheid
 
 Data wordt uitgewisseld met een bepaald doel. De gebruikers mogen de data niet zondermeer voor een ander doel gebruiken. Er is sprake van doelbinding. Voor elke use case worden data, algoritmen, voorzieningen en technologie
