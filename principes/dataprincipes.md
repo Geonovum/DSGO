@@ -53,32 +53,38 @@ ofwel gedistribueerde systemen, is het dus van belangrijk dat de technische
 aanduiding, ofwel identificatie van data of een dataset *uniek* en *persistent*
 (blijvend) is.
 
+*Uniek* betekent dat er een mechanisme voor identificatie wordt gehanteerd waardoor er altijd een uniek ID wordt (uit)gegeven. Het toekennen van een identificatie aan een (meta)data(set) kan centraal door een uitgiftesysteem voor identificaties of decentraal bij dataleverancier op basis van specifieke regels/patronen.
+
+*Persistent* betekent dat de identificatie van een (meta)data(set) gedurende de levensloop/-cyclus behouden blijft.
+
 Zodoende zijn datasets of informatie over datasets door de tijd heen *vindbaar* en
 *citeerbaar*, ongeacht de status, beschikbaarheid of het [formaat van de data](https://www.w3.org/TR/dwbp/#UniqueIdentifiers).
 
-In Nederland (en internationaal) wordt gewerkt aan het [Unieke Object
-Identificator
-(UOI)](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie) systeem
-voor toegang tot informatie over een nieuwe en bestaande bouwwerken of de gebouwde
-omgeving die in verschillende databases zijn opgeslagen. Het UOI dient als een
-digitale sleutel waarmee je op basis van je rol en toegangsrechten informatie
-over bouwwerken en objecten in de gebouwde omgeving kunt raadplegen. Daarmee kan
-bijvoorbeeld specifieke informatie over een gebouw, verdieping, kamer of raamkozijn worden
-geraadpleegd op basis van [rollen en toegangsrechten](https://fibree.org/uoi-nl/).
+Een unieke identificatie maakt mogelijk om (meta)data(sets) ‘as-is’ aan elkaar te koppelen/relateren. Deze (meta)data(sets) mogen heterogeen zijn. Koppelingen/relaties maken semantisch knelpunten inzichtelijk en kunnen op later moment naar behoefte worden opgelost (harmoniseren/integreren).
 
-Het ‘systeem’ als gedachte is ontwikkeld binnen de bouw- en vastgoedsector. De
-gedachte achter een UOI-code is dat er domeinoverstijgend verbindingen mee
-gelegd kunnen worden die het beantwoorden van vragen over objecten in de
-gebouwde omgeving vereenvoudigen. De UOI-code wordt ook genoemd in de lopende
-consultatie van de [Samenhangende Objecten Registratie
-(SOR)](https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang/objectenregistratie).
-Experts uit de bouw- en geo-wereld hebben het UOI als systeem getoetst aan de
-nieuwe Geo- & Bouw-informatiestandaarden (NEN 3610, NEN 2660 en BIM gerelateerde
-standaarden) en de [principes die DiSGeo
-hanteert](https://docs.geostandaarden.nl/disgeo/emso/#identificatie-van-objecten) voor
-de Samenhangende Objecten Registratie (SOR). Ook is gekeken naar de instrumenten
-van de Wet kwaliteitsborging Bouw (Wkb) en het ontwerp Digitaal Stelsel Gebouwde
-Omgeving DSGO (binnen digiGO).
+>   Voorbeeld: In Nederland (en internationaal) wordt gewerkt aan het [Unieke Object
+>   Identificator
+>   (UOI)](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie) systeem
+>   voor toegang tot informatie over een nieuwe en bestaande bouwwerken of de gebouwde
+>   omgeving die in verschillende databases zijn opgeslagen. Het UOI dient als een
+>   digitale sleutel waarmee je op basis van je rol en toegangsrechten informatie
+>   over bouwwerken en objecten in de gebouwde omgeving kunt raadplegen. Daarmee kan
+>   bijvoorbeeld specifieke informatie over een gebouw, verdieping, kamer of raamkozijn worden
+>   geraadpleegd op basis van [rollen en toegangsrechten](https://fibree.org/uoi-nl/).
+>   
+>   Het ‘systeem’ als gedachte is ontwikkeld binnen de bouw- en vastgoedsector. De
+>   gedachte achter een UOI-code is dat er domeinoverstijgend verbindingen mee
+>   gelegd kunnen worden die het beantwoorden van vragen over objecten in de
+>   gebouwde omgeving vereenvoudigen. De UOI-code wordt ook genoemd in de lopende
+>   consultatie van de [Samenhangende Objecten Registratie
+>   (SOR)](https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang/objectenregistratie).
+>   Experts uit de bouw- en geo-wereld hebben het UOI als systeem getoetst aan de
+>   nieuwe Geo- & Bouw-informatiestandaarden (NEN 3610, NEN 2660 en BIM gerelateerde
+>   standaarden) en de [principes die DiSGeo
+>   hanteert](https://docs.geostandaarden.nl/disgeo/emso/#identificatie-van-objecten) voor
+>   de Samenhangende Objecten Registratie (SOR). Ook is gekeken naar de instrumenten
+>   van de Wet kwaliteitsborging Bouw (Wkb) en het ontwerp Digitaal Stelsel Gebouwde
+>   Omgeving DSGO (binnen digiGO).
 
 <details class='note'>
 Noot van de schrijvers: Tussen november 2020 en april 2021 heeft het
