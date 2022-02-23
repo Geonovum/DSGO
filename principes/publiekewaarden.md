@@ -133,8 +133,8 @@ daarbij een eerlijke en volledige weergave van feiten gebaseerd op data
 essentieel. Op basis van data worden immers besluiten genomen zoals het
 toekennen van een vergunning.
 
-In het kader van bouwkwaliteit is het van belang dat alle kwaliteitsinformatie
-over het bouwwerk bekend is en voor iedereen wordt weergegeven, zodat de oplevering van het
+In het kader van bouwkwaliteit is het van belang dat kwaliteitsinformatie
+over het bouwwerk bekend is en voor iedereen toegankelijk, accuraat, betrouwbaar en volledig wordt weergegeven, zodat de oplevering van het
 bouwwerk goedgekeurd kan worden door de gemeente. Dit is van belang zowel voor
 de gemeente als voor de toekomstig eigenaar en beheerder.
 
