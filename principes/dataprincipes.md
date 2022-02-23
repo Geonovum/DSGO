@@ -365,7 +365,7 @@ API-specificatie](https://spec.openapis.org/oas/v3.1.0).
 >   eigen data. Zij bepalen te allen tijde onder welke voorwaarden hun data
 >   wordt gedeeld, met wie, voor wat, en hoe lang.
 
-**A1.2 Het protocol maakt een authenticatie- en autorisatieprocedure mogelijk,
+**A1.2 Het protocol maakt een identificatie, authenticatie en autorisatie mogelijk,
 waar nodig**
 
 Het DSGO geeft gecontroleerde toegang tot data over de gebouwde omgeving door middel van identificatie, 
