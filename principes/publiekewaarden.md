@@ -238,3 +238,5 @@ zorgen dat:
 >   bewerkingen deze heeft ondergaan en/of aan welke kwaliteitseisen deze voldoet in
 >   termen van actualiteit, volledigheid en juistheid), zodat de eindgebruiker de
 >   betrouwbaarheid kan vaststellen.
+
+>   **Randvoorwaarde:** Voor inzage van gegevens door alleen rechthebbende is gecontroleerde toegang randvoorwaardelijk. Gecontroleerd  toegang tot (een subset van) data over gebouwen/bouwwerken zorgt voor recht van raadpleegbaarheid voor gebruikers die het    gebruiks/zakelijk recht genieten op het gebouw/bouwwerk. Het eigenaarschap/recht op raadpleegbaarheid van data over het gebouw/bouwwerk kan dus overgaan bij overdracht van het gebruiks/zakelijk recht op het gebouw/bouwwerk.
