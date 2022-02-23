@@ -73,7 +73,7 @@ Het ontwerpproces van het DSGO is daarin bepalend. Centraal in dat proces staan 
 **Figuur: De DSGO use cases**
 ![](media/DSGO-use_cases.png)
 
-De ontwerpprincipes zijn daarom bedoeld als werkwoorden, die de participanten
+De ontwerpprincipes zijn daarom bedoeld als principes om mee te werken, die de participanten
 tijdens het ontwerpproces doordenken en doorleven, zodat de juiste keuzes
 gemaakt worden. In het vervolg illustreren wij deze ontwerpprincipes op basis
 van de genoemde use cases.
