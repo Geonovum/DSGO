@@ -83,7 +83,7 @@ samenhang geo(basis)registraties. CROW zet kennis en ervaring met dataprincipes 
 voor infrastructuur, openbare ruimte, verkeer en vervoer, en werk en veiligheid. Digitaal samenwerken 
 in de gebouwde omgeving op basis van open standaarden en richtlijnen is de basis voor het BIM Loket. 
 
-Met dit als vertrekpunt zijn participatie en publieke waarden, ontwerp principes en FAIR-principes de rode draad geworden voor dit adviesrapport. 
+Met dit als vertrekpunt zijn participatie en publieke waarden, ontwerp principes en FAIR-principes de rode draad geworden voor dit adviesrapport. De principes zijn niet in een hiërarchisch volgorde opgenomen in dit rapport; alle principes hebben elkaar nodig en versterken elkaar. 
 
 **Participatie en publieke waarden**
 
