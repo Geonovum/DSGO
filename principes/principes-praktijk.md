@@ -3,7 +3,8 @@ Van principes naar praktijk
 
 Met ontwerpprincipes op basis van publieke waarden en dataprincipes uit de
 voorgaande hoofdstukken, geven we in dit hoofdstuk een drietal voorbeelden uit
-de praktijk: Wet kwaliteitsborging voor het bouwen, Assetmanagement bij het Rijksvastgoedbedrijf en het
+de praktijk om aan te geven hoe de principes in die situaties worden toegepast. De praktijkvoorbeelden hebben geen relatie met de in dit rapport eerder benoemde 34 use cases die zijn ontwikkeld ten behoeve van het DSGO. 
+Achtereenvolgens komen aan de orde: Wet kwaliteitsborging voor het bouwen, Assetmanagement bij het Rijksvastgoedbedrijf en het
 Landelijk Digitaal Platform Klimaatakkoord.
 
 Wet kwaliteitsborging voor het bouwen
