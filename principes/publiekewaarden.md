@@ -126,7 +126,7 @@ materialen of producten, zoals problemen met het beton (betonrot, constructiefou
 
 ### Rechtvaardigheid
 
-Alle belanghebbenden verlangen een eerlijke en gelijke behandeling. Dat
+Alle belanghebbenden verlangen een eerlijke en gelijkwaardige behandeling. Dat
 houdt in dat de gemaakte afspraken en spelregels eerlijk worden toegepast in
 elke situatie zonder ‘aanziens des persoons’. In de context van het DSGO is
 daarbij een eerlijke en volledige weergave van feiten gebaseerd op data
@@ -134,7 +134,7 @@ essentieel. Op basis van data worden immers besluiten genomen zoals het
 toekennen van een vergunning.
 
 In het kader van bouwkwaliteit is het van belang dat alle kwaliteitsinformatie
-over het bouwwerk bekend is en eerlijk wordt weergegeven, zodat de oplevering van het
+over het bouwwerk bekend is en voor iedereen wordt weergegeven, zodat de oplevering van het
 bouwwerk goedgekeurd kan worden door de gemeente. Dit is van belang zowel voor
 de gemeente als voor de toekomstig eigenaar en beheerder.
 
