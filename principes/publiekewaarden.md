@@ -207,7 +207,9 @@ het delen, manipuleren en hergebruiken van data, standaarden, algoritmen en
 voorzieningen en de daaruit voortvloeiende nieuwe of aangepaste data die
 ontstaat.
 Wet- en regelgeving, al dan niet vanwege de aanwijzing van data als open data, 
-kan er voor zorgen dat soevereiniteit begrensd wordt en dat data beschikbaar moet worden gesteld . 
+kan er voor zorgen dat soevereiniteit begrensd wordt en dat data beschikbaar moet worden gesteld.
+
+Wet- en regelgeving over de soevereiniteit op data mag niet conflicteren. Consistente wet- en regelgeving lost onduidelijken over het recht om te beschikkebn over data op. Bijvoorbeeld inzake een adres zou een wettelijke basis voor open data niet moeten conflicteren met privacy-wetgeving (AVG).
 
 >   **Uitgangspunt:** Binnen het DSGO wordt bepaald welke belanghebbende (in
 >   juridische termen natuurlijke persoon of rechtspersoon) eigenaar is en/of
