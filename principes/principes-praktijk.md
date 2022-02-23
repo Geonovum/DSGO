@@ -114,8 +114,9 @@ Voor het beheer van deze vastgoedportefeuille maakt het RVB gebruik van vele
 dienstverleners, zowel dienstverleners van het Rijk, als ook externe
 dienstverleners. Om in al het vastgoed deze dienstverlening goed te laten
 verlopen is een transparante uitwisseling van data essentieel. Deze uitwisseling
-begint al bij de oplevering van een object na realisatie aan het RVB als
-assetbeheerder. In deze casusbeschrijving assetmanagement geven we een inkijkje
+begint  al bij het bestuderen van nut of noodzaak een vervanging- of renovatie opgave uit te voeren.
+Bij de oplevering van een object na realisatie aan het RVB als
+assetbeheerder is uitwisseling een belangrijk onderdeel van het proces. In deze casusbeschrijving assetmanagement geven we een inkijkje
 in de manier waarop het RVB deze problematiek te lijf gaat, wat daarin tot nu
 toe al bereikt is en welke uitdagingen nog voor haar liggen.
 
