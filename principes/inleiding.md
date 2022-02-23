@@ -88,7 +88,7 @@ Met dit als vertrekpunt zijn participatie en publieke waarden, ontwerp principes
 **Participatie en publieke waarden**
 
 Het DSGO maakt participatie en co-creatie mogelijk tussen alle publieke en
-private partijen die een belang hebben bij informatie over de gebouwde omgeving.
+private partijen die een belang hebben bij informatie over de gebouwde omgeving. Participatie en co-creatie worden geoperationaliseerd door publieke waarden zoals inclusiviteit en betrokkenheid (zie [hoofdstuk vier](#publiekewaarden)).
 Het DSGO is in die zin een belangrijke dataspace voor de samenleving om zich te
 verhouden tot alle data over de gebouwde omgeving. Dat vraagt om spelregels
 gebaseerd op publieke waarden die de samenleving reflecteren. De belangrijkste
