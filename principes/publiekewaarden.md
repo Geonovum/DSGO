@@ -118,8 +118,8 @@ materialen of producten, zoals problemen met het beton (betonrot, constructiefou
 
 >   **Randvoorwaarde:** Maak de ontwikkeling van het DSGO inclusief, zodat er geen groepen worden 
 >   buitengesloten door de manier waar op de afspraken gemaakt worden over het delen van data. De belangen
->   van alle stakeholders zijn in beeld bij elke use case. De inzet van
->   een onafhankelijk voorzitter is daarbij een aanrader.
+>   van alle stakeholders zijn in beeld bij elke use case. Het goed beleggen van  mandaat en eigenaarschap alsook 
+>   een onafhankelijk voorzitter zijn aan te raden middelen voor een transparante governance.
 
 >   **Eis:** Om te voorkomen dat  groepen worden buitengesloten of dat data verkeerd wordt geïnterpreteerd of dat verkeerde berekeningen worden toegepast,
 >   is een onafhankelijke voorzitter vereist.
