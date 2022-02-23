@@ -499,14 +499,7 @@ kwaliteitseisen (onder meer actueel, juist en volledig).
 >   goede kwaliteit van de (meta)data(set).
 
 
->   **Voorbeeld:** De [Basisregistratie Adressen en Gebouwen (BAG)](https://www.geobasisregistraties.nl/basisregistraties/adressen-en-gebouwen) is de authentieke
->   bron voor officiële adressen en bouwjaren van panden. De ‘eigenaar’ van de
->   BAG draagt gegevens aan over de dataset BAG aan het DSGO onder meer over de
->   herkomst, kwaliteit (bijvoorbeeld actualiteit 4 dagen, geometrische
->   nauwkeurigheid van 30-60 cm, volledigheid 100%) en gebruik (wettelijk
->   verplicht voor overheden) van de data in de BAG. In het DSGO worden
->   de herkomst (eigenaar BAG) en kwaliteit (wanneer metadata voor
->   het laatst is bijgewerkt) van de BAG-data vastgelegd.
+>   **Voorbeeld:** Placeholder voorbeeld metadataredacteur.
 
 ### Herbruikbaar
 
