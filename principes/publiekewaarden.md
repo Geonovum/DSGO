@@ -157,7 +157,7 @@ maar geldt ook in andere situaties. We geven  twee voorbeelden.
 > offerte mogen maken om groot onderhoud uit te voeren. Deze informatie mag de aannemer niet gebruiken om een 
 > vastgoedhandelaar te informeren over de onderhoudstoestand van de objecten. De informatie die hij gekregen 
 > heeft is uitsluitend bedoeld voor de te maken offerte.
-> 
+
 > Voorbeeld: De data over gasverbruik zijn mogelijk terug te voeren op het gedrag van de bewoner/ huurder en daarmee 
 > privacy gevoelig. Deze informatie mag daarom alleen vertrekt worden aan de bewoner zelf. In het kader van 
 > de energietransitie is het echter noodzakelijk om zicht te krijgen op het gemiddeld energieverbruik in een 
@@ -168,7 +168,7 @@ maar geldt ook in andere situaties. We geven  twee voorbeelden.
 > open data gepubliceerd op [www.data.overheid.nl](https://data.overheid.nl/).
 
 >   **Eis:** Ontwerp elke use case binnen het DSGO doelgericht, zodat de uit te
->   wisselen, gebruikt wordt in lijn met het doel waarvoor de eigenaar van de data, de data ter beschikking stelt aan andere partijen.
+>   wisselen data, gebruikt wordt in lijn met het doel waarvoor de eigenaar van de data, de data ter beschikking stelt aan andere partijen.
 
 ### Betrokkenheid
 
