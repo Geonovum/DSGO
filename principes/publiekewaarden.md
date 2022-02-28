@@ -175,8 +175,9 @@ maar geldt ook in andere situaties. We geven  twee voorbeelden.
 In aanvulling op [inclusiviteit](#Inclusiviteit) (iedereen die er toe doet is in beeld), ziet
 betrokkenheid erop toe dat alle belanghebbenden input geven op de inrichting van
 een use case, en zijn er ‘checks en balances’ om toe te zien op de naleving van
-de afspraken. Laat partijen die data inbrengen, ook de burger, dan ook in co-creatie meedenken in het ontwerpen van de afspraken voor datauitwisseling. 
-Voor het DSGO geldt specifiek voor elke afspraak waarin
+de afspraken. Laat partijen die data inbrengen, ook de burger, dan ook in co-creatie meedenken in het ontwerpen van de afspraken 
+voor datauitwisseling. Afhankelijk van de casus en betrokkenheid, blijf je afhankelijk van de bereidheid dat data wordt gedeeld. 
+Voor de ontwikkeling van het DSGO geldt specifiek voor elke afspraak waarin
 informatie wordt vastgelegd en beschikbaar gemaakt, of dit verplicht of
 optioneel is en dat partijen individueel of via hun brancheorganisatie zich
 daaraan houden. Door betrokkenheid te creëren ontstaat ook het commitment om je aan de afspraken te houden.
