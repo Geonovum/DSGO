@@ -198,7 +198,7 @@ Open en transparante uitkomsten
 - Eis: Ontwerp elke use case binnen het DSGO rechtvaardig, zodat alle belanghebbenden een eerlijke en volledige weergave van de feiten kunnen inzien. 
 
 *Doelgerichtheid*
-- Eis: Ontwerp elke use case binnen het DSGO doelgericht, zodat de uit te wisselen, gebruikt wordt in lijn met het doel waarvoor de eigenaar van de data, 
+- Eis: Ontwerp elke use case binnen het DSGO doelgericht, zodat de uit te wisselen data, gebruikt wordt in lijn met het doel waarvoor de eigenaar van de data, 
 de data ter beschikking stelt aan andere partijen. 
 
 *Betrokkenheid*
