@@ -104,6 +104,10 @@ rapport is er een concept onderzoeksrapport over UOI.
 >   dat maar één ding zo'n identifier krijgt en dat een ding die identifier z'n
 >   hele levensloop behoudt.
 
+<details class='note'>
+Noot van de schrijvers: Hoewel implementatie van een UOI buiten scope van dit document valt, merken we wel op dat er in het algemeen twee methodenn zijn om een unieke identificatie uit te delen: ofwel via een centraal uitgiftepunt van identificaties, danwel decentraal bij de bron op basis van een algoritme (bijv. GUID) dat uniciteit 'garandeert'. Persistentie van identificatie is een verantwoordelijkheid van de gegevensbeheerder: immers als een gegevensbeheerder bij een statusovergang een sub/object beëindigd, en een nieuw sub/object met nieuwe identificatie opvoert, is er geen sprake van behoud van identificatie tijdens de hele levensloop/-cyclus.
+</details>
+
 **F2. Gegevens worden beschreven met uitgebreide metadata**
 
 Metadata zijn gegevens over de data zelf. Voorbeelden van metadata zijn de
