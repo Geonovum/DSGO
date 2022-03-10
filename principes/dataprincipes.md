@@ -491,19 +491,13 @@ koppelingen over datasets mogelijk. Meer koppelingen zijn mogelijk, maar niet
 van elke leverancier van een dataset kan worden verwacht dat die alle mogelijke
 koppelingen maakt.
 
-Daarom is in het DSGO de *metadata redacteur* verantwoordelijk voor aanmaken
-metadata van een dataset (op basis van aangeleverde metagegevens), en voert
-wijzigingen door in de metadata. De metadata voldoet aan de gestelde
-kwaliteitseisen (onder meer actueel, juist en volledig). 
+In het DSGO de eigenaar van de data(set) verantwoordelijk voor het aanmaken en bijhouden
+van metadata over een dataset. De metadata voldoet aan de gestelde kwaliteitseisen (onder meer actueel, juist en volledig). 
 
->  **Randvoorwaarde:** Het DSGO helpt koppelingen te realiseren tussen datasets,
->  belegd bij de metadataredacteur. 
+>  **Randvoorwaarde:** Het DSGO ondersteunt het realiseren van koppelingen tussen datasets. 
 
 >   **Eis:** De eigenaar van de (meta)data(set) is zelf verantwoordelijk voor een
 >   goede kwaliteit van de (meta)data(set).
-
-
->   **Voorbeeld:** Placeholder voorbeeld metadataredacteur.
 
 ### Herbruikbaar
 
