@@ -38,7 +38,7 @@ en data moeten gemakkelijk te vinden zijn voor zowel mensen als computers.
 Machineleesbare metadata zijn essentieel voor het ontdekken van datasets en
 services. Vindbaarheid begint met bekendheid om te weten dat data gevonden kan
 worden. Hiervoor is communicatie over het DSGO-uitgangspunt en een centraal
-loket voor vragen, essentieel. Voor het vindbaar maken van data is het niet noodzakelijk afspraken te maken. 
+loket voor vragen, essentieel.
 
 **F1. Elke (meta)data(set) krijgt een wereldwijd unieke en persistente
 identifier**
