@@ -222,7 +222,7 @@ ontstaat.
 Wet- en regelgeving op nationaal en Europees niveau, al dan niet vanwege de aanwijzing van data als open data, 
 kan er voor zorgen dat soevereiniteit begrensd wordt en dat data beschikbaar moet worden gesteld.
 Wet- en regelgeving over de soevereiniteit op data mag niet conflicteren. Consistente wet- en regelgeving lost 
-onduidelijken over het recht om te beschikken over data op. De afweging van maatschappelijke belangen geeft 
+onduidelijkheden over het recht om te beschikken over data op. De afweging van maatschappelijke belangen geeft 
 de context over het beschikken van data. Bijvoorbeeld inzake een adres zou een wettelijke basis voor open 
 data niet moeten conflicteren met privacy-wetgeving (AVG).
 
