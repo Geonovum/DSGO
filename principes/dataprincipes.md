@@ -130,6 +130,9 @@ onderscheid worden gemaakt naar:
 - informatie/data die is vrijgegeven voor gebruik in een volgende projectfase of voor asset management;
 - gearchiveerdee informatie/data. 
 
+Het is belangrijk om een dataset met goede metadata te beschrijven. Dit vergroot onder meer de herbruikbaarheid. 
+Belangrijk is om de metadata die handmatig door eigenaar van de dataset ingevuld moet worden beperkt blijft, zodat deze ook daadwerkelijk goed en volledig wordt ingevuld.
+
 >   **Eis:** Van elk gegeven in het DSGO is meta-informatie over onder meer de
 >   herkomst, kwaliteit, status en gebruik (licentie en toepassing) beschikbaar. De wijze
 >   van metadatering sluit aan bij vigerende (inter)nationale standaarden voor informatiemanagement en 
