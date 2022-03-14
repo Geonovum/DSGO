@@ -4,7 +4,8 @@ Publieke waarden
 Het DSGO dient het publiek belang door data uit de gebouwde omgeving beschikbaar
 te stellen voor alle belanghebbenden bij de data. Om het publieke belang te
 waarborgen worden 8 ontwerpprincipes gehanteerd voor het ontwerpproces van het
-DSGO. Deze 8 ontwerpprincipes zijn in dit hoofdstuk vertaalt in uitgangspunten,
+DSGO. Niet de pulieke waarden zelf, maar de ontwerpprincipes voor het DSGO op basis van de publiek waarden staan centraal. 
+Deze 8 ontwerpprincipes zijn in dit hoofdstuk vertaalt in uitgangspunten,
 randvoorwaarden en eisen. Ze geven richting aan het proces om te komen tot
 sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data.
 
