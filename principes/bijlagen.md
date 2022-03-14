@@ -7,7 +7,9 @@ Data, datasets en metadata
 De uitwisseling van gegevens staat bij het DSGO centraal. Dat uitwisselen kan
 eenmalig, herhaaldelijk of continu zijn, maar wat bedoelen we hier met gegevens?
 Voor een digitaal stelsel gebouwde omgeving zijn er drie termen essentieel
-wanneer we het hebben over gegevens of *data*. In deze paragraaf geven we een toelichting en context aan de in dit rapport veel gebruikte begrippen data, datasets en metadata. De basis voor deze begrippen liggen mede in het [NEN 2660](https://www.nen.nl/nen-2660-1-2020-ontw-nl-278048) en het [Metamodel Informatiemodellering (MIM)](https://docs.geostandaarden.nl/mim/def-st-mim-20201023/).  
+wanneer we het hebben over gegevens of *data*. 
+
+In deze paragraaf geven we een zoveel mogelijk niet-technische toelichting en context aan de in dit rapport veel gebruikte begrippen data, datasets en metadata. De basis voor deze begrippen liggen mede in het [NEN 2660](https://www.nen.nl/nen-2660-1-2020-ontw-nl-278048) en het [Metamodel Informatiemodellering (MIM)](https://docs.geostandaarden.nl/mim/def-st-mim-20201023/).  
 
 **Data** zijn die gegevens die over het gebouwde object beschrijven. Dat kan
 bijvoorbeeld een bouwtekening zijn, een inspectierapport of een rapportage van
