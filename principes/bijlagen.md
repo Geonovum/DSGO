@@ -264,18 +264,19 @@ Met dank aan
 
 Bij de totstandkoming van dit adviesrapport hebben de schrijvers zeer waardevolle input en feedback mogen ontvangen van
 onderstaande experts, die we hierbij hartelijk willen danken voor hun inbreng.
-	Aart Wijnen (Twee Snoeken)
-	Dirk van Brederode (VNG)
-	Erik Nieuwenburg (Stichting Platform BIM Legal)
-	Harmen Jorritsma (RVO)
-	Jeroen Baltussen (RVO)
-	Leo van der Sluijs (Kadaster) 
-	Martin Linssen (Energie Nederland)
-	Michel Böhms (TNO)
-	Mick Baggen (Rijkswaterstaat)
-	Niels Vossebeld (Niels Vossebeld Advies)
-	Rick Klooster (Future Insight)
-	Ries Bode (Programma DSGO)
-	Rik de Lange (RVO)
-	Rob Roef (TNO)
+
+-   Aart Wijnen (Twee Snoeken)
+-   Dirk van Brederode (VNG)
+-   Erik Nieuwenburg (Stichting Platform BIM Legal)
+-   Harmen Jorritsma (RVO)
+-   Jeroen Baltussen (RVO)
+-   Leo van der Sluijs (Kadaster) 
+-   Martin Linssen (Energie Nederland)
+-   Michel Böhms (TNO)
+-   Mick Baggen (Rijkswaterstaat)
+-   Niels Vossebeld (Niels Vossebeld Advies)
+-   Rick Klooster (Future Insight)
+-   Ries Bode (Programma DSGO)
+-   Rik de Lange (RVO)
+-   Rob Roef (TNO)
 
