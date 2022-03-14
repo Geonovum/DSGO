@@ -277,7 +277,7 @@ onderstaande experts, die we hierbij hartelijk willen danken voor hun inbreng.
 -   Jan Bruijn (Geonovum)
 -   Jan-Pieter Eelants (CROW)
 -   Jeroen Baltussen (RVO)
--   Joram Snijder (ministerie van BZK)
+-   Joram Snijders (ministerie van BZK)
 -   Leo van der Sluijs (Kadaster) 
 -   Martin Linssen (Energie Nederland)
 -   Michel Böhms (TNO)
