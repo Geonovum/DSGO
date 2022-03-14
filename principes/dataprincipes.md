@@ -21,7 +21,7 @@ Ontwerpprincipes
 
 De ontwerpprincipes voor (meta)data(sets) in het DSGO worden 
 beschreven aan de hand van de FAIR-principes: *Findable* (vindbaar),
-*Accessible* (toegankelijk), *Interoperable* (uitwisselbaar) en *Reusable*
+*Accessible* (toegankelijk), *Interoperable* (interoperabel) en *Reusable*
 (herbruikbaar).
 
 We hanteren de term *(meta)data(sets)* omdat de dataprincipes van toepassing
