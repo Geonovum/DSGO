@@ -272,7 +272,7 @@ onderstaande experts, die we hierbij hartelijk willen danken voor hun inbreng.
 -   Dirk van Brederode (VNG)
 -   Erik Nieuwenburg (Stichting Platform BIM Legal)
 -   Harmen Jorritsma (RVO)
--   Jacqueline Meerkerk (voormalig BIM Loket)
+-   Jacqueline Meerkerk (BIM Loket)
 -   Jan Bruijn (Geonovum)
 -   Jan-Pieter Eelants (CROW)
 -   Jeroen Baltussen (RVO)
