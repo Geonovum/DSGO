@@ -238,13 +238,33 @@ data niet moeten conflicteren met privacy-wetgeving (AVG).
 >   afspraken op business, functioneel, operationeel, juridisch en technisch gebied, 
 >   om gemakkelijker gebruik te kunnen maken van elkaars data. 
 
-### Informatieveiligheid
+### Informatiebeveiliging
 
-Informatieveiligheid houdt in dat er maatregelen getroffen zijn om er voor te
-zorgen dat:
+Data uitwisseling dient robuust en veilig te zijn. Dat betekent dat data en rekenmodellen
+en de technische infrastructuur van de bouwinformatie een hoge beschikbaarheid hebben en 
+goed beveiligd zijn (met evt. toegangsbeperkingen) tegen ongewenst gebruik. Een dataset 
+mag alleen de gevoelige informatie (oftewel persoonlijke data) vrijgeven indien voor die 
+informatie uitdrukkelijk toestemming is verkregen van de betrokkenen en het vrijgeven ook 
+wettelijk is toegestaan.
+
+Maatregelen zijn mogelijk in de infrastructuur van de data uitwisseling, de gebruikte systemen, 
+procesafspraken rondom bouwinformatie en in de gebruikte data en rekenmodellen. Met behulp van 
+de [Baseline Informatiebeveiliging Overheid (BIO)](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/informatieveiligheid/kaders-voor-informatieveiligheid/baseline-informatiebeveiliging-overheid/) kan hier concreet invulling aan 
+gegeven worden. De BIO is één basisnormenkader voor informatiebeveiliging waarmee door alle 
+overheidslagen in Nederland mee wordt gewerkt. Het basisprincipe is dat afzonderlijke 
+overheidsorganisaties zelf verantwoordelijk zijn en blijven voor hun informatieveiligheid. 
+De minister van BZK heeft bepaald dat in het digitale verkeer met het Rijk de BIO wordt gehanteerd. 
+
+Het ontwerpprincipe informatiebeveiliging voor het DSGO houdt in dat er maatregelen getroffen zijn 
+om er voor te zorgen dat:
 -   gegevens niet gemanipuleerd zijn tussen bron en eindgebruiker (integriteit);
 -   alleen de rechthebbende inzage krijgt in de gegevens (identificatie, authenticatie en autorisatie);
 -   de eindgebruiker kan vaststellen dat de gegevens betrouwbaar zijn en heeft inzicht  of de bron de gegevens heeft gewijzigd (transparantie en provenance).
+
+>   **Randvoorwaarde:** Voor inzage van gegevens door alleen rechthebbende is gecontroleerde toegang randvoorwaardelijk. 
+>   Gecontroleerd  toegang tot (een subset van) data over gebouwen/bouwwerken zorgt voor recht van raadpleegbaarheid voor 
+>   gebruikers die het gebruiks/zakelijk recht genieten op het gebouw/bouwwerk. Het eigenaarschap/recht op raadpleegbaarheid 
+>   van data over het gebouw/bouwwerk kan dus overgaan bij overdracht van het gebruiks/zakelijk recht op het gebouw/bouwwerk.
 
 >   **Eis:** Binnen het DSGO worden maatregelen getroffen om de integriteit te
 >   waarborgen.
@@ -256,5 +276,3 @@ zorgen dat:
 >   bewerkingen deze heeft ondergaan en/of aan welke kwaliteitseisen deze voldoet in
 >   termen van actualiteit, volledigheid en juistheid), zodat de eindgebruiker de
 >   betrouwbaarheid kan vaststellen.
-
->   **Randvoorwaarde:** Voor inzage van gegevens door alleen rechthebbende is gecontroleerde toegang randvoorwaardelijk. Gecontroleerd  toegang tot (een subset van) data over gebouwen/bouwwerken zorgt voor recht van raadpleegbaarheid voor gebruikers die het    gebruiks/zakelijk recht genieten op het gebouw/bouwwerk. Het eigenaarschap/recht op raadpleegbaarheid van data over het gebouw/bouwwerk kan dus overgaan bij overdracht van het gebruiks/zakelijk recht op het gebouw/bouwwerk.
