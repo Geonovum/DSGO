@@ -149,7 +149,7 @@ De ontwerpprincipes zijn:
 7.  *Soevereiniteit*: Alloceren van eigenaarschap, zeggenschap en controle over
     gebruikte data en algoritmen.
 
-8.  *Informatieveiligheid*: Voor het DSGO is het belangrijk dat traceerbaar is
+8.  *Informatiebeveiliging*: Voor het DSGO is het belangrijk dat traceerbaar is
     van wie gegevens afkomstig zijn, of de bron ze gewijzigd of verrijkt heeft
     (transparantie en provenance) en dat ze tussen creatie en uitlevering niet
     gemanipuleerd zijn (integriteit). Voor alle belanghebbenden is het
@@ -164,11 +164,11 @@ data te vinden. Metadata en data moeten gemakkelijk te vinden zijn voor zowel
 mensen als computers. Machineleesbare metadata zijn essentieel voor het
 ontdekken van datasets en services.
 
-- *Accessible (toegankelijkheid)* Zodra de gebruiker de benodigde gegevens heeft
+- *Accessible (toegankelijk)* Zodra de gebruiker de benodigde gegevens heeft
 gevonden, moet hij/zij weten hoe deze kunnen worden geraadpleegd, inclusief
 authenticatie en autorisatie. Laagdrempelig in gebruik.
 
-- *Interoperable (uitwisselbaar)* De gegevens moeten meestal worden geïntegreerd
+- *Interoperable (interoperabel)* De gegevens moeten meestal worden geïntegreerd
 met andere gegevens. Bovendien moeten de gegevens samenwerken met applicaties of
 workflows voor analyse, opslag en verwerking.
 
