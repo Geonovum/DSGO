@@ -3,9 +3,18 @@ Van principes naar praktijk
 
 Met ontwerpprincipes op basis van publieke waarden en dataprincipes uit de
 voorgaande hoofdstukken, geven we in dit hoofdstuk een drietal voorbeelden uit
-de praktijk om aan te geven hoe de principes in die situaties worden toegepast. De praktijkvoorbeelden hebben geen relatie met de in dit rapport eerder benoemde 34 use cases die zijn ontwikkeld ten behoeve van het DSGO. 
+de praktijk om aan te geven hoe de principes in die situaties worden toegepast. 
+
+De praktijkvoorbeelden hebben geen relatie met de in dit rapport eerder benoemde 34 use cases die zijn ontwikkeld ten behoeve van het DSGO. 
 Achtereenvolgens komen aan de orde: Wet kwaliteitsborging voor het bouwen, Assetmanagement bij het Rijksvastgoedbedrijf en het
 Landelijk Digitaal Platform Klimaatakkoord.
+Naast deze drie praktijkvoorbeelden zijn er meer praktijkvoorbeelden aangedragen waar de principes in dit document op toegepast kunnen worden:
+* het versnellen van de energietransitie middels het veilig ophalen en opslaan van IoT data voor data-learning-community (Kennis Platform Individuele Maatregelen & Technieken);
+* het eenduidig delen van energielabeldata inzake niet-privacygevoelige gegevens over isolatie en installaties en collectieve afspraken over koppelen aan basisdatasets zoals [3dBAG](https://3dbag.nl/en/viewer).
+* Tekeningloos aanvragen omgevingsvergunning op basis van een IFC bestand of vergelijkbaar in zowel de woning- & utiliteitsbouw alsook de industriële bouw. Bijvoorbeeld middels een online vergunningscheck viewer op basis van BIM-data en internationale standaarden, zie bijvoorbeeld een [Estlands prototype](https://eehitus.ee/timeline-post/bim-based-building-permit-procedure/).
+* [vervangings- en renovatieopgave](https://www.rijkswaterstaat.nl/nieuws/archief/2020/05/make-over-voor-bruggen-sluizen-tunnels-en-viaducten-op-leeftijd) voor infrastractuur en kunstwerken van Rijkswaterstaat, volledig op basis van de Systems Engineering methodiek (ISO 15288).
+
+In dit document beperken we ons tot de eerst genoemde drie praktijkvoorbeelden.
 
 Wet kwaliteitsborging voor het bouwen
 -------------------------------------
