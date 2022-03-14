@@ -271,6 +271,7 @@ onderstaande experts, die we hierbij hartelijk willen danken voor hun inbreng.
 -   Dirk van Barneveld (ministerie van BZK)
 -   Dirk van Brederode (VNG)
 -   Erik Nieuwenburg (Stichting Platform BIM Legal)
+-   Hans Elsinga (Rijksvastgoedbedrijf)
 -   Harmen Jorritsma (RVO)
 -   Jacqueline Meerkerk (BIM Loket)
 -   Jan Bruijn (Geonovum)
