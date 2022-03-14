@@ -9,10 +9,11 @@ De praktijkvoorbeelden hebben geen relatie met de in dit rapport eerder benoemde
 Achtereenvolgens komen aan de orde: Wet kwaliteitsborging voor het bouwen, Assetmanagement bij het Rijksvastgoedbedrijf en het
 Landelijk Digitaal Platform Klimaatakkoord.
 Naast deze drie praktijkvoorbeelden zijn er meer praktijkvoorbeelden aangedragen waar de principes in dit document op toegepast kunnen worden:
-* het versnellen van de energietransitie middels het veilig ophalen en opslaan van IoT data voor data-learning-community (Kennis Platform Individuele Maatregelen & Technieken);
-* het eenduidig delen van energielabeldata inzake niet-privacygevoelige gegevens over isolatie en installaties en collectieve afspraken over koppelen aan basisdatasets zoals [3dBAG](https://3dbag.nl/en/viewer).
-* Tekeningloos aanvragen omgevingsvergunning op basis van een IFC bestand of vergelijkbaar in zowel de woning- & utiliteitsbouw alsook de industriële bouw. Bijvoorbeeld middels een online vergunningscheck viewer op basis van BIM-data en internationale standaarden, zie bijvoorbeeld een [Estlands prototype](https://eehitus.ee/timeline-post/bim-based-building-permit-procedure/).
-* [vervangings- en renovatieopgave](https://www.rijkswaterstaat.nl/nieuws/archief/2020/05/make-over-voor-bruggen-sluizen-tunnels-en-viaducten-op-leeftijd) voor infrastractuur en kunstwerken van Rijkswaterstaat, volledig op basis van de Systems Engineering methodiek (ISO 15288).
+* Het versnellen van de energietransitie middels het veilig ophalen en opslaan van IoT data voor data-learning-community (Kennis Platform Individuele Maatregelen & Technieken);
+* Het eenduidig delen van energielabeldata inzake niet-privacygevoelige gegevens over isolatie en installaties en collectieve afspraken over koppelen aan basisdatasets zoals [3dBAG](https://3dbag.nl/en/viewer);
+* Tekeningloos aanvragen omgevingsvergunning op basis van een IFC bestand of vergelijkbaar in zowel de woning- & utiliteitsbouw alsook de industriële bouw. Bijvoorbeeld middels een online vergunningscheck viewer op basis van BIM-data en internationale standaarden, zie bijvoorbeeld een [Estlands prototype](https://eehitus.ee/timeline-post/bim-based-building-permit-procedure/);
+* [Vervangings- en renovatieopgave](https://www.rijkswaterstaat.nl/nieuws/archief/2020/05/make-over-voor-bruggen-sluizen-tunnels-en-viaducten-op-leeftijd) voor infrastractuur en kunstwerken van Rijkswaterstaat, volledig op basis van de Systems Engineering methodiek (ISO 15288);
+* Stichting Platform BIM Legal zet zich in voor transparante en uniforme juridische informatie over onroerend goed, die voor iedereen toegankelijk is. Dit wordt gerealiseerd door een stelsel van afspraken te ontwikkelen waarmee alle marktpartijen in Nederland 3D juridische informatie aan elkaar kunnen aanbieden en opvragen.
 
 In dit document beperken we ons tot de eerst genoemde drie praktijkvoorbeelden.
 
