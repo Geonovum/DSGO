@@ -266,6 +266,7 @@ Bij de totstandkoming van dit adviesrapport hebben de schrijvers zeer waardevoll
 onderstaande experts, die we hierbij hartelijk willen danken voor hun inbreng.
 
 -   Aart Wijnen (Twee Snoeken)
+-   Arnoud de Boer (Geonovum)
 -   Dik Spekkink (BIM Loket)
 -   Dirk van Barneveld (ministerie van BZK)
 -   Dirk van Brederode (VNG)
