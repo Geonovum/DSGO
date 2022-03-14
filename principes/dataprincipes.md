@@ -3,9 +3,9 @@ Dataprincipes
 
 Centraal in de definitie van het DSGO staat
 de veilige, betrouwbare en gecontroleerde toegang tot data in de bouwsector. Om
-deze toegang tot data te realiseren is een set van uniforme afspraken nodig. In
-dit hoofdstuk gaan we in op welke afspraken (‘wat’) vanuit publiek belang
-minimaal nodig zijn om *data voor de bouwsector te laten stromen*, met de volgende achterliggende vragen.
+deze toegang tot data te realiseren is een set van uniforme afspraken nodig. De FAIR principes zeggen iets over de kwaliteit van de omgeving waarin de data is geproduceerd,  verzameld en vervolgens ter beschikking gesteld. In
+dit hoofdstuk gaan we in op welke afspraken (‘wat’) vanuit *publiek belang
+minimaal nodig* zijn om *data voor de bouwsector te laten stromen*, met de volgende achterliggende vragen.
 
 Welke afspraken zijn nodig om databronnen over de gebouwde omgeving te
 ontsluiten? Welke principes pas je toe om gecontroleerde toegang tot deze
@@ -15,6 +15,7 @@ opereren in het stelsel, uitgewisseld kunnen worden? Welke principes pas je toe
 om de veiligheid van de gegevens in het stelsel te waarborgen, ook met het oog
 op eigendom en privacy? En dat de gegevens (her)bruikbaar zijn: aansluiten bij
 de behoefte zowel vraag als aanbod van de verschillende organisaties?
+
 
 Ontwerpprincipes
 ----------------
