@@ -443,6 +443,8 @@ toepasbare taal voor kennisrepresentatie.**
 Datasets worden in standaarden aangeboden die door [Forum Standaardisatie](https://forumstandaardisatie.nl/open-standaarden) en/ of [BIM Loket](https://www.bimloket.nl/) worden aanbevolen. 
 Zo waarborgen we de langdurige verwerkbaarheid van de gegevens.
 
+> Voorbeeld:  In de [Atlas van open BIM-standaarden](https://www.bimloket.nl/p/144/Atlas-van-open-BIM-standaarden) van het BIM Loket wordt een overzicht gegeven van de standaarden, en hun onderlinge relaties vanuit verschillende invalshoeken. Naast de bestaande relaties beschrijft de atlas ook gewenste, toekomstige relaties. Het BIM Loket streeft naar de realisatie van een algemeen geaccepteerd, samenhangend stelsel van open BIM-standaarden dat bouwbreed wordt toegepast.
+
 Ook de metadata die het DSGO-platform zelf beheert, wordt volgens API’s en datastandaarden aangeboden.
 Datasetaanbieders en -gebruikers kunnen zo hun eigen publicatiesystemen afstemmen op het DSGO.
 
