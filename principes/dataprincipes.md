@@ -590,6 +590,16 @@ moet overwogen worden het platform zulke gegevenssets op een bepaalde wijze te m
 In het DSGO worden voor de beschrijving van de datasets (metadata) en de data
 van datasets zelf [Open standaarden](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/standaardisatie/open-standaarden/) gebruikt.
 
+Standaarden zijn de afsprakenstelsels van domeinen die specificaties en eisen
+aan de (meta)data beschrijven. De standaarden voor (meta)data(sets) in het DSGO
+worden in de domeinen beheerd en doorontwikkeld. 
+
+
+Het is onmogelijk om al deze standaarden te harmoniseren naar één gemeenschappelijk taal (semantiek). 
+Daarom stellen we de open standaarden van het BIM Loket en het Forum Standaardisatie als uitgangspunt.
+
+Samenwerken in een taal in de gebouwde omgeving zoals met de [objectenbibliotheken en mappingtabellen](https://viewer.cbnl.org) van [CB-NL](https://public.cbnl.org/over-cb-nl) helpen daarbij.
+
 In Nederland zet het [Forum Standaardisatie](https://forumstandaardisatie.nl/over-ons) zich in voor open
 ICT-standaarden. Het [BIM Loket](https://www.bimloket.nl/p/195/Waarom-open-standaarden) zet zich in voor open standaarden met als resultaat efficiënte, snelle, economisch voordelige, duurzame én innovatieve Nederlandse bouwsector. 
 Standaarden ondersteunen gegevensuitwisseling tussen
@@ -602,9 +612,6 @@ Het Forum Standaardisatie hanteert twee type lijsten: de open [verplichte ‘pa
 standaarden  en [aanbevolen open standaarden](https://forumstandaardisatie.nl/open-standaarden/aanbevolen) voor de publieke sector.
 Het BIM Loket heeft een [palet aan open standaarden](https://www.bimloket.nl/p/17/Ons-palet-van-open-standaarden) en [richtlijnen](https://www.bimloket.nl/p/115/BIM-Protocol-en-BIM-Uitvoeringsplan). 
 
-Standaarden zijn de afsprakenstelsels van domeinen die specificaties en eisen
-aan de (meta)data beschrijven. De standaarden voor (meta)data(sets) in het DSGO
-worden in de domeinen beheerd en doorontwikkeld. Samenwerken in een taal in de gebouwde omgeving zoals met de [objectenbibliotheken en mappingtabellen](https://viewer.cbnl.org) van [CB-NL](https://public.cbnl.org/over-cb-nl) helpen daarbij. 
 
 >  **Uitgangspunt:** In het DSGO worden standaarden uit verschillende domeinen toegepast. 
 >  Het is onmogelijk om al deze standaarden te harmoniseren op semantiek. 
