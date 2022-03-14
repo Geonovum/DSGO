@@ -143,7 +143,7 @@ de gemeente als voor de toekomstig eigenaar en beheerder.
 >   belanghebbenden een eerlijke en volledige weergave van de feiten kunnen inzien.
 
 Om te kunnen beoordelen of de feiten, die worden ingezien, volledig en eerlijk zijn, 
-is het noodzakelijk dat er wordt voldaan aan de eisen uit [informatieveiligheid](#informatieveiligheid).
+is het noodzakelijk dat er wordt voldaan aan de eisen uit [informatiebeveiliging](#informatiebeveiliging).
 
 ### Doelgerichtheid
 
