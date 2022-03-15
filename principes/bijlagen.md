@@ -249,16 +249,6 @@ de data ter beschikking stelt aan andere partijen.
 - Eis: Elke gegevensset beschrijft de gebruikslicentie ervan. Minstens op een voor mensen leesbare wijze, bij voorkeur met (een link naar) een machineleesbare representatie.
 - Eis: Het platform en de datasetaanbieders houden zorgvuldig bij waar welk gegevenspunt vandaan komt.
 
-
-Geraadpleegde bronnen
----------------------
-
--   _Actieplan Digitaal Stelsel Gebouwde Omgeving - Afspraken over toegang tot data_. Versie 1.0 mei 2021;
--   _Afsprakenstelsels in de praktijk - Leerervaringen van afsprakenstelsels om te komen tot een uniforme set van eisen voor persoonlijk datamanagement_. Programma Regie op Gegevens, september 2018;
--   _Opwaarderen - Borgen van publieke waarden in de digitale samenleving_, Rathenau instituut 2017;
--   _Op weg naar een health data infrastructuur en afsprakenstelsel_ - Adviesrapport van Nederlandse AI Coalitie, over de Health data infrastructuur en afsprakenstelsel in Nederland. Versie 1.0 juli 2020;
--   _Routekaart Digitale Toekomst_, Waag technology&society. Versie 0.3 april 2020.
-
 Met dank aan
 ------------
 
