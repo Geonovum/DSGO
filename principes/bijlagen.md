@@ -253,15 +253,9 @@ Met dank aan
 ------------
 
 Bij de totstandkoming van dit adviesrapport hebben de schrijvers zeer waardevolle input en feedback mogen ontvangen van
-onderstaande experts, die we hierbij hartelijk willen danken voor hun inbreng.
+experts werkzaam bij de volgende organisaties, die we hierbij hartelijk willen danken voor hun inbreng.
 
-Aart Wijnen (Twee Snoeken), Arnoud de Boer (Geonovum), Dik Spekkink (BIM Loket), Dirk van Barneveld (ministerie van BZK),
-Dirk van Brederode (VNG), Erik Nieuwenburg (Stichting Platform BIM Legal), Hans Elsinga (Rijksvastgoedbedrijf), Harmen Jorritsma (RVO),
-Jacqueline Meerkerk (BIM Loket), Jan Bruijn (Geonovum), Jan-Pieter Eelants (CROW), Jeroen Baltussen (RVO), Joram Snijders 
-(ministerie van BZK), Leo van der Sluijs (Kadaster), Marc van Leusen (Rijksvastgoedbedrijf), Martin Linssen (Energie Nederland), Michel Böhms (TNO),
-Mick Baggen (Rijkswaterstaat), Monique van Scherpenzeel (Geonovum), Niels Vossebeld (Niels Vossebeld Advies),
-Redmer Kronemeijer (CROW), Rick Klooster (Future Insight), Ries Bode (Programma DSGO), Rik de Lange (RVO), Rob Roef (TNO),
-Staf Depla (zelfstandig bestuurder en strategisch adviseur), Yvonne Verdonk (Geonovum).
+BIM Loket, CROW, Energie Nederland, Future Insight, Geonovum, Kadaster, Ministerie van BZK, Niels Vossebeld Advies, Programma DSGO, Rijksvastgoedbedrijf, Rijkswaterstaat, RVO, Stichting Platform BIM Legal, TNO, Twee Snoeken, VNG.
 
 <details class='note'>
  Omwille van privacy (AVG) hebben we niet alle namen van betrokkenen opgenomen in het document. Mocht u informatie willen over of in contact willen komen met bepaalde personen, stuur dan een bericht aan info@geonovum.nl. 
