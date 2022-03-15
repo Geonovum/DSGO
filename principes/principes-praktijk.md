@@ -10,6 +10,7 @@ Achtereenvolgens komen aan de orde: Wet kwaliteitsborging voor het bouwen, Asset
 Landelijk Digitaal Platform Klimaatakkoord.
 Naast deze drie praktijkvoorbeelden zijn er meer praktijkvoorbeelden aangedragen waar de principes in dit document op toegepast kunnen worden:
 * Het versnellen van de energietransitie middels het veilig ophalen en opslaan van IoT data voor data-learning-community (Kennis Platform Individuele Maatregelen & Technieken);
+* Datatools voor de energietransitie; de gemeentelijke Datavoorziening Energietransitie Gebouwde Omgeving ([DEGO](https://dego.vng.nl));
 * Het eenduidig delen van energielabeldata inzake niet-privacygevoelige gegevens over isolatie en installaties en collectieve afspraken over koppelen aan basisdatasets zoals [3dBAG](https://3dbag.nl/en/viewer);
 * Tekeningloos aanvragen omgevingsvergunning op basis van een IFC bestand of vergelijkbaar in zowel de woning- & utiliteitsbouw alsook de industriële bouw. Bijvoorbeeld middels een online vergunningscheck viewer op basis van BIM-data en internationale standaarden, zie bijvoorbeeld een [Estlands prototype](https://eehitus.ee/timeline-post/bim-based-building-permit-procedure/);
 * [Vervangings- en renovatieopgave](https://www.rijkswaterstaat.nl/nieuws/archief/2020/05/make-over-voor-bruggen-sluizen-tunnels-en-viaducten-op-leeftijd) voor infrastractuur en kunstwerken van Rijkswaterstaat, volledig op basis van de Systems Engineering methodiek (ISO 15288);
