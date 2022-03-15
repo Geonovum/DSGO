@@ -620,6 +620,9 @@ Het BIM Loket heeft een [palet aan open standaarden](https://www.bimloket.nl/p/1
 >  Het is onmogelijk om al deze standaarden te harmoniseren op semantiek. 
 >  Daarom stellen we de open standaarden van het BIM Loket en het Forum Standaardisatie als uitgangspunt.
 
+> ** Voorbeeld:** CityGML en IFC zijn twee standaarden die op lijst van open BIM-standaarden staan. 
+CityGML is een internationale open standaard (XML-gebaseerd) voor opslag en uitwisseling van 3D geo-informatie voor geo-sector en B&U sector. IFC is een neutraal en open bestandsformaat voor het uitwisselen van BIM-specifieke informatie (modelobjecten en hun eigenschappen). Tussen beide formaten zijn conversies beschikbaar.
+
 >   **Voorbeeld geo-standaarden:** In de [Beleidsvisie Samenhangende
 >   Objectenregistratie](https://www.geobasisregistraties.nl/documenten/beleidsnota/2019/11/29/beleidsvisie-samenhangende-objectenregistratie)
 >   van het ministerie van BZK is het uitgangspunt dat de modellering van
