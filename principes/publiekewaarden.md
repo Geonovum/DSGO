@@ -49,7 +49,7 @@ Beleidscontext publieke waarden
 
 In 2017 heeft het Rathenau instituut met haar onderzoek ['Opwaarderen - Borgen van publieke waarden in de digitale samenleving'](https://www.rathenau.nl/sites/default/files/2018-02/Opwaarderen_FINAL.pdf) aandacht gevraagd voor dit onderwerp en gepleit voor een actieprogramma. Sinds dat moment heeft het ministerie van BZK deze handschoen opgepakt, als hoeder van de Nederlandse Grondwet en grondrechten. Er zijn diverse actielijnen uitgezet vanuit de [Agenda Digitale Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nldigibeter/beschermen-van-grondrechten-en-publieke-waarden/). Daarin wordt ook aangegeven wat tot nu toe bereikt is. Vanaf 2019 is de voorlichting gestart over dit onderwerp. Tevens is er onderzoek verricht naar de effecten van digitalisering op de maatschappij.
 
-Hieruit is onder meer het [Beleidskader Digitale basisinfrastructuur](https://www.noraonline.nl/images/noraonline/2/25/Beleidskader_digitale_basisinfrastructuur.pdf) en de [Interbestuurlijke Datastrategie](https://www.rijksoverheid.nl/documenten/rapporten/2021/10/31/nl-digitaal-interbestuurlijke-datastrategie-nederland) ontstaan met daarin opgenomen uitgangspunten, ambities en handelingsperspectieven.
+Het [Beleidskader Digitale basisinfrastructuur](https://www.noraonline.nl/images/noraonline/2/25/Beleidskader_digitale_basisinfrastructuur.pdf) 
 
 Deze aandacht heeft er onder andere toe geleid dat er ook concrete handvatten zijn ontwikkeld:
 - Er zijn diverse beleidsinstrumenten gerealiseerd zoals een toolbox om gemeenten te helpen verantwoord te innoveren, zoals de [praktijkrichtlijn open urban platforms](https://www.nen.nl/nieuws/smartcities/nederlandse-praktijkrichtlijn-open-urban-platforms-beschikbaar/);
@@ -59,6 +59,7 @@ Deze aandacht heeft er onder andere toe geleid dat er ook concrete handvatten zi
 - Er is in april 2021 een code ontwikkeld door de Universiteit Utrecht voor [goed digitaal openbaar bestuur](https://www.rijksoverheid.nl/documenten/rapporten/2021/04/30/code-goed-digitaal-openbaar-bestuur);
 - Naast de Rijksoverheid heeft ook de VNG met de gemeenten nagedacht over [principes voor de digitale samenleving](https://vng.nl/sites/default/files/2019-11/09a-bijlage-principes-voor-de-digitale-samenleving.pdf);
 - Vanuit het [locatiepact](https://www.wijsmetlocatie.nl/) waarin een groep overheden, bedrijven en kennisinstellingen met elkaar samenwerken aan locatietechnologie, is een [ethische referentie](https://www.wijsmetlocatie.nl/wat-we-doen/ethiek) ontwikkeld. Deze is in de praktijk getoetst en vergeleken met diverse andere ethische referenties.
+- Het [Beleidskader Digitale basisinfrastructuur](https://www.noraonline.nl/images/noraonline/2/25/Beleidskader_digitale_basisinfrastructuur.pdf) bevat de uitgangspunten voor de digitale basisinfrastructuur, die dienstverleners met een publieke taak gebruiken voor de inrichting van de publieke dienstverlening aan burgers en bedrijven en waar nodig ook voor hun onderlinge digitale samenwerking.
 
 
 Ook Vanuit **Europa** is er een sterk sturende rol van de commissie op het handhaven van publieke waarden zoals blijkt uit de [Europese digitale strategie](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/shaping-europe-digital-future_nl). Bouwstenen in de Europese digitale strategie zijn:
