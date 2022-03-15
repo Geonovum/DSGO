@@ -262,3 +262,7 @@ Jacqueline Meerkerk (BIM Loket), Jan Bruijn (Geonovum), Jan-Pieter Eelants (CROW
 Mick Baggen (Rijkswaterstaat), Monique van Scherpenzeel (Geonovum), Niels Vossebeld (Niels Vossebeld Advies),
 Redmer Kronemeijer (CROW), Rick Klooster (Future Insight), Ries Bode (Programma DSGO), Rik de Lange (RVO), Rob Roef (TNO),
 Staf Depla (zelfstandig bestuurder en strategisch adviseur), Yvonne Verdonk (Geonovum).
+
+<details class='note'>
+ Omwille van privacy (AVG) hebben we niet alle namen van betrokkenen opgenomen in het document. Mocht u informatie willen over of in contact willen komen met bepaalde personen, stuur dan een bericht aan info@geonovum.nl. 
+</details>
