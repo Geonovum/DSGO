@@ -268,7 +268,7 @@ onderstaande experts, die we hierbij hartelijk willen danken voor hun inbreng.
 Aart Wijnen (Twee Snoeken), Arnoud de Boer (Geonovum), Dik Spekkink (BIM Loket), Dirk van Barneveld (ministerie van BZK),
 Dirk van Brederode (VNG), Erik Nieuwenburg (Stichting Platform BIM Legal), Hans Elsinga (Rijksvastgoedbedrijf), Harmen Jorritsma (RVO),
 Jacqueline Meerkerk (BIM Loket), Jan Bruijn (Geonovum), Jan-Pieter Eelants (CROW), Jeroen Baltussen (RVO), Joram Snijders 
-(ministerie van BZK), Leo van der Sluijs (Kadaster), Martin Linssen (Energie Nederland), Michel Böhms (TNO),
+(ministerie van BZK), Leo van der Sluijs (Kadaster), Marc van Leusen (Rijksvastgoedbedrijf), Martin Linssen (Energie Nederland), Michel Böhms (TNO),
 Mick Baggen (Rijkswaterstaat), Monique van Scherpenzeel (Geonovum), Niels Vossebeld (Niels Vossebeld Advies),
 Redmer Kronemeijer (CROW), Rick Klooster (Future Insight), Ries Bode (Programma DSGO), Rik de Lange (RVO), Rob Roef (TNO),
 Staf Depla (zelfstandig bestuurder en strategisch adviseur), Yvonne Verdonk (Geonovum).
