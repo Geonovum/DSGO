@@ -192,24 +192,6 @@ hergebruik van materialen na ontmanteling van het bouwwerk.
 >   **Randvoorwaarde:** Voor elke use case worden de afspraken met alle direct betrokkenen
 >   gemaakt en vastgelegd. Dat geldt in het bijzonder voor partijen die de data ter beschikking stellen. 
 
-Door goede afspraken over datadelingh met alle direct betrokkenen te maken en vast te leggen, ontstaat vertrouwen. Vertrouwen tussen partijen is randvoorwaardelijk om data te laten stromen.
-
-> **Voorbeeld:** Het [Data Sharing Canvas](https://datasharingcoalition.eu/2021/data-sharing-coalition-releases-the-data-sharing-canvas-harmonised-agreements-for-data-sharing-at-scale/) laat zien dat domeinoverschrijdende datadeling op grote schaal kan worden gerealiseerd via geharmoniseerde afspraken. Het beschrijft welke afspraken over onderwerpen als beveiliging, metadata en identificatie, authenticatie en autorisatie nodig zijn om wederzijds vertrouwen en interoperabiliteit over domeinen heen te faciliteren.
-
-Ik mis het principe vertrouwen of Turstworthy zoals in het data-sharing-canvas dit genoemd wordt. Vertrouwen tussen de partijen is toch wel een randvoorwaardelijk principe. Het komt in de buurt van de publieke waarde betrokkenheid, maar gaat toch verder dan dat.
-
-De ontwerpprincipes zijn (alle) vrij defensief. Wellicht mist er daarom een principe die meer de driver vertegenwoordigdt waarom we data gaan delen. (vb: draagt bij aan maatschappelijke opgave, ontzorging partners in de keten, belang van burger., innovatie, verbeteren assetmangement)
-
-Vanuit gezichtspunt waarom datadelen in de GO maar moeilijk van de grond komt missen er mogelijk principes. Wat zijn belangrijkste belemmeringen?:
-- rol onduidelijkheid
-- concurrentie
-- avg issues of angst daarvoor
-- baten vallen niet waar de kosten voor datadelen gemaakt moeten worden
-- er is geen verdienmodel voor de markt
-- Er wordt niet gericht op generieke bouwoplossingen die 'eenmalig' getoetst hoeven te worden en stimuleert tot industrialisatie van de bouw en daarmee een versnelling geven.
-
-Vraag: Welke van de principes voor publieke waarden en data zijn specifiek voor de GO. Probeer zo veel mogelijk hierop te richten of anders te verwijzen naar een generiek datadeel architectuur.
-
 ### Controleerbaarheid
 
 In de geautomatiseerde beeld-, oordeels- en
