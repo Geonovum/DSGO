@@ -192,6 +192,10 @@ hergebruik van materialen na ontmanteling van het bouwwerk.
 >   **Randvoorwaarde:** Voor elke use case worden de afspraken met alle direct betrokkenen
 >   gemaakt en vastgelegd. Dat geldt in het bijzonder voor partijen die de data ter beschikking stellen. 
 
+Door goede afspraken over datadelingh met alle direct betrokkenen te maken en vast te leggen, ontstaat vertrouwen. Vertrouwen tussen partijen is randvoorwaardelijk om data te laten stromen.
+
+> **Voorbeeld:** Het [Data Sharing Canvas](https://datasharingcoalition.eu/2021/data-sharing-coalition-releases-the-data-sharing-canvas-harmonised-agreements-for-data-sharing-at-scale/) laat zien dat domeinoverschrijdende datadeling op grote schaal kan worden gerealiseerd via geharmoniseerde afspraken. Het beschrijft welke afspraken over onderwerpen als beveiliging, metadata en identificatie, authenticatie en autorisatie nodig zijn om wederzijds vertrouwen en interoperabiliteit over domeinen heen te faciliteren.
+
 ### Controleerbaarheid
 
 In de geautomatiseerde beeld-, oordeels- en
