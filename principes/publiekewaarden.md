@@ -50,11 +50,16 @@ Beleidscontext publieke waarden
 In 2017 heeft het Rathenau instituut met haar onderzoek ['Opwaarderen - Borgen van publieke waarden in de digitale samenleving'](https://www.rathenau.nl/sites/default/files/2018-02/Opwaarderen_FINAL.pdf) aandacht gevraagd voor dit onderwerp en gepleit voor een actieprogramma. Sinds dat moment heeft het ministerie van BZK deze handschoen opgepakt, als hoeder van de Nederlandse Grondwet en grondrechten. Er zijn diverse actielijnen uitgezet vanuit de [Agenda Digitale Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nldigibeter/beschermen-van-grondrechten-en-publieke-waarden/). Daarin wordt ook aangegeven wat tot nu toe bereikt is. Vanaf 2019 is de voorlichting gestart over dit onderwerp. Tevens is er onderzoek verricht naar de effecten van digitalisering op de maatschappij.
 
 Deze aandacht heeft er onder andere toe geleid dat er ook concrete handvatten zijn ontwikkeld:
-- Er zijn diverse beleidsinstrumenten gerealiseerd zoals een toolbox om gemeenten te helpen verantwoord te innoveren, zoals de [praktijkrichtlijn open urban platforms](https://www.nen.nl/nieuws/smartcities/nederlandse-praktijkrichtlijn-open-urban-platforms-beschikbaar/); 
+- Er zijn diverse beleidsinstrumenten gerealiseerd zoals een toolbox om gemeenten te helpen verantwoord te innoveren, zoals de [praktijkrichtlijn open urban platforms](https://www.nen.nl/nieuws/smartcities/nederlandse-praktijkrichtlijn-open-urban-platforms-beschikbaar/);
+- [draft-Principes voor Crowd-monitoring](https://vng.nl/nieuws/agenda-digitale-grondrechten-en-ethiek-2022-2026-uit) als uitwerking van principes voor de ethische inzet van nieuwe technologie voor crowd-management;
 - Er is een handreiking ontwikkeld voor [non-discriminatie bij de toepassing van AI](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design);
 - Er is in april 2021 een code ontwikkeld door de Universiteit Utrecht voor [goed digitaal openbaar bestuur](https://www.rijksoverheid.nl/documenten/rapporten/2021/04/30/code-goed-digitaal-openbaar-bestuur);
 - Naast de Rijksoverheid heeft ook de VNG met de gemeenten nagedacht over [principes voor de digitale samenleving](https://vng.nl/sites/default/files/2019-11/09a-bijlage-principes-voor-de-digitale-samenleving.pdf);
 - Vanuit het [locatiepact](https://www.wijsmetlocatie.nl/) waarin een groep overheden, bedrijven en kennisinstellingen met elkaar samenwerken aan locatietechnologie, is een [ethische referentie](https://www.wijsmetlocatie.nl/wat-we-doen/ethiek) ontwikkeld. Deze is in de praktijk getoetst en vergeleken met diverse andere ethische referenties.
+
+TODO Opnemen:
+Interbestuurlijke datastrategie
+
 
 Ook Vanuit **Europa** is er een sterk sturende rol van de commissie op het handhaven van publieke waarden zoals blijkt uit de [Europese digitale strategie](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/shaping-europe-digital-future_nl). Bouwstenen in de Europese digitale strategie zijn:
 - De Verordening Digitale Markten (Digital Markets Act, DMA), die de digitale eenheidsmarkt reguleert, en een reeks eisen stelt ten aanzien van interoperabiliteit, eerlijkheid en openheid, en de markpositie reguleert van grote online platformen die als gatekeepers functioneren. De DMA is als voorstel gepubliceerd eind 2020, met een beoogde implementatie uiterlijk begin 2022.
