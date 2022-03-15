@@ -258,5 +258,5 @@ experts werkzaam bij de volgende organisaties, die we hierbij hartelijk willen d
 BIM Loket, CROW, Energie Nederland, Future Insight, Geonovum, Kadaster, Ministerie van BZK, Niels Vossebeld Advies, Programma DSGO, Rijksvastgoedbedrijf, Rijkswaterstaat, RVO, Stichting Platform BIM Legal, TNO, Twee Snoeken, VNG.
 
 <details class='note'>
- Omwille van privacy (AVG) hebben we niet alle namen van betrokkenen opgenomen in het document. Mocht u informatie willen over of in contact willen komen met bepaalde personen, stuur dan een bericht aan info@geonovum.nl. 
+ Omwille van privacy (AVG) hebben we niet alle namen van betrokkenen opgenomen in het document. Mocht u meer informatie willen of in contact willen komen met bepaalde personen, stuur dan een bericht aan info@geonovum.nl. 
 </details>
