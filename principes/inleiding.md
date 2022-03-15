@@ -95,7 +95,7 @@ gebaseerd op publieke waarden die de samenleving reflecteren. De belangrijkste
 overweging hierbij is dat bij de keuzen die gemaakt worden ten aanzien van het
 ontwerp en de implementatie van het DSGO, alsmede in het gebruik van de het
 DSGO, de gelijkwaardigheid van de informatiepositie van alle betrokkenen, voorop
-staat.
+staat. Een gelijkwaardige informatiepositie is alleen mogelijk bij een even hoge mate van begrip.  
 
 **Ontwerpprincipes**
 
