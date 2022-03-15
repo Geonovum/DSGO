@@ -286,7 +286,7 @@ Er wordt onderzocht of ook gegevens van het energielabel en
 energieverbruiksgegevens aan het landelijk digitaal platform kunnen worden toegevoegd. Zo kan een nog
 beter advies voor besparingsmaatregelen worden opgesteld.
 
-Wetgeving werkt hierin belemmerend: zowel energielabel als
+Wetgeving waarborgt de privacy van betrokken, maar kan belemmerend werken bij data delen: zowel energielabel als
 energieverbruiksgegevens zijn aangeduid als persoongegevens en kunnen daarmee
 alleen na toestemming (machtiging) van woningeigenaar aan het platform beschikbaar worden
 gesteld. 
