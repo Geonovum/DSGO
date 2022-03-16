@@ -158,20 +158,20 @@ doel gebruikt. De data die wordt vastgelegd en doorgegeven is nodig voor een spe
 en doelgericht gebruikt ook door andere belanghebbenden. Dit is expliciet bepaald voor privacy gevoelige informatie in de AVG, 
 maar geldt ook in andere situaties. We geven  twee voorbeelden.
 
-> Voorbeeld: In het kader van het beheren van vastgoed, zal een assetmanager de staat van onderhoud van zijn vastgoed 
+> **Voorbeeld**: *In het kader van het beheren van vastgoed, zal een assetmanager de staat van onderhoud van zijn vastgoed 
 > (het resultaat van een inspectie per object) willen uitwisselen met de een selectie van aannemers die een 
 > offerte mogen maken om groot onderhoud uit te voeren. Deze informatie mag de aannemer niet gebruiken om een 
 > vastgoedhandelaar te informeren over de onderhoudstoestand van de objecten. De informatie die hij gekregen 
-> heeft is uitsluitend bedoeld voor de te maken offerte.
+> heeft is uitsluitend bedoeld voor de te maken offerte.*
 
-> Voorbeeld: De data over gasverbruik zijn mogelijk terug te voeren op het gedrag van de bewoner/ huurder en daarmee 
+> **Voorbeeld**: *De data over gasverbruik zijn mogelijk terug te voeren op het gedrag van de bewoner/ huurder en daarmee 
 > privacy gevoelig. Deze informatie mag daarom alleen vertrekt worden aan de bewoner zelf. In het kader van 
 > de energietransitie is het echter noodzakelijk om zicht te krijgen op het gemiddeld energieverbruik in een 
 > wijk, om te beoordelen hoe dit verbruik te verminderen is. De netbeheerder verzamelt data over verbruik per 
 > adres met als doel om per adres het verbruik inzichtelijk te maken en af te kunnen rekenen. Voor het doel 
 > van de energietransitie kan deze data per wijk of buurt ter beschikking worden gesteld door ervoor te zorgen 
 > dat de data niet terug te voeren is op een specifiek adres. Het CBS heeft per wijk of buurt deze data als 
-> open data gepubliceerd op [www.data.overheid.nl](https://data.overheid.nl/).
+> open data gepubliceerd op [www.data.overheid.nl](https://data.overheid.nl/).*
 
 >   **Eis:** Ontwerp elke use case binnen het DSGO doelgericht, zodat de uit te
 >   wisselen data, gebruikt wordt in lijn met het doel waarvoor de eigenaar van de data, de data ter beschikking stelt aan andere partijen.
@@ -199,7 +199,7 @@ hergebruik van materialen na ontmanteling van het bouwwerk.
 
 Door goede afspraken over datadelingh met alle direct betrokkenen te maken en vast te leggen, ontstaat vertrouwen. Vertrouwen tussen partijen is randvoorwaardelijk om data te laten stromen.
 
-> **Voorbeeld:** Het [Data Sharing Canvas](https://datasharingcoalition.eu/2021/data-sharing-coalition-releases-the-data-sharing-canvas-harmonised-agreements-for-data-sharing-at-scale/) laat zien dat domeinoverschrijdende datadeling op grote schaal kan worden gerealiseerd via geharmoniseerde afspraken. Het beschrijft welke afspraken over onderwerpen als beveiliging, metadata en identificatie, authenticatie en autorisatie nodig zijn om wederzijds vertrouwen en interoperabiliteit over domeinen heen te faciliteren.
+> **Voorbeeld:** *Het [Data Sharing Canvas](https://datasharingcoalition.eu/2021/data-sharing-coalition-releases-the-data-sharing-canvas-harmonised-agreements-for-data-sharing-at-scale/) laat zien dat domeinoverschrijdende datadeling op grote schaal kan worden gerealiseerd via geharmoniseerde afspraken. Het beschrijft welke afspraken over onderwerpen als beveiliging, metadata en identificatie, authenticatie en autorisatie nodig zijn om wederzijds vertrouwen en interoperabiliteit over domeinen heen te faciliteren.*
 
 ### Controleerbaarheid
 
