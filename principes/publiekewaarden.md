@@ -120,7 +120,7 @@ uitwerken van de use case, met bijzondere aandacht voor de positie van burgers.
 In het kader van circulariteit en bouwkwaliteit is het bijvoorbeeld van belang
 burgers te betrekken. Zolang hun woning geen mankementen vertoont is er niets aan de
 hand. Op het moment dat er duidelijk problemen blijken te zijn met bepaalde
-materialen of producten, zoals problemen met het beton (betonrot, constructiefouten in overhangende balkons), dan willen burgers graag weten of procesfouten of gebrekkige producten in hun woning verwerkt zijn. Zij behoren hierover actief geinformeerd te worden.
+materialen of producten, zoals problemen met het beton (betonrot, constructiefouten in overhangende balkons), dan willen burgers graag weten of procesfouten of gebrekkige producten in hun woning verwerkt zijn. Zij behoren hierover actief geïnformeerd te worden.
 
 >   **Randvoorwaarde:** Maak de ontwikkeling van het DSGO inclusief, zodat er geen groepen worden 
 >   buitengesloten door de manier waar op de afspraken gemaakt worden over het delen van data. De belangen
@@ -182,7 +182,7 @@ In aanvulling op [inclusiviteit](#Inclusiviteit) (iedereen die er toe doet is in
 betrokkenheid erop toe dat alle belanghebbenden input geven op de inrichting van
 een use case, en zijn er ‘checks en balances’ om toe te zien op de naleving van
 de afspraken. Laat partijen die data inbrengen, ook de burger, dan ook in co-creatie meedenken in het ontwerpen van de afspraken 
-voor datauitwisseling. Afhankelijk van de casus en betrokkenheid, blijf je afhankelijk van de bereidheid dat data wordt gedeeld. 
+voor data uitwisseling. Afhankelijk van de casus en betrokkenheid, blijf je afhankelijk van de bereidheid dat data wordt gedeeld. 
 Voor de ontwikkeling van het DSGO geldt specifiek voor elke afspraak waarin
 informatie wordt vastgelegd en beschikbaar gemaakt, of dit verplicht of
 optioneel is en dat partijen individueel of via hun brancheorganisatie zich
@@ -197,7 +197,7 @@ hergebruik van materialen na ontmanteling van het bouwwerk.
 >   **Randvoorwaarde:** Voor elke use case worden de afspraken met alle direct betrokkenen
 >   gemaakt en vastgelegd. Dat geldt in het bijzonder voor partijen die de data ter beschikking stellen. 
 
-Door goede afspraken over datadelingh met alle direct betrokkenen te maken en vast te leggen, ontstaat vertrouwen. Vertrouwen tussen partijen is randvoorwaardelijk om data te laten stromen.
+Door goede afspraken over datadeling met alle direct betrokkenen te maken en vast te leggen, ontstaat vertrouwen. Vertrouwen tussen partijen is randvoorwaardelijk om data te laten stromen.
 
 > **Voorbeeld:** *Het [Data Sharing Canvas](https://datasharingcoalition.eu/2021/data-sharing-coalition-releases-the-data-sharing-canvas-harmonised-agreements-for-data-sharing-at-scale/) laat zien dat domeinoverschrijdende datadeling op grote schaal kan worden gerealiseerd via geharmoniseerde afspraken. Het beschrijft welke afspraken over onderwerpen als beveiliging, metadata en identificatie, authenticatie en autorisatie nodig zijn om wederzijds vertrouwen en interoperabiliteit over domeinen heen te faciliteren.*
 
@@ -234,7 +234,7 @@ kan er voor zorgen dat soevereiniteit begrensd wordt en dat data beschikbaar moe
 Wet- en regelgeving over de soevereiniteit op data mag niet conflicteren. Consistente wet- en regelgeving lost 
 onduidelijkheden over het recht om te beschikken over data op. De afweging van maatschappelijke belangen geeft 
 de context over het beschikken van data. Bijvoorbeeld inzake een adres zou een wettelijke basis voor open 
-data niet moeten conflicteren met privacy-wetgeving (AVG).
+data niet moeten conflicteren met privacywetgeving (AVG).
 
 >   **Uitgangspunt:** Binnen het DSGO wordt bepaald welke belanghebbende (in
 >   juridische termen natuurlijke persoon of rechtspersoon) eigenaar is en/of
@@ -260,7 +260,7 @@ Maatregelen zijn mogelijk in de infrastructuur van de data uitwisseling, de gebr
 procesafspraken rondom bouwinformatie en in de gebruikte data en rekenmodellen. Met behulp van 
 de [Baseline Informatiebeveiliging Overheid (BIO)](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/informatieveiligheid/kaders-voor-informatieveiligheid/baseline-informatiebeveiliging-overheid/) kan hier concreet invulling aan 
 gegeven worden. De BIO is één basisnormenkader voor informatiebeveiliging waarmee door alle 
-overheidslagen in Nederland mee wordt gewerkt. Het basisprincipe is dat afzonderlijke 
+overheidslagen in Nederland mee wordt gewerkt. Het uitgangspunt is dat afzonderlijke 
 overheidsorganisaties zelf verantwoordelijk zijn en blijven voor hun informatieveiligheid. 
 De minister van BZK heeft bepaald dat in het digitale verkeer met het Rijk de BIO wordt gehanteerd. 
 
