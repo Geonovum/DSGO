@@ -63,7 +63,7 @@ Zodoende zijn datasets of informatie over datasets door de tijd heen *vindbaar* 
 
 Een unieke identificatie maakt mogelijk om (meta)data(sets) ‘as-is’ aan elkaar te koppelen/relateren. Deze (meta)data(sets) mogen heterogeen zijn. Koppelingen/relaties maken semantisch knelpunten inzichtelijk en kunnen op later moment naar behoefte worden opgelost (harmoniseren/integreren).
 
->   Voorbeeld: In Nederland (en internationaal) wordt gewerkt aan het [Unieke Object
+>   **Voorbeeld:** In Nederland (en internationaal) wordt gewerkt aan het [Unieke Object
 >   Identificator
 >   (UOI)](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie) systeem
 >   voor toegang tot informatie over een nieuwe en bestaande bouwwerken of de gebouwde
@@ -449,7 +449,7 @@ toepasbare taal voor kennisrepresentatie.**
 Datasets worden in standaarden aangeboden die door [Forum Standaardisatie](https://forumstandaardisatie.nl/open-standaarden) en/ of [BIM Loket](https://www.bimloket.nl/) worden aanbevolen. 
 Zo waarborgen we de langdurige verwerkbaarheid van de gegevens.
 
-> Voorbeeld:  In de [Atlas van open BIM-standaarden](https://www.bimloket.nl/p/144/Atlas-van-open-BIM-standaarden) van het BIM Loket wordt een overzicht gegeven van de standaarden, en hun onderlinge relaties vanuit verschillende invalshoeken. Naast de bestaande relaties beschrijft de atlas ook gewenste, toekomstige relaties. Het BIM Loket streeft naar de realisatie van een algemeen geaccepteerd, samenhangend stelsel van open BIM-standaarden dat bouwbreed wordt toegepast.
+> **Voorbeeld:**  In de [Atlas van open BIM-standaarden](https://www.bimloket.nl/p/144/Atlas-van-open-BIM-standaarden) van het BIM Loket wordt een overzicht gegeven van de standaarden, en hun onderlinge relaties vanuit verschillende invalshoeken. Naast de bestaande relaties beschrijft de atlas ook gewenste, toekomstige relaties. Het BIM Loket streeft naar de realisatie van een algemeen geaccepteerd, samenhangend stelsel van open BIM-standaarden dat bouwbreed wordt toegepast.
 
 Ook de metadata die het DSGO-platform zelf beheert, wordt volgens API’s en datastandaarden aangeboden.
 Datasetaanbieders en -gebruikers kunnen zo hun eigen publicatiesystemen afstemmen op het DSGO.
@@ -620,15 +620,14 @@ Het Forum Standaardisatie hanteert twee type lijsten: de open [verplichte ‘pa
 standaarden  en [aanbevolen open standaarden](https://forumstandaardisatie.nl/open-standaarden/aanbevolen) voor de publieke sector.
 Het BIM Loket heeft een [palet aan open standaarden](https://www.bimloket.nl/p/17/Ons-palet-van-open-standaarden) en [richtlijnen](https://www.bimloket.nl/p/115/BIM-Protocol-en-BIM-Uitvoeringsplan). 
 
-
 >  **Uitgangspunt:** In het DSGO worden standaarden uit verschillende domeinen toegepast. 
 >  Het is onmogelijk om al deze standaarden te harmoniseren op semantiek. 
 >  Daarom stellen we de open standaarden van het BIM Loket en het Forum Standaardisatie als uitgangspunt.
 
-> ** Voorbeeld:** CityGML en IFC zijn twee standaarden die op lijst van open BIM-standaarden staan. 
+> **Voorbeeld:** CityGML en IFC zijn twee standaarden die op lijst van open BIM-standaarden staan. 
 CityGML is een internationale open standaard (XML-gebaseerd) voor opslag en uitwisseling van 3D geo-informatie voor geo-sector en B&U sector. IFC is een neutraal en open bestandsformaat voor het uitwisselen van BIM-specifieke informatie (modelobjecten en hun eigenschappen). Tussen beide formaten zijn conversies beschikbaar.
 
->   **Voorbeeld geo-standaarden:** In de [Beleidsvisie Samenhangende
+>   **Voorbeeld :** In de [Beleidsvisie Samenhangende
 >   Objectenregistratie](https://www.geobasisregistraties.nl/documenten/beleidsnota/2019/11/29/beleidsvisie-samenhangende-objectenregistratie)
 >   van het ministerie van BZK is het uitgangspunt dat de modellering van
 >   (meta)data(sets) voor geo-informatie zal plaatsvinden conform afspraken
@@ -640,5 +639,4 @@ CityGML is een internationale open standaard (XML-gebaseerd) voor opslag en uitw
 >   doorontwikkeling van NEN 3610) en internationale standaarden (zoals de 
 >   prEN 17632 Semantic Modelling & Linking, een Europese norm die 
 >   parallel aan en in wisselwerking met de NEN 2660 is ontwikkeld).
-
 
