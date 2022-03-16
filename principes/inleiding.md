@@ -52,7 +52,7 @@ vervolgens bij aan het realiseren van belangrijke maatschappelijke doelen als de
 energietransitie, circulair bouwen en stikstofreductie. Het DSGO draagt bij aan het 
 beschikbaar stellen van de benodigde informatie om investeringen te doen en besluiten 
 te nemen voor deze transities in de gebouwde omgeving. Het
-adviesrapport id door Geonovum opgesteld in samenwerking met BIM Loket en CROW.
+adviesrapport is door Geonovum opgesteld in samenwerking met BIM Loket en CROW.
 
 Aanpak
 ------
