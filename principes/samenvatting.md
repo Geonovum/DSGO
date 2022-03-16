@@ -60,24 +60,4 @@ Wij stellen ons voor dat deze gesprekken in het kader van het DSGO worden georga
 
 Een afsprakenstelsel vraagt om onderhoud. Als afspraken tot stand zijn gekomen zijn er altijd omstandigheden die aanpassing en/of uitbreiding vragen. Vanuit onze ervaring bij de tot standkoming van standaarden adviseren we om het aspect beheer en onderhoud van de afspraken steeds mee te nemen en de gevolgen die dit heeft voor de financiering van het afsprakenstelsel dat gaat ontstaan.
 
-Aandachtspunten
----------------
 
-Met de consultatie van dit rapport zijn mede de volgende aandachtspunten zmeegegeven om nader te onderzoekn. Deze aandachtspunten hebben niet altijd met de principes zelf alswel met de uitwerking van de principes te maken, bijvoorbeeld met de invulling in een Project StartArchitectuur (PSA) of Stelselarchitectuur (SA) of bij de implementatie in de praktijk. 
-
-*NL-datafederatie*
-•	Hoe sluit DSGO straks als stelsel aan op de NL-datafederatie (het “stelsel der stelsels”)?
-
-*Experimenteerruimte*
-
-**Duurzame toegankelijkheid**
-
-Duurzame toegankelijkheid van metadata is als eis opgenomen in [paragraaf 5.1.2](#toegankelijk). Bij het 
-ontwerp van duurzame toegankelijke metadata door het DSGO zullen afspraken moeten zijn gemaakt omtrent de 
-al of niet duurzaamheid van de opslag in het DSGO. 
-Duurzame toegankelijk gaat over de implementatie van de Archiefwet- en regelgeving met de bijbehorende normen 
-en standaarden. De eisen voor duurzame toegankelijkheid van overheidsinformatie zijn gebundeld in [DUTO](https://www.noraonline.nl/wiki/Duurzame_Toegankelijkheid). 
-Voor de data die niet duurzaam in het DSGO worden bewaard, maar waarvoor wel duurzame beschikbaarheid en 
-toegankelijkheid worden gewenst/vereist (door bijvoorbeeld de overheid) is het zaak bij het ontwerp en de 
-realisatie van het DSGO met het [Nationaal Archief](https://www.nationaalarchief.nl/archiveren/duto) de 
-verplichtingen en mogelijkheden te verkennen. 
