@@ -110,9 +110,14 @@ en diensten vindbaar, toegankelijk, uitwisselbaar en herbruikbaar te maken. In
 lijn met het doel van dit adviesrapport nemen we de FAIR-principes als basis
 voor het formuleren van de principes voor het DSGO.
 
+**Totstandkoming**
 Tijdens het schrijven heeft, onder leiding van de opdrachtgever het ministerie van BZK, een informele 
 consultatie plaatsgevonden van de conceptversie van dit adviesrapport. De schrijvers 
-hebben deze waardevolle ervaringen en kennis gewogen en meegenomen in het voorliggende document. 
+hebben deze waardevolle ervaringen en kennis gewogen en meegenomen in het document dat in oktober 2021 is opgeleverd. 
+De Bouw Digitaliseringsraad (BDR) heeft in november 2021 de opdracht gegeven tot het starten van een consultatieproces 
+van de richtinggevende principes voor het ontwerp van het DSGO. Het ministerie van BZK heeft aangeboden dit te faciliteren 
+door inschakeling van Geonovum. Dit rapport met resultaten uit het consultatieproces levert Geonovum op aan het ministerie 
+ten behoeve van het overleg van het Bouwberaad in maart 2022. 
 
 Afbakening
 ----------
