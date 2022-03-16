@@ -299,8 +299,7 @@ interoperabiliteit, zonder daarbij de bestaande structuur en semantiek te hoeven
 aanpassen.
 
 De (technische) ambitie voor het DSGO bepaalt in hoeverre het mogelijk wordt om
-geautomatiseerd de (meta)data(sets) op te halen.
-
+geautomatiseerd de (meta)data(sets) op te halen. 
 De aanbeveling is om simpel te beginnen door het samenbrengen/-vatten van de
 beschikbare data in de huidige vorm waarbij handmatig de
 documenten kunnen worden doorgezocht en geraadpleegd. Dit sluit aan bij het
@@ -350,7 +349,7 @@ middels een open, gratis en universeel toepasbaar protocol.
 >   [Simple Mail Transfer Protocol (SMTP](http://www.wikidata.org/entity/Q160453)), en [Simple Object Access Protocol](https://wiki.dsplatform.nl/index.php/Het_Simple_Object_Access_Protocol) (SOAP) en sluit daarmee bijvoorbeeld Teamskanalen uit. Meestal worden API’s over HTTP aangeboden.
 
 Toepassing van een open protocol impliceert nog niet dat de data die wordt
-ontsloten zelf ook open is: via authenticatie en autorisatie kan gecontroleerde
+ontsloten zelf ook open is: via identificatie, authenticatie en autorisatie kan gecontroleerde
 toegang worden gegeven.
 
 Ook betekent dit principe niet dat wat er over het protocol vervolgens
