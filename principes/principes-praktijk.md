@@ -310,7 +310,7 @@ woning door invoer van woningeigenaar middels de configuratietools.
 
 Belangrijk is om goede afspraken te maken over:
 
--   Waar de data wordt opgeslagen, en hoe deze wordt teruggeleverd. Wordt de
+-   Waar de data wordt opgeslagen, en hoe deze wordt terug geleverd. Wordt de
     data opgeslagen bij de marktpartij die de ICT van het platform/stelsel
     ontwikkelt en/of beheert opgeslagen, of bij een (semi-)overheidspartij zoals Rijksdienst voor Ondernemend Nederland
     of het Kadaster. Wordt de data per object/adres of geaggregeerd terug geleverd
