@@ -8,17 +8,18 @@ Voordat we ingaan op de richtinggevende principes schetsen we de beleidscontext,
 van BZK en de gebieden waar het DSGO het publieke belang en daarmee ook de publieke waarden raakt. 
 Vanuit deze context stellen we een aanpak voor waarin gewerkt wordt langs een set van richtinggevende principes.
 
-**Beleidscontext**
+**Digitalisering en maatschappelijke opgaven**
 
 De maatschappelijke opgaven waaronder de klimaatopgave, energietransitie en de bouw van 1 miljoen woningen 
 maken digitalisering van de bouwsector harder nodig dan ooit. Het DSGO gaat daar invulling aan geven.
 
-Digitalisering is daarom ook expliciet opgenomen als thema in het Klimaatakkoord Gebouwde Omgeving, en 
+Digitalisering is expliciet opgenomen als thema in het Klimaatakkoord Gebouwde Omgeving en 
 digitalisering (en digiGo) is onderdeel van het overheidsbeleid voor bijvoorbeeld innovatie, stikstofreductie 
 door onder andere een efficiëntere bouwlogistiek, het stimuleren van de energietransitie, het inzichtelijk 
 krijgen van de bouwkwaliteit, verduurzaming en circulair bouwen.
 Het ministerie van BZK heeft tevens de digitale transitie in Nederland geagendeerd met haar beleid rondom open data, 
 open standaarden en met de [Agenda Digitale Overheid (2020)](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nldigibeter/). Deze agenda gaat in op innovatie, dienstverlening, toegankelijkheid, en het beschermen van grondrechten en publieke waarden.
+De I-strategie van het Rijk, opgesteld door de CIO's van ministeries en hun grote uitvoerders, vraagt expliciet aandacht voor digitalisering die bijdraagt aan een veilige, mensgerichte, inclusieve, transparante en effectieve digitale toekomst. 
 
 **Belang van het DSGO voor overheden**
 
