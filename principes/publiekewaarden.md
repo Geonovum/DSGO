@@ -69,6 +69,17 @@ Ook Vanuit **Europa** is er een sterk sturende rol van de commissie op het handh
 Ontwerpprincipes DSGO
 ---------------------
 
+Voor ieder van de ontwerpprincipes en de dataprincipes is aangegeven of er uitgangspunten, randvoorwaarden en/of eisen zijn.
+
+> **Uitgangspunten** zijn die zaken die door het project als basis moeten worden meegenomen. Een uitgangspunt is iets waar 
+> het project niet omheen kan, zoals wet- en regelgeving. 
+> **Randvoorwaarden** zijn zijdelingse beperkingen aan het project. Randvoorwaarden stellen eisen aan het project die vanuit 
+> het project niet kunnen worden beïnvloed. 
+> **Eisen** zijn criteria waar het eindresultaat aan moet voldoen.
+
+In de bijlage zijn de uitgangspunten, randvoorwaarden en eisen [samengevat](#uitgangspunten-randvoorwaarden-en-eisen), die opdrachtgever het ministerie van BZK ‘onder de arm mee kan nemen’ bij de verdere uitwerking van het DSGO.
+
+
 ### Open en transparant
 
 **Open en transparant ontwerp proces**
