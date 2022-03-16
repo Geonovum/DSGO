@@ -348,8 +348,12 @@ van tussen woningeigenaar en overheid, en overheden onderling.
 **Stel best practices op voor de toepassing van wetgeving op een data
 platform.**
 
-Wetgeving (AVG) blijkt belemmerend bij het realiseren van een stelsel/platform
+Wetgeving (AVG) borgt privacy van inwoners, maar  blijkt belemmerend bij het realiseren van een stelsel/platform
 waarin ook persoonsgegevens worden toegepast.
+
+> **Voorbeeld:** Een 'continue experimenteerruimte' kan een hulpmiddel zijn om in eerste instantie los van privacy, en andere wet- en regelgeving, in een gemixte samenstelling met inwoners, overheid, bedrijven, en standaarden- en kennisorganisatie, alvast technische zaken rond het datadelen te proberen.
+
+Een 'continue experimenteerruimte' kan een hulpmiddel zijn om in een gemixte samenstelling met inwoners, overheid, bedrijven en standaarden- en kennisorganisatie, los van privacy, en andere wet- en regelgeving, technisch zaken  alvast te proberen rond datadelen.
 
 Er bestaat soms onduidelijkheid, en als gevolg daarvan zijn overheden
 terughoudend om een volgende stap te durven zetten. Te meer omdat er forse
