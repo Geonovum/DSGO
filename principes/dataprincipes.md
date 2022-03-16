@@ -313,11 +313,6 @@ DSGO zijn aangesloten geautomatiseerd de gegevens kunnen doorzoeken en opvragen.
 De (meta)data(sets) worden dan in hun bestaande structuur/standaard in een
 machine-leesbare generieke *wrapper* verpakt.
 
->   **Eis:** Voor het DSGO zijn (vooral) afspraken nodig over de technische
->   uitwisseling van (meta)data(sets) op de koppelvlakken, zodat bestaande 
->   systemen en datastructuren zo min mogelijk hoeven te worden aangepast, 
->   om de data te laten stromen.
-
 >   **Voorbeeld:** *Een voorbeeld is de generieke API-service van het
 >   Kadaster voor het geautomatiseerd downloaden / actualiseren van data uit de
 >   geobasisregistraties. Ofwel er is een communicatieprotocol à la API-Kadaster
@@ -325,7 +320,7 @@ machine-leesbare generieke *wrapper* verpakt.
 >   worden uitgewisseld. Dit vraagt om een standaard uitwisselingsformaat of
 >   Generieke Download Service, Mutatie API of*
 
->   **Voorbeeld:** [Linked Data](#koppelen-van-heterogene-datasets-met-linked-data).
+>   **Voorbeeld:** *[Linked Data](#koppelen-van-heterogene-datasets-met-linked-data).
 >   De overheid beschikt over veel verschillende datasets met gegevens die wel
 >   een relatie hebben, maar nu niet aan elkaar zijn gelinkt. Door bijvoorbeeld
 >   beleidsstukken, voorlichting, jurisprudentie en uitvoeringsaanwijzingen te
@@ -335,7 +330,13 @@ machine-leesbare generieke *wrapper* verpakt.
 >   informatie. Linked data maakt van woorden, zoals de stad ‘Den Haag’, unieke
 >   concepten. Elk concept wint aan betekenis als er meer beschrijvingen aan
 >   gelinkt worden. Daardoor krijgt de inhoud van webdocumenten meer betekenis
->   en worden zoekresultaten nauwkeuriger.
+>   en worden zoekresultaten nauwkeuriger.*
+>   
+>   **Eis:** Voor het DSGO zijn (vooral) afspraken nodig over de technische
+>   uitwisseling van (meta)data(sets) op de koppelvlakken, zodat bestaande 
+>   systemen en datastructuren zo min mogelijk hoeven te worden aangepast, 
+>   om de data te laten stromen.
+
 
 **A1.1 Het protocol is open, gratis en universeel toepasbaar**
 
