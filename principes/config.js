@@ -1,6 +1,6 @@
 var respecConfig = {
   format: "markdown",
-  specStatus: "GN-VV",
+  specStatus: "GN-WV",
   specType: "HR", 
   logos: [ {
     src: ' https://tools.geostandaarden.nl/respec/style/logos/Geonovum.svg',
@@ -75,8 +75,8 @@ var respecConfig = {
   //shortName: "shortname",
   pubDomain: "DSGO",
   github: "https://github.com/Geonovum/DSGO/",
-  previousPublishDate: "2021-11-17",
-  previousStatus: "GN-DEF",
+  previousPublishDate: "2022-03-16",
+  previousStatus: "GN-VV,
   //localBiblio: {
   //  "ISO19136": {
   //    "href": "https://www.iso.org/standard/32554.html",
