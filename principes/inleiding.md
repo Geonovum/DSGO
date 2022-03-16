@@ -22,14 +22,11 @@ Dat is de voornaamste reden dat [digiGO het initiatief Digitaal Stelsel Gebouwde
 (DSGO) is gestart](https://digigo.nu/over+digigo/wat+is+digigo/default.aspx), om te werken aan de toegankelijkheid van data in de gehele
 keten.
 
-De bouwsector heeft sterke behoefte aan regie om samenhang te creëren binnen het DSGO. De behoeftes van publieke en
-private organisaties naar data-uitwisseling zijn samengevat in 34 use cases,
-gegroepeerd in zes thema’s. Stikstofreductie is daar onderdeel van, naast andere
-thema’s als duurzaamheid en circulariteit. Het DSGO regisseert samenhang door te
-komen tot een set van afspraken over het uitwisselen van data tussen
-organisaties, om data voor de keten toegankelijk te maken én te zorgen voor de
-adoptie van deze afspraken. Het DSGO helpt digitalisering van de gebouwde omgeving, in de bouw- en
-installatie sector, en draagt daarmee bij aan stikstofreductie.
+De bouwsector heeft sterke behoefte aan regie om samenhang te creëren in een DSGO. De behoeftes 
+van publieke en private organisaties naar data-uitwisseling zijn samengevat in 34 use cases, 
+verdeeld over zes thema’s. Denk bijvoorbeeld aan stikstofreductie, duurzaamheid en circulariteit. 
+Het DSGO regisseert samenhang in de bouwinformatieketen, door samen met de stakeholders te komen 
+tot een set van afspraken over het delen en uitwisselen van data. 
 
 Opdracht
 --------
@@ -55,33 +52,25 @@ vervolgens bij aan het realiseren van belangrijke maatschappelijke doelen als de
 energietransitie, circulair bouwen en stikstofreductie. Het DSGO draagt bij aan het 
 beschikbaar stellen van de benodigde informatie om investeringen te doen en besluiten 
 te nemen voor deze transities in de gebouwde omgeving. Het
-adviesrapport stelt Geonovum op in samenwerking met BIM Loket en CROW.
+adviesrapport id door Geonovum opgesteld in samenwerking met BIM Loket en CROW.
 
 Aanpak
 ------
 
-Om dit doel te bereiken duiden we ontwerpprincipes (publieke waarden) en dataprincipes en maken we onderscheid naar
-uitgangspunten, randvoorwaarden en eisen. 
-
-> **Uitgangspunten** zijn die zaken die door het project als basis moeten worden meegenomen. Een uitgangspunt is iets waar het project niet omheen kan, 
-> zoals wet- en regelgeving. 
-> **Randvoorwaarden** zijn zijdelingse beperkingen aan het project. Randvoorwaarden stellen eisen aan het project die vanuit het project niet kunnen worden beïnvloed.
-> **Eisen** zijn criteria waar het eindresultaat aan moet voldoen.
-
-Voor elk van de richtinggevende principes vormen zowel het publiek belang als publieke waarden uitgangspunten 
-voor sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data.  Resultaat van deze 
-sectorbrede afspraken is dat data kan stromen en zo het algemeen belang dient. Voor de totstandkoming van dit 
-adviesrapport hebben we verkend in hoeverre afspraken over uitwisseling, eigenaarschap en organisatie van data 
-noodzaak zijn voor veilige, betrouwbare en gecontroleerde toegang tot data in de bouwsector en kunnen worden geduid in de vorm van richtinggevende principes. Hiervoor 
-zijn eerst uitgangspunten, randvoorwaarden en eisen van belang die de richtinggevende principes dienen, 
-waarna de uitwerking in bijvoorbeeld een doelarchitectuur of  verdere uitwerking in een Project Start Architectuur (PSA) of Stelselarchitectuur (SA) door het [programma](https://www.digigo.nu/nieuws/2157352.aspx) voor het DSGO kan plaats vinden. 
-Geonovum maakt hiervoor hergebruik van ervaringen uit eerdere adviestrajecten voor (doorontwikkeling van) 
-digitale stelsels voor onder meer  Digitaal Stelsel Omgevingswet (DSO), Objectidentificering (UOI) en 
-samenhang geo(basis)registraties. CROW zet kennis en ervaring met dataprincipes in als kennisinstituut 
-voor infrastructuur, openbare ruimte, verkeer en vervoer, en werk en veiligheid. Digitaal samenwerken 
-in de gebouwde omgeving op basis van open standaarden en richtlijnen is de basis voor het BIM Loket. 
-
-Met dit als vertrekpunt zijn participatie en publieke waarden, ontwerp principes en FAIR-principes de rode draad geworden voor dit adviesrapport. De principes zijn niet in een hiërarchisch volgorde opgenomen in dit rapport; alle principes hebben elkaar nodig en versterken elkaar. 
+Voor de totstandkoming van dit adviesrapport hebben we verkend in hoeverre afspraken over uitwisseling, 
+eigenaarschap en organisatie van data noodzaak zijn voor veilige, betrouwbare en gecontroleerde toegang 
+tot data in de bouwsector en kunnen worden geduid in de vorm van richtinggevende principes. Hiervoor zijn 
+eerst uitgangspunten, randvoorwaarden en eisen van belang die de richtinggevende principes dienen, waarna 
+de uitwerking in bijvoorbeeld een doelarchitectuur of verdere uitwerking in een Project Start Architectuur 
+(PSA) of Stelselarchitectuur (SA) door het [Programma DSGO](https://www.digigo.nu/nieuws/2157352.aspx) kan 
+plaats vinden. Geonovum maakt hiervoor hergebruik van ervaringen uit eerdere adviestrajecten voor (doorontwikkeling van) digitale stelsels 
+voor onder meer Digitaal Stelsel Omgevingswet (DSO), Objectidentificering (UOI) en samenhang geo(basis)registraties. 
+CROW zet kennis en ervaring met dataprincipes in als kennisinstituut voor infrastructuur, openbare ruimte, 
+verkeer en vervoer, en werk en veiligheid. Digitaal samenwerken in de gebouwde omgeving op basis van open 
+standaarden en richtlijnen is de basis voor het BIM Loket.
+Met dit als vertrekpunt zijn participatie en publieke waarden, ontwerp principes en FAIR-principes de rode 
+draad geworden voor dit adviesrapport. De principes zijn niet in een hiërarchisch volgorde opgenomen in dit 
+rapport; alle principes hebben elkaar nodig en versterken elkaar.
 
 **Participatie en publieke waarden**
 
