@@ -54,7 +54,7 @@ Deze aandacht heeft er onder andere toe geleid dat er ook concrete handvatten zi
 -	Er is een code ontwikkeld door de Universiteit Utrecht voor voor [goed digitaal openbaar bestuur](https://www.rijksoverheid.nl/documenten/rapporten/2021/04/30/code-goed-digitaal-openbaar-bestuur) (april 2021);
 -	Naast de Rijksoverheid heeft ook de VNG met de gemeenten nagedacht over [principes voor de digitale samenleving](https://vng.nl/sites/default/files/2019-11/09a-bijlage-principes-voor-de-digitale-samenleving.pdf) (november 2019);
 -	Het [Beleidskader Digitale basisinfrastructuur](https://www.noraonline.nl/images/noraonline/2/25/Beleidskader_digitale_basisinfrastructuur.pdf) bevat de uitgangspunten voor de digitale basisinfrastructuur, die dienstverleners met een publieke taak gebruiken voor de inrichting van de publieke dienstverlening aan burgers en bedrijven en waar nodig ook voor hun onderlinge digitale samenwerking (april 2019);
--	Het [toekomstbeeld van het Stelsel van Basisregistraties] (https://www.noraonline.nl/wiki/Bestand:Toekomstbeeld_Stelsel_van_Basisregistraties.pdf) schetst een strategisch kader voor de doorontwikkeling van het huidige stelsel van basisregistraties met 10 basisregistraties naar een federatief datastelsel met een veelvoud aan hoogwaardige datasets (januari 2022);
+-	Het [toekomstbeeld van het Stelsel van Basisregistraties](https://www.noraonline.nl/wiki/Bestand:Toekomstbeeld_Stelsel_van_Basisregistraties.pdf) schetst een strategisch kader voor de doorontwikkeling van het huidige stelsel van basisregistraties met 10 basisregistraties naar een federatief datastelsel met een veelvoud aan hoogwaardige datasets (januari 2022);
 -	[Agenda Digitale Grondrechten en Ethiek 2022-2026](https://vng.nl/nieuws/agenda-digitale-grondrechten-en-ethiek-2022-2026-uit) leggen gemeenten gezamenlijk ambities vast over het beschermen van grondrechten en het borgen van publieke waarden in de informatiesamenleving;
 -	Vanuit het [locatiepact](https://www.wijsmetlocatie.nl/) waarin een groep overheden, bedrijven en kennisinstellingen met elkaar samenwerken aan locatietechnologie, is een [ethische referentie](https://www.wijsmetlocatie.nl/wat-we-doen/ethiek) ontwikkeld. Deze is in de praktijk getoetst en vergeleken met diverse andere ethische referenties;
 -	[Draft-Principes voor Crowd-monitoring](https://vng.nl/nieuws/agenda-digitale-grondrechten-en-ethiek-2022-2026-uit) als uitwerking van principes voor de ethische inzet van nieuwe technologie voor crowd-management (2021);
@@ -68,6 +68,17 @@ Ook Vanuit **Europa** is er een sterk sturende rol van de commissie op het handh
 
 Ontwerpprincipes DSGO
 ---------------------
+
+Voor ieder van de ontwerpprincipes en de dataprincipes is aangegeven of er uitgangspunten, randvoorwaarden en/of eisen zijn.
+
+> **Uitgangspunten** zijn die zaken die door het project als basis moeten worden meegenomen. Een uitgangspunt is iets waar 
+> het project niet omheen kan, zoals wet- en regelgeving. 
+> **Randvoorwaarden** zijn zijdelingse beperkingen aan het project. Randvoorwaarden stellen eisen aan het project die vanuit 
+> het project niet kunnen worden beïnvloed. 
+> **Eisen** zijn criteria waar het eindresultaat aan moet voldoen.
+
+In de bijlage zijn de uitgangspunten, randvoorwaarden en eisen [samengevat](#uitgangspunten-randvoorwaarden-en-eisen), die opdrachtgever het ministerie van BZK ‘onder de arm mee kan nemen’ bij de verdere uitwerking van het DSGO.
+
 
 ### Open en transparant
 

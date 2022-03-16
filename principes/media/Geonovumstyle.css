@@ -22,7 +22,12 @@ img
 	margin-right: auto;
 }
 
+p {
+text-align: justify;	
+}
+
 /*-- Definite van het Geonovum Logo bovenaan Respec document ------------------------*/
+
 img#Geonovum
 {
   width:132px;
