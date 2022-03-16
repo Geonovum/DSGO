@@ -312,12 +312,7 @@ DSGO zijn aangesloten geautomatiseerd de gegevens kunnen doorzoeken en opvragen.
 De (meta)data(sets) worden dan in hun bestaande structuur/standaard in een
 machine-leesbare generieke *wrapper* verpakt.
 
->   **Voorbeeld:** *Een voorbeeld is de generieke API-service van het
->   Kadaster voor het geautomatiseerd downloaden / actualiseren van data uit de
->   geobasisregistraties. Ofwel er is een communicatieprotocol à la API-Kadaster
->   nodig waarin heterogene inhoud met een standaard communicatiewrapper kan
->   worden uitgewisseld. Dit vraagt om een standaard uitwisselingsformaat of
->   Generieke Download Service, Mutatie API of*
+>   **Voorbeeld:** *De Mutatie API van Kadaster verpakt de gegevens van BGT en DKK in een generiek formaat (wrapper). Het formaat is een implementatie van het generieke formaat beschreven op https://github.com/PDOK/schemas-mutatielevering wat ook voor andere datamodellen gebruikt kan worden. Gebruikers kunnen via een standaard mechanisme volledige (FULL) en mutatie (DELTA) leveringen opvragen.
 
 >   **Voorbeeld:** *[Linked Data](#koppelen-van-heterogene-datasets-met-linked-data).
 >   De overheid beschikt over veel verschillende datasets met gegevens die wel
