@@ -4,18 +4,18 @@ Publieke waarden
 Het DSGO dient het publiek belang door data uit de gebouwde omgeving beschikbaar
 te stellen voor alle belanghebbenden bij de data. Om het publieke belang te
 waarborgen worden 8 ontwerpprincipes gehanteerd voor het ontwerpproces van het
-DSGO. Niet de pulieke waarden zelf, maar de ontwerpprincipes voor het DSGO op basis van de publiek waarden staan centraal. 
-Deze 8 ontwerpprincipes zijn in dit hoofdstuk vertaalt in uitgangspunten,
+DSGO. Niet de publieke waarden zelf, maar de ontwerpprincipes voor het DSGO op basis van de publiek waarden staan centraal. 
+Deze 8 ontwerpprincipes zijn in dit hoofdstuk vertaald in uitgangspunten,
 randvoorwaarden en eisen. Ze geven richting aan het proces om te komen tot
 sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data.
 
 Het DSGO ontwerpen op basis van publieke waarden die de samenleving reflecteren
 -------------------------------------------------------------------------------
 
-Het doel van het DSGO is om te komen tot een set van uniforme afspraken die
+Doel van het DSGO is om te komen tot een set van uniforme afspraken die
 zorgt voor veilige, betrouwbare en gecontroleerde toegang tot data in de
 bouwsector. Door deze uniforme afspraken kunnen partijen makkelijk en veilig
-gebruik maken van reeds beschikbare data. In alle fases van de levenscyclus van
+gebruik maken van reeds beschikbare data: in alle fases van de levenscyclus van
 een bouwwerk.
 
 Het DSGO gaat over de totale gebouwde omgeving en dient daarmee de samenleving
@@ -42,7 +42,7 @@ beslissingen, die gebaseerd zijn op de waarden die de ontwerper hanteert. Daar
 ligt ook de sleutel tot het verkrijgen van meer grip op deze ontwikkelingen: we
 moeten niet alleen kijken naar het topje, maar met elkaar de hele ijsberg zien
 en ontwerpen. Voor het DSGO doen we dat dus op basis van publieke waarden, die we
-concreet hebben gemaakt in de hierna uitgewerke 8 ontwerpprincipes.
+concreet hebben gemaakt in de hierna uitgewerkte 8 ontwerpprincipes.
 
 Beleidscontext publieke waarden
 ---------------------------------
