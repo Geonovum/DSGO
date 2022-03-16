@@ -44,3 +44,6 @@ verzameld zijn samengevat (<a href='#uitgangspunten-randvoorwaarden-en-eisen'></
 ‘onder de arm mee kan nemen’ bij de verdere uitwerking van het DSGO.
 
 De in dit rapport voorgestelde principes op samenwerking en het delen van data zijn richtinggevend voor de verdere ontwikkeling van het DSGO. Naar de mening van de schrijvers is er echter meer nodig om vaart te krijgen in de ontwikkeling van het DSGO. Wij bevelen het ministerie van BZK aan een aanjaagrol op zich te nemen om te komen tot een onderlinge samenwerking gebaseerd op vertrouwen. Een noodzakelijke taak van deze rol is het voeren van een strategische dialoog over het waarom en de winst van de principes en het data delen, met de stakeholders verbonden aan de zes thema’s van het digiGo. Als duidelijk wordt wat men verwacht van elkaar en wat ieder heeft in te brengen, dan wordt ieders motivatie helder en is de samenwerking goed te organiseren. Tenslotte bevelen we aan om met de ontwikkeling van het DSGO ook aandacht te hebben voor het onderhoud en beheer van de afspraken inclusief de financiering ervan.
+
+**Figuur: Bouwen aan vertrouwen, data waarop je kunt bouwen**
+![](media/DSGO_A4_principes_Final.png)
