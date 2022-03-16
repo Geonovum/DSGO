@@ -330,7 +330,7 @@ machine-leesbare generieke *wrapper* verpakt.
 >   concepten. Elk concept wint aan betekenis als er meer beschrijvingen aan
 >   gelinkt worden. Daardoor krijgt de inhoud van webdocumenten meer betekenis
 >   en worden zoekresultaten nauwkeuriger.*
->   
+
 >   **Eis:** Voor het DSGO zijn (vooral) afspraken nodig over de technische
 >   uitwisseling van (meta)data(sets) op de koppelvlakken, zodat bestaande 
 >   systemen en datastructuren zo min mogelijk hoeven te worden aangepast, 
@@ -419,6 +419,16 @@ gemaakt worden dat veranderingen aan datasets aangekondigd worden.
 
 > **Eis**: Het DSGO houdt een duurzame metadataregistratie bij, waarbij metadata langdurig bewaard en toegankelijk blijft.
 > De datasets zelf worden niet noodzakelijk door DSGO bewaard.
+
+Bij het ontwerp van duurzame toegankelijke metadata door het DSGO zullen afspraken 
+moeten zijn gemaakt omtrent de al of niet duurzaamheid van de opslag in het DSGO. 
+Duurzame toegankelijk gaat over de implementatie van de Archiefwet- en regelgeving 
+met de bijbehorende normen en standaarden. De eisen voor duurzame toegankelijkheid 
+van overheidsinformatie zijn gebundeld in [DUTO](https://www.noraonline.nl/wiki/Duurzame_Toegankelijkheid). 
+Voor de data die niet duurzaam in het DSGO worden bewaard, maar waarvoor wel duurzame 
+beschikbaarheid en toegankelijkheid worden gewenst/vereist (door bijvoorbeeld de overheid) 
+is het zaak bij het ontwerp en de realisatie van het DSGO met het [Nationaal Archief](https://www.nationaalarchief.nl/archiveren/duto) 
+de verplichtingen en mogelijkheden te verkennen. 
 
 ### Interoperabel
 
