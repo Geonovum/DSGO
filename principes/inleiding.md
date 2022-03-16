@@ -111,6 +111,7 @@ lijn met het doel van dit adviesrapport nemen we de FAIR-principes als basis
 voor het formuleren van de principes voor het DSGO.
 
 **Totstandkoming**
+
 Tijdens het schrijven heeft, onder leiding van de opdrachtgever het ministerie van BZK, een informele 
 consultatie plaatsgevonden van de conceptversie van dit adviesrapport. De schrijvers 
 hebben deze waardevolle ervaringen en kennis gewogen en meegenomen in het document dat in oktober 2021 is opgeleverd. 
