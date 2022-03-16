@@ -4,18 +4,18 @@ Publieke waarden
 Het DSGO dient het publiek belang door data uit de gebouwde omgeving beschikbaar
 te stellen voor alle belanghebbenden bij de data. Om het publieke belang te
 waarborgen worden 8 ontwerpprincipes gehanteerd voor het ontwerpproces van het
-DSGO. Niet de pulieke waarden zelf, maar de ontwerpprincipes voor het DSGO op basis van de publiek waarden staan centraal. 
-Deze 8 ontwerpprincipes zijn in dit hoofdstuk vertaalt in uitgangspunten,
+DSGO. Niet de publieke waarden zelf, maar de ontwerpprincipes voor het DSGO op basis van de publiek waarden staan centraal. 
+Deze 8 ontwerpprincipes zijn in dit hoofdstuk vertaald in uitgangspunten,
 randvoorwaarden en eisen. Ze geven richting aan het proces om te komen tot
 sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data.
 
 Het DSGO ontwerpen op basis van publieke waarden die de samenleving reflecteren
 -------------------------------------------------------------------------------
 
-Het doel van het DSGO is om te komen tot een set van uniforme afspraken die
+Doel van het DSGO is om te komen tot een set van uniforme afspraken die
 zorgt voor veilige, betrouwbare en gecontroleerde toegang tot data in de
 bouwsector. Door deze uniforme afspraken kunnen partijen makkelijk en veilig
-gebruik maken van reeds beschikbare data. In alle fases van de levenscyclus van
+gebruik maken van reeds beschikbare data: in alle fases van de levenscyclus van
 een bouwwerk.
 
 Het DSGO gaat over de totale gebouwde omgeving en dient daarmee de samenleving
@@ -42,7 +42,7 @@ beslissingen, die gebaseerd zijn op de waarden die de ontwerper hanteert. Daar
 ligt ook de sleutel tot het verkrijgen van meer grip op deze ontwikkelingen: we
 moeten niet alleen kijken naar het topje, maar met elkaar de hele ijsberg zien
 en ontwerpen. Voor het DSGO doen we dat dus op basis van publieke waarden, die we
-concreet hebben gemaakt in de hierna uitgewerke 8 ontwerpprincipes.
+concreet hebben gemaakt in de hierna uitgewerkte 8 ontwerpprincipes.
 
 Beleidscontext publieke waarden
 ---------------------------------
@@ -50,15 +50,20 @@ Beleidscontext publieke waarden
 In 2017 heeft het Rathenau instituut met haar onderzoek ['Opwaarderen - Borgen van publieke waarden in de digitale samenleving'](https://www.rathenau.nl/sites/default/files/2018-02/Opwaarderen_FINAL.pdf) aandacht gevraagd voor dit onderwerp en gepleit voor een actieprogramma. Sinds dat moment heeft het ministerie van BZK deze handschoen opgepakt, als hoeder van de Nederlandse Grondwet en grondrechten. Er zijn diverse actielijnen uitgezet vanuit de [Agenda Digitale Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nldigibeter/beschermen-van-grondrechten-en-publieke-waarden/). Daarin wordt ook aangegeven wat tot nu toe bereikt is. Vanaf 2019 is de voorlichting gestart over dit onderwerp. Tevens is er onderzoek verricht naar de effecten van digitalisering op de maatschappij.
 
 Deze aandacht heeft er onder andere toe geleid dat er ook concrete handvatten zijn ontwikkeld:
-- Er zijn diverse beleidsinstrumenten gerealiseerd zoals een toolbox om gemeenten te helpen verantwoord te innoveren, zoals de [praktijkrichtlijn open urban platforms](https://www.nen.nl/nieuws/smartcities/nederlandse-praktijkrichtlijn-open-urban-platforms-beschikbaar/); 
-- Er is een handreiking ontwikkeld voor [non-discriminatie bij de toepassing van AI](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design);
-- Er is in april 2021 een code ontwikkeld door de Universiteit Utrecht voor [goed digitaal openbaar bestuur](https://www.rijksoverheid.nl/documenten/rapporten/2021/04/30/code-goed-digitaal-openbaar-bestuur);
-- Naast de Rijksoverheid heeft ook de VNG met de gemeenten nagedacht over [principes voor de digitale samenleving](https://vng.nl/sites/default/files/2019-11/09a-bijlage-principes-voor-de-digitale-samenleving.pdf);
-- Vanuit het [locatiepact](https://www.wijsmetlocatie.nl/) waarin een groep overheden, bedrijven en kennisinstellingen met elkaar samenwerken aan locatietechnologie, is een [ethische referentie](https://www.wijsmetlocatie.nl/wat-we-doen/ethiek) ontwikkeld. Deze is in de praktijk getoetst en vergeleken met diverse andere ethische referenties.
+-	De [Interbestuurlijke Datastrategie Nederland](https://www.rijksoverheid.nl/documenten/rapporten/2021/10/31/nl-digitaal-interbestuurlijke-datastrategie-nederland) schetst op hoofdlijnen hoe de overheid kansen om maatschappelijke opgaven met data op een effectieve manier aan te gaan vaker en beter kan realiseren, waarbij risico's van datagebruik goed worden afgewogen. Daarnaast bevat de datastrategie eerste suggesties voor verdere uitwerking van systeemfuncties (oktober 2021);
+-	Er is een code ontwikkeld door de Universiteit Utrecht voor voor [goed digitaal openbaar bestuur](https://www.rijksoverheid.nl/documenten/rapporten/2021/04/30/code-goed-digitaal-openbaar-bestuur) (april 2021);
+-	Naast de Rijksoverheid heeft ook de VNG met de gemeenten nagedacht over [principes voor de digitale samenleving](https://vng.nl/sites/default/files/2019-11/09a-bijlage-principes-voor-de-digitale-samenleving.pdf) (november 2019);
+-	Het [Beleidskader Digitale basisinfrastructuur](https://www.noraonline.nl/images/noraonline/2/25/Beleidskader_digitale_basisinfrastructuur.pdf) bevat de uitgangspunten voor de digitale basisinfrastructuur, die dienstverleners met een publieke taak gebruiken voor de inrichting van de publieke dienstverlening aan burgers en bedrijven en waar nodig ook voor hun onderlinge digitale samenwerking (april 2019);
+-	Het [toekomstbeeld van het Stelsel van Basisregistraties] (https://www.noraonline.nl/wiki/Bestand:Toekomstbeeld_Stelsel_van_Basisregistraties.pdf) schetst een strategisch kader voor de doorontwikkeling van het huidige stelsel van basisregistraties met 10 basisregistraties naar een federatief datastelsel met een veelvoud aan hoogwaardige datasets (januari 2022);
+-	[Agenda Digitale Grondrechten en Ethiek 2022-2026](https://vng.nl/nieuws/agenda-digitale-grondrechten-en-ethiek-2022-2026-uit) leggen gemeenten gezamenlijk ambities vast over het beschermen van grondrechten en het borgen van publieke waarden in de informatiesamenleving;
+-	Vanuit het [locatiepact](https://www.wijsmetlocatie.nl/) waarin een groep overheden, bedrijven en kennisinstellingen met elkaar samenwerken aan locatietechnologie, is een [ethische referentie](https://www.wijsmetlocatie.nl/wat-we-doen/ethiek) ontwikkeld. Deze is in de praktijk getoetst en vergeleken met diverse andere ethische referenties;
+-	[Draft-Principes voor Crowd-monitoring](https://vng.nl/nieuws/agenda-digitale-grondrechten-en-ethiek-2022-2026-uit) als uitwerking van principes voor de ethische inzet van nieuwe technologie voor crowd-management (2021);
+-	Er zijn diverse beleidsinstrumenten gerealiseerd zoals een toolbox om gemeenten te helpen verantwoord te innoveren, zoals de [praktijkrichtlijn open urban platforms](https://www.nen.nl/nieuws/smartcities/nederlandse-praktijkrichtlijn-open-urban-platforms-beschikbaar/) (januari 2020);
+-	Er is een handreiking ontwikkeld voor [non-discriminatie bij de toepassing van AI](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design) (juni 2021).
 
 Ook Vanuit **Europa** is er een sterk sturende rol van de commissie op het handhaven van publieke waarden zoals blijkt uit de [Europese digitale strategie](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/shaping-europe-digital-future_nl). Bouwstenen in de Europese digitale strategie zijn:
-- De Verordening Digitale Markten (Digital Markets Act, DMA), die de digitale eenheidsmarkt reguleert, en een reeks eisen stelt ten aanzien van interoperabiliteit, eerlijkheid en openheid, en de markpositie reguleert van grote online platformen die als gatekeepers functioneren. De DMA is als voorstel gepubliceerd eind 2020, met een beoogde implementatie uiterlijk begin 2022.
-- De Verordening Digitale Diensten (Digital Services Act, DSA), die de digitale eenheidsmarkt als gelijk speelveld inricht voor innovatie, groei, en concurrentie, en waar de grondrechten van alle gebruikers van digitale diensten actief gewaarborgd zijn, onder meer door vereisten ten aanzien van transparantie en een verantwoordingsraamwerk voor dienstverleners. De DSA is als voorstel gepubliceerd eind 2020, met een beoogde implementatie uiterlijk begin 2022.
+- De [Verordening Digitale Markten (Digital Markets Act, DMA)](https://www.tweedekamer.nl/kamerstukken/detail?id=2021Z03095&did=2021D06764), die de digitale eenheidsmarkt reguleert, en een reeks eisen stelt ten aanzien van interoperabiliteit, eerlijkheid en openheid, en de markpositie reguleert van grote online platformen die als gatekeepers functioneren. De DMA is als voorstel gepubliceerd eind 2020, met een [beoogde implementatie](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_nl) uiterlijk begin 2022.
+- De [Verordening Digitale Diensten (Digital Services Act, DSA)](https://www.rijksoverheid.nl/actueel/nieuws/2021/11/24/eu-ministers-akkoord-met-regelgeving-digitale-diensten-en--markten), die de digitale eenheidsmarkt als gelijk speelveld inricht voor innovatie, groei, en concurrentie, en waar de grondrechten van alle gebruikers van digitale diensten actief gewaarborgd zijn, onder meer door vereisten ten aanzien van transparantie en een verantwoordingsraamwerk voor dienstverleners. De DSA is als voorstel gepubliceerd eind 2020, met een [beoogde implementatie](https://europadecentraal.nl/europees-parlement-stemt-in-met-de-digital-services-act/) uiterlijk begin 2022.
 
 
 Ontwerpprincipes DSGO
@@ -115,7 +120,7 @@ uitwerken van de use case, met bijzondere aandacht voor de positie van burgers.
 In het kader van circulariteit en bouwkwaliteit is het bijvoorbeeld van belang
 burgers te betrekken. Zolang hun woning geen mankementen vertoont is er niets aan de
 hand. Op het moment dat er duidelijk problemen blijken te zijn met bepaalde
-materialen of producten, zoals problemen met het beton (betonrot, constructiefouten in overhangende balkons), dan willen burgers graag weten of procesfouten of gebrekkige producten in hun woning verwerkt zijn. Zij behoren hierover actief geinformeerd te worden.
+materialen of producten, zoals problemen met het beton (betonrot, constructiefouten in overhangende balkons), dan willen burgers graag weten of procesfouten of gebrekkige producten in hun woning verwerkt zijn. Zij behoren hierover actief geïnformeerd te worden.
 
 >   **Randvoorwaarde:** Maak de ontwikkeling van het DSGO inclusief, zodat er geen groepen worden 
 >   buitengesloten door de manier waar op de afspraken gemaakt worden over het delen van data. De belangen
@@ -153,20 +158,20 @@ doel gebruikt. De data die wordt vastgelegd en doorgegeven is nodig voor een spe
 en doelgericht gebruikt ook door andere belanghebbenden. Dit is expliciet bepaald voor privacy gevoelige informatie in de AVG, 
 maar geldt ook in andere situaties. We geven  twee voorbeelden.
 
-> Voorbeeld: In het kader van het beheren van vastgoed, zal een assetmanager de staat van onderhoud van zijn vastgoed 
+> **Voorbeeld**: *In het kader van het beheren van vastgoed, zal een assetmanager de staat van onderhoud van zijn vastgoed 
 > (het resultaat van een inspectie per object) willen uitwisselen met de een selectie van aannemers die een 
 > offerte mogen maken om groot onderhoud uit te voeren. Deze informatie mag de aannemer niet gebruiken om een 
 > vastgoedhandelaar te informeren over de onderhoudstoestand van de objecten. De informatie die hij gekregen 
-> heeft is uitsluitend bedoeld voor de te maken offerte.
+> heeft is uitsluitend bedoeld voor de te maken offerte.*
 
-> Voorbeeld: De data over gasverbruik zijn mogelijk terug te voeren op het gedrag van de bewoner/ huurder en daarmee 
+> **Voorbeeld**: *De data over gasverbruik zijn mogelijk terug te voeren op het gedrag van de bewoner/ huurder en daarmee 
 > privacy gevoelig. Deze informatie mag daarom alleen vertrekt worden aan de bewoner zelf. In het kader van 
 > de energietransitie is het echter noodzakelijk om zicht te krijgen op het gemiddeld energieverbruik in een 
 > wijk, om te beoordelen hoe dit verbruik te verminderen is. De netbeheerder verzamelt data over verbruik per 
 > adres met als doel om per adres het verbruik inzichtelijk te maken en af te kunnen rekenen. Voor het doel 
 > van de energietransitie kan deze data per wijk of buurt ter beschikking worden gesteld door ervoor te zorgen 
 > dat de data niet terug te voeren is op een specifiek adres. Het CBS heeft per wijk of buurt deze data als 
-> open data gepubliceerd op [www.data.overheid.nl](https://data.overheid.nl/).
+> open data gepubliceerd op [www.data.overheid.nl](https://data.overheid.nl/).*
 
 >   **Eis:** Ontwerp elke use case binnen het DSGO doelgericht, zodat de uit te
 >   wisselen data, gebruikt wordt in lijn met het doel waarvoor de eigenaar van de data, de data ter beschikking stelt aan andere partijen.
@@ -177,7 +182,7 @@ In aanvulling op [inclusiviteit](#Inclusiviteit) (iedereen die er toe doet is in
 betrokkenheid erop toe dat alle belanghebbenden input geven op de inrichting van
 een use case, en zijn er ‘checks en balances’ om toe te zien op de naleving van
 de afspraken. Laat partijen die data inbrengen, ook de burger, dan ook in co-creatie meedenken in het ontwerpen van de afspraken 
-voor datauitwisseling. Afhankelijk van de casus en betrokkenheid, blijf je afhankelijk van de bereidheid dat data wordt gedeeld. 
+voor data uitwisseling. Afhankelijk van de casus en betrokkenheid, blijf je afhankelijk van de bereidheid dat data wordt gedeeld. 
 Voor de ontwikkeling van het DSGO geldt specifiek voor elke afspraak waarin
 informatie wordt vastgelegd en beschikbaar gemaakt, of dit verplicht of
 optioneel is en dat partijen individueel of via hun brancheorganisatie zich
@@ -191,6 +196,10 @@ hergebruik van materialen na ontmanteling van het bouwwerk.
 
 >   **Randvoorwaarde:** Voor elke use case worden de afspraken met alle direct betrokkenen
 >   gemaakt en vastgelegd. Dat geldt in het bijzonder voor partijen die de data ter beschikking stellen. 
+
+Door goede afspraken over datadeling met alle direct betrokkenen te maken en vast te leggen, ontstaat vertrouwen. Vertrouwen tussen partijen is randvoorwaardelijk om data te laten stromen.
+
+> **Voorbeeld:** *Het [Data Sharing Canvas](https://datasharingcoalition.eu/2021/data-sharing-coalition-releases-the-data-sharing-canvas-harmonised-agreements-for-data-sharing-at-scale/) laat zien dat domeinoverschrijdende datadeling op grote schaal kan worden gerealiseerd via geharmoniseerde afspraken. Het beschrijft welke afspraken over onderwerpen als beveiliging, metadata en identificatie, authenticatie en autorisatie nodig zijn om wederzijds vertrouwen en interoperabiliteit over domeinen heen te faciliteren.*
 
 ### Controleerbaarheid
 
@@ -225,7 +234,7 @@ kan er voor zorgen dat soevereiniteit begrensd wordt en dat data beschikbaar moe
 Wet- en regelgeving over de soevereiniteit op data mag niet conflicteren. Consistente wet- en regelgeving lost 
 onduidelijkheden over het recht om te beschikken over data op. De afweging van maatschappelijke belangen geeft 
 de context over het beschikken van data. Bijvoorbeeld inzake een adres zou een wettelijke basis voor open 
-data niet moeten conflicteren met privacy-wetgeving (AVG).
+data niet moeten conflicteren met privacywetgeving (AVG).
 
 >   **Uitgangspunt:** Binnen het DSGO wordt bepaald welke belanghebbende (in
 >   juridische termen natuurlijke persoon of rechtspersoon) eigenaar is en/of
@@ -251,7 +260,7 @@ Maatregelen zijn mogelijk in de infrastructuur van de data uitwisseling, de gebr
 procesafspraken rondom bouwinformatie en in de gebruikte data en rekenmodellen. Met behulp van 
 de [Baseline Informatiebeveiliging Overheid (BIO)](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/informatieveiligheid/kaders-voor-informatieveiligheid/baseline-informatiebeveiliging-overheid/) kan hier concreet invulling aan 
 gegeven worden. De BIO is één basisnormenkader voor informatiebeveiliging waarmee door alle 
-overheidslagen in Nederland mee wordt gewerkt. Het basisprincipe is dat afzonderlijke 
+overheidslagen in Nederland mee wordt gewerkt. Het uitgangspunt is dat afzonderlijke 
 overheidsorganisaties zelf verantwoordelijk zijn en blijven voor hun informatieveiligheid. 
 De minister van BZK heeft bepaald dat in het digitale verkeer met het Rijk de BIO wordt gehanteerd. 
 

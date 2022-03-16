@@ -1,17 +1,17 @@
 Conclusies en vervolg
 ============
 
-Het publiek belang en de publieke waarden zijn de basisprincipes voor
-sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data. Samen met de dataprincipes, resulteert dit in de volgende uitgangspunten, randvoorwaarden en eisen, zoals in voorgaande hoofdstukken beschreven.
+Voor elk van de richtinggevende principes vormen zowel het publiek belang als publieke waarden de uitgangspunten voor sectorbrede afspraken over uitwisseling, eigenaarschap en organisatie van data. Resultaat van sectorbrede afspraken moet zijn dat data kan stromen en zo het algemeen belang kan dienen.
 
 Conclusies
 --------------
 
-Het ministerie van BZK heeft vanuit haar systeemverantwoordelijkheid een set richtinggevende principes nodig 
-om de ontwikkeling van het DSGO vaart geven. Daarbij ligt de focus op het stimuleren van samenwerking binnen 
-de sector, tussen verschillende onderdelen van de rijksoverheid en medeoverheden. Bovendien zal de overheid, 
-in haar rol van opdrachtgever (onder andere Rijksvastgoedbedrijf, provincies), in haar rol van bevoegd gezag 
-en vanuit haar verantwoordelijkheid voor verschillende beleidsthema’s zoals het klimaatakkoord en de basisregistraties hier zelf ook profijt van hebben.
+Het ministerie van BZK heeft vanuit haar systeemverantwoordelijkheid behoefte aan een set richtinggevende principes om de 
+ontwikkeling van het DSGO vaart geven. Daarbij ligt de focus op het stimuleren van samenwerking binnen de sector, 
+tussen verschillende onderdelen van de rijksoverheid en medeoverheden. Bovendien zal de overheid, in haar rol van 
+opdrachtgever (onder andere Rijksvastgoedbedrijf, provincies), in haar rol van bevoegd gezag en vanuit haar 
+verantwoordelijkheid voor verschillende beleidsthema’s zoals het klimaatakkoord en de basisregistraties hier 
+zelf ook profijt van hebben.
 
 In dit adviesrapport zijn richtinggevende principes geformuleerd voor het ontwerp van het DSGO. Het DSGO komt tot stand door het creëren van samenwerking en de inzet van technologie ten behoeve van het delen van data. De principes volgen deze indeling ook. We onderscheiden principes gericht op de samenwerking van partijen in het stelsel (publieke waarden, <a href='#publiekewaarden'></a>) en principes met betrekking tot het delen van gegevens (FAIR dataprincipes, <a href='#dataprincipes'></a>).
 
@@ -21,18 +21,16 @@ We stellen een samenwerking voor gebaseerd op *Openheid en transparantie*  en le
 
 Afspraken over het uitwisselen en delen van data in het DSGO is gebaseerd op de FAIR-kernbegrippen *vindbaar, toegankelijk, interoperabel en herbruikbaar* van gegevens. Hierbij wordt onder meer ingegaan op de eenduidige vindplaats en identificering van gegevens in het stelsel, de beschrijving (metadatering) van de herkomst, kwaliteit en betekenis van de gegevens, de gecontroleerde toegang middels autorisatie en authenticatie, en de toepassing van (open) standaarden voor de geo- en bouwinformatie in de publieke sector.
 
-Vanuit de praktijk zijn een drietal voorbeelden uit de praktijk uitgewerkt, waarin het delen van data centraal staat: Wet kwaliteitsborging voor het bouwen, Informatieoverdracht bij assetmanagement en het Landelijk Digitaal Platform. Deze voorbeelden hebben tot een aantal extra handreikingen geleid, die gebaseerd zijn op de uitgewerkte principes:
+Vanuit de praktijk zijn  drie voorbeelden uitgewerkt, waarin het delen van data centraal staat: Wet kwaliteitsborging voor het bouwen, Informatieoverdracht bij assetmanagement en het Landelijk Digitaal Platform. Deze voorbeelden hebben tot een aantal extra handreikingen geleid:
 - Maak gebruik van open standaarden en overheidsdata (zoals de basisregistraties) die beschikbaar is, begin niet zomaar met het ontwikkelen van een nieuwe standaard en sluit aan bij wat er al is.
 - Maak bottom-up afspraken die werken in de uitvoering en gelijk hun waarde bewijzen voor de gebruikers.
 - Nieuwe data die ontstaat moet die ook beschikbaar gemaakt worden. Maak goede afspraken over het eigenaarschap en beheer van deze data. 
 
 De overheid, in de rol van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK), wil een rol als aanjager in nemen, om het DSGO een kans van slagen te laten hebben. Daarbij ligt de focus op het stimuleren van samenwerking binnen de sector, tussen verschillende onderdelen van de rijksoverheid en medeoverheden. Publiek en privaat werken in de fysieke leefomgeving en in de digitale omgeving samen. Bovendien zal het ministerie aandacht hebben voor het borgen van publieke waarden in het stelsel. Daarnaast zal de overheid, in haar rol van opdrachtgever (onder andere Rijksvastgoedbedrijf, provincies), in haar rol van bevoegd gezag en vanuit haar verantwoordelijkheid voor verschillende beleidsthema’s zoals het klimaatakkoord en de basisregistraties hier zelf ook profijt van hebben.
 
-De richtinggevende principes uit dit adviesrapport die bij het ontwerp en realisatie van het DSGO in acht genomen dienen te worden, borgen het publiek belang voor bijvoorbeeld publieke waarden rondom digitalisering, de fysieke leefomgeving en de economie, maar ook robuustheid, toekomstvastheid en stapsgewijze groei van het DSGO zijn belangrijke waarden. Ze geven richting aan het ontwerpen, onderhouden en toepassen van de processen en afspraken die door het DSGO ondersteund worden.
+De richtinggevende principes uit dit adviesrapport die bij het ontwerp en realisatie van het DSGO in acht genomen dienen te worden, borgen publieke waarden rondom digitalisering, de fysieke leefomgeving en de economie. Ook robuustheid en toekomstvastheid van het DSGO zijn belangrijke waarden. De principes zijn een anker waarop je bij het maken van keuzen in de bouw en verdere ontwikkeling van het DSGO kunt teruggrijpen. Analoog aan ‘handelen in geest van de wet’ zijn de principes te zien als ‘de geest van het stelsel’. Ze geven richting aan het ontwerpen, onderhouden en toepassen van de processen en afspraken die door het DSGO ondersteund worden.
 
-Bij elk van de richtinggevende principes zorgen het publiek belang en de publieke waarden samen met de basisprincipes voor sector brede afspraken over uitwisseling, eigenaarschap en organisatie van data met als resultaat veilige, betrouwbare en gecontroleerde toegang tot data in de bouwsector: in verbinding en in samenhang.
 
-    
 Vervolg
 -------
     
@@ -60,24 +58,4 @@ Wij stellen ons voor dat deze gesprekken in het kader van het DSGO worden georga
 
 Een afsprakenstelsel vraagt om onderhoud. Als afspraken tot stand zijn gekomen zijn er altijd omstandigheden die aanpassing en/of uitbreiding vragen. Vanuit onze ervaring bij de tot standkoming van standaarden adviseren we om het aspect beheer en onderhoud van de afspraken steeds mee te nemen en de gevolgen die dit heeft voor de financiering van het afsprakenstelsel dat gaat ontstaan.
 
-Aandachtspunten
----------------
 
-Met de consultatie van dit rapport zijn mede de volgende aandachtspunten zmeegegeven om nader te onderzoekn. Deze aandachtspunten hebben niet altijd met de principes zelf alswel met de uitwerking van de principes te maken, bijvoorbeeld met de invulling in een Project StartArchitectuur (PSA) of Stelselarchitectuur (SA) of bij de implementatie in de praktijk. 
-
-*NL-datafederatie*
-•	Hoe sluit DSGO straks als stelsel aan op de NL-datafederatie (het “stelsel der stelsels”)?
-
-*Experimenteerruimte*
-
-**Duurzame toegankelijkheid**
-
-Duurzame toegankelijkheid van metadata is als eis opgenomen in [paragraaf 5.1.2](#toegankelijk). Bij het 
-ontwerp van duurzame toegankelijke metadata door het DSGO zullen afspraken moeten zijn gemaakt omtrent de 
-al of niet duurzaamheid van de opslag in het DSGO. 
-Duurzame toegankelijk gaat over de implementatie van de Archiefwet- en regelgeving met de bijbehorende normen 
-en standaarden. De eisen voor duurzame toegankelijkheid van overheidsinformatie zijn gebundeld in [DUTO](https://www.noraonline.nl/wiki/Duurzame_Toegankelijkheid). 
-Voor de data die niet duurzaam in het DSGO worden bewaard, maar waarvoor wel duurzame beschikbaarheid en 
-toegankelijkheid worden gewenst/vereist (door bijvoorbeeld de overheid) is het zaak bij het ontwerp en de 
-realisatie van het DSGO met het [Nationaal Archief](https://www.nationaalarchief.nl/archiveren/duto) de 
-verplichtingen en mogelijkheden te verkennen. 

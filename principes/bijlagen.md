@@ -23,10 +23,10 @@ ook voor de computer leesbaar aan te bieden. Dan kan een computersysteem wel de
 tabel met gebreken ‘zien’ en interpreteren.
 
 Data is een representatie van observaties, objecten of andere entiteiten uit de
-werkelijkheid. Denk aan het bouwobject dat door het process van plan en
+werkelijkheid. Denk aan het bouwobject dat door het proces van plan en
 vergunningverlening, tot realisatie en beheer, heengaat. Data refereert naar
 iets dat is verzameld, geobserveerd, gegenereerd of afgeleid. Data wordt door de
-mens gebruikt als een basis om te redeneren, discussieren of calculeren.
+mens gebruikt als een basis om te redeneren, discussiëren of calculeren.
 
 **Metadata** zijn gegevens die de karakteristieken van bepaalde gegevens
 beschrijven. Het zijn dus eigenlijk data over data. De metadata bij een bepaald
@@ -44,7 +44,7 @@ voor de computer leesbare bestand staat dat eveneens opvaste plekken. Bij een
 energierapport zijn metadata informatie over de EAN-aansluiting, maar ook
 misschien adres of netbeheerder of vergelijking met andere gebruikers.
 
-Het op een gestructureerde en afsgeproken manier van toevoegen van metadata aan
+Het op een gestructureerde en afgesproken manier van toevoegen van metadata aan
 data heeft als resultaat dat data vindbaar en doorzoekbaar is. Denk daarbij aan
 de systematiek van bibliotheken en archieven.
 
@@ -56,11 +56,11 @@ het daadwerkelijke verbruik. Daarom is het belangrijk zowel juiste data als
 metadata te verzamelen.
 
 De interpretatie van gegevens is afhankelijk van het bestandsformaat waarin het
-is opgeslagen. Een PDF-bestand is slecht interpreteerbaar voor een
+is opgeslagen. Een Pdf-bestand is slecht interpreteerbaar voor een
 computersysteem: slechts de titel en auteur van het document staat op een vaste
 plek bewaard. Een spreadsheet daarentegen kan worden genavigeerd, met vaste
 cellen voor bepaalde informatie. Andere bestandsformaten, zoals XML of linked
-data-talen, zijn nog meer zelfbeschrijvend. Deze formaten kunnen een
+data-talen, zijn nog meer zelf beschrijvend. Deze formaten kunnen een
 interpretatieschema toevoegen aan de data, zodat een computersysteem zelf kan
 achterhalen waar de relevante informatie staat.
 
@@ -73,7 +73,7 @@ gegevens vanuit de verschillende disciplines die opgenomen worden in een
 gevormd door de verzameling van deze datasets en is zelf ook een dataset.
 
 Data en datasets ontstaan niet zomaar. Ze kennen een **levenscyclus**. Deze
-levenscyclus van de dataset is samen te vatten in vier fasen, geillustreerd door
+levenscyclus van de dataset is samen te vatten in vier fasen, geïllustreerd door
 figuur ‘Levenscyclus van de dataset’:
 
 1.  Definitiefase: in deze fase is de dataset gedefinieerd en krijgt ze betekenis.
@@ -113,71 +113,9 @@ Er is in de zin van DSGO niet een minimale (laat staan maximale) grootte van een
 dataset. Uit praktische overwegingen zijn er misschien wel beperkingen, maar
 door technologische ontwikkelingen speelt dat steeds minder een rol. Om data
 (gegevens) of datasets (gegevensets) met/ binnen het DSGO uit te wisselen gaat
-het niet zozeer over de grootte van een dataset maar juist overover de
+het niet zozeer over de grootte van een dataset maar juist over de
 vindbaarheid, toegankelijkheid, herbruikbaarheid en uitwisselbaarheid. Dat komt
 overeen met het maken van afspraken op basis van de FAIR-uitgangspunten.
-
-Ontwerpprincipes
------------------
-De ontwerpprincipes zijn:
-
-1.  *Open en transparant*: dit principe slaat zowel op de ontwikkeling
-    van het DSGO als de uitkomst ervan. *Ontwerpproces*: namelijk dat dit in een
-    open en transparant proces ontwikkeld wordt, waarbij alle belanghebbenden
-    inzicht krijgen en invloed hebben op de ontwikkeling. *Uitkomsten*: Data,
-    algoritmen en technologie zijn navolgbaar, herleidbaar en begrijpelijk. Voor
-    de onderliggende ingrediënten geldt dat ze openbaar, vindbaar, toegankelijk,
-    uitwisselbaar, herbruikbaar en controleerbaar moeten zijn (FAIR ).
-
-2.  Inclusief *betrekken* van alle *belanghebbenden* in de processen die
-    ondersteund worden door het DSGO, met bijzondere aandacht voor de positie
-    van burgers.
-
-3.  *Rechtvaardig ontwerpen* en toepassen van de spelregels voor alle
-    belanghebbenden, zodat recht gedaan wordt aan hun belang.
-
-4.  *Doelgerichtheid*: doorleven, beoordelen en waarderen van de toepasbaarheid
-    en doeltreffendheid van het DSGO, de onderliggende (nieuwe) data, algoritmen
-    en gebruikte technologie, voor alle processen die het DSGO ondersteunt.
-
-5.  *Betrokkenheid*: Inrichten en operationaliseren van een werkwijze waarbij
-    alle belanghebbenden, inclusief het ‘publiek belang’, betrokken worden
-    inclusief de naleving daarvan.
-
-6.  *Controleerbaarheid*: Organiseren van menselijke controle en
-    interventiemacht in geautomatiseerde beeld-, oordeels- en
-    besluitvormingsprocessen.
-
-7.  *Soevereiniteit*: Alloceren van eigenaarschap, zeggenschap en controle over
-    gebruikte data en algoritmen.
-
-8.  *Informatiebeveiliging*: Voor het DSGO is het belangrijk dat traceerbaar is
-    van wie gegevens afkomstig zijn, of de bron ze gewijzigd of verrijkt heeft
-    (transparantie en provenance) en dat ze tussen creatie en uitlevering niet
-    gemanipuleerd zijn (integriteit). Voor alle belanghebbenden is het
-    essentieel dat data juist, volledig en actueel zijn.
-
-Dataprincipes
---------------
-De dataprincipes zijn:
-
-- *Findable (vindbaar)* De eerste stap bij het (her)gebruiken van data is om de
-data te vinden. Metadata en data moeten gemakkelijk te vinden zijn voor zowel
-mensen als computers. Machineleesbare metadata zijn essentieel voor het
-ontdekken van datasets en services.
-
-- *Accessible (toegankelijk)* Zodra de gebruiker de benodigde gegevens heeft
-gevonden, moet hij/zij weten hoe deze kunnen worden geraadpleegd, inclusief
-authenticatie en autorisatie. Laagdrempelig in gebruik.
-
-- *Interoperable (interoperabel)* De gegevens moeten meestal worden geïntegreerd
-met andere gegevens. Bovendien moeten de gegevens samenwerken met applicaties of
-workflows voor analyse, opslag en verwerking.
-
-- *Reusable (herbruikbaar)* Het uiteindelijke doel van FAIR is het hergebruik
-van data te optimaliseren. Om dit te bereiken moeten metadata en data goed
-worden beschreven, zodat ze in verschillende situaties kunnen worden
-gerepliceerd en/of gecombineerd.
 
 
 Uitgangspunten, randvoorwaarden en eisen
@@ -233,7 +171,7 @@ de data ter beschikking stelt aan andere partijen.
 - Uitgangspunt: In het DSGO verloopt de authenticatie van natuurlijke personen en (overheids)organisaties met een publieke taak zich middels DigiD, van bedrijven middels eHerkenning. 
 - Eis: Voor het DSGO zijn (vooral) afspraken nodig over de technische uitwisseling van (meta)data(sets) op de koppelvlakken, zodat bestaande systemen en datastructuren zo min mogelijk hoeven te worden aangepast, om de data te laten stromen.
 - Eis: De toegang tot het DSGO wordt geboden middels een open, gratis en universeel toepasbaar protocol.
-- Eis: Het DSGO houdt een duurzame metadataregistratie bij, waarbij metadata langdurig bewaard en toegankelijk blijft. De datasets zelf worden niet noodzakelijk door DSGO bewaard.
+- Eis: Het DSGO houdt een duurzame metadata registratie bij, waarbij metadata langdurig bewaard en toegankelijk blijft. De datasets zelf worden niet noodzakelijk door DSGO bewaard.
 
 *Uitwisselbaar*
 - Uitgangspunt: Elke dataset beschrijft het informatiemodel of ontologie waarmee de data is beschreven. Als die niet aanbevolen is door Forum Standaardisatie of het BIM Loket, moet het uitgangspunt zijn dat ze publiekelijk te raadplegen zijn.
@@ -244,31 +182,19 @@ de data ter beschikking stelt aan andere partijen.
 *Herbruikbaar*
 - Uitgangspunt: Het DSGO geeft gerapporteerde onjuistheden en onvolkomenheden door aan de eigenaars. DSGO biedt API's en formulieren aan voor eindgebruikers om rapportages zo eenvoudig mogelijk te maken.
 - Uitgangspunt: In het DSGO worden Standaarden uit verschillende domeinen toegepast. Het is onmogelijk om al deze standaarden te harmoniseren op semantiek. Daarom stellen we de open standaarden van het BIM Loket en het Forum Standaardisatie als uitgangspunt.
-- Randvoorwaarde: De leveranciers en de metadataredacteur zetten zich in voor een hoge kwaliteit data. Het platform kan statistieken gebruiken om de metadataredacteur te ondersteunen in haar/zijn werk. 
+- Randvoorwaarde: De leveranciers en de metadataredacteur zetten zich in voor een hoge kwaliteit data. Het platform kan statistieken gebruiken om de metadata redacteur te ondersteunen in haar/zijn werk. 
 - Eis: De data en de metadata dienen van hoge kwaliteit te zijn en voldoen aan een hoge mate van nauwkeurigheid. 
-- Eis: Elke gegevensset beschrijft de gebruikslicentie ervan. Minstens op een voor mensen leesbare wijze, bij voorkeur met (een link naar) een machineleesbare representatie.
-- Eis: Het platform en de datasetaanbieders houden zorgvuldig bij waar welk gegevenspunt vandaan komt.
-
-
-Geraadpleegde bronnen
----------------------
-
--   _Actieplan Digitaal Stelsel Gebouwde Omgeving - Afspraken over toegang tot data_. Versie 1.0 mei 2021;
--   _Afsprakenstelsels in de praktijk - Leerervaringen van afsprakenstelsels om te komen tot een uniforme set van eisen voor persoonlijk datamanagement_. Programma Regie op Gegevens, september 2018;
--   _Opwaarderen - Borgen van publieke waarden in de digitale samenleving_, Rathenau instituut 2017;
--   _Op weg naar een health data infrastructuur en afsprakenstelsel_ - Adviesrapport van Nederlandse AI Coalitie, over de Health data infrastructuur en afsprakenstelsel in Nederland. Versie 1.0 juli 2020;
--   _Routekaart Digitale Toekomst_, Waag technology&society. Versie 0.3 april 2020.
+- Eis: Elke gegevensset beschrijft de gebruikslicentie ervan. Minstens op een voor mensen leesbare wijze, bij voorkeur met (een link naar) een machine leesbare representatie.
+- Eis: Het platform en de dataset aanbieders houden zorgvuldig bij waar welk gegevenspunt vandaan komt.
 
 Met dank aan
 ------------
 
 Bij de totstandkoming van dit adviesrapport hebben de schrijvers zeer waardevolle input en feedback mogen ontvangen van
-onderstaande experts, die we hierbij hartelijk willen danken voor hun inbreng.
+experts werkzaam bij de volgende organisaties, die we hierbij hartelijk willen danken voor hun inbreng.
 
-Aart Wijnen (Twee Snoeken), Arnoud de Boer (Geonovum), Dik Spekkink (BIM Loket), Dirk van Barneveld (ministerie van BZK),
-Dirk van Brederode (VNG), Erik Nieuwenburg (Stichting Platform BIM Legal), Hans Elsinga (Rijksvastgoedbedrijf), Harmen Jorritsma (RVO),
-Jacqueline Meerkerk (BIM Loket), Jan Bruijn (Geonovum), Jan-Pieter Eelants (CROW), Jeroen Baltussen (RVO), Joram Snijders 
-(ministerie van BZK), Leo van der Sluijs (Kadaster), Marc van Leusen (Rijksvastgoedbedrijf), Martin Linssen (Energie Nederland), Michel Böhms (TNO),
-Mick Baggen (Rijkswaterstaat), Monique van Scherpenzeel (Geonovum), Niels Vossebeld (Niels Vossebeld Advies),
-Redmer Kronemeijer (CROW), Rick Klooster (Future Insight), Ries Bode (Programma DSGO), Rik de Lange (RVO), Rob Roef (TNO),
-Staf Depla (zelfstandig bestuurder en strategisch adviseur), Yvonne Verdonk (Geonovum).
+BIM Loket, Brink Climate Systems, CROW, Energie Nederland, Future Insight, Geonovum, Kadaster, Ministerie van BZK, Movares, Niels Vossebeld Advies, Programma DSGO, Rijksvastgoedbedrijf, Rijkswaterstaat, RVO, Stichting Platform BIM Legal, TNO, Twee Snoeken, VNG.
+
+<details class='note'>
+ Omwille van privacy (AVG) hebben we niet alle namen van de betrokkenen opgenomen in het document. Mocht u meer informatie willen of in contact willen komen met bepaalde personen, stuur dan een bericht aan info@geonovum.nl. 
+</details>

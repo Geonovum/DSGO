@@ -43,7 +43,7 @@ var respecConfig = {
      companyURL: "https://www.geonovum.nl", 
     // mailto: "j.bruijn@geonovum.nl" 
     },
-{ name: "Jacueline Meerkerk", 
+{ name: "Jacqueline Meerkerk", 
      company: "BIM Loket",
  companyURL: "https://www.bimloket.nl", 
  //mailto: "jacqueline.meerkerk@bimloket.nl"

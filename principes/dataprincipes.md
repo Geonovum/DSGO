@@ -36,7 +36,7 @@ paragrafen.
 
 De eerste stap bij het (her)gebruiken van data is om de data te vinden. Metadata
 en data moeten gemakkelijk te vinden zijn voor zowel mensen als computers.
-Machineleesbare metadata zijn essentieel voor het ontdekken van datasets en
+Machine leesbare metadata zijn essentieel voor het ontdekken van datasets en
 services. Vindbaarheid begint met bekendheid om te weten dat data gevonden kan
 worden. Hiervoor is communicatie over het DSGO-uitgangspunt en een centraal
 loket voor vragen, essentieel.
@@ -63,7 +63,7 @@ Zodoende zijn datasets of informatie over datasets door de tijd heen *vindbaar* 
 
 Een unieke identificatie maakt mogelijk om (meta)data(sets) ‘as-is’ aan elkaar te koppelen/relateren. Deze (meta)data(sets) mogen heterogeen zijn. Koppelingen/relaties maken semantisch knelpunten inzichtelijk en kunnen op later moment naar behoefte worden opgelost (harmoniseren/integreren).
 
->   Voorbeeld: In Nederland (en internationaal) wordt gewerkt aan het [Unieke Object
+>   **Voorbeeld:** In Nederland (en internationaal) wordt gewerkt aan het [Unieke Object
 >   Identificator
 >   (UOI)](https://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-identificatie-en-omgevingsinformatie) systeem
 >   voor toegang tot informatie over een nieuwe en bestaande bouwwerken of de gebouwde
@@ -74,7 +74,7 @@ Een unieke identificatie maakt mogelijk om (meta)data(sets) ‘as-is’ aan elka
 >   geraadpleegd op basis van [rollen en toegangsrechten](https://fibree.org/uoi-nl/).
 >   
 >   Het ‘systeem’ als gedachte is ontwikkeld binnen de bouw- en vastgoedsector. De
->   gedachte achter een UOI-code is dat er domeinoverstijgend verbindingen mee
+>   gedachte achter een UOI-code is dat er domeino verstijgend verbindingen mee
 >   gelegd kunnen worden die het beantwoorden van vragen over objecten in de
 >   gebouwde omgeving vereenvoudigen. De UOI-code wordt ook genoemd in de lopende
 >   consultatie van de [Samenhangende Objecten Registratie
@@ -129,7 +129,7 @@ onderscheid worden gemaakt naar:
 - werk in uitvoering;
 - informatie/data die is vrijgegeven om te delen met andere projectpartners;
 - informatie/data die is vrijgegeven voor gebruik in een volgende projectfase of voor asset management;
-- gearchiveerdee informatie/data. 
+- gearchiveerde informatie/data. 
 
 Het is belangrijk om een dataset met goede metadata te beschrijven. Dit vergroot onder meer de herbruikbaarheid. 
 Belangrijk is om de metadata die handmatig door eigenaar van de dataset ingevuld moet worden beperkt blijft, zodat deze ook daadwerkelijk goed en volledig wordt ingevuld.
@@ -161,7 +161,7 @@ van de identificatie van de data(set) in de metadata(set).
 
 **F4. (Meta)data worden geregistreerd of geïndexeerd in een doorzoekbare bron**
 
-Voor het DSGO gaan we er vanuit dat het een set met uniforme afspraken is voor
+Voor het DSGO gaan we ervan uit dat het een set met uniforme afspraken is voor
 de uitwisseling van data, en niet een centraal registratiesysteem (à la
 landelijke voorziening) waarin alle data zijn opgeslagen. (Meta)data(sets)
 worden opgeslagen in de systemen van de organisaties die de data creëren, lezen,
@@ -173,7 +173,7 @@ Dit uitgangspunt past bij het [Common Ground](https://commonground.nl/)-principe
 van bevragen van ‘data bij de bron’. Het ‘bevragen bij de bron’ voorkomt het
 veelvuldig kopiëren en opslaan van dezelfde gegevens op verschillende plekken.
 Bij het veelvuldig kopiëren en opslaan van dataset kunnen de kopieën in systemen
-in de tijd uit de pas gaan lopen (asynchroniteit) wat kan leiden tot
+in de tijd uit de pas gaan lopen (a-synchroniteit) wat kan leiden tot
 verschillende resultaten (inconsistenties) bij het gebruik van deze gegevens.
 In een projectcontext kan het kopiëren en decentraal opslaan van datasets ertoe 
 leiden dat projectpartners voortborduren op inmiddels verouderde informatie (een
@@ -281,7 +281,7 @@ persistente identifier krijgt. Met deze identifier is elke (meta)data(set) uniek
 aan te duiden en te vinden. Om de gegevens vervolgens op te halen zijn
 technische en organisatorische afspraken nodig.
 
-We gaan er vanuit dat de inhoud van de (meta)data(sets) op basis van de
+We gaan ervan uit dat de inhoud van de (meta)data(sets) op basis van de
 bestaande standaarden wordt aangeboden aan de gebruikers van het DSGO. Voor het
 DSGO worden dus geen afspraken gemaakt over één gemeenschappelijke
 taal/semantiek, vervat in één gemeenschappelijke standaard of informatiemodel.
@@ -299,13 +299,12 @@ interoperabiliteit, zonder daarbij de bestaande structuur en semantiek te hoeven
 aanpassen.
 
 De (technische) ambitie voor het DSGO bepaalt in hoeverre het mogelijk wordt om
-geautomatiseerd de (meta)data(sets) op te halen.
-
+geautomatiseerd de (meta)data(sets) op te halen. 
 De aanbeveling is om simpel te beginnen door het samenbrengen/-vatten van de
 beschikbare data in de huidige vorm waarbij handmatig de
 documenten kunnen worden doorgezocht en geraadpleegd. Dit sluit aan bij het
 één-ster model van Linked Data: de informatie is beschikbaar op het internet, in
-welk formaat dan ook. Om vervolgens door te pakken op het beschikbaar maken van gestructureerde data die machine-leesbaar en -interpreteerbaar is.  
+welk formaat dan ook. Om vervolgens door te pakken op het beschikbaar maken van gestructureerde data die machine leesbaar en -interpreteerbaar is.  
 
 Op een wat hoger technisch niveau ligt de mogelijkheid dat systemen die op het
 DSGO zijn aangesloten geautomatiseerd de gegevens kunnen doorzoeken en opvragen.
@@ -313,19 +312,9 @@ DSGO zijn aangesloten geautomatiseerd de gegevens kunnen doorzoeken en opvragen.
 De (meta)data(sets) worden dan in hun bestaande structuur/standaard in een
 machine-leesbare generieke *wrapper* verpakt.
 
->   **Eis:** Voor het DSGO zijn (vooral) afspraken nodig over de technische
->   uitwisseling van (meta)data(sets) op de koppelvlakken, zodat bestaande 
->   systemen en datastructuren zo min mogelijk hoeven te worden aangepast, 
->   om de data te laten stromen.
+>   **Voorbeeld:** *De Mutatie API van Kadaster verpakt de gegevens van BGT en DKK in een generiek formaat (wrapper). Het formaat is een implementatie van het generieke formaat beschreven op https://github.com/PDOK/schemas-mutatielevering wat ook voor andere datamodellen gebruikt kan worden. Gebruikers kunnen via een standaard mechanisme volledige (FULL) en mutatie (DELTA) leveringen opvragen.
 
->   **Voorbeeld:** *Een voorbeeld is de generieke API-service van het
->   Kadaster voor het geautomatiseerd downloaden / actualiseren van data uit de
->   geobasisregistraties. Ofwel er is een communicatieprotocol à la API-Kadaster
->   nodig waarin heterogene inhoud met een standaard communicatiewrapper kan
->   worden uitgewisseld. Dit vraagt om een standaard uitwisselingsformaat of
->   Generieke Download Service, Mutatie API of*
-
->   **Voorbeeld:** [Linked Data](#koppelen-van-heterogene-datasets-met-linked-data).
+>   **Voorbeeld:** *[Linked Data](#koppelen-van-heterogene-datasets-met-linked-data).
 >   De overheid beschikt over veel verschillende datasets met gegevens die wel
 >   een relatie hebben, maar nu niet aan elkaar zijn gelinkt. Door bijvoorbeeld
 >   beleidsstukken, voorlichting, jurisprudentie en uitvoeringsaanwijzingen te
@@ -335,7 +324,13 @@ machine-leesbare generieke *wrapper* verpakt.
 >   informatie. Linked data maakt van woorden, zoals de stad ‘Den Haag’, unieke
 >   concepten. Elk concept wint aan betekenis als er meer beschrijvingen aan
 >   gelinkt worden. Daardoor krijgt de inhoud van webdocumenten meer betekenis
->   en worden zoekresultaten nauwkeuriger.
+>   en worden zoekresultaten nauwkeuriger.*
+
+>   **Eis:** Voor het DSGO zijn (vooral) afspraken nodig over de technische
+>   uitwisseling van (meta)data(sets) op de koppelvlakken, zodat bestaande 
+>   systemen en datastructuren zo min mogelijk hoeven te worden aangepast, 
+>   om de data te laten stromen.
+
 
 **A1.1 Het protocol is open, gratis en universeel toepasbaar**
 
@@ -346,10 +341,10 @@ middels een open, gratis en universeel toepasbaar protocol.
 >   **Voorbeeld:** Het [HyperText Transfer Protocol (HTTP)](http://www.wikidata.org/entity/Q8777) is een open communicatieprotocol
 >   voor gedistribueerde collaboratieve, hypermedia informatiesystemen. Andere open
 >   protocollen zijn bijvoorbeeld [File Tranfer Protocol](https://www.w3.org/Protocols/rfc959/) (FTP), 
->   [Simple Mail Transfer Protocol (SMTP](http://www.wikidata.org/entity/Q160453)), en [Simple Object Access Protocol](https://wiki.dsplatform.nl/index.php/Het_Simple_Object_Access_Protocol) (SOAP) en sluit daarmee bijvoorbeeld Teamskanalen uit. Meestal worden API’s over HTTP aangeboden.
+>   [Simple Mail Transfer Protocol (SMTP](http://www.wikidata.org/entity/Q160453)), en [Simple Object Access Protocol](https://wiki.dsplatform.nl/index.php/Het_Simple_Object_Access_Protocol) (SOAP) en sluit daarmee bijvoorbeeld Teams kanalen uit. Meestal worden API’s over HTTP aangeboden.
 
 Toepassing van een open protocol impliceert nog niet dat de data die wordt
-ontsloten zelf ook open is: via authenticatie en autorisatie kan gecontroleerde
+ontsloten zelf ook open is: via identificatie, authenticatie en autorisatie kan gecontroleerde
 toegang worden gegeven.
 
 Ook betekent dit principe niet dat wat er over het protocol vervolgens
@@ -392,12 +387,12 @@ kan worden bepaald of de leverancier of afnemer recht heeft tot het wijzigen of 
 >   pensioen en waterschappen.
 
 >   **Voorbeeld:** [eHerkenning](https://eherkenning.nl/) is de DigiD voor
->   bedrijven, zodat bedrijven namens clienten aanvragen kunnen indienen bij de
+>   bedrijven, zodat bedrijven namens cliënten aanvragen kunnen indienen bij de
 >   overheid met een hoog veiligheidsniveau.
 
 >   **Voorbeeld:** Op basis van de [open standaard voor autorisatie (OAuth)](https://www.forumstandaardisatie.nl/open-standaarden/oauth) kunnen gebruikers of organisaties een programma of website toegang geven tot specifieke (privé)gegevens, die opgeslagen zijn op een ander systeem, zonder hun gebruikersnaam en wachtwoord uit handen te geven. 
 
-De [Baseline informatieveiligheid overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/informatieveiligheid/kaders-voor-informatieveiligheid/baseline-informatiebeveiliging-overheid/) (BIO) en de [Wet Digitale overheid](https://www.digitaleoverheid.nl/dossiers/wet-digitale-overheid/) (WDO) bevat ook kaders voor authenticatie en authorisatie.
+De [Baseline informatieveiligheid overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/informatieveiligheid/kaders-voor-informatieveiligheid/baseline-informatiebeveiliging-overheid/) (BIO) en de [Wet Digitale overheid](https://www.digitaleoverheid.nl/dossiers/wet-digitale-overheid/) (WDO) bevat ook kaders voor authenticatie en autorisatie.
 Het is verstandig de grote kaders over te nemen voor de authenticatie- en authorisatieprocedure van DSGO, omdat een deel van de datasets ook van organisaties komt die zich reeds aan deze kaders houden.
 
 **A2. Metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn**
@@ -409,7 +404,7 @@ metadata-register als referentie naar welke data(sets) beschikbaar zijn, of zijn
 geweest.
 
 Opeenvolgende versies van metadata kunnen mogelijk beschikbaar blijven, maar met
-verloop van tijd zullen meer en meer datasets onbeschikbaar geraken. Het is de
+verloop van tijd zullen meer en meer datasets niet beschikbaar geraken. Het is de
 verantwoordelijkheid van de gebruiker om gegevens zeker te stellen, waar dat
 nodig is voor processen.
 
@@ -417,8 +412,18 @@ Het DSGO kan afspraken maken over beschikbaarheid van gegevenssets met de aanbie
 daarvan. Dankzij de autorisatie/authenticatie-functie van DSGO kan het mogelijk
 gemaakt worden dat veranderingen aan datasets aangekondigd worden.
 
-> **Eis**: Het DSGO houdt een duurzame metadataregistratie bij, waarbij metadata langdurig bewaard en toegankelijk blijft.
+> **Eis**: Het DSGO houdt een duurzame metadata registratie bij, waarbij metadata langdurig bewaard en toegankelijk blijft.
 > De datasets zelf worden niet noodzakelijk door DSGO bewaard.
+
+Bij het ontwerp van duurzame toegankelijke metadata door het DSGO zullen afspraken 
+moeten zijn gemaakt omtrent de al of niet duurzaamheid van de opslag in het DSGO. 
+Duurzame toegankelijk gaat over de implementatie van de Archiefwet- en regelgeving 
+met de bijbehorende normen en standaarden. De eisen voor duurzame toegankelijkheid 
+van overheidsinformatie zijn gebundeld in [DUTO](https://www.noraonline.nl/wiki/Duurzame_Toegankelijkheid). 
+Voor de data die niet duurzaam in het DSGO worden bewaard, maar waarvoor wel duurzame 
+beschikbaarheid en toegankelijkheid worden gewenst/vereist (door bijvoorbeeld de overheid) 
+is het zaak bij het ontwerp en de realisatie van het DSGO met het [Nationaal Archief](https://www.nationaalarchief.nl/archiveren/duto) 
+de verplichtingen en mogelijkheden te verkennen. 
 
 ### Interoperabel
 
@@ -444,7 +449,7 @@ toepasbare taal voor kennisrepresentatie.**
 Datasets worden in standaarden aangeboden die door [Forum Standaardisatie](https://forumstandaardisatie.nl/open-standaarden) en/ of [BIM Loket](https://www.bimloket.nl/) worden aanbevolen. 
 Zo waarborgen we de langdurige verwerkbaarheid van de gegevens.
 
-> Voorbeeld:  In de [Atlas van open BIM-standaarden](https://www.bimloket.nl/p/144/Atlas-van-open-BIM-standaarden) van het BIM Loket wordt een overzicht gegeven van de standaarden, en hun onderlinge relaties vanuit verschillende invalshoeken. Naast de bestaande relaties beschrijft de atlas ook gewenste, toekomstige relaties. Het BIM Loket streeft naar de realisatie van een algemeen geaccepteerd, samenhangend stelsel van open BIM-standaarden dat bouwbreed wordt toegepast.
+> **Voorbeeld:**  In de [Atlas van open BIM-standaarden](https://www.bimloket.nl/p/144/Atlas-van-open-BIM-standaarden) van het BIM Loket wordt een overzicht gegeven van de standaarden, en hun onderlinge relaties vanuit verschillende invalshoeken. Naast de bestaande relaties beschrijft de atlas ook gewenste, toekomstige relaties. Het BIM Loket streeft naar de realisatie van een algemeen geaccepteerd, samenhangend stelsel van open BIM-standaarden dat bouw breed wordt toegepast.
 
 Ook de metadata die het DSGO-platform zelf beheert, wordt volgens API’s en datastandaarden aangeboden.
 Datasetaanbieders en -gebruikers kunnen zo hun eigen publicatiesystemen afstemmen op het DSGO.
@@ -457,7 +462,7 @@ is, kan de knowledge graph direct benaderd worden via [SPARQL](https://www.w3.or
 > **Uitgangspunt:** Datasets worden aangeboden in standaarden die zijn aanbevolen door Forum Standaardisatie of door het BIM Loket.
 
 >   **Voorbeeld:** De [integrale gebruiksoplossing (IGO) van het Kadaster](https://labs.kadaster.nl/cases/integralegebruiksoplossing)
->   maakt het mogelijk om geo-data uit verschillende geo-basisregistraties gecombineerd te bevragen en is ontworpen voor algemene gebruikers, 
+>   maakt het mogelijk om geodata uit verschillende geo-basisregistraties gecombineerd te bevragen en is ontworpen voor algemene gebruikers, 
 >   geo-professionals en ontwikkelaars. Middels een Knowledge Graph wordt data ontsloten uit de BAG, BGT, BRT, Kadastrale Percelen (DKK), 
 >   WKPB, CBS wijken en buurten en daarnaast kunnen eigen databestanden worden toegevoegd. 
 
@@ -468,7 +473,7 @@ Vanuit deze achtergrond wordt gesteld dat zowel de datasets als de metadata besc
 enerzijds is explicitering van de gebruikte waarden/kolommen/relaties (etc.) nodig voor een juiste technische aansluiting op DSGO. Voor het kunnen combineren van data uit verschillende bronnen neemt het belang van semantische en technische interoperabiliteit toe.
 Anderzijds voorkomt het ook betekenisverwarring: omdat in het DSGO domein overstijgende uitwisseling van data plaatsvindt, is er vaak sprake van verschil in definities en begrippen.
 
-Zulke beschrijven worden ook wel OTL’s, ontologieën of informatiemodellen genoemd. Niet alle schema’s (vocabulaires, ontologiën, OTL’s, informatiemodellen) zijn als vijf-ster FAIR te kwalificeren. Toch is het uitgangspunt van publieke toegankelijkheid leidend.
+Zulke beschrijven worden ook wel OTL’s, ontologieën of informatiemodellen genoemd. Niet alle schema’s (vocabulaires, ontologieën, OTL’s, informatiemodellen) zijn als vijf-ster FAIR te kwalificeren. Toch is het uitgangspunt van publieke toegankelijkheid leidend.
 
 Dit principe I2 borgt de toegang tot de beschrijving van de dataset.
 Daarbij moet het uitgangspunt zijn dat dat 
@@ -533,7 +538,7 @@ Het DSGO draagt zorg dat rapportages over onjuistheden en onvolkomenheden worden
 > **Uitgangspunt:** Het DSGO geeft gerapporteerde onjuistheden en onvolkomenheden door aan de eigenaars.
 > DSGO biedt API's en formulieren aan voor eindgebruikers om rapportages zo eenvoudig mogelijk te maken.
 
-> **Randvoorwaarde:** De leveranciers en de metadataredacteur zetten zich in voor een hoge kwaliteit data.
+> **Randvoorwaarde:** De leveranciers en de metadata redacteur zetten zich in voor een hoge kwaliteit data.
 > Het platform kan statistieken gebruiken om de metadataredacteur te ondersteunen in haar/zijn werk. 
 
 > **Eis:** De data en de metadata dienen van hoge kwaliteit te zijn en voldoen aan een hoge mate van nauwkeurigheid. 
@@ -562,7 +567,7 @@ digitalisering. Dit is mogelijk te ondervangen met datagebruikslicenties in het 
 Het heeft de voorkeur dat metadata en ontologieën met een vrije licentie beschikbaar worden gesteld (cf. <a href="#uitwisselbaar"></a>, I2).
 
 > **Eis:** Elke gegevensset beschrijft de gebruikslicentie ervan.
-> Minstens op een voor mensen leesbare wijze, bij voorkeur met (een link naar) een machineleesbare representatie.
+> Minstens op een voor mensen leesbare wijze, bij voorkeur met (een link naar) een machine leesbare representatie.
 
 >   **Voorbeeld:** [Gebruikslicenties open data van de overheid](https://creativecommons.nl/publiek-domein/).
 >   Open data is herkenbaar aan de publiek domein licentie, de creative commons zero (CC0) of
@@ -576,7 +581,7 @@ komt.
 
 Zo houden we duidelijk waar gegevens vandaan komen en wie ervoor
 verantwoordelijk is.
-Voor metadata betekent dat de datasetleverancier, die ondersteund wordt door de metadataredacteur.
+Voor metadata betekent dat de dataset leverancier, die ondersteund wordt door de metadata redacteur.
 
 Voor gegevenssets waarbij geen garanties over (een niet onaanzienlijk deel van) de herkomst van de gegevenspunten gegeven kunnen worden,
 moet overwogen worden het platform zulke gegevenssets op een bepaalde wijze te markeren.
@@ -615,12 +620,14 @@ Het Forum Standaardisatie hanteert twee type lijsten: de open [verplichte ‘pa
 standaarden  en [aanbevolen open standaarden](https://forumstandaardisatie.nl/open-standaarden/aanbevolen) voor de publieke sector.
 Het BIM Loket heeft een [palet aan open standaarden](https://www.bimloket.nl/p/17/Ons-palet-van-open-standaarden) en [richtlijnen](https://www.bimloket.nl/p/115/BIM-Protocol-en-BIM-Uitvoeringsplan). 
 
-
 >  **Uitgangspunt:** In het DSGO worden standaarden uit verschillende domeinen toegepast. 
 >  Het is onmogelijk om al deze standaarden te harmoniseren op semantiek. 
 >  Daarom stellen we de open standaarden van het BIM Loket en het Forum Standaardisatie als uitgangspunt.
 
->   **Voorbeeld geo-standaarden:** In de [Beleidsvisie Samenhangende
+> **Voorbeeld:** CityGML en IFC zijn twee standaarden die op lijst van open BIM-standaarden staan. 
+CityGML is een internationale open standaard (XML-gebaseerd) voor opslag en uitwisseling van 3D geo-informatie voor geo-sector en B&U sector. IFC is een neutraal en open bestandsformaat voor het uitwisselen van BIM-specifieke informatie (modelobjecten en hun eigenschappen). Tussen beide formaten zijn conversies beschikbaar.
+
+>   **Voorbeeld :** In de [Beleidsvisie Samenhangende
 >   Objectenregistratie](https://www.geobasisregistraties.nl/documenten/beleidsnota/2019/11/29/beleidsvisie-samenhangende-objectenregistratie)
 >   van het ministerie van BZK is het uitgangspunt dat de modellering van
 >   (meta)data(sets) voor geo-informatie zal plaatsvinden conform afspraken
@@ -632,5 +639,4 @@ Het BIM Loket heeft een [palet aan open standaarden](https://www.bimloket.nl/p/1
 >   doorontwikkeling van NEN 3610) en internationale standaarden (zoals de 
 >   prEN 17632 Semantic Modelling & Linking, een Europese norm die 
 >   parallel aan en in wisselwerking met de NEN 2660 is ontwikkeld).
-
 
