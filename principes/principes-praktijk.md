@@ -10,11 +10,11 @@ Achtereenvolgens komen aan de orde: Wet kwaliteitsborging voor het bouwen, Asset
 Landelijk Digitaal Platform Klimaatakkoord.
 Naast deze drie praktijkvoorbeelden zijn er meer praktijkvoorbeelden aangedragen waar de principes in dit document op toegepast kunnen worden:
 * Het versnellen van de energietransitie middels het veilig ophalen en opslaan van IoT data voor data-learning-community (Kennis Platform Individuele Maatregelen & Technieken);
-* De [Datavoorziening Energietransitie Gebouwde Omgeving (DEGO)](https://data.overheid.nl/community/application/datavoorziening-energietransitie-gebouwde-omgeving)  helpt gemeenten bij het werken met de data die nodig zijn voor het maken van o.a een Transitievisie Warmte;
+* De [Datavoorziening Energietransitie Gebouwde Omgeving (DEGO)](https://data.overheid.nl/community/application/datavoorziening-energietransitie-gebouwde-omgeving)  helpt gemeenten bij het werken met de data die nodig zijn voor het maken van onder andere een Transitievisie Warmte;
 * betrouwbare woningdata inclusief de duurzaamheidsstaat van bestaande en nieuwe woningen 
 * Het eenduidig delen van energielabeldata inzake niet-privacygevoelige gegevens over isolatie en installaties en collectieve afspraken over koppelen aan basisdatasets zoals [3dBAG](https://3dbag.nl/en/viewer);
 * Tekeningloos aanvragen omgevingsvergunning op basis van een IFC bestand of vergelijkbaar in zowel de woning- & utiliteitsbouw alsook de industriële bouw. Bijvoorbeeld middels een online vergunningscheck viewer op basis van BIM-data en internationale standaarden, zie bijvoorbeeld een [Estlands prototype](https://eehitus.ee/timeline-post/bim-based-building-permit-procedure/);
-* [Vervangings- en renovatieopgave](https://www.rijkswaterstaat.nl/nieuws/archief/2020/05/make-over-voor-bruggen-sluizen-tunnels-en-viaducten-op-leeftijd) voor infrastractuur en kunstwerken van Rijkswaterstaat, volledig op basis van de Systems Engineering methodiek (ISO 15288);
+* [Vervangings- en renovatieopgave](https://www.rijkswaterstaat.nl/nieuws/archief/2020/05/make-over-voor-bruggen-sluizen-tunnels-en-viaducten-op-leeftijd) voor infrastructuur en kunstwerken van Rijkswaterstaat, volledig op basis van de Systems Engineering methodiek (ISO 15288);
 * Stichting Platform BIM Legal zet zich in voor transparante en uniforme juridische informatie over onroerend goed, die voor iedereen toegankelijk is. Dit wordt gerealiseerd door een stelsel van afspraken te ontwikkelen waarmee alle marktpartijen in Nederland 3D juridische informatie aan elkaar kunnen aanbieden en opvragen.
 
 In dit document beperken we ons tot de eerst genoemde drie praktijkvoorbeelden. Deze praktijkvoorbeelden zijn gekozen/aangedragen door de opdrachtgever en het schrijversteam van dit rapport. 
@@ -41,7 +41,7 @@ criteria. Aanvullend moet de
 aanvrager een risico-inventarisatie en een kwaliteitsborgingsplan overleggen aan
 het bevoegd gezag.
 
-De vergunningaanvrager/houder moet een gecertificeerde kwaliteitsborger
+De vergunningaanvrager/ -houder moet een gecertificeerde kwaliteitsborger
 inschakelen die gedurende het hele proces van ontwerp, uitvoering en oplevering
 controleert of het ontwerp en het uitvoeringsresultaat minimaal aan het
 Bouwbesluit (onder de Omgevingswet: Besluit bouwwerken leefomgeving) voldoet. Na
@@ -51,7 +51,7 @@ het Besluit bouwwerken leefomgeving (Bbl). De vergunninghouder dient deze verkla
 in bij het bevoegd gezag.
 
 De Wkb is erop gericht om de bouwkwaliteit en het bouwtoezicht te verbeteren, door de bewijslast van geleverde kwaliteit bij de bouwer te beleggen. Deze dient dat vast te leggen in het dossier bevoegd gezag, waarbij de data die voor dit dossier benodigd is, door alle ketenpartners moet worden aangeleverd. Dit digitale bouwdossier bevat informatie over het gerealiseerde bouwwerk. Het op orde hebben van dit dossier, gaat op termijn een voorwaarde worden voor gunning van een opdracht. 
-Het verkrijgen van deze data is op dit moment een tijdrovend en kostbaar karwei. De data(sets) liggen bij een groot aantal partijen en is zijn niet gestandaardiseerd en/of automatisch verkrijgbaar. Door uniforme afspraken faciliteert het DSGO het toegankelijk maken van alle gebouwgerelateerde data op een eenvoudige, veilige en gecontroleerde manier. Dit heeft een aantal voordelen:
+Het verkrijgen van deze data is op dit moment een tijdrovend en kostbaar karwei. De data(sets) liggen bij een groot aantal partijen en is zijn niet gestandaardiseerd en/of automatisch verkrijgbaar. Door uniforme afspraken faciliteert het DSGO het toegankelijk maken van alle gebouw gerelateerde data op een eenvoudige, veilige en gecontroleerde manier. Dit heeft een aantal voordelen:
 -   Risico’s worden teruggedrongen;
 -   Besparing van tijd en kosten door het delen van data;
 -   Makkelijker om te voldoen aan Wkb;
@@ -83,10 +83,10 @@ kunnen doen over de kwaliteit.
 Voor de bouwer is verificatie en validatie van ontwerp en uitvoering en
 beschikbaarheid van vrijgekomen informatie/data hierover van groot belang in
 verband met de verruimde aansprakelijkheid voor gebreken in het eindresultaat.
-Hij zal bij evntuele tekortkomingen willen bewijzen dat dat niet aan het ontwerp
+Hij zal bij eventuele tekortkomingen willen bewijzen dat dat niet aan het ontwerp
 of de uitvoering heeft gelegen. (Dit is breder dan alleen het voldoen aan
 regelgeving, het gaat ook om het voldoen aan de vraagspecificatie van de
-opdrachtgever en het voorkomen van bouwfouten). Voor de bouwer is het bovendien essentieel dat het Digitaal Dossier Bevoegd Gezag op snelle, transparante en consistente wijze kan samenstellen op basis van bijdragen van verschillende proejctparners. 
+opdrachtgever en het voorkomen van bouwfouten). Voor de bouwer is het bovendien essentieel dat het Digitaal Dossier Bevoegd Gezag op snelle, transparante en consistente wijze kan samenstellen op basis van bijdragen van verschillende projectpartners. 
 Het bevoegd gezag is voor de
 uitoefening van zijn handhavingstaak afhankelijk van een correct Digitaal
 Dossier Bevoegd Gezag, dat – zeker in de toekomst - bij voorkeur op een
@@ -220,7 +220,7 @@ assetmanagement heel anders blijkt te zijn dan doorgaans beschikbaar komt uit de
 realisatiefase. Om deze reden stelt de NEN-EN-ISO 19650 dat de opdrachtgever bij
 het sluiten van een contract voor nieuw of aan te passen vastgoed vooraf de
 inhoud en vorm van de informatie dient te specificeren die de opdrachtnemer
-dient te leveren ten behoeve van het assetmanagement. Deze “Informatie Leverings
+dient te leveren ten behoeve van het assetmanagement. Deze “Informatie Levering
 Specificatie” (ILS) is onderdeel van het contract.
 
 Met zijn pilots en de vervolgstappen daarop vergaart het RVB, samen met de
@@ -252,7 +252,7 @@ platform kunnen afleggen.
 
 Het landelijk digitaal platform is gerealiseerd in het online platform
 [‘verbeterjehuis.nl’](https://www.verbeterjehuis.nl/). Een eerdere versie van
-het platform integreert energiebespaarinitiatieven als
+het platform integreert energie bespaar initiatieven als
 energiebesparendoejenu.nl, energiesubsidiewijzer.nl en ontsluiting van de
 Energiebesparingsverkenner van de Rijksdienst voor Ondernemend Nederland.
 
@@ -288,7 +288,7 @@ energieverbruiksgegevens aan het landelijk digitaal platform kunnen worden toege
 beter advies voor besparingsmaatregelen worden opgesteld.
 
 Wetgeving waarborgt de privacy van betrokken, maar kan belemmerend werken bij data delen: zowel energielabel als
-energieverbruiksgegevens zijn aangeduid als persoongegevens en kunnen daarmee
+energieverbruiksgegevens zijn aangeduid als persoonsgegevens en kunnen daarmee
 alleen na toestemming (machtiging) van woningeigenaar aan het platform beschikbaar worden
 gesteld. 
 
@@ -313,7 +313,7 @@ Belangrijk is om goede afspraken te maken over:
 -   Waar de data wordt opgeslagen, en hoe deze wordt teruggeleverd. Wordt de
     data opgeslagen bij de marktpartij die de ICT van het platform/stelsel
     ontwikkelt en/of beheert opgeslagen, of bij een (semi-)overheidspartij zoals Rijksdienst voor Ondernemend Nederland
-    of het Kadaster. Wordt de data per object/adres of geaggregeerd teruggeleverd
+    of het Kadaster. Wordt de data per object/adres of geaggregeerd terug geleverd
     aan opdrachtgever?
 
 -   Wie eigenaar wordt van de nieuw gegeneerde gegevens. Is dat de
