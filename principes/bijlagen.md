@@ -255,7 +255,7 @@ Met dank aan
 Bij de totstandkoming van dit adviesrapport hebben de schrijvers zeer waardevolle input en feedback mogen ontvangen van
 experts werkzaam bij de volgende organisaties, die we hierbij hartelijk willen danken voor hun inbreng.
 
-BIM Loket, CROW, Energie Nederland, Future Insight, Geonovum, Kadaster, Ministerie van BZK, Niels Vossebeld Advies, Programma DSGO, Rijksvastgoedbedrijf, Rijkswaterstaat, RVO, Stichting Platform BIM Legal, TNO, Twee Snoeken, VNG.
+BIM Loket, Brink Climate Systems, CROW, Energie Nederland, Future Insight, Geonovum, Kadaster, Ministerie van BZK, Movares, Niels Vossebeld Advies, Programma DSGO, Rijksvastgoedbedrijf, Rijkswaterstaat, RVO, Stichting Platform BIM Legal, TNO, Twee Snoeken, VNG.
 
 <details class='note'>
  Omwille van privacy (AVG) hebben we niet alle namen van betrokkenen opgenomen in het document. Mocht u meer informatie willen of in contact willen komen met bepaalde personen, stuur dan een bericht aan info@geonovum.nl. 
