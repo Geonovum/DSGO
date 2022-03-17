@@ -76,7 +76,7 @@ var respecConfig = {
   pubDomain: "DSGO",
   github: "https://github.com/Geonovum/DSGO/",
   previousPublishDate: "2022-03-16",
-  previousStatus: "GN-VV,
+  previousStatus: "GN-VV",
   //localBiblio: {
   //  "ISO19136": {
   //    "href": "https://www.iso.org/standard/32554.html",
