@@ -40,7 +40,7 @@ vaak in de rechter onderhoek, maar ook het digitale bestand van de tekening
 bevat deze gegevens op een vaste plek. Bij een inspectierapport zijn
 gebruikelijke metadata het geïnspecteerde object, de inspecteur, de datum van de
 inspectie. In PDF-vorm staat dat dan op de voorkant van het rapport, maar in het
-voor de computer leesbare bestand staat dat eveneens opvaste plekken. Bij een
+voor de computer leesbare bestand staat dat eveneens op vaste plekken. Bij een
 energierapport zijn metadata informatie over de EAN-aansluiting, maar ook
 misschien adres of netbeheerder of vergelijking met andere gebruikers.
 
@@ -151,7 +151,7 @@ de data ter beschikking stelt aan andere partijen.
 - Uitgangspunt: Binnen het DSGO wordt bepaald welke belanghebbende (in juridische termen natuurlijke persoon of rechtspersoon) eigenaar is en/of zeggenschap en controle uitoefent over en/of gebruik maakt van de data(set), standaard, algoritme of voorziening die van belang zijn binnen de use cases. Met deze belanghebbenden kunnen vervolgens afspraken worden gemaakt om de data(set), standaard, algoritme of voorziening FAIR te kunnen (her)gebruiken, tenzij wet- en regelgeving anders bepaalt.
 - Uitgangspunt: Samen met de sector co-creëren van een samenhangende set afspraken op business, functioneel, operationeel, juridisch en technisch gebied, om gemakkelijker gebruik te kunnen maken van elkaars data.
 
-*Informatieveiligheid*
+*Informatiebeveiliging*
 - Eis: Binnen het DSGO worden maatregelen getroffen om de integriteit te waarborgen.
 - Eis: Het DSGO voorziet in autorisatie- en authenticatiemogelijkheden, zodat alleen de rechthebbenden inzage krijgen in de data(sets) die uitgewisseld worden. 
 - Eis: Het DSGO geeft transparant weer wat de bron is van elke dataset en welke bewerkingen deze heeft ondergaan en/of aan welke kwaliteitseisen deze voldoet in termen van actualiteit, volledigheid en juistheid), zodat de eindgebruiker de betrouwbaarheid kan vaststellen.
@@ -173,16 +173,16 @@ de data ter beschikking stelt aan andere partijen.
 - Eis: De toegang tot het DSGO wordt geboden middels een open, gratis en universeel toepasbaar protocol.
 - Eis: Het DSGO houdt een duurzame metadata registratie bij, waarbij metadata langdurig bewaard en toegankelijk blijft. De datasets zelf worden niet noodzakelijk door DSGO bewaard.
 
-*Uitwisselbaar*
+*Interoperabel*
 - Uitgangspunt: Elke dataset beschrijft het informatiemodel of ontologie waarmee de data is beschreven. Als die niet aanbevolen is door Forum Standaardisatie of het BIM Loket, moet het uitgangspunt zijn dat ze publiekelijk te raadplegen zijn.
-- Randvoorwaarde: Het DSGO helpt koppelingen te realiseren tussen datasets, belegd bij de metadataredacteur. 
+- Randvoorwaarde: Het DSGO helpt koppelingen te realiseren tussen datasets, belegd bij de metadata redacteur. 
 - Eis: Datasets worden aangeboden in standaarden die zijn aanbevolen door Forum Standaardisatie of door het BIM Loket. 
 - Eis: De eigenaar van de (meta)data(set) is zelf verantwoordelijk voor een goede kwaliteit van de (meta)data(set).
 
 *Herbruikbaar*
 - Uitgangspunt: Het DSGO geeft gerapporteerde onjuistheden en onvolkomenheden door aan de eigenaars. DSGO biedt API's en formulieren aan voor eindgebruikers om rapportages zo eenvoudig mogelijk te maken.
 - Uitgangspunt: In het DSGO worden Standaarden uit verschillende domeinen toegepast. Het is onmogelijk om al deze standaarden te harmoniseren op semantiek. Daarom stellen we de open standaarden van het BIM Loket en het Forum Standaardisatie als uitgangspunt.
-- Randvoorwaarde: De leveranciers en de metadataredacteur zetten zich in voor een hoge kwaliteit data. Het platform kan statistieken gebruiken om de metadata redacteur te ondersteunen in haar/zijn werk. 
+- Randvoorwaarde: De leveranciers en de metadata redacteur zetten zich in voor een hoge kwaliteit data. Het platform kan statistieken gebruiken om de metadata redacteur te ondersteunen in haar/zijn werk. 
 - Eis: De data en de metadata dienen van hoge kwaliteit te zijn en voldoen aan een hoge mate van nauwkeurigheid. 
 - Eis: Elke gegevensset beschrijft de gebruikslicentie ervan. Minstens op een voor mensen leesbare wijze, bij voorkeur met (een link naar) een machine leesbare representatie.
 - Eis: Het platform en de dataset aanbieders houden zorgvuldig bij waar welk gegevenspunt vandaan komt.
