@@ -1,6 +1,6 @@
 var respecConfig = {
   format: "markdown",
-  specStatus: "GN-DEF",
+  specStatus: "GN-WV",
   specType: "HR", 
   logos: [ {
     src: ' https://tools.geostandaarden.nl/respec/style/logos/Geonovum.svg',
